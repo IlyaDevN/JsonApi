@@ -1,42 +1,76 @@
 {
-	"category": {
-		"novelty": [
-			{
-				"name": "Cвитшот вставка клетка",
-				"price": 1099,
-				"img_src_320": "img/pages/main/novelty/320/photo_1_x320.jpg",
-				"img_src_480": "img/pages/main/novelty/480/photo_1_x480.jpg",
-				"img_src_768": "img/pages/main/novelty/768/photo_1_x768.jpg",
-				"img_src_1000": "img/pages/main/novelty/1000/photo_1_x1000.jpg",
-				"img_src_1440": "img/pages/main/novelty/1440/photo_1_x1440.jpg"
-			},
-			{
-				"name": "Платье прозрачное в цветочек чееное",
-				"price": 1299,
-				"img_src_320": "img/pages/main/novelty/320/photo_2_x320.jpg",
-				"img_src_480": "img/pages/main/novelty/480/photo_2_x480.jpg",
-				"img_src_768": "img/pages/main/novelty/768/photo_2_x768.jpg",
-				"img_src_1000": "img/pages/main/novelty/1000/photo_2_x1000.jpg",
-				"img_src_1440": "img/pages/main/novelty/1440/photo_2_x1440.jpg"
-			},
-			{
-				"name": "Платье-футболка рыбы в аквариуме",
-				"price": 899,
-				"img_src_320": "img/pages/main/novelty/320/photo_3_x320.jpg",
-				"img_src_480": "img/pages/main/novelty/480/photo_3_x480.jpg",
-				"img_src_768": "img/pages/main/novelty/768/photo_3_x768.jpg",
-				"img_src_1000": "img/pages/main/novelty/1000/photo_3_x1000.jpg",
-				"img_src_1440": "img/pages/main/novelty/1440/photo_3_x1440.jpg"
-			},
-			{
-				"name": "Бомбер Gone Crazy хаки",
-				"price": 2499,
-				"img_src_320": "img/pages/main/novelty/320/photo_4_x320.jpg",
-				"img_src_480": "img/pages/main/novelty/480/photo_4_x480.jpg",
-				"img_src_768": "img/pages/main/novelty/768/photo_4_x768.jpg",
-				"img_src_1000": "img/pages/main/novelty/1000/photo_4_x1000.jpg",
-				"img_src_1440": "img/pages/main/novelty/1440/photo_4_x1440.jpg"
-			}
-		]
-	}
+	"db": [
+		{	
+			"id": 1,
+			"question": "Мне следовало сделать это вчера.",
+			"answer": "I should have done it yesterday",
+			"tag": "",
+			"difficulty": ""
+		},
+		{	
+			"id": 2,
+			"question": "Тебе следовало пойти туда.",
+			"answer": "You should have gone there.",
+			"tag": "",
+			"difficulty": ""
+		},
+		{	
+			"id": 3,
+			"question": "Тебе следовало принять его предложение.",
+			"answer": "You should have taken his offer.",
+			"tag": "",
+			"difficulty": ""
+		},
+		{	
+			"id": 4,
+			"question": "Мне бы стоило последовать его совету.",
+			"answer": "I should have followed his advice.",
+			"tag": "",
+			"difficulty": ""
+		},
+		{	
+			"id": 5,
+			"question": "Мне бы стоило послушать его.",
+			"answer": "I should have listened to him",
+			"tag": "",
+			"difficulty": ""
+		},
+		{	
+			"id": 6,
+			"question": "Мне следовало понять это намного ранее.",
+			"answer": "I should have understood it much earlier.",
+			"tag": "",
+			"difficulty": ""
+		},
+		{	
+			"id": 7,
+			"question": "Тебе следовало купить ту квартиру.",
+			"answer": "You should have bought that flat.",
+			"tag": "",
+			"difficulty": ""
+		},
+		{	
+			"id": 8,
+			"question": "Тебе следовало пойти туда с ней.",
+			"answer": "You should have gone there with her.",
+			"tag": "",
+			"difficulty": ""
+		},
+		{	
+			"id": 9,
+			"question": "Им следовало начать изучать английский раньше.",
+			"answer": "They should have started learning English earlier.",
+			"tag": "",
+			"difficulty": ""
+		},
+		{	
+			"id": 10,
+			"question": "Так хорошо наконец встретиться с вами лично!",
+			"answer": "It's so good to finally meet you in person!",
+			"tag": "",
+			"difficulty": ""
+		},
+	]
 }
+
+
