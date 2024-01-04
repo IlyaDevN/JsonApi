@@ -1,0 +1,349 @@
+{
+	"db": [
+		{	
+			"id": 1,
+			"question": "Я понимаю тебя.",
+			"answer": "I understand you.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 2,
+			"question": "Они живут в этой стране.",
+			"answer": "They live in this country.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 3,
+			"question": "Я путешествую каждый год.",
+			"answer": "I travel every year.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 4,
+			"question": "Я тоже так думаю.",
+			"answer": "I also think so.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 5,
+			"question": "Я говорю по английски.",
+			"answer": "I speak English.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 6,
+			"question": "Я хожу на работу.",
+			"answer": "I go to work.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 7,
+			"question": "Мне нравится этот язык.",
+			"answer": "I like this language.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 8,
+			"question": "Я учусь и работаю.",
+			"answer": "I study and work.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 9,
+			"question": "Я знаю это очень хорошо.",
+			"answer": "I know it very well.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 10,
+			"question": "Я живу в Нью-Йорке.",
+			"answer": "I live in New York.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 11,
+			"question": "Я понимаю это.",
+			"answer": "I understand it.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 12,
+			"question": "Я изучаю английский.",
+			"answer": "I learn English.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 13,
+			"question": "Я живу в Украине.",
+			"answer": "I live in Ukraine.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 14,
+			"question": "Я вижу это.",
+			"answer": "I see it.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 15,
+			"question": "Я понимаю тебя очень хорошо.",
+			"answer": "I understand you very well.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 16,
+			"question": "Я говорю по-русски, по-украински и по-английски.",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 17,
+			"question": "Мне нравится английский.",
+			"answer": "I like English.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 18,
+			"question": "Я знаю.",
+			"answer": "I know.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 19,
+			"question": "Я изучаю английский онлайн.",
+			"answer": "I learn English online.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 20,
+			"question": "Я знаю это.",
+			"answer": "I know it.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 21,
+			"question": "Мне нравится этот город.",
+			"answer": "I like this city.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": "Я хочу это.",
+			"answer": "I want it.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 23,
+			"question": "Я работаю.",
+			"answer": "I work.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 24,
+			"question": "Я вижу свои результаты.",
+			"answer": "I see my results.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 25,
+			"question": "Я учусь.",
+			"answer": "I study.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 26,
+			"question": "Мы понимаем тебя.",
+			"answer": "We understand you.",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 22,
+			"question": ".",
+			"answer": ".",
+			"tag": "1",
+			"difficulty": ""
+		}
+	]
+}
+
+

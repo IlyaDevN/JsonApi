@@ -1,0 +1,13 @@
+{
+	"db": [
+		{	
+			"id": 1,
+			"question": "Я понимаю тебя.",
+			"answer": "I understand you.",
+			"tag": "",
+			"difficulty": ""
+		}
+	]
+}
+
+
