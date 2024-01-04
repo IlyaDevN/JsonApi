@@ -4,343 +4,630 @@
 			"id": 1,
 			"question": "Я понимаю тебя.",
 			"answer": "I understand you.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 2,
 			"question": "Они живут в этой стране.",
 			"answer": "They live in this country.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 3,
 			"question": "Я путешествую каждый год.",
 			"answer": "I travel every year.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 4,
 			"question": "Я тоже так думаю.",
 			"answer": "I also think so.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 5,
 			"question": "Я говорю по английски.",
 			"answer": "I speak English.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 6,
 			"question": "Я хожу на работу.",
 			"answer": "I go to work.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 7,
 			"question": "Мне нравится этот язык.",
 			"answer": "I like this language.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 8,
 			"question": "Я учусь и работаю.",
 			"answer": "I study and work.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 9,
 			"question": "Я знаю это очень хорошо.",
 			"answer": "I know it very well.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 10,
 			"question": "Я живу в Нью-Йорке.",
 			"answer": "I live in New York.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 11,
 			"question": "Я понимаю это.",
 			"answer": "I understand it.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 12,
 			"question": "Я изучаю английский.",
 			"answer": "I learn English.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 13,
 			"question": "Я живу в Украине.",
 			"answer": "I live in Ukraine.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 14,
 			"question": "Я вижу это.",
 			"answer": "I see it.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 15,
 			"question": "Я понимаю тебя очень хорошо.",
 			"answer": "I understand you very well.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 16,
 			"question": "Я говорю по-русски, по-украински и по-английски.",
 			"answer": ".",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 17,
 			"question": "Мне нравится английский.",
 			"answer": "I like English.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 18,
 			"question": "Я знаю.",
 			"answer": "I know.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 19,
 			"question": "Я изучаю английский онлайн.",
 			"answer": "I learn English online.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 20,
 			"question": "Я знаю это.",
 			"answer": "I know it.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 21,
 			"question": "Мне нравится этот город.",
 			"answer": "I like this city.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 22,
 			"question": "Я хочу это.",
 			"answer": "I want it.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 23,
 			"question": "Я работаю.",
 			"answer": "I work.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 24,
 			"question": "Я вижу свои результаты.",
 			"answer": "I see my results.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 25,
 			"question": "Я учусь.",
 			"answer": "I study.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
 			"id": 26,
 			"question": "Мы понимаем тебя.",
 			"answer": "We understand you.",
-			"tag": "1",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 27,
+			"question": "Я работаю и учусь.",
+			"answer": "I work and study.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 28,
+			"question": "Мне нравится эта программа.",
+			"answer": "I like this program.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 29,
+			"question": "Я вижу тебя.",
+			"answer": "I see you.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 30,
+			"question": "Я понимаю моего друга.",
+			"answer": "I understand my friend.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 31,
+			"question": "Мне нравится это видео.",
+			"answer": "I like this video.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 32,
+			"question": "Я вижу свой результат.",
+			"answer": "I see my result.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 33,
+			"question": "Я понимаю этот урок.",
+			"answer": "I understand this lesson.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 34,
+			"question": "Ты помогаешь мне.",
+			"answer": "You help me.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 35,
+			"question": "Я могу говорить по английски.",
+			"answer": "I can speak English.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 36,
+			"question": "Мне нравится это место.",
+			"answer": "I  like this place.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 37,
+			"question": "Мы живем в этом городе.",
+			"answer": "We live in this city.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 38,
+			"question": "Ты говоришь по английски очень хорошо.",
+			"answer": "You speak English very well.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 39,
+			"question": "Я говорю по русски.",
+			"answer": "I speak Russian.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 40,
+			"question": "Я действительно хочу этого.",
+			"answer": "I really want it.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 41,
+			"question": "Я действительно понимаю этот урок.",
+			"answer": "I really understand this lesson.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 42,
+			"question": "Я вижу это очень хорошо.",
+			"answer": "I see it very well.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 43,
+			"question": "Ты действительно помогаешь мне.",
+			"answer": "You really help me.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 44,
+			"question": "Я иногда думаю об этом.",
+			"answer": "I sometimes think about it.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 45,
+			"question": "Я так думаю.",
+			"answer": "I think so.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 46,
+			"question": "Они живут там.",
+			"answer": "They live there.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 47,
+			"question": "Я думаю об этом.",
+			"answer": "I think about it.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 48,
+			"question": "Мы обычно покупаем это там.",
+			"answer": "We usually buy it there.",
+			"lesson": "1",
 			"difficulty": ""
 		},
 		{	
-			"id": 22,
-			"question": ".",
-			"answer": ".",
-			"tag": "1",
+			"id": 49,
+			"question": "Я часто думаю об этом.",
+			"answer": "I often think about it.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 50,
+			"question": "Мне нравится эта музыка.",
+			"answer": "I like this music.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 51,
+			"question": "Мне нравятся эти вещи.",
+			"answer": "I like these things.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 52,
+			"question": "Я играю в эту игру каждый день.",
+			"answer": "I play this game every day.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 53,
+			"question": "Я хожу туда.",
+			"answer": "I go there.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 54,
+			"question": "Они тоже так думают.",
+			"answer": "They also think so.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 55,
+			"question": "Я часто делаю это.",
+			"answer": "I often do it.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 56,
+			"question": "Ты работаешь очень хорошо.",
+			"answer": "You work very well.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 57,
+			"question": "Я делаю это каждый день.",
+			"answer": "I do it every day.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 58,
+			"question": "Я хожу в школу.",
+			"answer": "I go to school.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 59,
+			"question": "Я обычно покупаю эту вещь там.",
+			"answer": "I usually buy this thing there.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 60,
+			"question": "Я обычно покупаю это здесь.",
+			"answer": "I usually buy it here.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 61,
+			"question": "Я читаю эту книгу.",
+			"answer": "I read this book.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 62,
+			"question": "Я читаю английские книги.",
+			"answer": "I read English books.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 63,
+			"question": "Я читаю книги.",
+			"answer": "I read books.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 64,
+			"question": "Мы так думаем.",
+			"answer": "We think so.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 65,
+			"question": "Они так думают.",
+			"answer": "They think so.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 66,
+			"question": "Мы думаем об этом.",
+			"answer": "We think about it.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 67,
+			"question": "Мы часто ходим туда.",
+			"answer": "We often go there.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 68,
+			"question": "Я часто хожу туда.",
+			"answer": "I often go there.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 69,
+			"question": "Я иногда хожу туда.",
+			"answer": "I sometimes go there.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 70,
+			"question": "Я также так думаю.",
+			"answer": "I also think so. | I think so too.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 71,
+			"question": "Мне тоже это нравится.",
+			"answer": "I also like it. | I like it too.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 72,
+			"question": "Я тоже хочу этого.",
+			"answer": "I also want it. | I want it too.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 73,
+			"question": "Я путешествую каждый месяц.",
+			"answer": "I travel every month.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 74,
+			"question": "Нам нравится это место.",
+			"answer": "We like this place.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 75,
+			"question": "Мне очень нравится это место.",
+			"answer": "I like this place very much.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 76,
+			"question": "Я хожу в этот парк.",
+			"answer": "I go to this park.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 77,
+			"question": "Мне нравится эта практика.",
+			"answer": "I like this practice.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 78,
+			"question": "Мне очень нравится это яблоко.",
+			"answer": "I like this apple very much.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 79,
+			"question": "Я часто играю в эту игру.",
+			"answer": "I often play this game.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 80,
+			"question": "Я могу помочь тебе.",
+			"answer": "I can help you.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 81,
+			"question": "Мне нравится эта песня.",
+			"answer": "I like this song.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 82,
+			"question": "Они часто играют в футбол.",
+			"answer": "They often play football.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 83,
+			"question": "Мне нравится путешествовать.",
+			"answer": "I like travelling.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 84,
+			"question": "Я часто вижу эти вещи.",
+			"answer": "I often see these things.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 85,
+			"question": "Нам нравится этот язык.",
+			"answer": "We like this language.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 86,
+			"question": "Я хочу больше практики.",
+			"answer": "I want more practice.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 87,
+			"question": "Я часто путешествую.",
+			"answer": "I often travel.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 88,
+			"question": "Я люблю тебя.",
+			"answer": "I love you.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 89,
+			"question": "Я работаю там.",
+			"answer": "I work there.",
+			"lesson": "1",
+			"difficulty": ""
+		},
+		{	
+			"id": 90,
+			"question": "Мы живем здесь.",
+			"answer": "We live here.",
+			"lesson": "1",
 			"difficulty": ""
 		}
 	]
