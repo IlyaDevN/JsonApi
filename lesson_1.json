@@ -1,635 +1,632 @@
 [
-		{	
-			"id": 1,
-			"rus_sentence": "Я понимаю тебя.",
-			"eng_sentence": "I understand you.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 2,
-			"rus_sentence": "Они живут в этой стране.",
-			"eng_sentence": "They live in this country.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 3,
-			"rus_sentence": "Я путешествую каждый год.",
-			"eng_sentence": "I travel every year.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 4,
-			"rus_sentence": "Я тоже так думаю.",
-			"eng_sentence": "I also think so.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 5,
-			"rus_sentence": "Я говорю по английски.",
-			"eng_sentence": "I speak English.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 6,
-			"rus_sentence": "Я хожу на работу.",
-			"eng_sentence": "I go to work.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 7,
-			"rus_sentence": "Мне нравится этот язык.",
-			"eng_sentence": "I like this language.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 8,
-			"rus_sentence": "Я учусь и работаю.",
-			"eng_sentence": "I study and work.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 9,
-			"rus_sentence": "Я знаю это очень хорошо.",
-			"eng_sentence": "I know it very well.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 10,
-			"rus_sentence": "Я живу в Нью-Йорке.",
-			"eng_sentence": "I live in New York.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 11,
-			"rus_sentence": "Я понимаю это.",
-			"eng_sentence": "I understand it.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 12,
-			"rus_sentence": "Я изучаю английский.",
-			"eng_sentence": "I learn English.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 13,
-			"rus_sentence": "Я живу в Украине.",
-			"eng_sentence": "I live in Ukraine.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 14,
-			"rus_sentence": "Я вижу это.",
-			"eng_sentence": "I see it.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 15,
-			"rus_sentence": "Я понимаю тебя очень хорошо.",
-			"eng_sentence": "I understand you very well.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 16,
-			"rus_sentence": "Я говорю по-русски, по-украински и по-английски.",
-			"eng_sentence": "I speak Russian, Ukrainian and English.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 17,
-			"rus_sentence": "Мне нравится английский.",
-			"eng_sentence": "I like English.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 18,
-			"rus_sentence": "Я знаю.",
-			"eng_sentence": "I know.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 19,
-			"rus_sentence": "Я изучаю английский онлайн.",
-			"eng_sentence": "I learn English online.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 20,
-			"rus_sentence": "Я знаю это.",
-			"eng_sentence": "I know it.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 21,
-			"rus_sentence": "Мне нравится этот город.",
-			"eng_sentence": "I like this city.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 22,
-			"rus_sentence": "Я хочу это.",
-			"eng_sentence": "I want it.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 23,
-			"rus_sentence": "Я работаю.",
-			"eng_sentence": "I work.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 24,
-			"rus_sentence": "Я вижу свои результаты.",
-			"eng_sentence": "I see my results.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 25,
-			"rus_sentence": "Я учусь.",
-			"eng_sentence": "I study.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 26,
-			"rus_sentence": "Мы понимаем тебя.",
-			"eng_sentence": "We understand you.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 27,
-			"rus_sentence": "Я работаю и учусь.",
-			"eng_sentence": "I work and study.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 28,
-			"rus_sentence": "Мне нравится эта программа.",
-			"eng_sentence": "I like this program.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 29,
-			"rus_sentence": "Я вижу тебя.",
-			"eng_sentence": "I see you.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 30,
-			"rus_sentence": "Я понимаю моего друга.",
-			"eng_sentence": "I understand my friend.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 31,
-			"rus_sentence": "Мне нравится это видео.",
-			"eng_sentence": "I like this video.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 32,
-			"rus_sentence": "Я вижу свой результат.",
-			"eng_sentence": "I see my result.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 33,
-			"rus_sentence": "Я понимаю этот урок.",
-			"eng_sentence": "I understand this lesson.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 34,
-			"rus_sentence": "Ты помогаешь мне.",
-			"eng_sentence": "You help me.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 35,
-			"rus_sentence": "Я могу говорить по английски.",
-			"eng_sentence": "I can speak English.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 36,
-			"rus_sentence": "Мне нравится это место.",
-			"eng_sentence": "I  like this place.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 37,
-			"rus_sentence": "Мы живем в этом городе.",
-			"eng_sentence": "We live in this city.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 38,
-			"rus_sentence": "Ты говоришь по английски очень хорошо.",
-			"eng_sentence": "You speak English very well.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 39,
-			"rus_sentence": "Я говорю по русски.",
-			"eng_sentence": "I speak Russian.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 40,
-			"rus_sentence": "Я действительно хочу этого.",
-			"eng_sentence": "I really want it.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 41,
-			"rus_sentence": "Я действительно понимаю этот урок.",
-			"eng_sentence": "I really understand this lesson.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 42,
-			"rus_sentence": "Я вижу это очень хорошо.",
-			"eng_sentence": "I see it very well.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 43,
-			"rus_sentence": "Ты действительно помогаешь мне.",
-			"eng_sentence": "You really help me.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 44,
-			"rus_sentence": "Я иногда думаю об этом.",
-			"eng_sentence": "I sometimes think about it.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 45,
-			"rus_sentence": "Я так думаю.",
-			"eng_sentence": "I think so.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 46,
-			"rus_sentence": "Они живут там.",
-			"eng_sentence": "They live there.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 47,
-			"rus_sentence": "Я думаю об этом.",
-			"eng_sentence": "I think about it.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 48,
-			"rus_sentence": "Мы обычно покупаем это там.",
-			"eng_sentence": "We usually buy it there.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 49,
-			"rus_sentence": "Я часто думаю об этом.",
-			"eng_sentence": "I often think about it.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 50,
-			"rus_sentence": "Мне нравится эта музыка.",
-			"eng_sentence": "I like this music.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 51,
-			"rus_sentence": "Мне нравятся эти вещи.",
-			"eng_sentence": "I like these things.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 52,
-			"rus_sentence": "Я играю в эту игру каждый день.",
-			"eng_sentence": "I play this game every day.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 53,
-			"rus_sentence": "Я хожу туда.",
-			"eng_sentence": "I go there.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 54,
-			"rus_sentence": "Они тоже так думают.",
-			"eng_sentence": "They also think so.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 55,
-			"rus_sentence": "Я часто делаю это.",
-			"eng_sentence": "I often do it.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 56,
-			"rus_sentence": "Ты работаешь очень хорошо.",
-			"eng_sentence": "You work very well.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 57,
-			"rus_sentence": "Я делаю это каждый день.",
-			"eng_sentence": "I do it every day.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 58,
-			"rus_sentence": "Я хожу в школу.",
-			"eng_sentence": "I go to school.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 59,
-			"rus_sentence": "Я обычно покупаю эту вещь там.",
-			"eng_sentence": "I usually buy this thing there.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 60,
-			"rus_sentence": "Я обычно покупаю это здесь.",
-			"eng_sentence": "I usually buy it here.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 61,
-			"rus_sentence": "Я читаю эту книгу.",
-			"eng_sentence": "I read this book.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 62,
-			"rus_sentence": "Я читаю английские книги.",
-			"eng_sentence": "I read English books.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 63,
-			"rus_sentence": "Я читаю книги.",
-			"eng_sentence": "I read books.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 64,
-			"rus_sentence": "Мы так думаем.",
-			"eng_sentence": "We think so.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 65,
-			"rus_sentence": "Они так думают.",
-			"eng_sentence": "They think so.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 66,
-			"rus_sentence": "Мы думаем об этом.",
-			"eng_sentence": "We think about it.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 67,
-			"rus_sentence": "Мы часто ходим туда.",
-			"eng_sentence": "We often go there.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 68,
-			"rus_sentence": "Я часто хожу туда.",
-			"eng_sentence": "I often go there.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 69,
-			"rus_sentence": "Я иногда хожу туда.",
-			"eng_sentence": "I sometimes go there.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 70,
-			"rus_sentence": "Я также так думаю.",
-			"eng_sentence": "I also think so. | I think so too.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 71,
-			"rus_sentence": "Мне тоже это нравится.",
-			"eng_sentence": "I also like it. | I like it too.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 72,
-			"rus_sentence": "Я тоже хочу этого.",
-			"eng_sentence": "I also want it. | I want it too.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 73,
-			"rus_sentence": "Я путешествую каждый месяц.",
-			"eng_sentence": "I travel every month.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 74,
-			"rus_sentence": "Нам нравится это место.",
-			"eng_sentence": "We like this place.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 75,
-			"rus_sentence": "Мне очень нравится это место.",
-			"eng_sentence": "I like this place very much.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 76,
-			"rus_sentence": "Я хожу в этот парк.",
-			"eng_sentence": "I go to this park.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 77,
-			"rus_sentence": "Мне нравится эта практика.",
-			"eng_sentence": "I like this practice.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 78,
-			"rus_sentence": "Мне очень нравится это яблоко.",
-			"eng_sentence": "I like this apple very much.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 79,
-			"rus_sentence": "Я часто играю в эту игру.",
-			"eng_sentence": "I often play this game.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 80,
-			"rus_sentence": "Я могу помочь тебе.",
-			"eng_sentence": "I can help you.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 81,
-			"rus_sentence": "Мне нравится эта песня.",
-			"eng_sentence": "I like this song.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 82,
-			"rus_sentence": "Они часто играют в футбол.",
-			"eng_sentence": "They often play football.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 83,
-			"rus_sentence": "Мне нравится путешествовать.",
-			"eng_sentence": "I like travelling.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 84,
-			"rus_sentence": "Я часто вижу эти вещи.",
-			"eng_sentence": "I often see these things.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 85,
-			"rus_sentence": "Нам нравится этот язык.",
-			"eng_sentence": "We like this language.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 86,
-			"rus_sentence": "Я хочу больше практики.",
-			"eng_sentence": "I want more practice.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 87,
-			"rus_sentence": "Я часто путешествую.",
-			"eng_sentence": "I often travel.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 88,
-			"rus_sentence": "Я люблю тебя.",
-			"eng_sentence": "I love you.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 89,
-			"rus_sentence": "Я работаю там.",
-			"eng_sentence": "I work there.",
-			"lesson": "1",
-			"difficulty": ""
-		},
-		{	
-			"id": 90,
-			"rus_sentence": "Мы живем здесь.",
-			"eng_sentence": "We live here.",
-			"lesson": "1",
-			"difficulty": ""
-		}
-	]
-
-
-
+	{	
+		"id": 1,
+		"rus_sentence": "Я понимаю тебя.",
+		"eng_sentence": "I understand you.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Они живут в этой стране.",
+		"eng_sentence": "They live in this country.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я путешествую каждый год.",
+		"eng_sentence": "I travel every year.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Я тоже так думаю.",
+		"eng_sentence": "I also think so.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я говорю по английски.",
+		"eng_sentence": "I speak English.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я хожу на работу.",
+		"eng_sentence": "I go to work.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Мне нравится этот язык.",
+		"eng_sentence": "I like this language.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Я учусь и работаю.",
+		"eng_sentence": "I study and work.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я знаю это очень хорошо.",
+		"eng_sentence": "I know it very well.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Я живу в Нью-Йорке.",
+		"eng_sentence": "I live in New York.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я понимаю это.",
+		"eng_sentence": "I understand it.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я изучаю английский.",
+		"eng_sentence": "I learn English.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Я живу в Украине.",
+		"eng_sentence": "I live in Ukraine.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я вижу это.",
+		"eng_sentence": "I see it.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Я понимаю тебя очень хорошо.",
+		"eng_sentence": "I understand you very well.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я говорю по-русски, по-украински и по-английски.",
+		"eng_sentence": "I speak Russian, Ukrainian and English.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Мне нравится английский.",
+		"eng_sentence": "I like English.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я знаю.",
+		"eng_sentence": "I know.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я изучаю английский онлайн.",
+		"eng_sentence": "I learn English online.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я знаю это.",
+		"eng_sentence": "I know it.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Мне нравится этот город.",
+		"eng_sentence": "I like this city.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я хочу это.",
+		"eng_sentence": "I want it.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я работаю.",
+		"eng_sentence": "I work.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Я вижу свои результаты.",
+		"eng_sentence": "I see my results.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я учусь.",
+		"eng_sentence": "I study.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Мы понимаем тебя.",
+		"eng_sentence": "We understand you.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я работаю и учусь.",
+		"eng_sentence": "I work and study.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Мне нравится эта программа.",
+		"eng_sentence": "I like this program.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Я вижу тебя.",
+		"eng_sentence": "I see you.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я понимаю моего друга.",
+		"eng_sentence": "I understand my friend.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Мне нравится это видео.",
+		"eng_sentence": "I like this video.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я вижу свой результат.",
+		"eng_sentence": "I see my result.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я понимаю этот урок.",
+		"eng_sentence": "I understand this lesson.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Ты помогаешь мне.",
+		"eng_sentence": "You help me.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Я могу говорить по английски.",
+		"eng_sentence": "I can speak English.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Мне нравится это место.",
+		"eng_sentence": "I  like this place.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Мы живем в этом городе.",
+		"eng_sentence": "We live in this city.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Ты говоришь по английски очень хорошо.",
+		"eng_sentence": "You speak English very well.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я говорю по русски.",
+		"eng_sentence": "I speak Russian.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я действительно хочу этого.",
+		"eng_sentence": "I really want it.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я действительно понимаю этот урок.",
+		"eng_sentence": "I really understand this lesson.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Я вижу это очень хорошо.",
+		"eng_sentence": "I see it very well.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Ты действительно помогаешь мне.",
+		"eng_sentence": "You really help me.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я иногда думаю об этом.",
+		"eng_sentence": "I sometimes think about it.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я так думаю.",
+		"eng_sentence": "I think so.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Они живут там.",
+		"eng_sentence": "They live there.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я думаю об этом.",
+		"eng_sentence": "I think about it.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Мы обычно покупаем это там.",
+		"eng_sentence": "We usually buy it there.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я часто думаю об этом.",
+		"eng_sentence": "I often think about it.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Мне нравится эта музыка.",
+		"eng_sentence": "I like this music.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Мне нравятся эти вещи.",
+		"eng_sentence": "I like these things.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я играю в эту игру каждый день.",
+		"eng_sentence": "I play this game every day.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я хожу туда.",
+		"eng_sentence": "I go there.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Они тоже так думают.",
+		"eng_sentence": "They also think so.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я часто делаю это.",
+		"eng_sentence": "I often do it.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Ты работаешь очень хорошо.",
+		"eng_sentence": "You work very well.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я делаю это каждый день.",
+		"eng_sentence": "I do it every day.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я хожу в школу.",
+		"eng_sentence": "I go to school.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я обычно покупаю эту вещь там.",
+		"eng_sentence": "I usually buy this thing there.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я обычно покупаю это здесь.",
+		"eng_sentence": "I usually buy it here.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я читаю эту книгу.",
+		"eng_sentence": "I read this book.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я читаю английские книги.",
+		"eng_sentence": "I read English books.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Я читаю книги.",
+		"eng_sentence": "I read books.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Мы так думаем.",
+		"eng_sentence": "We think so.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Они так думают.",
+		"eng_sentence": "They think so.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Мы думаем об этом.",
+		"eng_sentence": "We think about it.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Мы часто ходим туда.",
+		"eng_sentence": "We often go there.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я часто хожу туда.",
+		"eng_sentence": "I often go there.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я иногда хожу туда.",
+		"eng_sentence": "I sometimes go there.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Я также так думаю.",
+		"eng_sentence": "I also think so. | I think so too.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Мне тоже это нравится.",
+		"eng_sentence": "I also like it. | I like it too.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Я тоже хочу этого.",
+		"eng_sentence": "I also want it. | I want it too.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Я путешествую каждый месяц.",
+		"eng_sentence": "I travel every month.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Нам нравится это место.",
+		"eng_sentence": "We like this place.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Мне очень нравится это место.",
+		"eng_sentence": "I like this place very much.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я хожу в этот парк.",
+		"eng_sentence": "I go to this park.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Мне нравится эта практика.",
+		"eng_sentence": "I like this practice.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Мне очень нравится это яблоко.",
+		"eng_sentence": "I like this apple very much.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я часто играю в эту игру.",
+		"eng_sentence": "I often play this game.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я могу помочь тебе.",
+		"eng_sentence": "I can help you.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Мне нравится эта песня.",
+		"eng_sentence": "I like this song.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Они часто играют в футбол.",
+		"eng_sentence": "They often play football.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Мне нравится путешествовать.",
+		"eng_sentence": "I like travelling.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я часто вижу эти вещи.",
+		"eng_sentence": "I often see these things.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Нам нравится этот язык.",
+		"eng_sentence": "We like this language.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я хочу больше практики.",
+		"eng_sentence": "I want more practice.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я часто путешествую.",
+		"eng_sentence": "I often travel.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я люблю тебя.",
+		"eng_sentence": "I love you.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я работаю там.",
+		"eng_sentence": "I work there.",
+		"lesson": "1",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Мы живем здесь.",
+		"eng_sentence": "We live here.",
+		"lesson": "1",
+		"difficulty": ""
+	}
+]
