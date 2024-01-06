@@ -2,708 +2,708 @@
 	"db": [
 		{	
 			"id": 1,
-			"question": "Он видит эту проблему.",
-			"answer": "He sees this problem.",
+			"rus_sentence": "Он видит эту проблему.",
+			"eng_sentence": "He sees this problem.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 2,
-			"question": "Она понимает это.",
-			"answer": "She understands it.",
+			"rus_sentence": "Она понимает это.",
+			"eng_sentence": "She understands it.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 3,
-			"question": "Мне это очень нравится.",
-			"answer": "I like it very much.",
+			"rus_sentence": "Мне это очень нравится.",
+			"eng_sentence": "I like it very much.",
 			"lesson": "2",
 			"difficulty": "2"
 		},
 		{	
 			"id": 4,
-			"question": "Она живет очень далеко.",
-			"answer": "She lives very far.",
+			"rus_sentence": "Она живет очень далеко.",
+			"eng_sentence": "She lives very far.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 5,
-			"question": "Ей нравится эта игра.",
-			"answer": "She likes this game.",
+			"rus_sentence": "Ей нравится эта игра.",
+			"eng_sentence": "She likes this game.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 6,
-			"question": "Это стоит 20 евро.",
-			"answer": "It costs twenty euros.",
+			"rus_sentence": "Это стоит 20 евро.",
+			"eng_sentence": "It costs twenty euros.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 7,
-			"question": "Она делает ошибки.",
-			"answer": "She makes mistakes.",
+			"rus_sentence": "Она делает ошибки.",
+			"eng_sentence": "She makes mistakes.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 8,
-			"question": "Он часто делает это.",
-			"answer": "He often does it.",
+			"rus_sentence": "Он часто делает это.",
+			"eng_sentence": "He often does it.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 9,
-			"question": "Он обычно покупает эти билеты.",
-			"answer": "He usually buy these tickets.",
+			"rus_sentence": "Он обычно покупает эти билеты.",
+			"eng_sentence": "He usually buy these tickets.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 10,
-			"question": "Я делаю это очень часто.",
-			"answer": "I do it very often.",
+			"rus_sentence": "Я делаю это очень часто.",
+			"eng_sentence": "I do it very often.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 11,
-			"question": "Она там живет.",
-			"answer": "She lives there.",
+			"rus_sentence": "Она там живет.",
+			"eng_sentence": "She lives there.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 12,
-			"question": "Он согласен.",
-			"answer": "He agrees.",
+			"rus_sentence": "Он согласен.",
+			"eng_sentence": "He agrees.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 13,
-			"question": "Это стоит намного меньше.",
-			"answer": "It costs much less.",
+			"rus_sentence": "Это стоит намного меньше.",
+			"eng_sentence": "It costs much less.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 14,
-			"question": "Я согласен с тобой.",
-			"answer": "I agree with you.",
+			"rus_sentence": "Я согласен с тобой.",
+			"eng_sentence": "I agree with you.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 15,
-			"question": "Он действительно хочет этого.",
-			"answer": "He really wants it.",
+			"rus_sentence": "Он действительно хочет этого.",
+			"eng_sentence": "He really wants it.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 16,
-			"question": "Он часто делает ошибки.",
-			"answer": "He often does mistakes.",
+			"rus_sentence": "Он часто делает ошибки.",
+			"eng_sentence": "He often does mistakes.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 17,
-			"question": "Она знает это лучше.",
-			"answer": "She knows it better.",
+			"rus_sentence": "Она знает это лучше.",
+			"eng_sentence": "She knows it better.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 18,
-			"question": "Он ходит на работу.",
-			"answer": "He goes to work.",
+			"rus_sentence": "Он ходит на работу.",
+			"eng_sentence": "He goes to work.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 19,
-			"question": "Я действительно хочу это.",
-			"answer": "I really want it.",
+			"rus_sentence": "Я действительно хочу это.",
+			"eng_sentence": "I really want it.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 20,
-			"question": "Я полностью с тобой согласен.",
-			"answer": "I absolutely agree with you.",
+			"rus_sentence": "Я полностью с тобой согласен.",
+			"eng_sentence": "I absolutely agree with you.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 21,
-			"question": "Она хочет это.",
-			"answer": "She wants it.",
+			"rus_sentence": "Она хочет это.",
+			"eng_sentence": "She wants it.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 22,
-			"question": "Это стоит меньше.",
-			"answer": "It costs less.",
+			"rus_sentence": "Это стоит меньше.",
+			"eng_sentence": "It costs less.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 23,
-			"question": "Он чувствует себя лучше.",
-			"answer": "He feels better.",
+			"rus_sentence": "Он чувствует себя лучше.",
+			"eng_sentence": "He feels better.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 24,
-			"question": "Он видит эту ошибку.",
-			"answer": "He sees this mistake.",
+			"rus_sentence": "Он видит эту ошибку.",
+			"eng_sentence": "He sees this mistake.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 25,
-			"question": "Она живет в том месте.",
-			"answer": "She lives in that place.",
+			"rus_sentence": "Она живет в том месте.",
+			"eng_sentence": "She lives in that place.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 26,
-			"question": "Он живет здесь.",
-			"answer": "He lives here.",
+			"rus_sentence": "Он живет здесь.",
+			"eng_sentence": "He lives here.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 27,
-			"question": "Он понимает.",
-			"answer": "He understands.",
+			"rus_sentence": "Он понимает.",
+			"eng_sentence": "He understands.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 28,
-			"question": "Я живу рядом.",
-			"answer": "I live near.",
+			"rus_sentence": "Я живу рядом.",
+			"eng_sentence": "I live near.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 28,
-			"question": "Она согласна с этим.",
-			"answer": "She agrees with it.",
+			"rus_sentence": "Она согласна с этим.",
+			"eng_sentence": "She agrees with it.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 29,
-			"question": "Он живет в том городе.",
-			"answer": "He lives in that city.",
+			"rus_sentence": "Он живет в том городе.",
+			"eng_sentence": "He lives in that city.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 30,
-			"question": "Она часто покупает эти билеты.",
-			"answer": "She often buys these tickets.",
+			"rus_sentence": "Она часто покупает эти билеты.",
+			"eng_sentence": "She often buys these tickets.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 31,
-			"question": "Она делает ошибки каждый день.",
-			"answer": "She makes mistakes every day.",
+			"rus_sentence": "Она делает ошибки каждый день.",
+			"eng_sentence": "She makes mistakes every day.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 32,
-			"question": "Это работает очень хорошо.",
-			"answer": "It works very well.",
+			"rus_sentence": "Это работает очень хорошо.",
+			"eng_sentence": "It works very well.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 33,
-			"question": "Это стоит 10 долларов.",
-			"answer": "It costs ten dollars.",
+			"rus_sentence": "Это стоит 10 долларов.",
+			"eng_sentence": "It costs ten dollars.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 34,
-			"question": "Этот карандаш стоит намного больше.",
-			"answer": "This pencil costs much more.",
+			"rus_sentence": "Этот карандаш стоит намного больше.",
+			"eng_sentence": "This pencil costs much more.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 35,
-			"question": "Она ходит в школу.",
-			"answer": "She goes to school.",
+			"rus_sentence": "Она ходит в школу.",
+			"eng_sentence": "She goes to school.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 36,
-			"question": "Это стоит 50 фунтов.",
-			"answer": "It costs fifty pounds.",
+			"rus_sentence": "Это стоит 50 фунтов.",
+			"eng_sentence": "It costs fifty pounds.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 37,
-			"question": "Я покупаю эти билеты онлайн.",
-			"answer": "I buy these tickets online.",
+			"rus_sentence": "Я покупаю эти билеты онлайн.",
+			"eng_sentence": "I buy these tickets online.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 38,
-			"question": "Он делает это каждый день.",
-			"answer": "He does it every day.",
+			"rus_sentence": "Он делает это каждый день.",
+			"eng_sentence": "He does it every day.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 39,
-			"question": "Они работают вместе.",
-			"answer": "They work together.",
+			"rus_sentence": "Они работают вместе.",
+			"eng_sentence": "They work together.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 40,
-			"question": "Я вижу эту проблему.",
-			"answer": "I see this program.",
+			"rus_sentence": "Я вижу эту проблему.",
+			"eng_sentence": "I see this program.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 41,
-			"question": "Он знает английский очень хорошо.",
-			"answer": "He knows English very well.",
+			"rus_sentence": "Он знает английский очень хорошо.",
+			"eng_sentence": "He knows English very well.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 42,
-			"question": "Это стоит больше.",
-			"answer": "It costs more.",
+			"rus_sentence": "Это стоит больше.",
+			"eng_sentence": "It costs more.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 43,
-			"question": "Я знаю, что это стоит больше.",
-			"answer": "I know that it costs more.",
+			"rus_sentence": "Я знаю, что это стоит больше.",
+			"eng_sentence": "I know that it costs more.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 44,
-			"question": "Я думаю, он говорит по английски очень хорошо.",
-			"answer": "I think he speaks English very well.",
+			"rus_sentence": "Я думаю, он говорит по английски очень хорошо.",
+			"eng_sentence": "I think he speaks English very well.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 45,
-			"question": "Он часто говорит это.",
-			"answer": "He often says it.",
+			"rus_sentence": "Он часто говорит это.",
+			"eng_sentence": "He often says it.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 46,
-			"question": "Я знаю как это работает.",
-			"answer": "I know how it works.",
+			"rus_sentence": "Я знаю как это работает.",
+			"eng_sentence": "I know how it works.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 47,
-			"question": "Я думаю, это очень хорошо работает.",
-			"answer": "I think it works very well.",
+			"rus_sentence": "Я думаю, это очень хорошо работает.",
+			"eng_sentence": "I think it works very well.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 48,
-			"question": "Он много знает.",
-			"answer": "He knows a lot.",
+			"rus_sentence": "Он много знает.",
+			"eng_sentence": "He knows a lot.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 49,
-			"question": "Он понимает того человека.",
-			"answer": "He understands that person.",
+			"rus_sentence": "Он понимает того человека.",
+			"eng_sentence": "He understands that person.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 50,
-			"question": "Я думаю, он делает это лучше.",
-			"answer": "I think he does it better.",
+			"rus_sentence": "Я думаю, он делает это лучше.",
+			"eng_sentence": "I think he does it better.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 51,
-			"question": "Мы часто слышим это по телевизору.",
-			"answer": "We often hear it on TV.",
+			"rus_sentence": "Мы часто слышим это по телевизору.",
+			"eng_sentence": "We often hear it on TV.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 52,
-			"question": "Ему это нравится.",
-			"answer": "He likes it.",
+			"rus_sentence": "Ему это нравится.",
+			"eng_sentence": "He likes it.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 53,
-			"question": "Я вижу, что он чувствует себя намного лучше.",
-			"answer": "I see that he feels much better.",
+			"rus_sentence": "Я вижу, что он чувствует себя намного лучше.",
+			"eng_sentence": "I see that he feels much better.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 54,
-			"question": "Я думаю, что он нас понимает.",
-			"answer": "I think that he understands us.",
+			"rus_sentence": "Я думаю, что он нас понимает.",
+			"eng_sentence": "I think that he understands us.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 55,
-			"question": "Он часто звонит мне.",
-			"answer": "He often calls me.",
+			"rus_sentence": "Он часто звонит мне.",
+			"eng_sentence": "He often calls me.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 56,
-			"question": "Он смотрит эти видео.",
-			"answer": "He watches these videos.",
+			"rus_sentence": "Он смотрит эти видео.",
+			"eng_sentence": "He watches these videos.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 57,
-			"question": "Он знает так мало.",
-			"answer": "He knows so little.",
+			"rus_sentence": "Он знает так мало.",
+			"eng_sentence": "He knows so little.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 58,
-			"question": "Это помогает мне так сильно.",
-			"answer": "It helps me so much.",
+			"rus_sentence": "Это помогает мне так сильно.",
+			"eng_sentence": "It helps me so much.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 59,
-			"question": "Это реально помогает мне.",
-			"answer": "It really helps me.",
+			"rus_sentence": "Это реально помогает мне.",
+			"eng_sentence": "It really helps me.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 60,
-			"question": "Это очень помогает мне.",
-			"answer": "It helps me very much. | It helps me a lot.",
+			"rus_sentence": "Это очень помогает мне.",
+			"eng_sentence": "It helps me very much. | It helps me a lot.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 61,
-			"question": "Ты помогаешь мне так много.",
-			"answer": "You help me so much.",
+			"rus_sentence": "Ты помогаешь мне так много.",
+			"eng_sentence": "You help me so much.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 62,
-			"question": "Это помогает тебе так сильно.",
-			"answer": "It helps you so much.",
+			"rus_sentence": "Это помогает тебе так сильно.",
+			"eng_sentence": "It helps you so much.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 63,
-			"question": "Я работаю так много.",
-			"answer": "I work so much.",
+			"rus_sentence": "Я работаю так много.",
+			"eng_sentence": "I work so much.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 64,
-			"question": "Я много работаю.",
-			"answer": "I work a lot.",
+			"rus_sentence": "Я много работаю.",
+			"eng_sentence": "I work a lot.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 65,
-			"question": "Я много учусь.",
-			"answer": "I study a lot.",
+			"rus_sentence": "Я много учусь.",
+			"eng_sentence": "I study a lot.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 66,
-			"question": "Я занимаюсь английским так много.",
-			"answer": "I learn English so much.",
+			"rus_sentence": "Я занимаюсь английским так много.",
+			"eng_sentence": "I learn English so much.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 67,
-			"question": "Она работает так много.",
-			"answer": ".",
+			"rus_sentence": "Она работает так много.",
+			"eng_sentence": ".",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 68,
-			"question": "Ты работаешь слишком много.",
-			"answer": "You work too much.",
+			"rus_sentence": "Ты работаешь слишком много.",
+			"eng_sentence": "You work too much.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 69,
-			"question": "Они помогают мне.",
-			"answer": "They help me.",
+			"rus_sentence": "Они помогают мне.",
+			"eng_sentence": "They help me.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 70,
-			"question": "Я иногда говорю это.",
-			"answer": "I sometimes say it.",
+			"rus_sentence": "Я иногда говорю это.",
+			"eng_sentence": "I sometimes say it.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 71,
-			"question": "Он иногда говорит это.",
-			"answer": "He sometimes says it.",
+			"rus_sentence": "Он иногда говорит это.",
+			"eng_sentence": "He sometimes says it.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 72,
-			"question": "Я слышу тебя.",
-			"answer": "I hear you.",
+			"rus_sentence": "Я слышу тебя.",
+			"eng_sentence": "I hear you.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 73,
-			"question": "Я слышу их.",
-			"answer": "I hear them.",
+			"rus_sentence": "Я слышу их.",
+			"eng_sentence": "I hear them.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 74,
-			"question": "Она слышит меня.",
-			"answer": "She hears me.",
+			"rus_sentence": "Она слышит меня.",
+			"eng_sentence": "She hears me.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 75,
-			"question": "Я думаю, что ты делаешь это лучше.",
-			"answer": "I think that you do it better.",
+			"rus_sentence": "Я думаю, что ты делаешь это лучше.",
+			"eng_sentence": "I think that you do it better.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 76,
-			"question": "Я думаю, что он делает это лучше.",
-			"answer": "I think that he does it better.",
+			"rus_sentence": "Я думаю, что он делает это лучше.",
+			"eng_sentence": "I think that he does it better.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 77,
-			"question": "Я знаю, ты делаешь это лучше.",
-			"answer": "I know you do it better.",
+			"rus_sentence": "Я знаю, ты делаешь это лучше.",
+			"eng_sentence": "I know you do it better.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 78,
-			"question": "Я понимаю этих людей.",
-			"answer": "I understand these people.",
+			"rus_sentence": "Я понимаю этих людей.",
+			"eng_sentence": "I understand these people.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 79,
-			"question": "Я понимаю тех людей.",
-			"answer": "I understand those people.",
+			"rus_sentence": "Я понимаю тех людей.",
+			"eng_sentence": "I understand those people.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 80,
-			"question": "Он работает слишком мало.",
-			"answer": "He works too little.",
+			"rus_sentence": "Он работает слишком мало.",
+			"eng_sentence": "He works too little.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 81,
-			"question": "Она звонит мне иногда.",
-			"answer": "She calls me sometimes.",
+			"rus_sentence": "Она звонит мне иногда.",
+			"eng_sentence": "She calls me sometimes.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 82,
-			"question": "Она звонит ему иногда.",
-			"answer": "She calls him sometimes.",
+			"rus_sentence": "Она звонит ему иногда.",
+			"eng_sentence": "She calls him sometimes.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 83,
-			"question": "Они звонят мне иногда.",
-			"answer": "They call me sometimes.",
+			"rus_sentence": "Они звонят мне иногда.",
+			"eng_sentence": "They call me sometimes.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 84,
-			"question": "Ты очень помогаешь мне.",
-			"answer": "You help me a lot. | You really help me.",
+			"rus_sentence": "Ты очень помогаешь мне.",
+			"eng_sentence": "You help me a lot. | You really help me.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 85,
-			"question": "Это очень помогает ему.",
-			"answer": "It really helps him. | It helps him a lot.",
+			"rus_sentence": "Это очень помогает ему.",
+			"eng_sentence": "It really helps him. | It helps him a lot.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 86,
-			"question": "Ему нравится это видео.",
-			"answer": "He likes this video.",
+			"rus_sentence": "Ему нравится это видео.",
+			"eng_sentence": "He likes this video.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 87,
-			"question": "Я понимаю, почему это происходит.",
-			"answer": "I understand why it happens.",
+			"rus_sentence": "Я понимаю, почему это происходит.",
+			"eng_sentence": "I understand why it happens.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 88,
-			"question": "Он часто говорит мне эту вещь.",
-			"answer": "He often tells me this thing.",
+			"rus_sentence": "Он часто говорит мне эту вещь.",
+			"eng_sentence": "He often tells me this thing.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 89,
-			"question": "Она всегда смотрит телевизор.",
-			"answer": "She always watches TV.",
+			"rus_sentence": "Она всегда смотрит телевизор.",
+			"eng_sentence": "She always watches TV.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 90,
-			"question": "Иногда он говорит это.",
-			"answer": "Sometimes he says it.",
+			"rus_sentence": "Иногда он говорит это.",
+			"eng_sentence": "Sometimes he says it.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 91,
-			"question": "Они часто говорят мне эти вещи.",
-			"answer": "They often tell me these things.",
+			"rus_sentence": "Они часто говорят мне эти вещи.",
+			"eng_sentence": "They often tell me these things.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 92,
-			"question": "Ей нравится это.",
-			"answer": "She likes it.",
+			"rus_sentence": "Ей нравится это.",
+			"eng_sentence": "She likes it.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 93,
-			"question": "Я вижу, это действительно помогает мне.",
-			"answer": "I see it really helps me.",
+			"rus_sentence": "Я вижу, это действительно помогает мне.",
+			"eng_sentence": "I see it really helps me.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 94,
-			"question": "Я думаю, он работает очень хорошо.",
-			"answer": "I think he works very well.",
+			"rus_sentence": "Я думаю, он работает очень хорошо.",
+			"eng_sentence": "I think he works very well.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 95,
-			"question": "Ей нравится эта идея.",
-			"answer": "She likes this idea.",
+			"rus_sentence": "Ей нравится эта идея.",
+			"eng_sentence": "She likes this idea.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 96,
-			"question": "Она работает слишком много.",
-			"answer": "She works too much.",
+			"rus_sentence": "Она работает слишком много.",
+			"eng_sentence": "She works too much.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 97,
-			"question": "Она знает много.",
-			"answer": "She knows a lot.",
+			"rus_sentence": "Она знает много.",
+			"eng_sentence": "She knows a lot.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 98,
-			"question": "Я часто слышу это.",
-			"answer": "I often hear it.",
+			"rus_sentence": "Я часто слышу это.",
+			"eng_sentence": "I often hear it.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 99,
-			"question": "Я знаю, что это стоит намного больше.",
-			"answer": "I know that it costs much more.",
+			"rus_sentence": "Я знаю, что это стоит намного больше.",
+			"eng_sentence": "I know that it costs much more.",
 			"lesson": "2",
 			"difficulty": ""
 		},
 		{	
 			"id": 100,
-			"question": "Он всегда слушает эту музыку.",
-			"answer": "He always listen to this music.",
+			"rus_sentence": "Он всегда слушает эту музыку.",
+			"eng_sentence": "He always listen to this music.",
 			"lesson": "2",
 			"difficulty": ""
 		}
