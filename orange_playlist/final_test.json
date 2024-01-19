@@ -1,0 +1,506 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Что ты ждешь?",
+		"eng_sentence": "What are you waiting for?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я предполагаю, это единственно правильное решение.",
+		"eng_sentence": "I suppose it's the only right decision.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Ничего не было исправлено.",
+		"eng_sentence": "Nothing was corrected.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Посмотри! Мне кажется кипит вода.",
+		"eng_sentence": "Look! It seems to me the water is boiling.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Чем больше я учусь, тем больше я понимаю что эта практика совершенно необходима.",
+		"eng_sentence": "The more I study, the more I understand that this practice is absolutely essential.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он страдает от такого плохого обращения.",
+		"eng_sentence": "He suffers from such a bad treatment.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Мы зарегистрировались (в отеле) в 11.",
+		"eng_sentence": "We checked in at 11.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Дружески говоря, я никогда не интересовался такими вещами.",
+		"eng_sentence": "Friendly speaking, I've never been interested in such things.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "От чего это зависит?",
+		"eng_sentence": "What does it depend on?.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Когда они доставят это?",
+		"eng_sentence": "When will they deliver it?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Они часто хвалят его.",
+		"eng_sentence": "They often praise him.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я одобряю этот выбор.",
+		"eng_sentence": "I approve of this choice.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Он открыл этот континент.",
+		"eng_sentence": "He discovered this continent.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я восхищаюсь святыми.",
+		"eng_sentence": "I admire saints.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Выключи компьютер!",
+		"eng_sentence": "Turn off (switch off) the computer!",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Прекрати тратить время впустую!",
+		"eng_sentence": "Stop wasting time!",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Что загрязняет окружающую среду?",
+		"eng_sentence": "What pollutes the environment?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Когда они будут лежать на пляже, она будет готовить.",
+		"eng_sentence": "When they're lying on the beach, she'll be cooking.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Ты когда-либо слышал об этом?",
+		"eng_sentence": "Have you ever heard about it?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Ты когда-либо думал о том чтобы усыновить ребенка?",
+		"eng_sentence": "Have you ever thought about adopting a child (baby)?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Было сказано, что это было уже сделано.",
+		"eng_sentence": "It was said that it'd already been done.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я учусь здесь почти что год.",
+		"eng_sentence": "I've been studying here for almost a year.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я присоединюсь к тебе с огромным удовольствием.",
+		"eng_sentence": "I'll join you with great pleasure.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Его нокаутировали (оглушили).",
+		"eng_sentence": "He was knocked out.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это предложение не будет повторено дважды.",
+		"eng_sentence": "This sentence won't be repeated twice. (won't be said for the second time)",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Его наградили.",
+		"eng_sentence": "He was awarded.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Он прошептал что-то ей.",
+		"eng_sentence": "He whispered something to her.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Его достала эта критика. (Он сыт по горло этой критикой.)",
+		"eng_sentence": "He's fed up with this criticism.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Их не наказали.",
+		"eng_sentence": "They weren't punished.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я всегда жду следующих видео с нетерпением.",
+		"eng_sentence": "I always wait for the next videos with impatience.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Ничего еще не было исправлено.",
+		"eng_sentence": "Nothing has been corrected yet.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "У меня получилось избавиться от таких ненужных ошибок.",
+		"eng_sentence": "I succeeded in getting rid of such unnecessary mistakes.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Это его худшее решение.",
+		"eng_sentence": "It's his worst decision.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Это проект подразумевает (включает в себя) много времени.",
+		"eng_sentence": "This project involves lots of time.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "В то время как шел снег, мы сидели дома.",
+		"eng_sentence": "While it was snowing, we were staying at home.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Как это контролировалось?.",
+		"eng_sentence": "How was it controlled?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "На что ты зол?",
+		"eng_sentence": "What are you angry about?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Он часто жалуется без всякой причины.",
+		"eng_sentence": "He often complains for no reason.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Мне нужно отредактировать этот документ.",
+		"eng_sentence": "I need to edit this document.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Это вверху страницы.",
+		"eng_sentence": "It's at the top of the page.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Тот проект превратился в очень прибыльный бизнес.",
+		"eng_sentence": "That project turned into a very profitable business.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Я хочу сказать тебе что-то.",
+		"eng_sentence": "I want to tell you something.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я уже снял эту сумму денег.",
+		"eng_sentence": "I've already withdrawn this sum of money.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Эти деньги даются бедным.",
+		"eng_sentence": "This money is given to the poor.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Почему он только что порвал эту книгу?",
+		"eng_sentence": "Why has he just torn this book?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Я хотел бы выпить чашку чая.",
+		"eng_sentence": "I'd like to drink a cup of tea.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я всегда восхищался святыми. (верно по настоящее время)",
+		"eng_sentence": "I've always admired saints.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я в настоящее время работаю над следующим проектом.",
+		"eng_sentence": "I'm currently working on the following project.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Как долго длится один урок?",
+		"eng_sentence": "How long does one lessons last?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Это самое худшее решение этой проблемы.",
+		"eng_sentence": "It's the worst solution to this problem.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Если это происходит, я чувствую себя некомфортно.",
+		"eng_sentence": "If it happens, I feel uncomfortable.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Мы продолжим делать это. (с фр. гл. carry)",
+		"eng_sentence": "We'll carry on doing it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Он снял 10 000 долларов со своего счета.",
+		"eng_sentence": "He withdrew ten thousand dollars from his account.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Как ты образовываешь себя?",
+		"eng_sentence": "How do you educate yourself?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я хочу видеть результаты наших одноклассников.",
+		"eng_sentence": "I want to our classmates' results.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "На что он ссылался? ",
+		"eng_sentence": "What did he refer to?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Мне нравится когда другие указывают на мои слабые стороны. Если я буду знать их лучше, я смогу избавится от них.",
+		"eng_sentence": "I like it when others point at my weak points. If I know them better, I'll be able to get rid of them.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Эта книга будет прочитана к следующей неделе?",
+		"eng_sentence": "Will this book have been read by next week?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Кто-то только что вскрикнул.",
+		"eng_sentence": "Someone has just screamed.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Это оправдало твои ожидания?",
+		"eng_sentence": "Did it live up to your expectations?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Это раскрывает новые возможности для меня. (фр. гл. open)",
+		"eng_sentence": "It opens up new opportunities for me.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Она ревнует его.",
+		"eng_sentence": "She's jealous of him.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Не забудь прикрепить этот файл!",
+		"eng_sentence": "Don't forget to attach this file!",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Мы действительно ценим твои усилия. (инверсия)",
+		"eng_sentence": "We do appreciate your efforts.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Ты уже повторил все эти уроки?",
+		"eng_sentence": "Have you already revised all these lessons?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Какого рода люди вдохновляют тебя?",
+		"eng_sentence": "What kind of people inspire you?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Она была очарована эти местом.",
+		"eng_sentence": "She was fascinated by this place.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Он уехал в Китай в командировку.",
+		"eng_sentence": "He went to China on a business trip.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Они въехали в новый дом.",
+		"eng_sentence": "They moved into a new house.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Мне нужно (кратко) записать это.",
+		"eng_sentence": "I need to jot it down.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "final_test",
+		"difficulty": ""
+	}
+]
