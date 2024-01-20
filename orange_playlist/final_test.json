@@ -658,84 +658,105 @@
 		"difficulty": ""
 	},
 	{	
-		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"id": 95,
+		"rus_sentence": "Мой уровень английского выше чем его.",
+		"eng_sentence": "My English level is higher than his.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
-		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"id": 96,
+		"rus_sentence": "Я принял участие в этом состязании.",
+		"eng_sentence": "I participated (took part) in this contest.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
-		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"id": 97,
+		"rus_sentence": "Я хочу уделять больше времени Английскому.",
+		"eng_sentence": "I want to devote more time to English.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
-		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"id": 98,
+		"rus_sentence": "Та вещь намного важнее чем эта.",
+		"eng_sentence": "That thing is much more important than this one.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
-		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"id": 99,
+		"rus_sentence": "Ему не хватает денег. (short)",
+		"eng_sentence": "He's short of money.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
-		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"id": 100,
+		"rus_sentence": "Я действительно восхищаюсь людьми, которые посвятили свою жизнь помощи другим.",
+		"eng_sentence": "I really admire people who dedicated their life to helping others.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
-		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"id": 101,
+		"rus_sentence": "Я сел в автобус.",
+		"eng_sentence": "I got on the bus.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
-		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"id": 102,
+		"rus_sentence": "Он исчез вдруг.",
+		"eng_sentence": "He disappeared suddenly.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
-		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"id": 103,
+		"rus_sentence": "Мы озадачены этими трудностями.",
+		"eng_sentence": "We're concerned about these difficulties.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
-		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"id": 104,
+		"rus_sentence": "Что по телевизору сейчас?",
+		"eng_sentence": "What's on TV now?",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
-		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"id": 105,
+		"rus_sentence": "Компания наняла новых работников.",
+		"eng_sentence": "The company hired (employed) new employees.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
-		"id": 47,
+		"id": 106,
+		"rus_sentence": "У тебя есть какие-либо планы на завтра?",
+		"eng_sentence": "Do you have any plans for tomorrow? (Have you got any plans...)",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": "Еда испортилась. (ф. гл. go ...)",
+		"eng_sentence": "The food went off.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 108,
+		"rus_sentence": "Он отказался инвестировать свои деньги.",
+		"eng_sentence": "He refused to invest his money.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 1,
 		"rus_sentence": ".",
 		"eng_sentence": ".",
 		"lesson": "final_test",
