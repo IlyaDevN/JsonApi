@@ -246,7 +246,7 @@
 	},
 	{	
 		"id": 36,
-		"rus_sentence": "Как это контролировалось?.",
+		"rus_sentence": "Как это контролировалось?",
 		"eng_sentence": "How was it controlled?",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -358,7 +358,7 @@
 	},
 	{	
 		"id": 52,
-		"rus_sentence": "Мы продолжим делать это. (с фр. гл. carry)",
+		"rus_sentence": "Мы продолжим делать это. (с фр. гл. carry ...)",
 		"eng_sentence": "We'll carry on doing it.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -421,7 +421,7 @@
 	},
 	{	
 		"id": 61,
-		"rus_sentence": "Это раскрывает новые возможности для меня. (фр. гл. open)",
+		"rus_sentence": "Это раскрывает новые возможности для меня. (фр. гл. open ...)",
 		"eng_sentence": "It opens up new opportunities for me.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -491,6 +491,244 @@
 	},
 	{	
 		"id": 71,
+		"rus_sentence": "К моему огромному разочарованию произошла другая вещь.",
+		"eng_sentence": "To my huge disappointment another thing happened.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Он будет работать здесь 3 года к следующему месяцу?",
+		"eng_sentence": "Will he have been working here for three years by next month?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Если моя зарплата будет выше, я смогу купить это.",
+		"eng_sentence": "If my salary is higher, I'll be able to buy it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Что ты будешь делать завтра с 2 до 5?",
+		"eng_sentence": "What will you be doing tomorrow from two till five?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я не могу доказать это?",
+		"eng_sentence": "I can't prove it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Тебе следует быть более осторожным. (ought)",
+		"eng_sentence": "You ought to be more careful.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Полиция расследует это преступление сейчас. (ф. гл. look ...)",
+		"eng_sentence": "The police are looking into this crime.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я говорю по английски целый день. (С утра начал и все еще продолжаю ...)",
+		"eng_sentence": "I've been speaking English all day.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Если я буду миллиардером, я смогу помочь миллионам людей.",
+		"eng_sentence": "If I'm a billionaire, I'll be able to help millions of people.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Где ты был в последнее время?",
+		"eng_sentence": "Where have you been lately?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Он сказал ей взбодриться.",
+		"eng_sentence": "He told her to cheer up.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я думал что это не произойдет.",
+		"eng_sentence": "I thought that it wouldn't happen.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Этот курс содержит так много интересных примеров.",
+		"eng_sentence": "This course contains so many interesting examples.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Наш учитель проверяет это сейчас.",
+		"eng_sentence": "Our teacher is checking it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Они встречаются пол года.",
+		"eng_sentence": "They've been dating for half a year.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Кто одолжил тебе эти деньги?",
+		"eng_sentence": "Who lent you this money?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Как я уже сказал, это не обязательно так.",
+		"eng_sentence": "As I've already said, it isn't necessarily so.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я смотрю это видео 5 минут.",
+		"eng_sentence": "I've been watching this video for five minutes.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "О чем вы говорили, когда он вошел в комнату?",
+		"eng_sentence": "What were you talking about when he entered the room?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Это требует больше знаний.",
+		"eng_sentence": "It requires more knowledge.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Подумай об этом более тщательно!",
+		"eng_sentence": "Think about it more thoroughly!",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я хотел бы пожелать тебе удачи.",
+		"eng_sentence": "I'd like to wish you good luck.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я знаю это лучше чем она.",
+		"eng_sentence": "I know it better than her.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Когда я уходил из дома, шел снег.",
+		"eng_sentence": "When I was leaving home, it was snowing.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
 		"rus_sentence": ".",
 		"eng_sentence": ".",
 		"lesson": "final_test",
