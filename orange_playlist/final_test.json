@@ -58,7 +58,7 @@
 	{	
 		"id": 9,
 		"rus_sentence": "От чего это зависит?",
-		"eng_sentence": "What does it depend on?.",
+		"eng_sentence": "What does it depend on?",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
@@ -756,7 +756,301 @@
 		"difficulty": ""
 	},
 	{	
-		"id": 1,
+		"id": 109,
+		"rus_sentence": "Я посмотрю это выражение в словаре.",
+		"eng_sentence": "I'll look up this expression in a dictionary.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 110,
+		"rus_sentence": "Что я имею в виду, заключается в том, что наш успех неизбежен.",
+		"eng_sentence": "What I mean is that our success is inevitable.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 111,
+		"rus_sentence": "Я читал книгу на английском вслух. Он слушал меня. Время шло очень быстро. (описательная ситуация в прошлом)",
+		"eng_sentence": "I was reading a book in English aloud. He was listening to me. Time was passing (going by) very quickly.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 112,
+		"rus_sentence": "Я живу здесь 3 года.",
+		"eng_sentence": "I've been living here for three years.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 113,
+		"rus_sentence": "Это никогда не обсуждалось когда я жил там.",
+		"eng_sentence": "It was never discussed when I lived there.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 114,
+		"rus_sentence": "Я воображаю (представляю) это сейчас.",
+		"eng_sentence": "I imagine it now.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 115,
+		"rus_sentence": "Они счастливы, не так ли?",
+		"eng_sentence": "They're happy, aren't they?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 116,
+		"rus_sentence": "Я желаю чтоб у меня было больше опыта.",
+		"eng_sentence": "I wish I had more experience.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 117,
+		"rus_sentence": "Я желаю чтоб я мог говорить по английски вовсе без каких-либо ошибок.",
+		"eng_sentence": "I wish I could speak English without any mistakes at all.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 118,
+		"rus_sentence": "У меня нет каких-либо вопросов.",
+		"eng_sentence": "I don't have any questions.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 119,
+		"rus_sentence": "Это было упомянуто в предыдущем видео.",
+		"eng_sentence": "It was mentioned in the previous video.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 120,
+		"rus_sentence": "Как ты можешь охарактеризовать своего начальника (босса)?",
+		"eng_sentence": "How can you characterize your boss?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 121,
+		"rus_sentence": "Чем ты неудовлетворен?",
+		"eng_sentence": "What aren't you satisfied with? | What are you dissatisfied with?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 122,
+		"rus_sentence": "Когда я пришел домой, она готовила 20 минут.",
+		"eng_sentence": "When I came home, she'd been cooking for twenty minutes.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 123,
+		"rus_sentence": "Мне нужно рассчитать эти издержки (затраты).",
+		"eng_sentence": "I need to calculate these costs.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 124,
+		"rus_sentence": "Если бы было больше бедных людей, это было бы намного хуже.",
+		"eng_sentence": "If there were more poor people, it'd (would) be much worse.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 125,
+		"rus_sentence": "Это наименее эффективный метод.",
+		"eng_sentence": "It's the least effective method.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 126,
+		"rus_sentence": "Этот урок такой же интересный как и тот.",
+		"eng_sentence": "This lessons is as interesting as that one.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 127,
+		"rus_sentence": "Я такого же возраста как и они.",
+		"eng_sentence": "I'm the same age as them.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 128,
+		"rus_sentence": "Все необходимые условия были обеспечены ими.",
+		"eng_sentence": "All the necessary conditions were provided by them.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 129,
+		"rus_sentence": "Мне кажется ты неправильно написал это.",
+		"eng_sentence": "It seems to me you misspelt it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 130,
+		"rus_sentence": "Не мешай мне!",
+		"eng_sentence": "Don't disturb me!",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 131,
+		"rus_sentence": "Нет кресла в комнате.",
+		"eng_sentence": "There isn't an armchair in the room.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 132,
+		"rus_sentence": "Когда я увидел его, он играл в компьютерные игры пол часа.",
+		"eng_sentence": "When I saw him, he'd been playing computer games for half an hour.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 133,
+		"rus_sentence": "Я боюсь, у нас только что закончилось время. (ф. гл. run)",
+		"eng_sentence": "I'm afraid we've just run out of time.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 134,
+		"rus_sentence": "Подожди минуту. (ф. гл. hold)",
+		"eng_sentence": "Hold on a minute.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 135,
+		"rus_sentence": "Это не оправдало мои ожидания.",
+		"eng_sentence": "It didn't live up to my expectations.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 136,
+		"rus_sentence": "Шел снег целый день.",
+		"eng_sentence": "It was snowing all day.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 137,
+		"rus_sentence": "В чем причина его отказа?",
+		"eng_sentence": "What's the reason for his refusal?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 138,
+		"rus_sentence": "Это производится в Китае.",
+		"eng_sentence": "It's produced in China.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 139,
+		"rus_sentence": "Его предали.",
+		"eng_sentence": "He was betrayed.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 140,
+		"rus_sentence": "Это произошло в начале этого века.",
+		"eng_sentence": "It happened at the beginning of this century.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 141,
+		"rus_sentence": "Если я буду богатым, я постараюсь не быть высокомерным.",
+		"eng_sentence": "If I'm rich, I'll try not to be arrogant.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 142,
+		"rus_sentence": "Было сказано, что это была единственная альтернатива.",
+		"eng_sentence": "It was said that it was the only alternative.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 143,
+		"rus_sentence": "Когда ты окончил университет?",
+		"eng_sentence": "When did you graduate from university?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 144,
+		"rus_sentence": "Почему ты воспринимаешь все как само собой разумеющееся?",
+		"eng_sentence": "Why do you take everything for granted?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 145,
+		"rus_sentence": "Как регулярно это будет делаться?",
+		"eng_sentence": "How regularly will it be done?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 146,
+		"rus_sentence": "Имеются некоторые проблемы.",
+		"eng_sentence": "There are some problems.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 147,
+		"rus_sentence": "Ты знаешь кем она работает?",
+		"eng_sentence": "Do you know what her job is?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 148,
+		"rus_sentence": "Он бросил университет. (ф. гл. drop) Это было такое непопулярное решение в то время.",
+		"eng_sentence": "He dropped out of university. It was such an unpopular decision at that time.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 149,
+		"rus_sentence": "Когда закончилась война? (ф. гл. end)",
+		"eng_sentence": "When did the war end?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 150,
+		"rus_sentence": "Я желаю чтобы я был более знающим. (речь о настоящем)",
+		"eng_sentence": "I wish I were more knowledgeable.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 151,
 		"rus_sentence": ".",
 		"eng_sentence": ".",
 		"lesson": "final_test",
