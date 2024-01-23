@@ -1051,6 +1051,132 @@
 	},
 	{	
 		"id": 151,
+		"rus_sentence": "Как я вижу, нам нужно работать намного больше.",
+		"eng_sentence": "As I see, we need to work much more.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 152,
+		"rus_sentence": "Она прошептала что-то ему.",
+		"eng_sentence": "She whispered something to him.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 153,
+		"rus_sentence": "Эта проблема будет решена к завтрашнему?",
+		"eng_sentence": "Will this problem have been solved by tomorrow?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 154,
+		"rus_sentence": "Я объясняю это его ленью. (Я приписываю это его лени.) (ф. гл. put)",
+		"eng_sentence": "I put it down to his laziness.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 155,
+		"rus_sentence": "Она постаралась сдержать свои слезы. (ф. гл. hold)",
+		"eng_sentence": "She tried to hold back her tears.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 156,
+		"rus_sentence": "Эта вещь принадлежит мне.",
+		"eng_sentence": "This thing belongs to me.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 157,
+		"rus_sentence": "Они сожгли до тла деревню.",
+		"eng_sentence": "They burnt down the village.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 158,
+		"rus_sentence": "Мы обычно встречаемся 3 раза в неделю.",
+		"eng_sentence": "We usually meet three times a week.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 159,
+		"rus_sentence": "Почему ты уставился на него сейчас?",
+		"eng_sentence": "Why are you staring at him?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 160,
+		"rus_sentence": "Я хочу видеть результаты девочек.",
+		"eng_sentence": "I want to see the girls' results.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 161,
+		"rus_sentence": "У них нехватка денег.",
+		"eng_sentence": "They have a shortage of money.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 162,
+		"rus_sentence": "Мы были в спешке.",
+		"eng_sentence": "We were in a hurry.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 163,
+		"rus_sentence": "Что ты будешь делать завтра с 3 до 5?",
+		"eng_sentence": "What will you be doing tomorrow from three till five?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 164,
+		"rus_sentence": "Они уже объявили это.",
+		"eng_sentence": "They've already announced it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 165,
+		"rus_sentence": "Они израсходовали весь газ.",
+		"eng_sentence": "They used up all the gas.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 166,
+		"rus_sentence": "Кто выиграл в конце?",
+		"eng_sentence": "Who won in the end?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 167,
+		"rus_sentence": "У него плохо с иностранными языками.",
+		"eng_sentence": "He's bad at foreign languages.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 168,
+		"rus_sentence": "Я думаю они изобретут что-то новое.",
+		"eng_sentence": "I think they'll invent something new.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 1,
 		"rus_sentence": ".",
 		"eng_sentence": ".",
 		"lesson": "final_test",
