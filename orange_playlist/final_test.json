@@ -1176,6 +1176,69 @@
 		"difficulty": ""
 	},
 	{	
+		"id": 169,
+		"rus_sentence": "Мне нужно некоторое время чтобы переварить всю эту информацию.",
+		"eng_sentence": "I need some time to digest all this information.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 170,
+		"rus_sentence": "Я не видел его очень давно. (ages)",
+		"eng_sentence": "I haven't seen him for ages.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 171,
+		"rus_sentence": "Я присмотрю за этим. (ф. гл. see)",
+		"eng_sentence": "I'll see to it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 172,
+		"rus_sentence": "Никто не был наказан.",
+		"eng_sentence": "No one was punished.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 173,
+		"rus_sentence": "Я видел ее по пятницам.",
+		"eng_sentence": "I saw her on Fridays.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 174,
+		"rus_sentence": "Давай останемся друзьями.",
+		"eng_sentence": "Let's remain friends.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 175,
+		"rus_sentence": "Он очень зол на эту ситуацию.",
+		"eng_sentence": "He's very angry about this situation.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 176,
+		"rus_sentence": "Он спрятался за тем зданием.",
+		"eng_sentence": "He hid behind that building.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 177,
+		"rus_sentence": "Ему нечем гордиться.",
+		"eng_sentence": "He has nothing to be proud of.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
 		"id": 1,
 		"rus_sentence": ".",
 		"eng_sentence": ".",
