@@ -58,7 +58,7 @@
 	{	
 		"id": 9,
 		"rus_sentence": "Он обычно покупает эти билеты.",
-		"eng_sentence": "He usually buy these tickets.",
+		"eng_sentence": "He usually buys these tickets.",
 		"lesson": "2",
 		"difficulty": ""
 	},
@@ -107,7 +107,7 @@
 	{	
 		"id": 16,
 		"rus_sentence": "Он часто делает ошибки.",
-		"eng_sentence": "He often does mistakes.",
+		"eng_sentence": "He often makes mistakes.",
 		"lesson": "2",
 		"difficulty": ""
 	},
