@@ -1,0 +1,758 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я вижу девочку.",
+		"eng_sentence": "I see a girl.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я хочу яблоко.",
+		"eng_sentence": "I want an apple.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я вижу одного человека.",
+		"eng_sentence": "Я see one person.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "У них есть деньги.",
+		"eng_sentence": "They have money.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Мне нравится эта машина.",
+		"eng_sentence": "I like this car.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Ему нравятся эти машины.",
+		"eng_sentence": "He likes these cars.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "У меня есть некоторые вопросы.",
+		"eng_sentence": "I have some questions.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "У нее есть немного времени.",
+		"eng_sentence": "She has some time.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я вижу автобус.",
+		"eng_sentence": "I see a bus.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "У меня есть книга.",
+		"eng_sentence": "I have a book.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "У меня есть идея.",
+		"eng_sentence": "I have an idea.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я вижу яблоко.",
+		"eng_sentence": "I see an apple.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "У меня есть брат.",
+		"eng_sentence": "I have a brother.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я вижу учителя.",
+		"eng_sentence": "I see a teacher.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Я вижу отель.",
+		"eng_sentence": "I see a hotel.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я знаю этого мужчину.",
+		"eng_sentence": "I know this man.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "У меня есть некоторые результаты.",
+		"eng_sentence": "I have some results.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "У меня есть апельсин.",
+		"eng_sentence": "I have an orange.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я понимаю твой вопрос.",
+		"eng_sentence": "I understand your question.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "У меня есть проблема.",
+		"eng_sentence": "I have a problem.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я вижу женщину.",
+		"eng_sentence": "I see a woman.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "У меня есть время.",
+		"eng_sentence": "I have time.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я вижу университет.",
+		"eng_sentence": "I see a university.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "У меня есть одна проблема.",
+		"eng_sentence": "I have one problem.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Мы видим отель.",
+		"eng_sentence": "We see a hotel.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Мне нравится этот вопрос.",
+		"eng_sentence": "I like this question.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я знаю этот университет.",
+		"eng_sentence": "I know this university.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "МЫ видим автобус.",
+		"eng_sentence": "We see a bus.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "У них есть проблема.",
+		"eng_sentence": "They have a problem.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Мне нравится этот университет.",
+		"eng_sentence": "I like this university.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Я хочу апельсин.",
+		"eng_sentence": "I want an orange.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "У меня есть работа.",
+		"eng_sentence": "I have a job.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я вижу мужчину.",
+		"eng_sentence": "I see a man.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "У него есть апельсин.",
+		"eng_sentence": "He has an orange.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "У меня есть вопрос.",
+		"eng_sentence": "I have a question.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я вижу школу.",
+		"eng_sentence": "I see a school.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Мы видим учителя.",
+		"eng_sentence": "We see a teacher.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "У меня есть сестра.",
+		"eng_sentence": "I have a sister.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я вижу двоих людей.",
+		"eng_sentence": "I see two people.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "У меня мало свободного времени.",
+		"eng_sentence": "I have little free time.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "У меня есть яблоко.",
+		"eng_sentence": "I have an apple.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Я вижу дома.",
+		"eng_sentence": "I see a house.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "У меня есть немного времени.",
+		"eng_sentence": "I have some time.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "У меня есть машина.",
+		"eng_sentence": "I have a car.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я знаю этого человека.",
+		"eng_sentence": "I know this person.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Я вижу мальчика.",
+		"eng_sentence": "I see a boy.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "У меня есть некоторые идеи.",
+		"eng_sentence": "I have some ideas.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я вижу двух студентов.",
+		"eng_sentence": "I see two students.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "У меня есть семья.",
+		"eng_sentence": "I have a family.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Мы видим банк.",
+		"eng_sentence": "We see a bank.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я вижу студента.",
+		"eng_sentence": "I see a student.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Они часто пьют воду.",
+		"eng_sentence": "They often drink wanter.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "У них есть компьютер.",
+		"eng_sentence": "They have a computer.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я понимаю эти вещи.",
+		"eng_sentence": "I understand these things.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Мне нравится эта книга.",
+		"eng_sentence": "I like this book.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "У меня есть компьютер.",
+		"eng_sentence": "I have a computer.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я очень люблю музыку.",
+		"eng_sentence": "I really love music.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я ем рыбу.",
+		"eng_sentence": "I eat fish.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я делаю различные упражнения.",
+		"eng_sentence": "I do different exercises.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я вижу рыбку (одну).",
+		"eng_sentence": "I see a fish.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Мы видим такси.",
+		"eng_sentence": "We see a taxi.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я пью чай.",
+		"eng_sentence": "I drink tea.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Мне нравятся эти упражнения.",
+		"eng_sentence": "I like these exercises.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "У меня есть одна книга.",
+		"eng_sentence": "I have one book.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я часто пью кофе.",
+		"eng_sentence": "I often drink coffee.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "У нее есть одна книга.",
+		"eng_sentence": "She has one book.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "У меня есть один компьютер.",
+		"eng_sentence": "I have one computer.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я люблю спорт.",
+		"eng_sentence": "I love sport.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он любит чай.",
+		"eng_sentence": "He loves tea.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Мне нравится спорт.",
+		"eng_sentence": "I like sport.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я вижу банк.",
+		"eng_sentence": "I see a bank.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Она видит банк.",
+		"eng_sentence": "She sees a bank.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Я вижу этот банк.",
+		"eng_sentence": "I see this bank.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я понимаю этих людей.",
+		"eng_sentence": "I understand these people.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я понимаю эту вещь.",
+		"eng_sentence": "I understand this thing.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "У нас есть две книги.",
+		"eng_sentence": "We have two books.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "У них есть мотивация.",
+		"eng_sentence": "They have motivation.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "У нас есть мотивация.",
+		"eng_sentence": "We have motivation.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "У нее есть мотивация.",
+		"eng_sentence": "She has motivation.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "У меня есть мотивация.",
+		"eng_sentence": "I have motivation.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "У него есть мотивация.",
+		"eng_sentence": "He has motivation.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "У тебя есть мотивация.",
+		"eng_sentence": "You have motivation.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "У нас есть результат.",
+		"eng_sentence": "We have a result.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Мне нравится мой результат.",
+		"eng_sentence": "I like my result.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Мне нравится этот результат.",
+		"eng_sentence": "I like this result.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я вижу мой прогресс.",
+		"eng_sentence": "I see my progress.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я вижу твой прогресс.",
+		"eng_sentence": "I see your progress.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Он видит мой прогресс.",
+		"eng_sentence": "He sees my progress.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Мне нравятся мои результаты.",
+		"eng_sentence": "I like my results.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Ей нравятся ее результаты.",
+		"eng_sentence": "She likes her results.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Им нравятся мои результаты.",
+		"eng_sentence": "They like my results.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Они часто пьют молоко.",
+		"eng_sentence": "They often drink milk.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я вижу такси.",
+		"eng_sentence": "I see a taxi.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я люблю музыку.",
+		"eng_sentence": "I love music.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Он любит музыку.",
+		"eng_sentence": "He loves music.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Они всегда пьют молоко.",
+		"eng_sentence": "They always drink milk.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я часто ем рыбу.",
+		"eng_sentence": "I often eat fish.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я хочу сок.",
+		"eng_sentence": "I want juice.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "У меня есть результат.",
+		"eng_sentence": "I have a result.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Мне нравится сок.",
+		"eng_sentence": "I like juice.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "У них есть свободное время.",
+		"eng_sentence": "They have free time.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Я вижу книгу.",
+		"eng_sentence": "I see a book.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Я действительно люблю спорт.",
+		"eng_sentence": "I really love sport.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "У нее есть бесплатные английские уроки.",
+		"eng_sentence": "She has free English lessons.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": "Они пьют кофе каждый день.",
+		"eng_sentence": "They drink coffee every day.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": "Я хочу больше упражнений.",
+		"eng_sentence": "I want more exercises.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": "Мне нравится музыка.",
+		"eng_sentence": "I like music.",
+		"lesson": "3",
+		"difficulty": ""
+	},
+	{	
+		"id": 108,
+		"rus_sentence": "Я вижу того студента.",
+		"eng_sentence": "I see that student.",
+		"lesson": "3",
+		"difficulty": ""
+	}
+]
