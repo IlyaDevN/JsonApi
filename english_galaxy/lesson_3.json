@@ -288,7 +288,7 @@
 	},
 	{	
 		"id": 42,
-		"rus_sentence": "Я вижу дома.",
+		"rus_sentence": "Я вижу дом.",
 		"eng_sentence": "I see a house.",
 		"lesson": "3",
 		"difficulty": ""
