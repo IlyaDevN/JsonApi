@@ -50,7 +50,7 @@
 	},
 	{	
 		"id": 8,
-		"rus_sentence": "У нее есть немного времени.",
+		"rus_sentence": "У неё есть немного времени.",
 		"eng_sentence": "She has some time.",
 		"lesson": "3",
 		"difficulty": ""
@@ -456,7 +456,7 @@
 	},
 	{	
 		"id": 66,
-		"rus_sentence": "У нее есть одна книга.",
+		"rus_sentence": "У неё есть одна книга.",
 		"eng_sentence": "She has one book.",
 		"lesson": "3",
 		"difficulty": ""
@@ -547,7 +547,7 @@
 	},
 	{	
 		"id": 79,
-		"rus_sentence": "У нее есть мотивация.",
+		"rus_sentence": "У неё есть мотивация.",
 		"eng_sentence": "She has motivation.",
 		"lesson": "3",
 		"difficulty": ""
@@ -624,7 +624,7 @@
 	},
 	{	
 		"id": 90,
-		"rus_sentence": "Ей нравятся ее результаты.",
+		"rus_sentence": "Ей нравятся её результаты.",
 		"eng_sentence": "She likes her results.",
 		"lesson": "3",
 		"difficulty": ""
@@ -722,7 +722,7 @@
 	},
 	{	
 		"id": 104,
-		"rus_sentence": "У нее есть бесплатные английские уроки.",
+		"rus_sentence": "У неё есть бесплатные английские уроки.",
 		"eng_sentence": "She has free English lessons.",
 		"lesson": "3",
 		"difficulty": ""
