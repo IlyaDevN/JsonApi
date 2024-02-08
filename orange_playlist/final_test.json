@@ -519,7 +519,7 @@
 	},
 	{	
 		"id": 75,
-		"rus_sentence": "Я не могу доказать это?",
+		"rus_sentence": "Я не могу доказать это.",
 		"eng_sentence": "I can't prove it.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -533,7 +533,7 @@
 	},
 	{	
 		"id": 77,
-		"rus_sentence": "Полиция расследует это преступление сейчас. (ф. гл. look ...)",
+		"rus_sentence": "Полиция расследует это преступление (сейчас). (ф. гл. look ...)",
 		"eng_sentence": "The police are looking into this crime.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -582,7 +582,7 @@
 	},
 	{	
 		"id": 84,
-		"rus_sentence": "Наш учитель проверяет это сейчас.",
+		"rus_sentence": "Наш учитель проверяет это (сейчас).",
 		"eng_sentence": "Our teacher is checking it.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1107,7 +1107,7 @@
 	},
 	{	
 		"id": 159,
-		"rus_sentence": "Почему ты уставился на него сейчас?",
+		"rus_sentence": "Почему ты уставился на него (сейчас)?",
 		"eng_sentence": "Why are you staring at him?",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1205,7 +1205,7 @@
 	},
 	{	
 		"id": 173,
-		"rus_sentence": "Я видел ее по пятницам.",
+		"rus_sentence": "Я видел её по пятницам.",
 		"eng_sentence": "I saw her on Fridays.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1275,7 +1275,7 @@
 	},
 	{	
 		"id": 183,
-		"rus_sentence": "Я повторяю этот урок сейчас.",
+		"rus_sentence": "Я повторяю этот урок (сейчас).",
 		"eng_sentence": "I'm revising this lesson.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1296,14 +1296,14 @@
 	},
 	{	
 		"id": 186,
-		"rus_sentence": "Кем были сделаны эти ошибки?.",
-		"eng_sentence": "Who were these mistakes made by?.",
+		"rus_sentence": "Кем были сделаны эти ошибки?",
+		"eng_sentence": "Who were these mistakes made by?",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
 		"id": 187,
-		"rus_sentence": "Я вижу ее по средам.",
+		"rus_sentence": "Я вижу её по средам.",
 		"eng_sentence": "I see her on Wednesdays.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1401,7 +1401,7 @@
 	},
 	{	
 		"id": 201,
-		"rus_sentence": "Он не ждет тебя сейчас.",
+		"rus_sentence": "Он не ждет тебя (сейчас).",
 		"eng_sentence": "He isn't waiting for you.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1634,6 +1634,580 @@
 		"id": 234,
 		"rus_sentence": "Эти слова опечалили меня.",
 		"eng_sentence": "These words saddened me.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 235,
+		"rus_sentence": "Я не шучу. (в данный момент)",
+		"eng_sentence": "I'm not joking (kidding).",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 236,
+		"rus_sentence": "Вы принимаете кредитные карты?",
+		"eng_sentence": "Do you accept credit cards?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 237,
+		"rus_sentence": "Эта книга состоит из 5 глав.",
+		"eng_sentence": "This book consists of five chapters.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 238,
+		"rus_sentence": "Нет никакой нужды укорачивать такой информативный курс.",
+		"eng_sentence": "There is no need to shorten such an informative course.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 239,
+		"rus_sentence": "Мягко говоря, это было действительно грубо.",
+		"eng_sentence": "To put it mildly, it was really rude.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 240,
+		"rus_sentence": "Ты часто ходишь кататься на велосипеде?",
+		"eng_sentence": "Do you often go cycling?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 241,
+		"rus_sentence": "Когда они будут ждать их поддержки, они будут молиться.",
+		"eng_sentence": "When they're waiting for their support, they'll be praying.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 242,
+		"rus_sentence": "Я не хотел бы тратить время впустую. (фр. г. hang around)",
+		"eng_sentence": "I wouldn't like to hang around.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 243,
+		"rus_sentence": "Он не ложился спать чтобы посмотреть тот фильм. (фр. г. stay)",
+		"eng_sentence": "He stayed up to watch that movie.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 244,
+		"rus_sentence": "Я присматриваю (ухаживаю) за своей бабушкой. (фр. г. look)",
+		"eng_sentence": "I look after my grandmother.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 245,
+		"rus_sentence": "Я не осведомлен об этих изменениях.",
+		"eng_sentence": "I'm unaware of these changes.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 246,
+		"rus_sentence": "Что они пытаются сказать (сейчас)?",
+		"eng_sentence": "What are they trying to say?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 247,
+		"rus_sentence": "Давно уже пора чтобы эти ошибки были проанализированы.",
+		"eng_sentence": "It's high time these mistakes were analyzed.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 248,
+		"rus_sentence": "Она вышла замуж за него 2 года назад.",
+		"eng_sentence": "She married him two years ago.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 249,
+		"rus_sentence": "Они не стыдятся этих вещей.",
+		"eng_sentence": "They aren't ashamed of these things.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 250,
+		"rus_sentence": "Правительство решило принять  серьезные меры по поводу коррупции. (фр. г. crack)",
+		"eng_sentence": "The government decided to crack down on corruption.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 251,
+		"rus_sentence": "Было сказано, что проблема будет решена.",
+		"eng_sentence": "It was said that the problem would be solved.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 252,
+		"rus_sentence": "Выключи свет!",
+		"eng_sentence": "Turn off (switch off) the light!",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 253,
+		"rus_sentence": "Я бы принял это предложение.",
+		"eng_sentence": "I would take (accept) this offer.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 254,
+		"rus_sentence": "Я держу пари что это произойдет рано или поздно.",
+		"eng_sentence": "I bet that it'll happen sooner or later.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 255,
+		"rus_sentence": "Тебя часто критикуют?",
+		"eng_sentence": "Are you often criticized?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 256,
+		"rus_sentence": "Я составил отчет. (фр. г. draw)",
+		"eng_sentence": "I drew up a report.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 257,
+		"rus_sentence": "Ты уже был там, не так ли?",
+		"eng_sentence": "You've already been there, haven't you?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 258,
+		"rus_sentence": "Что он посоветовал тебе?",
+		"eng_sentence": "What did he advise you?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 259,
+		"rus_sentence": "Он опоздал на урок.",
+		"eng_sentence": "He was late (came late) for the lesson.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 260,
+		"rus_sentence": "У них нет денег. (got)",
+		"eng_sentence": "They haven't got money.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 261,
+		"rus_sentence": "Это не было доказано.",
+		"eng_sentence": "It wasn't proved.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 262,
+		"rus_sentence": "Он умер от рака.",
+		"eng_sentence": "He died of (from) cancer.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 263,
+		"rus_sentence": "Если бы я был на твоём месте, я бы пошел туда.",
+		"eng_sentence": "If I were you, I'd (I would) go there.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 264,
+		"rus_sentence": "Эта деревня изолирована от внешнего мира.",
+		"eng_sentence": "This village is isolated from the outside world.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 265,
+		"rus_sentence": "Возможно будет достичь этой цели?",
+		"eng_sentence": "Will it be possible to achieve this aim?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 266,
+		"rus_sentence": "Слишком много времени тратится на ненужные вещи.",
+		"eng_sentence": "Too much time is spent on unnecessary things.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 267,
+		"rus_sentence": "Это дерево заблокировало вид.",
+		"eng_sentence": "This tree blocked the view.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 268,
+		"rus_sentence": "Где ты хранишь эти товары?",
+		"eng_sentence": "Where do you store (keep) these goods?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 269,
+		"rus_sentence": "Я ожидал более худшие результаты.",
+		"eng_sentence": "I expected worse results.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 270,
+		"rus_sentence": "Мои знания становятся намного больше.",
+		"eng_sentence": "My knowledge is getting much bigger.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 271,
+		"rus_sentence": "Если будет больше бедных людей, это будет намного хуже.",
+		"eng_sentence": "If there are more poor people, it'll be much worse.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 272,
+		"rus_sentence": "Почему мы должны будем нанять дополнительных рабочих? (фр. г. take)",
+		"eng_sentence": "Why will we have to take on extra (additional) workers?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 273,
+		"rus_sentence": "Он основал очень прибыльную компанию.",
+		"eng_sentence": "He founded (set up) a very profitable company.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 274,
+		"rus_sentence": "Мы можем сравнить качество.",
+		"eng_sentence": "We can compare the quality.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 275,
+		"rus_sentence": "Он подобрал эту банкноту. (фр. г. pick)",
+		"eng_sentence": "He picked up this banknote.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 276,
+		"rus_sentence": "Он думает что у него такие серьёзные проблемы.",
+		"eng_sentence": "He thinks that he has such serious problems.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 277,
+		"rus_sentence": "Деревья были срезаны. (фр. г. cut)",
+		"eng_sentence": "The trees were cut down.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 278,
+		"rus_sentence": "Это кажется очень интересным.",
+		"eng_sentence": "It seems very interesting.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 279,
+		"rus_sentence": "Он сказал нам правду.",
+		"eng_sentence": "He told us the truth.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 280,
+		"rus_sentence": "Я сделаю телефонный звонок.",
+		"eng_sentence": "I'll make a phone call.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 281,
+		"rus_sentence": "Я желаю чтоб я был добрее.",
+		"eng_sentence": "I wish I were kinder.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 282,
+		"rus_sentence": "Я уверен он пожалеет об этом.",
+		"eng_sentence": "I'm sure he'll regret it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 283,
+		"rus_sentence": "Я не могу представить свою жизнь без этого.",
+		"eng_sentence": "I can't imagine my life without it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 284,
+		"rus_sentence": "Она не хочет мириться с этим. (фр. г. put)",
+		"eng_sentence": "She doesn't want to put up with it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 285,
+		"rus_sentence": "Тебе следует быть более осторожным.",
+		"eng_sentence": "You should be more careful.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 286,
+		"rus_sentence": "Мой учитель не объяснял достаточно ясно, но возможно это была моя проблема. (длительное прошедшее время)",
+		"eng_sentence": "My teacher wasn't explaining clearly enough but maybe it was my problem.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 287,
+		"rus_sentence": "У меня есть некоторые планы.",
+		"eng_sentence": "I have some plans.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 288,
+		"rus_sentence": "Я был в Соединенных Штатах несколько раз.",
+		"eng_sentence": "I've been to the United States several times.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 289,
+		"rus_sentence": "Моя цель знать по крайней мере 3000 английских слов.",
+		"eng_sentence": "My aim is to know at least three thousand English words.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 290,
+		"rus_sentence": "Это должно функционировать надлежащим образом.",
+		"eng_sentence": "It must function properly.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 291,
+		"rus_sentence": "Он получает такую же зарплату как и они.",
+		"eng_sentence": "He gets the same salary as them.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 292,
+		"rus_sentence": "В комнате есть кресло?",
+		"eng_sentence": "Is there an armchair in the room?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 293,
+		"rus_sentence": "Я подчеркнул это слово.",
+		"eng_sentence": "I underlined this word.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 294,
+		"rus_sentence": "Очень хорошие результаты были показаны им.",
+		"eng_sentence": "Very good results were shown by him.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 295,
+		"rus_sentence": "Когда ты окончил университет?",
+		"eng_sentence": "When did you graduate from university?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 296,
+		"rus_sentence": "Было очень трудно предвидеть эти изменения.",
+		"eng_sentence": "It was very difficult to foresee these changes.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 297,
+		"rus_sentence": "Я столкнулся с тем фактом, что не мог изменить это. (фр. г. face)",
+		"eng_sentence": "I faced up to the fact that I couldn't change it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 298,
+		"rus_sentence": "Я постараюсь устранить эту проблему как можно скорее. (фр. г.)",
+		"eng_sentence": "I'll try to iron out this problem as soon as possible.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 299,
+		"rus_sentence": "Так много вещей объединяет нас.",
+		"eng_sentence": "So many things unite us.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 300,
+		"rus_sentence": "Кто будет наряжать ёлку?",
+		"eng_sentence": "Who will decorate a Christmas tree?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 301,
+		"rus_sentence": "Мне пришла идея изменить свою жизнь. (фр. г. come)",
+		"eng_sentence": "I came up with an idea to change my life.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 302,
+		"rus_sentence": "Что еще не было сделано?",
+		"eng_sentence": "What hasn't been done yet?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 303,
+		"rus_sentence": "Он повернул назад.",
+		"eng_sentence": "He turned back.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 304,
+		"rus_sentence": "Урок уже начался.",
+		"eng_sentence": "The lesson has already begun.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 305,
+		"rus_sentence": "Он заявил что не совершал это преступление.",
+		"eng_sentence": "He stated that he hadn't committed this crime.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 306,
+		"rus_sentence": "Это самое худшее решение этой проблемы.",
+		"eng_sentence": "It's the worst solution to this problem.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 307,
+		"rus_sentence": "Было написано держаться подальше от травы. (фр. г. keep)",
+		"eng_sentence": "It was written to keep off the grass.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 308,
+		"rus_sentence": "От чего зависело финальное решение?",
+		"eng_sentence": "What did the final decision depend on?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 309,
+		"rus_sentence": "Я хотел бы пожелать тебе истинного счастья.",
+		"eng_sentence": "I'd like to wish you true happiness.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 310,
+		"rus_sentence": "Она крикнула ему.",
+		"eng_sentence": "She shouted to him.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 311,
+		"rus_sentence": "Он говорил и говорил.",
+		"eng_sentence": "He was talking and talking.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 312,
+		"rus_sentence": "Я осознаю насколько это ответственно.",
+		"eng_sentence": "I realize how responsible it is.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 313,
+		"rus_sentence": "Мы только что прибыли сюда.",
+		"eng_sentence": "We've just arrived here.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 314,
+		"rus_sentence": "Он пообещал сдержать своё слово.",
+		"eng_sentence": "He promised to keep his word.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 315,
+		"rus_sentence": "Ты можешь попробовать эту еду.",
+		"eng_sentence": "You can taste this food.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
 		"lesson": "final_test",
 		"difficulty": ""
 	}
