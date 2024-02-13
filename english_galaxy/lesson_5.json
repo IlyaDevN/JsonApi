@@ -1,0 +1,765 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я хочу увидеть это.",
+		"eng_sentence": "I want to see it.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я бы хотел пойти туда сейчас.",
+		"eng_sentence": "I'd (I would) like to go there now.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я хотел бы говорить по-английски лучше.",
+		"eng_sentence": "I'd like to speak English better.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Я хочу увидеть её.",
+		"eng_sentence": "I want to see her.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я хочу увидеть их.",
+		"eng_sentence": "I want to see them.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я хочу увидеть его.",
+		"eng_sentence": "I want to see him.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Он хочет помочь мне.",
+		"eng_sentence": "He wants to help me.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Она хочет помочь нам.",
+		"eng_sentence": "She wants to help us.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я хочу сделать это на этой неделе.",
+		"eng_sentence": "I want to do it this week.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Я хочу поехать в Китай в следующем году.",
+		"eng_sentence": "I want to go to China next year.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я хочу увидеть её.",
+		"eng_sentence": "I want to see her.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я хочу говорить по-английски правильно.",
+		"eng_sentence": "I want to speak English correctly.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Я хочу быть доктором.",
+		"eng_sentence": "I want to be a doctor.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я хочу говорить по-английски свободно и правильно.",
+		"eng_sentence": "I want to speak English fluently and correctly.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Я хочу посетить эту страну.",
+		"eng_sentence": "I want to visit this country.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Он хочет быть учителем.",
+		"eng_sentence": "He wants to be a teacher.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Я хочу говорить по-английски без ошибок.",
+		"eng_sentence": "I want to speak English without mistakes.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я хочу стать программистом.",
+		"eng_sentence": "I want to become a programmer.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я хочу увидеть их.",
+		"eng_sentence": "I want to see them.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я хочу быть счастливым.",
+		"eng_sentence": "I want to be happy.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он хочет стать бизнесменом.",
+		"eng_sentence": "He wants to become a businessman.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я хотел бы говорить по-английски свободно и правильно.",
+		"eng_sentence": "I'd like to speak English fluently and correctly.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я хочу говорить по-английски.",
+		"eng_sentence": "I want to speak English.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Я хочу увидеть его.",
+		"eng_sentence": "I want to see him.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я хотел бы пойти туда сейчас.",
+		"eng_sentence": "I'd (I would) like to go there now.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я хочу быть бизнесменом.",
+		"eng_sentence": "I want to be a businessman.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я хочу посетить этот город.",
+		"eng_sentence": "I want to visit this city.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Она хочет быть учительницей.",
+		"eng_sentence": "She wants to be a teacher.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Я хочу сделать это сейчас.",
+		"eng_sentence": "I want to do it now.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я хочу купить это.",
+		"eng_sentence": "I want to buy it.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Я хочу позвонить ему.",
+		"eng_sentence": "I want to call him.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я хочу быть дизайнером.",
+		"eng_sentence": "I want to be a designer.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я хочу посетить новые страны и города.",
+		"eng_sentence": "I want to visit new countries and cities.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Я хочу позвонить ей сейчас.",
+		"eng_sentence": "I want to call her now.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "I хотел бы говорить по-английски лучше.",
+		"eng_sentence": "I'd like to speak English better.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я хочу работать.",
+		"eng_sentence": "I want to work.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я хочу быть менеджером.",
+		"eng_sentence": "I want to be a manager.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Я хочу путешествовать.",
+		"eng_sentence": "I want to travel.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я хочу быть учителем.",
+		"eng_sentence": "I want to be a teacher.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я хочу это.",
+		"eng_sentence": "I want it.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я хочу стать учителем.",
+		"eng_sentence": "I want to become a teacher.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Она хочет жить за границей.",
+		"eng_sentence": "She wants to live abroad.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я действительно хочу понять это.",
+		"eng_sentence": "I really want to understand it.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Мы хотим купить ту вещь.",
+		"eng_sentence": "We want to buy that thing.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я бы хотел свободно говорить по-английски.",
+		"eng_sentence": "I'd like to speak English fluently.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Я хочу быть программистом.",
+		"eng_sentence": "I want to be a programmer.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я хочу понять это.",
+		"eng_sentence": "I want to understand it.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я хочу свободно говорить по-английски.",
+		"eng_sentence": "I want to speak English fluently.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я хотел бы говорить по-английски правильно.",
+		"eng_sentence": "I'd like to speak English correctly.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я хочу купить эту вещь.",
+		"eng_sentence": "I want to buy this thing.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я понимаю её.",
+		"eng_sentence": "I understand her.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Он хочет мне помочь.",
+		"eng_sentence": "He wants to help me.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Он хочет там учиться.",
+		"eng_sentence": "He wants to study there.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я хочу жить в этом городе.",
+		"eng_sentence": "I want to live in this city.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Она хочет нам помочь.",
+		"eng_sentence": "She wants to help us.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я хотел бы читать английские книги.",
+		"eng_sentence": "I'd like to read English books.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я хочу жить в этой стране.",
+		"eng_sentence": "I want to live in this country.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я хочу купить два билета.",
+		"eng_sentence": "I want to buy two tickets.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я вижу его отца.",
+		"eng_sentence": "I see his father.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я хочу купить компьютер.",
+		"eng_sentence": "I want to buy a computer.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Мне нравится их идея.",
+		"eng_sentence": "I like their idea.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я хотел бы говорить по-английски без ошибок.",
+		"eng_sentence": "I'd like to speak English without mistakes.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Я хотел бы посетить новые страны и города.",
+		"eng_sentence": "I'd like to visit new countries and cities.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я вижу её маму.",
+		"eng_sentence": "I see her mother.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я хотел бы поехать в Англию.",
+		"eng_sentence": "I'd like to go to England.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Они хотят учиться за границей.",
+		"eng_sentence": "They want to study abroad.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Он хочет учиться за границей.",
+		"eng_sentence": "He wants to study abroad.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я хочу учиться в своей стране.",
+		"eng_sentence": "I want to study in my country.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я хочу прочитать эти книги.",
+		"eng_sentence": "I want to read these books.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Я хочу прочитать эту книгу.",
+		"eng_sentence": "I want to read this book.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Он хочет прочитать те книги.",
+		"eng_sentence": "He wants to read those books.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Я хочу сделать это на этой неделе.",
+		"eng_sentence": "I want to do it this week.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Она хочет сделать это на этой неделе.",
+		"eng_sentence": "She wants to do it this week.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я хочу сделать это завтра.",
+		"eng_sentence": "I want to do it tomorrow.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я понимаю его.",
+		"eng_sentence": "I understand him.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Она понимает его.",
+		"eng_sentence": "She understands him.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Он понимает меня.",
+		"eng_sentence": "He understands me.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Он хочет жить за границей.",
+		"eng_sentence": "He wants to live abroad.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я хочу жить за границей.",
+		"eng_sentence": "I want to live abroad.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Они хотят жить за границей.",
+		"eng_sentence": "They want to live abroad.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Я знаю его.",
+		"eng_sentence": "I know him.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Ты знаешь меня.",
+		"eng_sentence": "You know me.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Он знает её.",
+		"eng_sentence": "He knows her.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я хочу помочь тебе.",
+		"eng_sentence": "I want to help you.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Они хотят помочь мне.",
+		"eng_sentence": "They want to help me.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Мы знаем её.",
+		"eng_sentence": "We know her.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Они знают его.",
+		"eng_sentence": "They know him.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я знаю тебя очень хорошо.",
+		"eng_sentence": "I know you very well.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я хочу посетить Англию в этом году.",
+		"eng_sentence": "I want to visit England this year.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Он хочет посетить Россию (Украину) в этом году.",
+		"eng_sentence": "He wants to visit Russia (Ukraine) this year.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я хочу посетить Германию в следующем месяцу.",
+		"eng_sentence": "I want to visit Germany next month.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я хочу поехать в Китай в следующем году.",
+		"eng_sentence": "I want to go to China next year.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Он хочет поехать в Англию в следующем году.",
+		"eng_sentence": "He wants to go to England next year.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Он хочет поехать в Китай в этом году.",
+		"eng_sentence": "He wants to go to China this year.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Мы хотим посетить Италию в следующем месяце.",
+		"eng_sentence": "We want to visit Italy next month.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я хочу учить Английский здесь.",
+		"eng_sentence": "I want to learn English here.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я хочу прочитать ту книгу.",
+		"eng_sentence": "I want to read that book.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я вижу их дом.",
+		"eng_sentence": "I see their house.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я хотел бы посетить Японию.",
+		"eng_sentence": "I'd like to visit Japan.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Я хотел бы поехать в Соединённые Штаты.",
+		"eng_sentence": "I'd like to go to the United States.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я понимаю их.",
+		"eng_sentence": "I understand them.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Я хочу купить билет.",
+		"eng_sentence": "I want to buy a ticket.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Я хочу посетить Соединённые Штаты в следующем году.",
+		"eng_sentence": "I want to visit the United States next year.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "Я хочу сделать это на следующей неделе.",
+		"eng_sentence": "I want to do it next week.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": "Я хочу посетить Германию.",
+		"eng_sentence": "I want to visit Germany.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": "Я хочу читать книги на Английском.",
+		"eng_sentence": "I want to read books in English.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": "Я вижу его машину.",
+		"eng_sentence": "I see his car.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 108,
+		"rus_sentence": "Я хочу учиться здесь.",
+		"eng_sentence": "I want to study here.",
+		"lesson": "5",
+		"difficulty": ""
+	},
+	{	
+		"id": 109,
+		"rus_sentence": "Я вижу их сейчас.",
+		"eng_sentence": "I see them now.",
+		"lesson": "5",
+		"difficulty": ""
+	}
+]
