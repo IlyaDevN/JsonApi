@@ -239,7 +239,7 @@
 	},
 	{	
 		"id": 35,
-		"rus_sentence": "I хотел бы говорить по-английски лучше.",
+		"rus_sentence": "Я хотел бы говорить по-английски лучше.",
 		"eng_sentence": "I'd like to speak English better.",
 		"lesson": "5",
 		"difficulty": ""
@@ -631,7 +631,7 @@
 	},
 	{	
 		"id": 91,
-		"rus_sentence": "Я хочу посетить Германию в следующем месяцу.",
+		"rus_sentence": "Я хочу посетить Германию в следующем месяце.",
 		"eng_sentence": "I want to visit Germany next month.",
 		"lesson": "5",
 		"difficulty": ""
