@@ -1,0 +1,730 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Они не соглашаются.",
+		"eng_sentence": "They don't agree.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я не делаю ошибки.",
+		"eng_sentence": "I don't make mistakes.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я не занимаюсь бизнесом.",
+		"eng_sentence": "I don't do business.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Я плачу за это.",
+		"eng_sentence": "I pay for it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Они не играют в футбол.",
+		"eng_sentence": "They don't play football.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я не хочу тратить на это свои деньги.",
+		"eng_sentence": "I don't want to spend my money on it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Они не платят за это.",
+		"eng_sentence": "They don't pay for it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Они не согласны.",
+		"eng_sentence": "They don't agree.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я не делаю те упражнения.",
+		"eng_sentence": "I don't do those exercises.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Они играют в теннис.",
+		"eng_sentence": "They play tennis.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я не делаю ошибок.",
+		"eng_sentence": "I don't make mistakes.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Мы не хотим этого.",
+		"eng_sentence": "We don't want it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Мне не нравится эта идея.",
+		"eng_sentence": "I don't like this idea.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я не занимаюсь бизнесом.",
+		"eng_sentence": "I don't do business.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Они не согласны с этим.",
+		"eng_sentence": "They don't agree with it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Они не контролируют это.",
+		"eng_sentence": "They don't control it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Я не делаю этого.",
+		"eng_sentence": "I don't do it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Мне не нравится эта игра.",
+		"eng_sentence": "I don't like this game.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я не знаю.",
+		"eng_sentence": "I don't know.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я не плачу.",
+		"eng_sentence": "I don't pay.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Они не понимают этих вещей.",
+		"eng_sentence": "They don't understand these things.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я не хочу этого.",
+		"eng_sentence": "I don't want it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "У меня нет свободного времени.",
+		"eng_sentence": "I don't have free time.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Ты не делаешь ошибок.",
+		"eng_sentence": "You don't make mistakes.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я не хожу туда.",
+		"eng_sentence": "I don't go there.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я не слышу тебя.",
+		"eng_sentence": "I don't hear you.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я плачу за это.",
+		"eng_sentence": "I pay for it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Я не понимаю.",
+		"eng_sentence": "I don't understand.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Они не делают ошибок.",
+		"eng_sentence": "They don't make mistakes.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "У меня нет времени.",
+		"eng_sentence": "I don't have time.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Я плачу за своё образование.",
+		"eng_sentence": "I pay for my education.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Они не думают о своём будущем.",
+		"eng_sentence": "They don't think about their future.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я не думаю об этом.",
+		"eng_sentence": "I don't think about it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "У меня нет много времени.",
+		"eng_sentence": "I don't have much time.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Мы не платим за наше образование.",
+		"eng_sentence": "We don't pay for our education.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Они не играют в футбол.",
+		"eng_sentence": "They don't play football.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я не знаю этого.",
+		"eng_sentence": "I don't know it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Они занимаются бизнесом.",
+		"eng_sentence": "They do business.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Мы не платим.",
+		"eng_sentence": "We don't pay.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Они не контролируют эту ситуацию.",
+		"eng_sentence": "They don't control this situation.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я не понимаю это.",
+		"eng_sentence": "I don't understand it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Мы не играем в теннис.",
+		"eng_sentence": "We don't play tennis.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я не плачу за этот курс.",
+		"eng_sentence": "I don't pay for this course.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я не работаю.",
+		"eng_sentence": "I don't work.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я не понимаю это сейчас.",
+		"eng_sentence": "I don't understand it now.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Они не видят эту проблему.",
+		"eng_sentence": "They don't see this problem.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я не хочу покупать это.",
+		"eng_sentence": "I don't want to buy it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я не хочу тратить свои деньги на эти вещи.",
+		"eng_sentence": "I don't want to spend my money on these things.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Мне не нравится их идея.",
+		"eng_sentence": "I don't like their idea.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я не хочу тратить на это свои деньги.",
+		"eng_sentence": "I don't want to spend my money on it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я не хочу там работать.",
+		"eng_sentence": "I don't want to work there.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я не ем эту еду.",
+		"eng_sentence": "I don't eat this food.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я не хочу жить в той стране.",
+		"eng_sentence": "I don't want to live in that country.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Мы говорим о разных вещах.",
+		"eng_sentence": "We talk about different things.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "У них нет больших денег.",
+		"eng_sentence": "They don't have big money.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я не хочу говорить об этой вещи.",
+		"eng_sentence": "I don't want to talk about this thing.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я вижу что тебе не нравится это.",
+		"eng_sentence": "I see that you don't like it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Они часто говорят о политике.",
+		"eng_sentence": "They often talk about politics.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Они не хотят жить в этой стране.",
+		"eng_sentence": "They don't want to live in this country.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "У них нет времени.",
+		"eng_sentence": "They don't have time.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Они не говорят мне эти вещи.",
+		"eng_sentence": "They don't tell me these things.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я не хочу тратить своё время на эту вещь.",
+		"eng_sentence": "I don't want to spend my time on this thing.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Мы не хотим покупать эту вещь.",
+		"eng_sentence": "We don't want to buy this thing.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Мы  не хотим тратить свою жизнь на эту вещь.",
+		"eng_sentence": "We don't want to spend our life on this thing.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я не хочу платить за это.",
+		"eng_sentence": "I don't want to pay for it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Мы не хотим платить за эту вещь.",
+		"eng_sentence": "We don't want to pay for this thing.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я не плачу за это.",
+		"eng_sentence": "I don't pay for it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Нам не нравятся его идеи.",
+		"eng_sentence": "We don't like his ideas.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я не хочу тратить своё время на это.",
+		"eng_sentence": "I don't want to spend my time on it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Ты не хочешь тратить своё время на это.",
+		"eng_sentence": "You don't want to spend your time on it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Он хочет тратить своё время на это.",
+		"eng_sentence": "He wants to spend his time on it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Нам не нравится эта песня.",
+		"eng_sentence": "We don't like this song.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Тебе не нравится эта книга.",
+		"eng_sentence": "You don't like this book.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Нам нравится эта песня.",
+		"eng_sentence": "We like this song.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я не хочу говорить об этом сейчас.",
+		"eng_sentence": "I don't want to talk about it now.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Они не хотят слышать это.",
+		"eng_sentence": "They don't want to hear it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Мы хотим поговорить об этом сейчас.",
+		"eng_sentence": "We want to talk about it now.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я не хочу говорить об этом.",
+		"eng_sentence": "I don't want to talk about it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Мы хотим прочитать эту книгу.",
+		"eng_sentence": "We want to read this book.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Ты не хочешь говорить об этой ситуации.",
+		"eng_sentence": "You don't want to talk about this situation.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Ты не помогаешь нам.",
+		"eng_sentence": "You don't help us.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Они не помогают мне.",
+		"eng_sentence": "They don't help me.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Я не помогаю тебе.",
+		"eng_sentence": "I don't help you.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я вижу, что ты не хочешь этого.",
+		"eng_sentence": "I see that you don't want it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Я вижу, что они хотят этого.",
+		"eng_sentence": "I see that they want it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я знаю, что ты хочешь этого.",
+		"eng_sentence": "I know that you want it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я не ем это.",
+		"eng_sentence": "I don't eat it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Ты не ешь это.",
+		"eng_sentence": "You don't eat it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Мы не едим эту еду.",
+		"eng_sentence": "We don't eat this food.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я не хочу платить так много денег за это.",
+		"eng_sentence": "I don't want to pay so much money for it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я не хочу быть менеджером.",
+		"eng_sentence": "I don't want to be a manager.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я не понимаю его.",
+		"eng_sentence": "I don't understand him.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я не пью кофе.",
+		"eng_sentence": "I don't drink coffee.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Они не говорят это.",
+		"eng_sentence": "They don't say it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я не хочу платить.",
+		"eng_sentence": "I don't want to pay.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я не хочу тратить так много денег на это.",
+		"eng_sentence": "I don't want to spend so much money on it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "У нас нет свободного времени.",
+		"eng_sentence": "We don't have free time.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "У них нет денег.",
+		"eng_sentence": "They don't have money.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я не хочу говорить о политике.",
+		"eng_sentence": "I don't want to talk about politics.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Мы часто разговариваем об этом.",
+		"eng_sentence": "We often talk about it.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я не понимаю их.",
+		"eng_sentence": "I don't understand them.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Мне не нравится эта музыка.",
+		"eng_sentence": "I don't like this music.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Им не нравится эта игра.",
+		"eng_sentence": "They don't like this game.",
+		"lesson": "6",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "Я не хочу быть бизнесменом.",
+		"eng_sentence": "I don't want to be a businessman.",
+		"lesson": "6",
+		"difficulty": ""
+	}
+]
