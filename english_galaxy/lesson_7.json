@@ -1,0 +1,709 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Это не интересует их.",
+		"eng_sentence": "It doesn't interest them.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "У него нет каких-либо вопросов.",
+		"eng_sentence": "He doesn't have any questions.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "У меня нет каких-либо планов.",
+		"eng_sentence": "I don't have any plans.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Он не чувствует себя счастливым.",
+		"eng_sentence": "He doesn't feel happy.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я пользуюсь интернетом каждый день.",
+		"eng_sentence": "I use the Internet every day.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я пользуюсь этим сервисом.",
+		"eng_sentence": "I use this service.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Это не помогает нам.",
+		"eng_sentence": "It doesn't help us.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Ему не нравится это.",
+		"eng_sentence": "He doesn't like it.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Это не мотивирует меня.",
+		"eng_sentence": "It doesn't motivate me.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Я не ем это.",
+		"eng_sentence": "I don't eat it.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Она так не думает.",
+		"eng_sentence": "She doesn't think so.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Это не интересует её.",
+		"eng_sentence": "It doesn't interest her.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Он не контролирует эту ситуацию.",
+		"eng_sentence": "He doesn't control this situation.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "У нее нет детей.",
+		"eng_sentence": "She doesn't have children.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Это не мотивирует их.",
+		"eng_sentence": "It doesn't motivate them.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Она не согласна.",
+		"eng_sentence": "She doesn't agree.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Это мне не помогает.",
+		"eng_sentence": "It doesn't help me.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "У меня есть некоторые интересные идеи.",
+		"eng_sentence": "I have some interesting ideas.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я так не думаю.",
+		"eng_sentence": "I don't think so.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Это не работает.",
+		"eng_sentence": "It doesn't work.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я не пользуюсь этой услугой.",
+		"eng_sentence": "I don't use this service.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Ей это не нравится.",
+		"eng_sentence": "She doesn't like it.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Это не мотивирует его.",
+		"eng_sentence": "It doesn't motivate him.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Это не интересует его.",
+		"eng_sentence": "It doesn't interest him.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "У него нет каких либо вопросов.",
+		"eng_sentence": "He doesn't have any questions.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "У него нет детей.",
+		"eng_sentence": "He doesn't have children.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Ей не нравится это место.",
+		"eng_sentence": "She doesn't like this place.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "У меня нет каких-либо планов.",
+		"eng_sentence": "I don't have any plans.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Это не стоит этих денег.",
+		"eng_sentence": "It doesn't cost this money.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Он не ест мясо.",
+		"eng_sentence": "He doesn't eat meat.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Это не интересует меня.",
+		"eng_sentence": "It doesn't interest me.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Она не ест эту еду.",
+		"eng_sentence": "She doesn't eat this food.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "У меня есть некоторые планы.",
+		"eng_sentence": "I have some plans.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Я часто пользуюсь интернетом.",
+		"eng_sentence": "I often use the Internet.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он не говорит эти вещи.",
+		"eng_sentence": "He doesn't say these things.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он не пользуется этой услугой.",
+		"eng_sentence": "He doesn't use this service.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Он не так часто пользуется интернетом.",
+		"eng_sentence": "He doesn't use the Internet so often.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "У меня нет каких-либо идей.",
+		"eng_sentence": "I don't have any ideas.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я так думаю.",
+		"eng_sentence": "I think so.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Он так не думает.",
+		"eng_sentence": "He doesn't think so.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Он не хочет этого.",
+		"eng_sentence": "He doesn't want it.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "У меня нет каких-либо вопросов.",
+		"eng_sentence": "I don't have any questions.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это не интересует его друга.",
+		"eng_sentence": "It doesn't interest his friend.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Мне не нравятся экзамены.",
+		"eng_sentence": "I don't like exams.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Она не хочет продавать свою квартиру.",
+		"eng_sentence": "She doesn't want to sell her apartment (flat).",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "У неё есть собака.",
+		"eng_sentence": "She has a dog.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я не беспокоюсь об этом.",
+		"eng_sentence": "I don't worry about it.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Она преподаёт математику.",
+		"eng_sentence": "She teaches maths.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я не думаю, что это помогает.",
+		"eng_sentence": "I don't think that it helps.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Мне нравится этот тест.",
+		"eng_sentence": "I like this test.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "У него нет собаки.",
+		"eng_sentence": "He doesn't have a dog.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я не думаю, что это действительно помогает мне.",
+		"eng_sentence": "I don't think that it really helps me.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Он не чувствует себя лучше.",
+		"eng_sentence": "He doesn't feel better.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Она не ходит в школу.",
+		"eng_sentence": "She doesn't go to school.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Он преподаёт математику.",
+		"eng_sentence": "He teaches maths.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я понимаю как это работает.",
+		"eng_sentence": "I understand how it works.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Она чувствует себя лучше.",
+		"eng_sentence": "She feels better.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я думаю, что это не работает.",
+		"eng_sentence": "I think that it doesn't work.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Они не хотят продавать это.",
+		"eng_sentence": "They don't want to sell it.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Она не хочет покупать этот дом.",
+		"eng_sentence": "She doesn't want to buy this house.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Мы не хотим продавать это.",
+		"eng_sentence": "We don't want to sell it.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Она не преподаёт английский.",
+		"eng_sentence": "She doesn't teach English.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Они не преподают английский.",
+		"eng_sentence": "They don't teach English.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Он не преподаёт математику.",
+		"eng_sentence": "He doesn't teach maths.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Мне не нравятся эти экзамены.",
+		"eng_sentence": "I don't like these exams.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Ему не нравятся эти экзамены.",
+		"eng_sentence": "He doesn't like these exams.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я думаю, это не стоит этих денег.",
+		"eng_sentence": "I think it doesn't cost this money.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Они думают, это стоит этих денег.",
+		"eng_sentence": "They think it costs this money.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он смотрит телевизор только иногда.",
+		"eng_sentence": "He watches TV only sometimes.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Он пользуется интернетом только иногда.",
+		"eng_sentence": "He uses the Internet only sometimes.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Он не смотрит телевизор.",
+		"eng_sentence": "He doesn't watch TV.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Я не понимаю, почему это происходит.",
+		"eng_sentence": "I don't understand why it happens.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Она не понимает, когда это происходит.",
+		"eng_sentence": "She doesn't understand when it happens.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Они не понимают, где это происходит.",
+		"eng_sentence": "They don't understand where it happens.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Мне не нравится этот предмет.",
+		"eng_sentence": "I don't like this subject.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Мне не нравится тот предмет.",
+		"eng_sentence": "I don't like that subject.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Ей не нравятся эти предметы.",
+		"eng_sentence": "She doesn't like these subjects.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я делаю это только иногда.",
+		"eng_sentence": "I do it only sometimes.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Она делает это только иногда.",
+		"eng_sentence": "She does it only sometimes.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Мы делаем это так часто.",
+		"eng_sentence": "We do it so often.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Он не хочет звонить ей.",
+		"eng_sentence": "He doesn't want to call her.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я не хочу звонить ему.",
+		"eng_sentence": "I don't want to call him.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Она не хочет звонить ей.",
+		"eng_sentence": "She doesn't want to call her.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Он не хочет продавать дом.",
+		"eng_sentence": "He doesn't want to sell a house.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Она не хочет покупать его дом.",
+		"eng_sentence": "She doesn't want to buy his house.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Он не хочет продавать этот дом.",
+		"eng_sentence": "He doesn't want to sell this house.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Она не хочет звонить ему.",
+		"eng_sentence": "She doesn't want to call him.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я не волнуюсь.",
+		"eng_sentence": "I don't worry.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "У него есть кот.",
+		"eng_sentence": "He has a cat.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Он не ходит на работу.",
+		"eng_sentence": "He doesn't go to work.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Ему нравятся эти тесты.",
+		"eng_sentence": "He likes these tests.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Он не хочет платить за это.",
+		"eng_sentence": "He doesn't want to pay for it.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Он не занимается бизнесом.",
+		"eng_sentence": "He doesn't do business.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Он не хочет говорить об этом.",
+		"eng_sentence": "He doesn't want to talk about it.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я не беспокоюсь об этой вещи.",
+		"eng_sentence": "I don't worry about this thing.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я думаю, это стоит гораздо больше.",
+		"eng_sentence": "I think it costs much more.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я не хочу смотреть телевизор.",
+		"eng_sentence": "I don't want to watch TV.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Он не беспокоится о своих экзаменах.",
+		"eng_sentence": "He doesn't worry about his exams.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "У нее нет кошки.",
+		"eng_sentence": "She doesn't have a cat.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Мне нравится этот предмет.",
+		"eng_sentence": "I like this subject.",
+		"lesson": "7",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я не хочу беспокоится об этом.",
+		"eng_sentence": "I don't want to worry about it.",
+		"lesson": "7",
+		"difficulty": ""
+	}
+]
