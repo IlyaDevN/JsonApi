@@ -1,0 +1,709 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я хочу работать в другом месте.",
+		"eng_sentence": "I want to work in another place.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Мне нужно это.",
+		"eng_sentence": "I need it.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Ей не нужно это.",
+		"eng_sentence": "She doesn't need it.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Она хочет работать.",
+		"eng_sentence": "She wants to work.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Она так не думает.",
+		"eng_sentence": "She doesn't think so.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "У нас есть некоторые вопросы.",
+		"eng_sentence": "We have some questions.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "У него есть время.",
+		"eng_sentence": "He has time.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "У неё нет свободного времени.",
+		"eng_sentence": "She doesn't have free time.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Она чувствует себя очень плохо.",
+		"eng_sentence": "She feels very bad.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Ему не нравится этот отель.",
+		"eng_sentence": "He doesn't like this hotel.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "У меня нет каких-либо вопросов сейчас.",
+		"eng_sentence": "I don't have any questions now.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Мне нужно больше времени.",
+		"eng_sentence": "I need more time.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "У него есть деньги.",
+		"eng_sentence": "He has money.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я хочу работать в другом месте.",
+		"eng_sentence": "I want to work in another place.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Ему не нужно это.",
+		"eng_sentence": "He doesn't need it.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Она хочет учиться в другом месте.",
+		"eng_sentence": "She wants to study in another place.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Я хочу посетить другие страны и города.",
+		"eng_sentence": "I want to visit other countries and cities.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я не делаю каких-либо ошибок.",
+		"eng_sentence": "I don't make any mistakes.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Ему нужно больше практики.",
+		"eng_sentence": "He needs more practice.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Мне нужна эта вещь.",
+		"eng_sentence": "I need this thing.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я не хочу жить в этом месте.",
+		"eng_sentence": "I don't want to live in this place.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Мне это нужно.",
+		"eng_sentence": "I need it.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Он преподаёт другой предмет.",
+		"eng_sentence": "He teaches another subject.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Мне нужно больше свободного времени.",
+		"eng_sentence": "I need more free time.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Ей не нужно это.",
+		"eng_sentence": "She doesn't need it.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Она не думает так.",
+		"eng_sentence": "She doesn't think so.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Она часто делает ошибки.",
+		"eng_sentence": "She often makes mistakes.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Он учится.",
+		"eng_sentence": "He studies.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Мне это не нужно.",
+		"eng_sentence": "I don't need it.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я чувствую себя хорошо.",
+		"eng_sentence": "I feel good.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Он не преподает английский.",
+		"eng_sentence": "He doesn't teach English.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Ей не нужна наша помощь.",
+		"eng_sentence": "She doesn't need our help.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "У меня есть один вопрос.",
+		"eng_sentence": "I have one question.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Мне действительно нравится эта игра.",
+		"eng_sentence": "I really like this game.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Ему нужна та вещь.",
+		"eng_sentence": "He needs that thing.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он преподаёт английский очень профессионально.",
+		"eng_sentence": "He teaches English very professionally.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Ему действительно нравится этот сайт.",
+		"eng_sentence": "He really likes this website.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Он не хочет работать.",
+		"eng_sentence": "He doesn't want to work.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Мне нужна твоя помощь.",
+		"eng_sentence": "I need your help.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Она не хочет учиться.",
+		"eng_sentence": "She doesn't want to study.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я хочу жить в другом месте.",
+		"eng_sentence": "I want to live in another place.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Она не хочет учиться за границей.",
+		"eng_sentence": "She doesn't want to study abroad.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Она не чувствует себя лучше.",
+		"eng_sentence": "She doesn't feel better.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Он играет в компьютерные игры.",
+		"eng_sentence": "He plays computer games.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я не помню как это работает.",
+		"eng_sentence": "I don't remember how it works.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Он делает это снова и снова.",
+		"eng_sentence": "He does it again and again.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Мне не нравятся те упражнения.",
+		"eng_sentence": "I don't like those exercises.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Она не хочет получать так мало денег.",
+		"eng_sentence": "She doesn't want to get so little money.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я хочу получать больше денег.",
+		"eng_sentence": "I want to get more money.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Она говорит по английски с ошибками.",
+		"eng_sentence": "She speaks English with mistakes.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я чувствую себя таким счастливым, потому что у меня хорошие результаты.",
+		"eng_sentence": "I feel so happy because I have good results.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Он не помнит свой адрес.",
+		"eng_sentence": "He doesn't remember his address.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Он хочет говорить по-английски без ошибок.",
+		"eng_sentence": "He wants to speak English without mistakes.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я предпочитаю чай.",
+		"eng_sentence": "I prefer tea.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я не хочу говорить по-английски с ошибками.",
+		"eng_sentence": "I don't want to speak English with mistakes.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я помню это.",
+		"eng_sentence": "I remember it.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Он чувствует себя счастливым.",
+		"eng_sentence": "He feels happy.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Мы чувствуем себя очень счастливыми вместе.",
+		"eng_sentence": "We feel very happy together.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Он этого не делает, потому что у него мало свободного времени.",
+		"eng_sentence": "He doesn't do it because he has little free time.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Они этого не делают, потому что у них очень мало свободного времени.",
+		"eng_sentence": "They don't do it because they have very little free time.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Она этого не делает, потому что у неё нет какого-либо свободного времени.",
+		"eng_sentence": "She doesn't do it because she doesn't have any free time.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я помню это очень хорошо.",
+		"eng_sentence": "I remember it very well.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Она помнит это так хорошо.",
+		"eng_sentence": "She remembers it so well.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Ты помнишь это очень хорошо.",
+		"eng_sentence": "You remember it very well.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я хочу общаться с другими людьми, которые знают английский.",
+		"eng_sentence": "I want to communicate with other people who know English.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Он хочет общаться с другими людьми, которые знают английский.",
+		"eng_sentence": "He wants to communicate with other people who know English.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я хочу общаться с другим человеком, который знает английский.",
+		"eng_sentence": "I want to communicate with another person who knows English.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я предпочитаю эти упражнения.",
+		"eng_sentence": "I prefer these exercises.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он предпочитает эти упражнения.",
+		"eng_sentence": "He prefers these exercises.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Я предпочитаю то упражнение.",
+		"eng_sentence": "I prefer that exercise.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Он не хочет иметь эти проблемы.",
+		"eng_sentence": "He doesn't want to have these problems.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Они не хотят иметь эти проблемы.",
+		"eng_sentence": "They don't want to have these problems.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Она не хочет иметь эту проблему.",
+		"eng_sentence": "She doesn't want to have this problem.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "У неё плохие результаты.",
+		"eng_sentence": "She has bad results.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "У него хорошие результаты.",
+		"eng_sentence": "He has good results.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "У них хорошие результаты.",
+		"eng_sentence": "They have good results.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я не помню её имя.",
+		"eng_sentence": "I don't remember her name.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я не помню его имя.",
+		"eng_sentence": "I don't remember his name.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Он не помнит её имя.",
+		"eng_sentence": "He doesn't remember her name.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Он не чувствует себя счастливым, потому что у него плохие результаты.",
+		"eng_sentence": "He doesn't feel happy because he has bad results.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Я не чувствую себя счастливым, потому что у меня плохие результаты.",
+		"eng_sentence": "I don't feel happy because I have bad results.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Она чувствует себя счастливой, потому что у неё хорошие результаты.",
+		"eng_sentence": "She feels happy because she has good results.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Она предпочитает кофе.",
+		"eng_sentence": "She prefers coffee.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Он предпочитает кофе.",
+		"eng_sentence": "He prefers coffee.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Она не хочет читать эту книгу.",
+		"eng_sentence": "She doesn't want to read this book.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Он не хочет читать эту книгу.",
+		"eng_sentence": "He doesn't want to read this book.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я не хочу читать эти книги.",
+		"eng_sentence": "I don't want to read these books.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "У неё другая проблема.",
+		"eng_sentence": "She has another problem.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я хочу поиграть в другую игру.",
+		"eng_sentence": "I want to play another game.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "У него есть проблема.",
+		"eng_sentence": "He has a problem.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Она говорит это снова и снова.",
+		"eng_sentence": "She says it again and again.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я хочу общаться с другими людьми, которые говорят по-английски.",
+		"eng_sentence": "I want to communicate with other people who speak English.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я не хожу туда, потому что у меня слишком мало свободного времени.",
+		"eng_sentence": "I don't go there because I have too little free time.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Он не говорит по-английски медленно.",
+		"eng_sentence": "He doesn't speak English slowly.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Он хочет получать больше денег.",
+		"eng_sentence": "He wants to get more money.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Он говорит по-английски очень быстро.",
+		"eng_sentence": "He speaks English very fast.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Они не чувствуют себя счастливыми.",
+		"eng_sentence": "They don't feel happy.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я предпочитаю эту еду.",
+		"eng_sentence": "I prefer this food.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я не хочу играть в эту игру.",
+		"eng_sentence": "I don't want to play this game.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Я хочу прочесть те книги.",
+		"eng_sentence": "I want to read those books.",
+		"lesson": "8",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я не хочу делать эти ошибки снова и снова.",
+		"eng_sentence": "I don't want to make these mistakes again and again.",
+		"lesson": "8",
+		"difficulty": ""
+	}
+]
