@@ -169,7 +169,7 @@
 	},
 	{	
 		"id": 25,
-		"rus_sentence": "У него нет каких либо вопросов.",
+		"rus_sentence": "У него нет каких-либо вопросов.",
 		"eng_sentence": "He doesn't have any questions.",
 		"lesson": "7",
 		"difficulty": ""
