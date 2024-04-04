@@ -1,0 +1,695 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Ты понимаешь меня?",
+		"eng_sentence": "Do you understand me?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Они покупают это онлайн?",
+		"eng_sentence": "Do they buy it online?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Ты знаешь, как это работает?",
+		"eng_sentence": "Do you know how it works?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Ты знаешь, почему это происходит?",
+		"eng_sentence": "Do you know why it happens?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Ты любишь читать?",
+		"eng_sentence": "Do you like reading?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Ей нравится учиться?",
+		"eng_sentence": "Does she like studying?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "У тебя много друзей?",
+		"eng_sentence": "Do you have many friends?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Тебе нравится этот курс?",
+		"eng_sentence": "Do you like this course?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Ты слышишь меня?",
+		"eng_sentence": "Do you hear me?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Ты чувствуешь свой прогресс?",
+		"eng_sentence": "Do you feel you progress?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Ты учишься?",
+		"eng_sentence": "Do you study?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Ты понимаешь меня?",
+		"eng_sentence": "Do you understand me?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Ты часто ходишь в то место?",
+		"eng_sentence": "Do you often go to that place?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Тебе нравится петь?",
+		"eng_sentence": "Do you like singing?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "У тебя хорошие результаты?",
+		"eng_sentence": "Do you have good results?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Они поддерживают это?",
+		"eng_sentence": "Do they support it?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Они поддерживают эту идею?",
+		"eng_sentence": "Do they support this idea?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "У тебя есть свободное время сейчас?",
+		"eng_sentence": "Do you have free time now?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Тебе нравится эта погода?",
+		"eng_sentence": "Do you like this weather?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Ты тренируешься очень интенсивно?",
+		"eng_sentence": "Do you train very intensively?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Ты видишь это?",
+		"eng_sentence": "Do  you see it?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Мы тренируемся интенсивно?",
+		"eng_sentence": "Do we train intensively?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Ты хочешь этого?",
+		"eng_sentence": "Do you want it?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "У тебя есть какие-либо планы?",
+		"eng_sentence": "Do you have any plans?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Ты часто ходишь туда?",
+		"eng_sentence": "Do you often go there?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Ты согласен?",
+		"eng_sentence": "Do you agree?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Ты часто видишь это?",
+		"eng_sentence": "Do you often see it?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Ты работаешь?",
+		"eng_sentence": "Do you work?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Ты поддерживаешь её?",
+		"eng_sentence": "Do you support her?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Ты согласен с этим?",
+		"eng_sentence": "Do you agree with it?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Ты понимаешь это?",
+		"eng_sentence": "Do you understand it?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Тебе нравится этот фильм?",
+		"eng_sentence": "Do you like this movie?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Ты играешь в теннис?",
+		"eng_sentence": "Do you play tennis?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Ты смотришь телевизор?",
+		"eng_sentence": "Do you watch TV?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Я говорю это правильно?",
+		"eng_sentence": "Do I say it correctly?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Ты действительно хочешь это?",
+		"eng_sentence": "Do you really want it?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Ты читаешь по-английски?",
+		"eng_sentence": "Do you read in English?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Ты чувствуешь себя лучше?",
+		"eng_sentence": "Do you feel better?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Ты говоришь по-английски?",
+		"eng_sentence": "Do you speak English?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "У тебя есть какие-либо идеи?",
+		"eng_sentence": "Do you have any ideas?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я говорю по-английски правильно?",
+		"eng_sentence": "Do I speak English correctly?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Тебе нравится читать?",
+		"eng_sentence": "Do you like reading?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Ты понимаешь?",
+		"eng_sentence": "Do you understand?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Им нравится танцевать?",
+		"eng_sentence": "Do they like dancing?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Тебе нравится эта идея?",
+		"eng_sentence": "Do you like this idea?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Тебе нужна моя помощь?",
+		"eng_sentence": "Do you need my help?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Ты работаешь или учишься?",
+		"eng_sentence": "Do you work or study?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Они часто ходят в парк?",
+		"eng_sentence": "Do they often go to the park?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Ты понимаешь, почему они это делают?",
+		"eng_sentence": "Do you understand why they do it?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Они покупают это онлайн?",
+		"eng_sentence": "Do they buy it online?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Ты ходишь в кино?",
+		"eng_sentence": "Do you go to the cinema?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Ты часто делаешь это?",
+		"eng_sentence": "Do you often do it?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Ты платишь за это?",
+		"eng_sentence": "Do you pay for it?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Ты любишь его?",
+		"eng_sentence": "Do you love him?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Ты часто думаешь об этом?",
+		"eng_sentence": "Do you often think about it?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Ты находишь эту идею очень интересной?",
+		"eng_sentence": "Do you find this idea very interesting?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Ты знаешь, как это работает?",
+		"eng_sentence": "Do you know how it works?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Ты часто звонишь ей?",
+		"eng_sentence": "Do you often call her?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Ты находишь эту книгу очень скучной?",
+		"eng_sentence": "Do you find this book very boring?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Ты знаешь, почему это происходит?",
+		"eng_sentence": "Do you know why it happens?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Они платят за эту услугу?",
+		"eng_sentence": "Do they pay for this service?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Ты говоришь по-китайски?",
+		"eng_sentence": "Do you speak Chinese?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Ты читаешь по-китайски?",
+		"eng_sentence": "Do you read in Chinese?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Они говорят по-английски?",
+		"eng_sentence": "Do they speak English?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Ты часто говоришь об этом?",
+		"eng_sentence": "Do you often talk about it?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Они часто говорят о тебе?",
+		"eng_sentence": "Do they often talk about you?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Ты часто говоришь об этих вещах?",
+		"eng_sentence": "Do you often talk about these things?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Ты хочешь учиться за границей?",
+		"eng_sentence": "Do you want to study abroad?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Ты хочешь учиться в другой стране?",
+		"eng_sentence": "Do you want to study in another country?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Ты хочешь путешествовать за границей?",
+		"eng_sentence": "Do you want to travel abroad?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я показываю лучшие результаты?",
+		"eng_sentence": "Do I show better results?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Ты показываешь лучшие результаты?",
+		"eng_sentence": "Do you show better results?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Ты хочешь поехать в Англию?",
+		"eng_sentence": "Do you want to go to England?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Ты хочешь поехать в Соединённые  штаты?",
+		"eng_sentence": "Do you want to go to the United States?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Ты часто ходишь в кино?",
+		"eng_sentence": "Do you often go to the cinema?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Ты обычно ходишь в кино?",
+		"eng_sentence": "Do you usually go to the cinema?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Ты часто ходишь в парк?",
+		"eng_sentence": "Do you often go to the park?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Они хотят работать за границей?",
+		"eng_sentence": "Do they want to work abroad?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Они хотят учиться за границей?",
+		"eng_sentence": "Do they want to study abroad?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Ты учишься или работаешь?",
+		"eng_sentence": "Do you study or work?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Они учатся или работают?",
+		"eng_sentence": "Do they study or work?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я показываю хорошие результаты?",
+		"eng_sentence": "Do I show good results?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Я показываю плохие результаты?",
+		"eng_sentence": "Do I show bad results?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Ты хочешь жить в Соединённых штатах?",
+		"eng_sentence": "Do you want to live in the United States?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Ты хочешь жить в Соединённом королевстве?",
+		"eng_sentence": "Do you want to live in the United Kingdom?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Ты хочешь жить в Англии?",
+		"eng_sentence": "Do you want to live in England?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Ты обычно покупаешь это онлайн?",
+		"eng_sentence": "Do you usually buy it online?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Ты часто читаешь по-английски?",
+		"eng_sentence": "Do you often read in English?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Тебе действительно нравится эта игра?",
+		"eng_sentence": "Do you really like this game?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Они показывают очень хорошие результаты?",
+		"eng_sentence": "Do they show very good results?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Ты часто путешествуешь?",
+		"eng_sentence": "Do you often travel?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Ты чувствует реальный прогресс?",
+		"eng_sentence": "Do you feel real progress?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Ты любишь её?",
+		"eng_sentence": "Do you love her?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Ты действительно знаешь китайский?",
+		"eng_sentence": "Do you really know Chinese?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Ты думаешь, у тебя хорошие результаты?",
+		"eng_sentence": "Do you think you have good result?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Ты хочешь изучать английский здесь?",
+		"eng_sentence": "Do you want to learn English here?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Ты чувствуешь прогресс?",
+		"eng_sentence": "Do you feel progress?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Они хотят купить компьютер?",
+		"eng_sentence": "Do they want to buy a computer?",
+		"lesson": "9",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Ты часто пишешь на английском?",
+		"eng_sentence": "Do you often write in English?",
+		"lesson": "9",
+		"difficulty": ""
+	}
+]
