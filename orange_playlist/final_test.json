@@ -3183,5 +3183,495 @@
 		"eng_sentence": "The camera zoomed in on her face.",
 		"lesson": "final_test",
 		"difficulty": ""
+	},
+	{	
+		"id": 456,
+		"rus_sentence": "Это произошло два года назад, если моя память не подводит меня.",
+		"eng_sentence": "It happened two years ago if my memory doesn't let me down.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 457,
+		"rus_sentence": "Не так легко мириться с этой несправедливостью. (фр. гл. put)",
+		"eng_sentence": "It's not so easy to put up with this injustice.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 458,
+		"rus_sentence": "Я сомневаюсь в этом.",
+		"eng_sentence": "I doubt it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 459,
+		"rus_sentence": "Кто организовал этот бизнес?",
+		"eng_sentence": "Who organized this business?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 460,
+		"rus_sentence": "Если бы я нашёл этот канал намного раньше, мой уровень английского был бы намного выше сейчас.",
+		"eng_sentence": "If I'd found this channel much earlier, my English level would be much higher now.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 461,
+		"rus_sentence": "Что опечалило тебя?",
+		"eng_sentence": "What saddened you?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 462,
+		"rus_sentence": "Она становится мудрее сейчас?",
+		"eng_sentence": "Is she getting wiser?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 463,
+		"rus_sentence": "Я въехал в новый дом.",
+		"eng_sentence": "I moved into a new house.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 464,
+		"rus_sentence": "Давай пересечемся сегодня вечером. (фр. гл. meet)",
+		"eng_sentence": "Let's meet up tonight.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 465,
+		"rus_sentence": "Эта информация не будет найдена к завтрашнему.",
+		"eng_sentence": "This information won't have been found by tomorrow.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 466,
+		"rus_sentence": "Солдаты сражались очень отважно.",
+		"eng_sentence": "The soldiers fought very courageously.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 467,
+		"rus_sentence": "Я разобрал это на части. (фр. гл. take)",
+		"eng_sentence": "I took it apart.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 468,
+		"rus_sentence": "Я хотел бы заметить насколько это важно. (фр. гл. point)",
+		"eng_sentence": "I'd like to point out how important it is.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 469,
+		"rus_sentence": "В то время как его родители будут отсутствовать, он будет работать намного усерднее.",
+		"eng_sentence": "While his parents are away, he'll be working much harder.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 470,
+		"rus_sentence": "Я не могу понять это. (фр. гл. figure)",
+		"eng_sentence": "I can't figure it out.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 471,
+		"rus_sentence": "Он ещё не упомянул эту деталь.",
+		"eng_sentence": "He hasn't mentioned this detail yet.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 472,
+		"rus_sentence": "Подул очень сильный ветер вдруг.",
+		"eng_sentence": "A very strong wind blew suddenly.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 473,
+		"rus_sentence": "Он предпочитает изучать английский самостоятельно.",
+		"eng_sentence": "He prefers to learn English by himself (on his own).",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 474,
+		"rus_sentence": "Не думай что деньги это все. Есть более высокие ценности.",
+		"eng_sentence": "Don't think that money is everything. There are higher values.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 475,
+		"rus_sentence": "Я хотел бы знать все за и против.",
+		"eng_sentence": "I'd like to know all the pros and cons.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 476,
+		"rus_sentence": "Посмотри! Они играют вместе.",
+		"eng_sentence": "Look! They are playing together.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 477,
+		"rus_sentence": "Я последую этой рекомендации.",
+		"eng_sentence": "I'll follow this recommendation.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 478,
+		"rus_sentence": "Я должен буду сказать ему эту вещь.",
+		"eng_sentence": "I'll have to tell him this thing.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 479,
+		"rus_sentence": "Что ты пытаешься сказать сейчас?",
+		"eng_sentence": "What are you trying to say?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 480,
+		"rus_sentence": "Честно, я не знаю как сказать это.",
+		"eng_sentence": "Honestly, I don't know how to say it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 481,
+		"rus_sentence": "Я только что заплатил за все.",
+		"eng_sentence": "I've just paid for everything.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 482,
+		"rus_sentence": "Ты увидишь это на следующей странице.",
+		"eng_sentence": "You'll see it on the next page.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 483,
+		"rus_sentence": "Мне не о чем волноваться.",
+		"eng_sentence": "I have nothing to worry about.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 484,
+		"rus_sentence": "Чем ты интересуешься в последнее время?",
+		"eng_sentence": "What have you been interested in lately?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 485,
+		"rus_sentence": "Он будет беречь (охранять) её.",
+		"eng_sentence": "He'll protect her.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 486,
+		"rus_sentence": "Что ты записываешь сейчас? (фр. гл. write)",
+		"eng_sentence": "What are you writing down?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 487,
+		"rus_sentence": "Он ещё не выплатил мне долг. (фр. гл. pay)",
+		"eng_sentence": "He hasn't paid me back yet.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 488,
+		"rus_sentence": "Он собрал эти часы. (фр. гл. put)",
+		"eng_sentence": "He put this watch together.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 489,
+		"rus_sentence": "Ты можешь надуть этот воздушный шар? (фр. гл. blow)",
+		"eng_sentence": "Can you blow up this balloon?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 490,
+		"rus_sentence": "Разве не идет снег целый день?",
+		"eng_sentence": "Hasn't it been snowing all day?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 491,
+		"rus_sentence": "Я осознаю насколько рискованно это было.",
+		"eng_sentence": "I realize how risky it was.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 492,
+		"rus_sentence": "Он заявил что не делал этого.",
+		"eng_sentence": "He claimed that he hadn't done it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 493,
+		"rus_sentence": "Он задел её чувства.",
+		"eng_sentence": "He hurt her feelings.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 494,
+		"rus_sentence": "Она только что позвонила нам.",
+		"eng_sentence": "She's just called us.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 495,
+		"rus_sentence": "Этот проект будет закончен скоро.",
+		"eng_sentence": "This project will be finished soon.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 496,
+		"rus_sentence": "Это философский вопрос.",
+		"eng_sentence": "It's a philosophical issue.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 497,
+		"rus_sentence": "Это изменило мою жизнь основательно.",
+		"eng_sentence": "It changed my life profoundly.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 498,
+		"rus_sentence": "Я обернул (завернул) коробку. (фр. гл. wrap)",
+		"eng_sentence": "I wrapped up the box.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 499,
+		"rus_sentence": "Мне не нравится тот метод.",
+		"eng_sentence": "I dislike (don't like) that method.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 500,
+		"rus_sentence": "Они передвинули этот стул.",
+		"eng_sentence": "They removed this chair.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 501,
+		"rus_sentence": "Я делаю это почти что год.",
+		"eng_sentence": "I've been doing it for almost a year.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 502,
+		"rus_sentence": "Почему ты выбросил это? (фр. гл. throw)",
+		"eng_sentence": "Why did you throw it away?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 503,
+		"rus_sentence": "Слишком много вопросов задают сейчас.",
+		"eng_sentence": "Too many questions are being asked.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 504,
+		"rus_sentence": "Я одобряю этот выбор.",
+		"eng_sentence": "I approve of this choice.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 505,
+		"rus_sentence": "Ожидалось, что он придёт туда.",
+		"eng_sentence": "He was expected to come there.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 506,
+		"rus_sentence": "Другими словами это было напрасно.",
+		"eng_sentence": "In other words, it was in vain.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 507,
+		"rus_sentence": "Это звучит очень подозрительно сейчас.",
+		"eng_sentence": "It sounds very suspicious now.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 508,
+		"rus_sentence": "Мы ладим очень хорошо друг с другом. (фр. гл. get)",
+		"eng_sentence": "We get on (get along) with each other very well.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 509,
+		"rus_sentence": "Я не против взять её с нами. (mind)",
+		"eng_sentence": "I don't mind taking her with us.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 510,
+		"rus_sentence": "Она позвонит мне, когда я буду делать это упражнение.",
+		"eng_sentence": "She'll call me when I'm doing this exercise.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 511,
+		"rus_sentence": "Когда покормят детей?",
+		"eng_sentence": "When will the children be fed?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 512,
+		"rus_sentence": "Полиция уже арестовала этих преступников.",
+		"eng_sentence": "The police have already arrested these criminals.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 513,
+		"rus_sentence": "Не забудь прикрепить ещё один документ.",
+		"eng_sentence": "Don't forget to attach one more document.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 514,
+		"rus_sentence": "Она очень сильно любит тебя.",
+		"eng_sentence": "She loves you very much.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 515,
+		"rus_sentence": "Он поправился (выздоровел) на прошлой неделе. (фр. гл. get)",
+		"eng_sentence": "He got over last week.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 516,
+		"rus_sentence": "Если это не поможет мне, это будет странно.",
+		"eng_sentence": "If it doesn't help me, it'll be strange.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 517,
+		"rus_sentence": "Я видел его не так давно.",
+		"eng_sentence": "I saw him not a long time ago.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 518,
+		"rus_sentence": "Он представил этот отчёт.",
+		"eng_sentence": "He presented this report.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 519,
+		"rus_sentence": "Как уже было упомянуто.",
+		"eng_sentence": "As it's already been mentioned.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 520,
+		"rus_sentence": "Она такого же возраста как и он.",
+		"eng_sentence": "She's the same age as him.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 521,
+		"rus_sentence": "Он предпочитает неформально одеваться. (фр. гл. dress)",
+		"eng_sentence": "He prefers to dress down.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 522,
+		"rus_sentence": "Мне нечего спросить.",
+		"eng_sentence": "I have nothing to ask.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 523,
+		"rus_sentence": "Это напоминает мне мои прошлые ошибки.",
+		"eng_sentence": "It reminds me of my past mistakes.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 524,
+		"rus_sentence": "Файлы были скачаны.",
+		"eng_sentence": "The files were downloaded.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{	
+		"id": 525,
+		"rus_sentence": "Мы отправились в путь очень рано. (off)",
+		"eng_sentence": "We set off very early.",
+		"lesson": "final_test",
+		"difficulty": ""
 	}
 ]
