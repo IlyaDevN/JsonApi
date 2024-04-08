@@ -1,0 +1,82 @@
+[
+	{	
+		"id": 1,
+		"rus_word": "я",
+		"eng_word": "I",
+		"rus_sentence": "Я понимаю.",
+		"eng_sentence": "I understand.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 2,
+		"rus_word": "понимать",
+		"eng_word": "understand",
+		"rus_sentence": "Я понимаю тебя очень хорошо.",
+		"eng_sentence": "I understand you very well.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 3,
+		"rus_word": "говорить (на каком-то языке)",
+		"eng_word": "speak",
+		"rus_sentence": "Я говорю по-английски.",
+		"eng_sentence": "I speak English.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 4,
+		"rus_word": "английский",
+		"eng_word": "English",
+		"rus_sentence": "Ты говоришь по-английски?.",
+		"eng_sentence": "Do you speak English?",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 5,
+		"rus_word": "мочь, уметь",
+		"eng_word": "can",
+		"rus_sentence": "Я могу сделать это.",
+		"eng_sentence": "I can do it.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 6,
+		"rus_word": "знать",
+		"eng_word": "know",
+		"rus_sentence": "Я знаю это.",
+		"eng_sentence": "I know it.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 7,
+		"rus_word": "жить",
+		"eng_word": "live",
+		"rus_sentence": "Я живу в этом городе.",
+		"eng_sentence": "I live in this city.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 8,
+		"rus_word": "в",
+		"eng_word": "in",
+		"rus_sentence": "Он живет в этом месте.",
+		"eng_sentence": "He lives in this place.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 9,
+		"rus_word": "мы",
+		"eng_word": "we",
+		"rus_sentence": "Мы хотим это.",
+		"eng_sentence": "We want it.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 10,
+		"rus_word": "ты, вы",
+		"eng_word": "you",
+		"rus_sentence": "Ты знаешь это лучше.",
+		"eng_sentence": "You know it better.",
+		"lesson": "0-50"
+	}
+]
