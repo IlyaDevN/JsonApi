@@ -27,7 +27,7 @@
 		"id": 4,
 		"rus_word": "английский",
 		"eng_word": "English",
-		"rus_sentence": "Ты говоришь по-английски?.",
+		"rus_sentence": "Ты говоришь по-английски?",
 		"eng_sentence": "Do you speak English?",
 		"lesson": "0-50"
 	},
@@ -77,6 +77,326 @@
 		"eng_word": "you",
 		"rus_sentence": "Ты знаешь это лучше.",
 		"eng_sentence": "You know it better.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 11,
+		"rus_word": "они",
+		"eng_word": "they",
+		"rus_sentence": "Они помогают нам.",
+		"eng_sentence": "They help us.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 12,
+		"rus_word": "он",
+		"eng_word": "he",
+		"rus_sentence": "Он работает там.",
+		"eng_sentence": "He works there.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 13,
+		"rus_word": "она",
+		"eng_word": "she",
+		"rus_sentence": "Она понимает меня.",
+		"eng_sentence": "She understands me.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 14,
+		"rus_word": "это",
+		"eng_word": "it",
+		"rus_sentence": "Это реально помогает.",
+		"eng_sentence": "It really helps.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 15,
+		"rus_word": "нет",
+		"eng_word": "no",
+		"rus_sentence": "Ты понимаешь это? Нет.",
+		"eng_sentence": "Do you understand it? No.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 16,
+		"rus_word": "да",
+		"eng_word": "yes",
+		"rus_sentence": "Тебе нравится это? Да.",
+		"eng_sentence": "Do you like it? Yes.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 17,
+		"rus_word": "иметь",
+		"eng_word": "have",
+		"rus_sentence": "Я имею (у меня есть) эти деньги.",
+		"eng_sentence": "I have this money.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 18,
+		"rus_word": "неопределённый артикль перед согласным звуком",
+		"eng_word": "a",
+		"rus_sentence": "У меня есть брат.",
+		"eng_sentence": "I have a brother.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 19,
+		"rus_word": "неопределённый артикль перед гласным звуком",
+		"eng_word": "an",
+		"rus_sentence": "Я вижу яблоко.",
+		"eng_sentence": "I see an apple.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 20,
+		"rus_word": "определённый артикль",
+		"eng_word": "the",
+		"rus_sentence": "Результат очень хороший.",
+		"eng_sentence": "The result is very good.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 21,
+		"rus_word": "идти, ехать",
+		"eng_word": "go",
+		"rus_sentence": "Я часто хожу туда.",
+		"eng_sentence": "I often go there.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 22,
+		"rus_word": "предлог направления",
+		"eng_word": "to",
+		"rus_sentence": "Я хожу на работу.",
+		"eng_sentence": "I go to work.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 23,
+		"rus_word": "предлог принадлежности",
+		"eng_word": "of",
+		"rus_sentence": "Я не помню название этой улицы.",
+		"eng_sentence": "I don't remember tha name of this street.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 24,
+		"rus_word": "этот, это",
+		"eng_word": "this",
+		"rus_sentence": "Мне нравится эта идея.",
+		"eng_sentence": "I like this idea.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 25,
+		"rus_word": "тот, та",
+		"eng_word": "that",
+		"rus_sentence": "Я понимаю того человека.",
+		"eng_sentence": "I understand that person.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 26,
+		"rus_word": "мой, мои, моё",
+		"eng_word": "my",
+		"rus_sentence": "Мои родители часто говорят это.",
+		"eng_sentence": "My parents often say it.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 27,
+		"rus_word": "твой, ваш",
+		"eng_word": "your",
+		"rus_sentence": "Твой вопрос очень интересный.",
+		"eng_sentence": "Your question is very interesting.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 28,
+		"rus_word": "его (что-то)",
+		"eng_word": "his",
+		"rus_sentence": "Как его зовут?",
+		"eng_sentence": "What is (What's) his name?",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 29,
+		"rus_word": "её (что-то)",
+		"eng_word": "her",
+		"rus_sentence": "Как её зовут?",
+		"eng_sentence": "What is (What's) her name?",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 30,
+		"rus_word": "их (что-то)",
+		"eng_word": "their",
+		"rus_sentence": "Это их проблема.",
+		"eng_sentence": " It is (It's) their problem.",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 31,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 32,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 33,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 34,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 35,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 36,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 37,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 38,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 39,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 40,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 41,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 42,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 43,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 44,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 45,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 46,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 47,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 48,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 49,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
+		"lesson": "0-50"
+	},
+	{	
+		"id": 50,
+		"rus_word": "",
+		"eng_word": "",
+		"rus_sentence": "",
+		"eng_sentence": "",
 		"lesson": "0-50"
 	}
 ]
