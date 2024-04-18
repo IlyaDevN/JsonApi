@@ -1,0 +1,695 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Он живёт в том доме?",
+		"eng_sentence": "Does he live in that house?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Это кажется очень странным?",
+		"eng_sentence": "Does it seem very strange?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Он учится?",
+		"eng_sentence": "Does he study?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Это кажется важным?",
+		"eng_sentence": "Does it seem important?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Ты живёшь рядом с этим местом?",
+		"eng_sentence": "Do you live near this place?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он живёт в другой стране?",
+		"eng_sentence": "Does he live in another country?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "У него есть девушка?",
+		"eng_sentence": "Does he have a girlfriend?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "У него есть свободное время?",
+		"eng_sentence": "Does he have free time?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Это стоит 3000 фунтов ?",
+		"eng_sentence": "Does it cost three thousand pounds?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Она чувствует себя счастливой?",
+		"eng_sentence": "Does she feel happy?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Он живёт в доме?",
+		"eng_sentence": "Does he live in a house?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Это стоит 40 фунтов?",
+		"eng_sentence": "Does it cost forty pounds?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Это кажется странным?",
+		"eng_sentence": "Does it seem strange?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Это строит 30 евро",
+		"eng_sentence": "Does it cost thirty euros?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Это действительно помогает тебе?",
+		"eng_sentence": "Does it really help you?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Он живёт очень далеко отсюда?",
+		"eng_sentence": "Does he live very far from here?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Ты живёшь далеко?",
+		"eng_sentence": "Do you live far?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "У неё есть парень?",
+		"eng_sentence": "Does she have a boyfriend?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он выглядит счастливым?",
+		"eng_sentence": "Does he look happy?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Это помогает тебе?",
+		"eng_sentence": "Does it help you?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он работает?",
+		"eng_sentence": "Does he work?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Это беспокоит тебя?",
+		"eng_sentence": "Does it worry you?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Это стоит 700 евро?",
+		"eng_sentence": "Does it cost seven hundred euros?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "У неё есть собака?",
+		"eng_sentence": "Does she have a dog?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Ты живёшь рядом?",
+		"eng_sentence": "Do you live near?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Ему нравится тот метод?",
+		"eng_sentence": "Does he like that method?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Это стоит больше?",
+		"eng_sentence": "Does it cost more?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Она живёт в другом месте?",
+		"eng_sentence": "Does she live in another place?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "У него есть машина?",
+		"eng_sentence": "Does he have a car?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Это кажется интересным?",
+		"eng_sentence": "Does it seem interesting?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Это кажется очень важным?",
+		"eng_sentence": "Does it seem very important?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Ей нравится этот метод?",
+		"eng_sentence": "Does she like this method?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "У него есть кот?",
+		"eng_sentence": "Does he have a cat?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Он живёт около того места?",
+		"eng_sentence": "Does he live near that place?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Это действительно тебя беспокоит?",
+		"eng_sentence": "Does it really worry you?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Ты живёшь в доме?",
+		"eng_sentence": "Do you live in a house?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Это кажется скучным?",
+		"eng_sentence": "Does it seem boring?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Она живёт в квартире?",
+		"eng_sentence": "Does she live in (an apartment) a flat?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Это стоит 500 долларов?",
+		"eng_sentence": "Does it cost five hundred dollars?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Он занимается бизнесом?",
+		"eng_sentence": "Does he do business?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это кажется действительно странным?",
+		"eng_sentence": "Does it seem really strange?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Это стоит больше ста долларов?",
+		"eng_sentence": "Does it cost more than one hundred dollars?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Вы живёте вместе?",
+		"eng_sentence": "Do you live together?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Он видит их?",
+		"eng_sentence": "Does he see them?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Он чувствует, что это действительно помогает ему?",
+		"eng_sentence": "Does he feel that it really helps him?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Он тебе помогает?",
+		"eng_sentence": "Does he help you?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Он покупает очень дешёвые вещи?",
+		"eng_sentence": "Does he buy very cheap things?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Ты часто слушаешь музыку?",
+		"eng_sentence": "Do you often listen to music?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Он делает так много ошибок?",
+		"eng_sentence": "Does he make so many mistakes?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Это действительно интересует тебя?",
+		"eng_sentence": "Does it really interest you?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Он покупает те вещи?",
+		"eng_sentence": "Does he buy those things?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Вы часто проводите время вместе?",
+		"eng_sentence": "Do you often spend time together?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Он хочет стать актёром?",
+		"eng_sentence": "Does he want to become an actor?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Он работает или учится?",
+		"eng_sentence": "Does he work or study?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Это стоит меньше, чем 200 долларов?",
+		"eng_sentence": "Does it cost less than two hundred dollars?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Он помогает ему?",
+		"eng_sentence": "Does he help him?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Он тоже так думает?",
+		"eng_sentence": "Does he also think so?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Они тоже так думают?",
+		"eng_sentence": "Do they also think so?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Она тоже так думает?",
+		"eng_sentence": "Does she also think so?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Она хочет это обсудить?",
+		"eng_sentence": "Does she want to discuss it?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Ты хочешь это обсудить?",
+		"eng_sentence": "Do you want to discuss it?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Он хочет это обсудить?",
+		"eng_sentence": "Does he want to discuss it?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Она покупает более хорошие вещи?",
+		"eng_sentence": "Does she buy better things?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Он покупает очень дорогие вещи?",
+		"eng_sentence": "Does he buy very expensive things?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Ты покупаешь очень дорогие вещи?",
+		"eng_sentence": "Do you buy very expensive things?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Он делает разные упражнения?",
+		"eng_sentence": "Does he do different exercises?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Она делает разные упражнения?",
+		"eng_sentence": "Does she do different exercises?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Ты делаешь разные упражнения?",
+		"eng_sentence": "Do you do different exercises?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Она тоже делает это?",
+		"eng_sentence": "Does she also do it?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Они тоже делают это?",
+		"eng_sentence": "Do they also do it?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Ему тоже это нравится?",
+		"eng_sentence": "Does he also like it?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Это действительно мотивирует тебя?",
+		"eng_sentence": "Does it really motivate you?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Это действительно мотивирует их?",
+		"eng_sentence": "Does it really motivate them?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Это мотивирует тебя?",
+		"eng_sentence": "Does it motivate you?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Это стоит так много денег?",
+		"eng_sentence": "Does it cost so much money?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Это стоит более 300 долларов?",
+		"eng_sentence": "Does it cost more than three hundred dollars?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Он часто звонит тебе?",
+		"eng_sentence": "Does he often call you?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Ты часто звонишь ему?",
+		"eng_sentence": "Do you often call him?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Она часто звонит им?",
+		"eng_sentence": "Does she often call them?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Он хочет сменить свою работу?",
+		"eng_sentence": "Does he want to change his job?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Ты хочешь сменить свою работу?",
+		"eng_sentence": "Do you want to change your job?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Это интересует тебя?",
+		"eng_sentence": "Does it interest you?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Это интересует его?",
+		"eng_sentence": "Does it interest him?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Это интересует их?",
+		"eng_sentence": "Does it interest them?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Она хочет быть актрисой?",
+		"eng_sentence": "Does she want to be an actress?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Это мотивирует его?",
+		"eng_sentence": "Does it motivate him?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он помогает своему другу?",
+		"eng_sentence": "Does he help his friend?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Он учится или работает?",
+		"eng_sentence": "Does he study or work?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Это стоит больше, чем 1000 евро?",
+		"eng_sentence": "Does it cost more than one thousand euros?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Она хочет поменять свою работу?",
+		"eng_sentence": "Does she want to change her job?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Она хочет найти новую работу?",
+		"eng_sentence": "Does she want to find a new job?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Он хочет посмотреть этот фильм?",
+		"eng_sentence": "Does he want to watch this movie?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Она часто слушает музыку?",
+		"eng_sentence": "Does she often listen to music?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Она покупает дорогие вещи?",
+		"eng_sentence": "Does she buy expensive things?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Она тренируется очень интенсивно?",
+		"eng_sentence": "Does she train very intensively?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Ты часто разговариваешь по телефону?",
+		"eng_sentence": "Do you often talk on the phone?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Ей нравится та музыка?",
+		"eng_sentence": "Does she like that music?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "У него есть какие-либо браться или сёстры?",
+		"eng_sentence": "Does she have any brothers or sisters?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Это стоит меньше, чем 500 долларов?",
+		"eng_sentence": "Does it cost less than five hundred dollars?",
+		"lesson": "",
+		"difficulty": ""
+	}
+]
