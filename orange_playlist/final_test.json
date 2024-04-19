@@ -134,7 +134,7 @@
 	},
 	{	
 		"id": 20,
-		"rus_sentence": "Ты когда-либо думал о том чтобы усыновить ребенка?",
+		"rus_sentence": "Ты когда-либо думал о том, чтобы усыновить ребенка?",
 		"eng_sentence": "Have you ever thought about adopting a child (baby)?",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -393,7 +393,7 @@
 	},
 	{	
 		"id": 57,
-		"rus_sentence": "Мне нравится когда другие указывают на мои слабые стороны. Если я буду знать их лучше, я смогу избавится от них.",
+		"rus_sentence": "Мне нравится, когда другие указывают на мои слабые стороны. Если я буду знать их лучше, я смогу избавится от них.",
 		"eng_sentence": "I like it when others point at my weak points. If I know them better, I'll be able to get rid of them.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -659,7 +659,7 @@
 	},
 	{	
 		"id": 95,
-		"rus_sentence": "Мой уровень английского выше чем его.",
+		"rus_sentence": "Мой уровень английского выше, чем его.",
 		"eng_sentence": "My English level is higher than his.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -680,7 +680,7 @@
 	},
 	{	
 		"id": 98,
-		"rus_sentence": "Та вещь намного важнее чем эта.",
+		"rus_sentence": "Та вещь намного важнее, чем эта.",
 		"eng_sentence": "That thing is much more important than this one.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -785,7 +785,7 @@
 	},
 	{	
 		"id": 113,
-		"rus_sentence": "Это никогда не обсуждалось когда я жил там.",
+		"rus_sentence": "Это никогда не обсуждалось, когда я жил там.",
 		"eng_sentence": "It was never discussed when I lived there.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -806,14 +806,14 @@
 	},
 	{	
 		"id": 116,
-		"rus_sentence": "Я желаю чтоб у меня было больше опыта.",
+		"rus_sentence": "Я желаю, чтоб у меня было больше опыта.",
 		"eng_sentence": "I wish I had more experience.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
 		"id": 117,
-		"rus_sentence": "Я желаю чтоб я мог говорить по английски вовсе без каких-либо ошибок.",
+		"rus_sentence": "Я желаю, чтоб я мог говорить по английски вовсе без каких-либо ошибок.",
 		"eng_sentence": "I wish I could speak English without any mistakes at all.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -876,14 +876,14 @@
 	},
 	{	
 		"id": 126,
-		"rus_sentence": "Этот урок такой же интересный как и тот.",
+		"rus_sentence": "Этот урок такой же интересный, как и тот.",
 		"eng_sentence": "This lessons is as interesting as that one.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
 		"id": 127,
-		"rus_sentence": "Я такого же возраста как и они.",
+		"rus_sentence": "Я такого же возраста, как и они.",
 		"eng_sentence": "I'm the same age as them.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1002,7 +1002,7 @@
 	},
 	{	
 		"id": 144,
-		"rus_sentence": "Почему ты воспринимаешь все как само собой разумеющееся?",
+		"rus_sentence": "Почему ты воспринимаешь все, как само собой разумеющееся?",
 		"eng_sentence": "Why do you take everything for granted?",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1023,7 +1023,7 @@
 	},
 	{	
 		"id": 147,
-		"rus_sentence": "Ты знаешь кем она работает?",
+		"rus_sentence": "Ты знаешь, кем она работает?",
 		"eng_sentence": "Do you know what her job is?",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1044,7 +1044,7 @@
 	},
 	{	
 		"id": 150,
-		"rus_sentence": "Я желаю чтобы я был более знающим. (речь о настоящем)",
+		"rus_sentence": "Я желаю, чтобы я был более знающим. (речь о настоящем)",
 		"eng_sentence": "I wish I were more knowledgeable.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1170,14 +1170,14 @@
 	},
 	{	
 		"id": 168,
-		"rus_sentence": "Я думаю они изобретут что-то новое.",
+		"rus_sentence": "Я думаю, они изобретут что-то новое.",
 		"eng_sentence": "I think they'll invent something new.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
 		"id": 169,
-		"rus_sentence": "Мне нужно некоторое время чтобы переварить всю эту информацию.",
+		"rus_sentence": "Мне нужно некоторое время, чтобы переварить всю эту информацию.",
 		"eng_sentence": "I need some time to digest all this information.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1331,7 +1331,7 @@
 	},
 	{	
 		"id": 191,
-		"rus_sentence": "Он сделает это когда она придет домой.",
+		"rus_sentence": "Он сделает это, когда она придет домой.",
 		"eng_sentence": "He'll do it when she comes home.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1359,7 +1359,7 @@
 	},
 	{	
 		"id": 195,
-		"rus_sentence": "Этот канал более полезный чем те.",
+		"rus_sentence": "Этот канал более полезный, чем те.",
 		"eng_sentence": "This channel is more useful than those ones.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1457,7 +1457,7 @@
 	},
 	{	
 		"id": 209,
-		"rus_sentence": "Я держу пари что это уже случилось.",
+		"rus_sentence": "Я держу пари, что это уже случилось.",
 		"eng_sentence": "I bet that it's already happened.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1695,7 +1695,7 @@
 	},
 	{	
 		"id": 243,
-		"rus_sentence": "Он не ложился спать чтобы посмотреть тот фильм. (фр. г. stay)",
+		"rus_sentence": "Он не ложился спать, чтобы посмотреть тот фильм. (фр. г. stay)",
 		"eng_sentence": "He stayed up to watch that movie.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1723,7 +1723,7 @@
 	},
 	{	
 		"id": 247,
-		"rus_sentence": "Давно уже пора чтобы эти ошибки были проанализированы.",
+		"rus_sentence": "Давно уже пора, чтобы эти ошибки были проанализированы.",
 		"eng_sentence": "It's high time these mistakes were analyzed.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1744,7 +1744,7 @@
 	},
 	{	
 		"id": 250,
-		"rus_sentence": "Правительство решило принять  серьезные меры по поводу коррупции. (фр. г. crack)",
+		"rus_sentence": "Правительство решило принять серьезные меры по поводу коррупции. (фр. г. crack)",
 		"eng_sentence": "The government decided to crack down on corruption.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1772,7 +1772,7 @@
 	},
 	{	
 		"id": 254,
-		"rus_sentence": "Я держу пари что это произойдет рано или поздно.",
+		"rus_sentence": "Я держу пари, что это произойдет рано или поздно.",
 		"eng_sentence": "I bet that it'll happen sooner or later.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1926,7 +1926,7 @@
 	},
 	{	
 		"id": 276,
-		"rus_sentence": "Он думает что у него такие серьёзные проблемы.",
+		"rus_sentence": "Он думает, что у него такие серьёзные проблемы.",
 		"eng_sentence": "He thinks that he has such serious problems.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -1961,14 +1961,14 @@
 	},
 	{	
 		"id": 281,
-		"rus_sentence": "Я желаю чтоб я был добрее.",
+		"rus_sentence": "Я желаю, чтоб я был добрее.",
 		"eng_sentence": "I wish I were kinder.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
 		"id": 282,
-		"rus_sentence": "Я уверен он пожалеет об этом.",
+		"rus_sentence": "Я уверен, он пожалеет об этом.",
 		"eng_sentence": "I'm sure he'll regret it.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -2031,7 +2031,7 @@
 	},
 	{	
 		"id": 291,
-		"rus_sentence": "Он получает такую же зарплату как и они.",
+		"rus_sentence": "Он получает такую же зарплату, как и они.",
 		"eng_sentence": "He gets the same salary as them.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -2129,7 +2129,7 @@
 	},
 	{	
 		"id": 305,
-		"rus_sentence": "Он заявил что не совершал это преступление.",
+		"rus_sentence": "Он заявил, что не совершал это преступление.",
 		"eng_sentence": "He stated that he hadn't committed this crime.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -2206,7 +2206,7 @@
 	},
 	{	
 		"id": 316,
-		"rus_sentence": "Я не могу представить свою жизнь без того чтобы делать хорошие дела.",
+		"rus_sentence": "Я не могу представить свою жизнь без того, чтобы делать хорошие дела.",
 		"eng_sentence": "I can't imagine my life without doing good things.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -2311,7 +2311,7 @@
 	},
 	{	
 		"id": 331,
-		"rus_sentence": "Нам нужно некоторое время чтобы переварить эту информацию.",
+		"rus_sentence": "Нам нужно некоторое время, чтобы переварить эту информацию.",
 		"eng_sentence": "We need some time to digest this information.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -2367,7 +2367,7 @@
 	},
 	{	
 		"id": 339,
-		"rus_sentence": "Прежде всего нам нужно идентифицировать эту проблему.",
+		"rus_sentence": "Прежде всего, нам нужно идентифицировать эту проблему.",
 		"eng_sentence": "First of all, we need to identify this problem.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -2486,7 +2486,7 @@
 	},
 	{	
 		"id": 356,
-		"rus_sentence": "Не суди других людей и ты не будешь судим!",
+		"rus_sentence": "Не суди других людей, и ты не будешь судим!",
 		"eng_sentence": "Don't judge other people and you won't be judged!",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -2612,7 +2612,7 @@
 	},
 	{	
 		"id": 375,
-		"rus_sentence": "Толкни дверь так сильно как ты можешь!",
+		"rus_sentence": "Толкни дверь так сильно, как ты можешь!",
 		"eng_sentence": "Push the door as hard as you can!",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -2745,7 +2745,7 @@
 	},
 	{	
 		"id": 393,
-		"rus_sentence": "Я хочу зарабатывать по крайней мере 3000 долларов в месяц.",
+		"rus_sentence": "Я хочу зарабатывать, по крайней мере 3000 долларов в месяц.",
 		"eng_sentence": "I want to earn at least three thousand dollars a month.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -2801,7 +2801,7 @@
 	},
 	{	
 		"id": 401,
-		"rus_sentence": "Они не начнут обсуждать это до тех пор пока он не уйдет.",
+		"rus_sentence": "Они не начнут обсуждать это до тех пор, пока он не уйдет.",
 		"eng_sentence": "They won't start discussing it unless he leaves.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -2850,7 +2850,7 @@
 	},
 	{	
 		"id": 408,
-		"rus_sentence": "Они обсуждали это в то время как мы гуляли в парке.",
+		"rus_sentence": "Они обсуждали это в то время, как мы гуляли в парке.",
 		"eng_sentence": "They were discussing it while we were walking in the park.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -2948,14 +2948,14 @@
 	},
 	{	
 		"id": 422,
-		"rus_sentence": "Мы знали что он уже простил её.",
+		"rus_sentence": "Мы знали, что он уже простил её.",
 		"eng_sentence": "We knew that he'd already forgiven her.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
 		"id": 423,
-		"rus_sentence": "Мне нужно некоторое время чтобы переварить ту информацию.",
+		"rus_sentence": "Мне нужно некоторое время, чтобы переварить ту информацию.",
 		"eng_sentence": "I need some time to digest that information.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -2969,7 +2969,7 @@
 	},
 	{	
 		"id": 425,
-		"rus_sentence": "МЫ должны были признаться.",
+		"rus_sentence": "Мы должны были признаться.",
 		"eng_sentence": "We had to confess.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -3053,8 +3053,8 @@
 	},
 	{	
 		"id": 437,
-		"rus_sentence": "I really appreciate your help.",
-		"eng_sentence": "",
+		"rus_sentence": "Я действительно ценю твою помощь.",
+		"eng_sentence": "I really appreciate your help.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
@@ -3074,7 +3074,7 @@
 	},
 	{	
 		"id": 440,
-		"rus_sentence": "В то время как они будут играть в футбол, он будет смотреть телевизор.",
+		"rus_sentence": "В то время, как они будут играть в футбол, он будет смотреть телевизор.",
 		"eng_sentence": "While they're playing football, he'll be watching TV.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -3109,7 +3109,7 @@
 	},
 	{	
 		"id": 445,
-		"rus_sentence": "Я уверен ты сумеешь достичь такого высокого уровня.",
+		"rus_sentence": "Я уверен, ты сумеешь достичь такого высокого уровня.",
 		"eng_sentence": "I'm sure you'll manage to reach such a high level.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -3270,14 +3270,14 @@
 	},
 	{	
 		"id": 468,
-		"rus_sentence": "Я хотел бы заметить насколько это важно. (фр. гл. point)",
+		"rus_sentence": "Я хотел бы заметить, насколько это важно. (фр. гл. point)",
 		"eng_sentence": "I'd like to point out how important it is.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
 		"id": 469,
-		"rus_sentence": "В то время как его родители будут отсутствовать, он будет работать намного усерднее.",
+		"rus_sentence": "В то время, как его родители будут отсутствовать, он будет работать намного усерднее.",
 		"eng_sentence": "While his parents are away, he'll be working much harder.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -3312,7 +3312,7 @@
 	},
 	{	
 		"id": 474,
-		"rus_sentence": "Не думай что деньги это все. Есть более высокие ценности.",
+		"rus_sentence": "Не думай, что деньги это все. Есть более высокие ценности.",
 		"eng_sentence": "Don't think that money is everything. There are higher values.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -3431,7 +3431,7 @@
 	},
 	{	
 		"id": 491,
-		"rus_sentence": "Я осознаю насколько рискованно это было.",
+		"rus_sentence": "Я осознаю, насколько рискованно это было.",
 		"eng_sentence": "I realize how risky it was.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -3536,7 +3536,7 @@
 	},
 	{	
 		"id": 506,
-		"rus_sentence": "Другими словами это было напрасно.",
+		"rus_sentence": "Другими словами, это было напрасно.",
 		"eng_sentence": "In other words, it was in vain.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -3634,7 +3634,7 @@
 	},
 	{	
 		"id": 520,
-		"rus_sentence": "Она такого же возраста как и он.",
+		"rus_sentence": "Она такого же возраста, как и он.",
 		"eng_sentence": "She's the same age as him.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -3697,7 +3697,7 @@
 	},
 	{	
 		"id": 529,
-		"rus_sentence": "Он не ложился спать допоздна ночью, чтобы закончить свою работа. (фр. гл. stay)",
+		"rus_sentence": "Он не ложился спать допоздна ночью, чтобы закончить свою работу. (фр. гл. stay)",
 		"eng_sentence": "He stayed up late at night to finish his work.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -3774,7 +3774,7 @@
 	},
 	{	
 		"id": 540,
-		"rus_sentence": "Они были вынуждены уйти йз компании. (force)",
+		"rus_sentence": "Они были вынуждены уйти из компании. (force)",
 		"eng_sentence": "They were forced to leave the company.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -3802,7 +3802,7 @@
 	},
 	{	
 		"id": 544,
-		"rus_sentence": "Когда он зарабатывал мало денег, никто не был заинтересован в нём.",
+		"rus_sentence": "Когда он зарабатывал мало денег, никто не был заинтересован в нем.",
 		"eng_sentence": "When he earning little money, no one was interested in him.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -3823,7 +3823,7 @@
 	},
 	{	
 		"id": 547,
-		"rus_sentence": "Ты можешь сказать мне как его зовут?",
+		"rus_sentence": "Ты можешь сказать мне, как его зовут?",
 		"eng_sentence": "Can you tell me what his name is?",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -3984,7 +3984,7 @@
 	},
 	{	
 		"id": 570,
-		"rus_sentence": "Я слышал что он дал тебе этот совет.",
+		"rus_sentence": "Я слышал, что он дал тебе этот совет.",
 		"eng_sentence": "I heard that he'd given you this advice.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -4131,7 +4131,7 @@
 	},
 	{	
 		"id": 591,
-		"rus_sentence": "Я проснулся позже чем обычно.",
+		"rus_sentence": "Я проснулся позже, чем обычно.",
 		"eng_sentence": "I woke up later than usual.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -4362,7 +4362,7 @@
 	},
 	{	
 		"id": 624,
-		"rus_sentence": "Я хочу говорить по английски так же хорошо как и ты.",
+		"rus_sentence": "Я хочу говорить по английски так же хорошо, как и ты.",
 		"eng_sentence": "I want to speak English as well as you.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -4446,7 +4446,7 @@
 	},
 	{	
 		"id": 636,
-		"rus_sentence": "Мы въедем в новый дом к тому времени как он окончит университет.",
+		"rus_sentence": "Мы въедем в новый дом к тому времени, как он окончит университет.",
 		"eng_sentence": "We'll have moved into a new house by the time he graduates from university.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -4467,7 +4467,7 @@
 	},
 	{	
 		"id": 639,
-		"rus_sentence": "Моя главная цель суметь сделать это.",
+		"rus_sentence": "Моя главная цель, суметь сделать это.",
 		"eng_sentence": "My main aim is to be able to do it.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -4509,14 +4509,14 @@
 	},
 	{	
 		"id": 645,
-		"rus_sentence": "Я не привык принимать всё как само собой разумеющееся. (used)",
+		"rus_sentence": "Я не привык принимать всё, как само собой разумеющееся. (used)",
 		"eng_sentence": "I'm not used to taking everything for granted.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
 	{	
 		"id": 646,
-		"rus_sentence": "Я знал что это уже произошло.",
+		"rus_sentence": "Я знал, что это уже произошло.",
 		"eng_sentence": "I knew that it'd already happened.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -4537,7 +4537,7 @@
 	},
 	{	
 		"id": 649,
-		"rus_sentence": "Он сказал что ещё не нашел свою вторую половину.",
+		"rus_sentence": "Он сказал, что ещё не нашел свою вторую половину.",
 		"eng_sentence": "He said that he hadn't found his second half yet.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -4614,7 +4614,7 @@
 	},
 	{	
 		"id": 660,
-		"rus_sentence": "Мы заметили что кто-то разбил окно.",
+		"rus_sentence": "Мы заметили, что кто-то разбил окно.",
 		"eng_sentence": "We noticed that someone had broken the window.",
 		"lesson": "final_test",
 		"difficulty": ""
@@ -4719,7 +4719,7 @@
 	},
 	{	
 		"id": 675,
-		"rus_sentence": "У тебя есть что-то что декларировать?",
+		"rus_sentence": "У тебя есть что-то, что декларировать?",
 		"eng_sentence": "Do you have anything to declare?",
 		"lesson": "final_test",
 		"difficulty": ""
