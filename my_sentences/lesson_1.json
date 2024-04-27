@@ -44,7 +44,7 @@
 	{	
 		"id": 7,
 		"rus_sentence": "Я увидел 6 человек включая его.",
-		"eng_sentence": "I saw six people including him..",
+		"eng_sentence": "I saw six people including him.",
 		"lesson": "",
 		"difficulty": ""
 	},
@@ -239,533 +239,463 @@
 	},
 	{	
 		"id": 35,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Здесь прохладно.",
+		"eng_sentence": "It's cool here.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 36,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я вернулся пол часа назад.",
+		"eng_sentence": "I came back half an hour ago.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 37,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Эта сумка твоя.",
+		"eng_sentence": "This bag is yours.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 38,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Эта квартира их.",
+		"eng_sentence": "This flat is theirs.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 39,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ему так не везёт.",
+		"eng_sentence": "He's so unlucky.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 40,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он в кровати.",
+		"eng_sentence": "He's in bed.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 41,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мне нужно работать над своим правописанием.",
+		"eng_sentence": "I need to work on my spelling.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 42,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мы изучили 3 английских времени.",
+		"eng_sentence": "We studied three English tenses.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 43,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это была напряженная обстановка.",
+		"eng_sentence": "It was a tense situation.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 44,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это глагол в английском.",
+		"eng_sentence": "It's a verb in English.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 45,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это существительное.",
+		"eng_sentence": "It's a noun.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 46,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это слово прилагательное.",
+		"eng_sentence": "This word is an adjective.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это наречие в английском.",
+		"eng_sentence": "It's an adverb in English.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 48,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она больна.",
+		"eng_sentence": "She is sick (ill).",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 49,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он заболел.",
+		"eng_sentence": "He got sick (got ill).",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 50,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он действительно взволнован.",
+		"eng_sentence": "He's really worried.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 51,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мальчик чувствует себя таким расстроенным.",
+		"eng_sentence": "The boy feels so upset.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 52,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это международный стандарт.",
+		"eng_sentence": "It's an international standard.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 53,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он был нашим особым гостем.",
+		"eng_sentence": "He was our special guest.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 54,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я сделал это специально для тебя.",
+		"eng_sentence": "I did it especially for you.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 55,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это имеет негативный эффект на наше здоровье.",
+		"eng_sentence": "It has a negative effect on our health.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 56,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я уже заметила, что всякий раз, как она звонит, он начинает вытирать пыль и гладить.",
+		"eng_sentence": "I've already noticed that whenever she calls, he starts dusting and ironing.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 57,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "У неё был строгий отец, который никогда её не хвалил.",
+		"eng_sentence": "She had a stern father who never praised her.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 58,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Стол был невероятно прочный.",
+		"eng_sentence": "The table was extremely sturdy.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 59,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это для противоположного пола.",
+		"eng_sentence": "It's for the opposite sex.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 60,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это была мужская реакция.",
+		"eng_sentence": "It was a male reaction.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 61,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это женская тюрьма.",
+		"eng_sentence": "It's a female prison.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 62,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "У неё светлые волосы.",
+		"eng_sentence": "She has blonde hair.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 63,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "У нас очень хорошие отношения.",
+		"eng_sentence": "We have very good relations.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 64,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Поступки (дела) говорят громче, чем слова.",
+		"eng_sentence": "Actions speak louder than words.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 65,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они решили действовать сразу же.",
+		"eng_sentence": "They decided to act immediately.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 66,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Лето - это моё любимое время года.",
+		"eng_sentence": "Summer is my favorite season.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 67,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мы часто видим это в нашем современном обществе.",
+		"eng_sentence": "We often see it in our modern society.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 68,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он мой старый знакомый.",
+		"eng_sentence": "He's my old acquaintance.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 69,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это в центре города.",
+		"eng_sentence": "It's in the city center.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 70,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он пошел в суд.",
+		"eng_sentence": "He went to court.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 71,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это недавнее открытие.",
+		"eng_sentence": "It's a recent discovery.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 72,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Полет был задержан.",
+		"eng_sentence": "The flight was delayed.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 73,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они наняли двух новых работников.",
+		"eng_sentence": "They hired two new employees.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 74,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я абсолютно уверен.",
+		"eng_sentence": "I'm absolutely certain.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 75,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это в северной части страны.",
+		"eng_sentence": "It's in the northern part of the country.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 76,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это в южной части города.",
+		"eng_sentence": "It's in the southern part of the city.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 77,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это в восточной части острова.",
+		"eng_sentence": "It's in the eastern part of the island.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 78,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это в восточной части континента.",
+		"eng_sentence": "It's in the western part of the continent.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 79,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он может объяснить это очень просто.",
+		"eng_sentence": "He can explain it very simply.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 80,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это культурная революция.",
+		"eng_sentence": "It's a cultural revolution.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 81,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "МЫ видим очень большой технологический прогресс.",
+		"eng_sentence": "We see a very big technological progress.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 82,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он пошел вниз по лестнице.",
+		"eng_sentence": "He went down downstairs.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 83,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он печатает очень хорошо.",
+		"eng_sentence": "He types very well.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 84,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мальчик ходит в детский сад.",
+		"eng_sentence": "The boy goes to kindergarten.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 85,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это привлекло мое внимание.",
+		"eng_sentence": "It drew my attention.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 86,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это уникальная возможность.",
+		"eng_sentence": "It's a unique possibility.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 87,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это маркетинговая компания.",
+		"eng_sentence": "It's a marketing campaign.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 88,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Наша экономика не такая сильная.",
+		"eng_sentence": "Our economy isn't so strong.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 89,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он интересуется экономикой (наукой).",
+		"eng_sentence": "He's interested in economics.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 90,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это медицинский центр.",
+		"eng_sentence": "It's a medical centre.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 91,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она часто посещает этот монастырь.",
+		"eng_sentence": "She often visits this monastery.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 92,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это моя родина.",
+		"eng_sentence": "It's my motherland.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 93,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он ехал 50 км в час.",
+		"eng_sentence": "He drove fifty kilometres per hour.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 94,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он пробежал около 200 метров.",
+		"eng_sentence": "He ran about two hundred meters.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 95,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это моя личная жизнь.",
+		"eng_sentence": "It's my private life.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 96,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Эта территория - особая зона.",
+		"eng_sentence": "This territory is a special zone.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 97,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я хотел бы сфокусироваться на этой проблеме.",
+		"eng_sentence": "I'd like to focus on this problem.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 98,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это туристическое агенство.",
+		"eng_sentence": "It's a travel agency.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 99,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я обожаю природу.",
+		"eng_sentence": "I enjoy nature.",
 		"lesson": "",
 		"difficulty": ""
 	},
 	{	
 		"id": 100,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "",
-		"difficulty": ""
-	},
-	{	
-		"id": 101,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "",
-		"difficulty": ""
-	},
-	{	
-		"id": 102,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "",
-		"difficulty": ""
-	},
-	{	
-		"id": 103,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "",
-		"difficulty": ""
-	},
-	{	
-		"id": 104,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "",
-		"difficulty": ""
-	},
-	{	
-		"id": 105,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "",
-		"difficulty": ""
-	},
-	{	
-		"id": 106,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "",
-		"difficulty": ""
-	},
-	{	
-		"id": 107,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "",
-		"difficulty": ""
-	},
-	{	
-		"id": 108,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "",
-		"difficulty": ""
-	},
-	{	
-		"id": 109,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "",
-		"difficulty": ""
-	},
-	{	
-		"id": 110,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Эти фото очень красочные.",
+		"eng_sentence": "These photos are very colorful.",
 		"lesson": "",
 		"difficulty": ""
 	}
