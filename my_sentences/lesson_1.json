@@ -22,7 +22,7 @@
 	},
 	{	
 		"id": 4,
-		"rus_sentence": "Она не смогла заплатить.",
+		"rus_sentence": "Она не смогла заплатить. (не смогла в одно слово)",
 		"eng_sentence": "She was unable to pay.",
 		"lesson": "",
 		"difficulty": ""
@@ -540,7 +540,7 @@
 	},
 	{	
 		"id": 78,
-		"rus_sentence": "Это в восточной части континента.",
+		"rus_sentence": "Это в западной части континента.",
 		"eng_sentence": "It's in the western part of the continent.",
 		"lesson": "",
 		"difficulty": ""
@@ -561,7 +561,7 @@
 	},
 	{	
 		"id": 81,
-		"rus_sentence": "МЫ видим очень большой технологический прогресс.",
+		"rus_sentence": "Мы видим очень большой технологический прогресс.",
 		"eng_sentence": "We see a very big technological progress.",
 		"lesson": "",
 		"difficulty": ""
@@ -569,7 +569,7 @@
 	{	
 		"id": 82,
 		"rus_sentence": "Он пошел вниз по лестнице.",
-		"eng_sentence": "He went down downstairs.",
+		"eng_sentence": "He went downstairs.",
 		"lesson": "",
 		"difficulty": ""
 	},
