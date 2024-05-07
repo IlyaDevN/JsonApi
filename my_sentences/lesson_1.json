@@ -302,8 +302,8 @@
 	},
 	{	
 		"id": 44,
-		"rus_sentence": "Это глагол в английском.",
-		"eng_sentence": "It's a verb in English.",
+		"rus_sentence": "Это глагол правильный.",
+		"eng_sentence": "This verb is regular.",
 		"lesson": "",
 		"difficulty": ""
 	},

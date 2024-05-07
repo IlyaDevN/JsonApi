@@ -1,0 +1,772 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я хочу получить максимальную оценку.",
+		"eng_sentence": "I want to get the maximum grade (mark).",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Ты увидишь минимальные требования.",
+		"eng_sentence": "You'll see the minimum requirements.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я оптимист.",
+		"eng_sentence": "I'm an optimist.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Не будь пессимистом.",
+		"eng_sentence": "Don't be a pessimist.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я чувствую себя оптимистично.",
+		"eng_sentence": "I feel optimistic.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Она слишком пессимистична.",
+		"eng_sentence": "She's too pessimistic.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Он не виновен.",
+		"eng_sentence": "She isn't guilty.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Она очень стройная.",
+		"eng_sentence": "She's very slim.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я хочу говорить по английски естественно.",
+		"eng_sentence": "I want to speak English naturally.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Его речь такая неестественная.",
+		"eng_sentence": "His speech is so unnatural.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "У них меньше прибыли в этом году.",
+		"eng_sentence": "They have less profit this year.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Это очень большая потеря.",
+		"eng_sentence": "It's a very big loss.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Эта вещь очень популярна среди подростков.",
+		"eng_sentence": "This thing is very popular among teenagers.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Мы изучили пассивный залог.",
+		"eng_sentence": "We studied Passive Voice.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Никто из них не понимает это.",
+		"eng_sentence": "None of them understands it.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Они разрешили ему уйти из дома.",
+		"eng_sentence": "They permitted him to leave home.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Ты знаешь синонимы и антонимы?",
+		"eng_sentence": "Do you know synonyms and antonyms?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Это здание очень некрасивое (уродливое).",
+		"eng_sentence": "This building is very ugly.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он предпочитает горькую правду.",
+		"eng_sentence": "He prefers bitter truth.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Эти новости такие волнующие.",
+		"eng_sentence": "This news is so exciting.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Это согласная (буква).",
+		"eng_sentence": "It's a consonant.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Это гласная (буква).",
+		"eng_sentence": "It's a vowel.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Это довольно легко может испортить ваше настроение.",
+		"eng_sentence": "It can ruin your mood pretty easily.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Несомненно, это была отличительная черта его личности,.",
+		"eng_sentence": "It was undoubtedly a distinctive trait of his personality.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Ему удалось ухватиться за канат.",
+		"eng_sentence": "He managed to clutch a rope.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я был рад раскрыть эту тайну.",
+		"eng_sentence": "I was glad to reveal this mystery.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Отсутствие доказательства это не то же самое, что доказательство отсутствия.",
+		"eng_sentence": "Absence of evidence isn't the same as evidence of absence.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Где вход?.",
+		"eng_sentence": "Where is the entrance?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Эта улица очень широкая.",
+		"eng_sentence": "This street is very wide.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Тебе нужно расширить свои горизонты.",
+		"eng_sentence": "You need to broaden your horizons.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "У него широкие плечи.",
+		"eng_sentence": "He has broad shoulders.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Он получил хорошую оценку по этому предмету.",
+		"eng_sentence": "He got a good grade in this subject.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Его разнообразные знания привлекают людей.",
+		"eng_sentence": "His diverse knowledge engage people.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Когда бы он ни пришел, я всегда рад его видеть.",
+		"eng_sentence": "Whenever he comes, I am always glad to see him.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он поранил свое плечо.",
+		"eng_sentence": "He injured his shoulder.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Мы видим изменение климата.",
+		"eng_sentence": "We see a climate change.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Он незнакомец.",
+		"eng_sentence": "He's a stranger.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Это очень распространенная ошибка.",
+		"eng_sentence": "It's a very common mistake.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Это широко распространенное убеждение.",
+		"eng_sentence": "It's a widespread belief.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Это очень сложный вопрос.",
+		"eng_sentence": "It's a very complex question.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это напротив этого дома.",
+		"eng_sentence": "It's opposite this house.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Курить вредно.",
+		"eng_sentence": "It's unhealthy to smoke.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это дурацкая идея.",
+		"eng_sentence": "It's a foolish idea.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Ты такой умный.",
+		"eng_sentence": "You're so smart (clever).",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Он очень разумный (умный, интеллигентный) человек.",
+		"eng_sentence": "He's a very intelligent person.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Этот человек очень жестокий.",
+		"eng_sentence": "This man is very cruel.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Это слово очень редкое.",
+		"eng_sentence": "This word is very rare (uncommon).",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Мы встречаемся очень редко.",
+		"eng_sentence": "We meet very rarely (seldom).",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "К несчастью, это произошло в действительности.",
+		"eng_sentence": "Unfortunately, it happened in reality.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Некоторые из них необходимы для информирования, привлечения и повышения ценности читателей.",
+		"eng_sentence": "Some of them are needed to inform, engage and add value to the readers.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Это был героический поступок.",
+		"eng_sentence": "It was a heroic action.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Это неправильный глагол.",
+		"eng_sentence": "It's an irregular verb.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Их поведение неразумное.",
+		"eng_sentence": "Their behavior is irrational.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Он очень грубый с ней.",
+		"eng_sentence": "He's very rude to her.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Это единственное число.",
+		"eng_sentence": "It's singular.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Это множественное число.",
+		"eng_sentence": "It's plural.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Это исключение.",
+		"eng_sentence": "It's an exception.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Он неосторожный водитель.",
+		"eng_sentence": "He's a careless driver.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Они хотят мира.",
+		"eng_sentence": "They want peace.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Ему нужен кусок бумаги.",
+		"eng_sentence": "He needs a piece of paper.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "У них есть законные права делать это.",
+		"eng_sentence": "They have legal rights to do it.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Он поставил дислайк.",
+		"eng_sentence": "He put a dislike.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Его поведение безнравственное.",
+		"eng_sentence": "His behavior is immoral.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Это может расстроить тебя очень сильно.",
+		"eng_sentence": "It can disappoint you greatly.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Мне нравятся эти шторы.",
+		"eng_sentence": "I like these curtains.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Она купила холодильник.",
+		"eng_sentence": "She bought a refrigerator.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Где ближайшая АЗС?",
+		"eng_sentence": "Where is the nearest petrol station?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Тебе нравится катание на сноуборде?",
+		"eng_sentence": "Do you like snowboarding?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 108,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 109,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 110,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "",
+		"difficulty": ""
+	}
+]
