@@ -44,7 +44,7 @@
 	{	
 		"id": 7,
 		"rus_sentence": "Он не виновен.",
-		"eng_sentence": "She isn't guilty.",
+		"eng_sentence": "He isn't guilty.",
 		"lesson": "",
 		"difficulty": ""
 	},
@@ -190,7 +190,7 @@
 	},
 	{	
 		"id": 28,
-		"rus_sentence": "Где вход?.",
+		"rus_sentence": "Где вход?",
 		"eng_sentence": "Where is the entrance?",
 		"lesson": "",
 		"difficulty": ""
@@ -477,8 +477,8 @@
 	},
 	{	
 		"id": 69,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "До вчерашнего дня он никогда не был таким тревожным и беспокойным.",
+		"eng_sentence": "Until yesterday, he'd never been so anxious and worried.",
 		"lesson": "",
 		"difficulty": ""
 	},
