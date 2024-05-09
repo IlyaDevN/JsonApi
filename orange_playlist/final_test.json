@@ -5448,7 +5448,7 @@
 	{
 		"id": 779,
 		"rus_sentence": "Урок начался. (неправильный глагол)",
-		"eng_sentence": "The lessons has already begun.",
+		"eng_sentence": "The lesson began.",
 		"lesson": "final_test",
 		"difficulty": ""
 	},
@@ -5456,6 +5456,216 @@
 		"id": 780,
 		"rus_sentence": "Я стараюсь не ссориться.",
 		"eng_sentence": "I try not to quarrel.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 781,
+		"rus_sentence": "Когда ты проинформируешь меня?",
+		"eng_sentence": "When will you inform me?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 782,
+		"rus_sentence": "На что он ссылался?",
+		"eng_sentence": "What did he refer to?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 783,
+		"rus_sentence": "Это не касается меня.",
+		"eng_sentence": "It doesn't concern me.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 784,
+		"rus_sentence": "Ты был в Англии в прошлом году?",
+		"eng_sentence": "Were you in England last year?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 785,
+		"rus_sentence": "Я умею кататься на велосипеде.",
+		"eng_sentence": "I can ride a bike.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 786,
+		"rus_sentence": "Нам нужно работать над собой.",
+		"eng_sentence": "We need to work on ourselves.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 787,
+		"rus_sentence": "Ему нечего проверять.",
+		"eng_sentence": "He has nothing to check.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 788,
+		"rus_sentence": "Послушай! Кто-то плачет.",
+		"eng_sentence": "Listen! Someone is crying.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 789,
+		"rus_sentence": "Я невероятно устал от этого.",
+		"eng_sentence": "I'm incredibly tired of it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 790,
+		"rus_sentence": "Камера увеличила его лицо. (фр. гл. zoom)",
+		"eng_sentence": "The camera zoomed in on his face.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 791,
+		"rus_sentence": "Позвони ему перед тем как они прибудут.",
+		"eng_sentence": "Call him before they arrive.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 792,
+		"rus_sentence": "Их контролировали.",
+		"eng_sentence": "They were controlled.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 793,
+		"rus_sentence": "Что он ищет сейчас?",
+		"eng_sentence": "What is he looking for?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 794,
+		"rus_sentence": "Мы будем скачивать эти материалы. (длительное будущее время)",
+		"eng_sentence": "We'll be downloading these materials.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 795,
+		"rus_sentence": "От чего это зависело?",
+		"eng_sentence": "What did it depend on?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 796,
+		"rus_sentence": "Я осведомлен об этих проблемах.",
+		"eng_sentence": "I'm aware of these problems.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 797,
+		"rus_sentence": "Я пришел к следующему выводу.",
+		"eng_sentence": "I came to the following conclusion.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 798,
+		"rus_sentence": "Я желаю чтобы я делал больше хороших вещей ежедневно.",
+		"eng_sentence": "I wish I did more good things daily.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 799,
+		"rus_sentence": "Когда я вел машину, я увидел это.",
+		"eng_sentence": "When I was driving a car, I saw it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 800,
+		"rus_sentence": "Только позитивные люди окружают его.",
+		"eng_sentence": "Only positive people surround him.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 801,
+		"rus_sentence": "Я хочу достичь более высокого уровня в английском.",
+		"eng_sentence": "I want to reach a higher level in English.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 802,
+		"rus_sentence": "Он дал мне очень полезную рекомендацию.",
+		"eng_sentence": "He gave me a very useful recommendation.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 803,
+		"rus_sentence": "Я принял участие в этом чемпионате.",
+		"eng_sentence": "I took part (participated) in this championship.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 804,
+		"rus_sentence": "Я думаю об этом сейчас.",
+		"eng_sentence": "I'm thinking about it.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 805,
+		"rus_sentence": "Я поторопился, чтобы не пропустить автобус.",
+		"eng_sentence": "I hurried up not to miss the bus.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 806,
+		"rus_sentence": "Ты скучаешь по нему?",
+		"eng_sentence": "Do you miss him?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 807,
+		"rus_sentence": "Он сказал, что те ошибки еще не были исправлены.",
+		"eng_sentence": "He said that those mistakes hadn't been corrected yet.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 808,
+		"rus_sentence": "Почему ты не записался на этот курс? (фр. гл. sign)",
+		"eng_sentence": "Why didn't you sign up for this course?",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 809,
+		"rus_sentence": "Это намного более высокий уровень.",
+		"eng_sentence": "It's a much higher level.",
+		"lesson": "final_test",
+		"difficulty": ""
+	},
+	{
+		"id": 810,
+		"rus_sentence": "Я желаю, чтобы у меня было больше денег.",
+		"eng_sentence": "I wish I had more money.",
 		"lesson": "final_test",
 		"difficulty": ""
 	}
