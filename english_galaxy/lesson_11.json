@@ -1,0 +1,695 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Ты обычно приходишь домой поздно?",
+		"eng_sentence": "Do you usually come home late?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Она преподаёт английский профессионально?",
+		"eng_sentence": "Does she teach English professionally?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Он тебя понимает?",
+		"eng_sentence": "Does he understand you?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Он преподаёт английский профессионально?",
+		"eng_sentence": "Does he teach English professionally?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "У тебя есть работа?",
+		"eng_sentence": "Do you have a job?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Ты живёшь в доме?",
+		"eng_sentence": "Do you live in a house?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "У тебя есть домашнее животное?",
+		"eng_sentence": "Do you have a pet?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Ты обычно приходишь домой поздно?",
+		"eng_sentence": "Do you usually come home late?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Ты часто видишь его там?",
+		"eng_sentence": "Do you often see him there?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Они танцуют профессионально?",
+		"eng_sentence": "Do they dance professionally?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Он приходит домой поздно?",
+		"eng_sentence": "Does he come home late?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Он учится в другой группе?",
+		"eng_sentence": "Does he study in another group?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Он изучает английский здесь?",
+		"eng_sentence": "Does he learn English here?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Он встаёт поздно?",
+		"eng_sentence": "Does he get up late?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Он живет в том доме?",
+		"eng_sentence": "Does he live in that house?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Это работает лучше?",
+		"eng_sentence": "Does it work better?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Она приходит домой рано?",
+		"eng_sentence": "Does she come home early?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Она рано встает?",
+		"eng_sentence": "Does she get up early?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Вы учитесь в одной группе?",
+		"eng_sentence": "Do you study in one group?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "У тебя есть какие-либо домашние животные?",
+		"eng_sentence": "Do you have any pets?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Ты поздно встаёшь?",
+		"eng_sentence": "Do you get up late?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Тебе нравится твоя работа?",
+		"eng_sentence": "Do you like your job?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Ты видишь тех людей?",
+		"eng_sentence": "Do you see those people?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "У тебя есть кот?",
+		"eng_sentence": "Do you have a cat?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Вы часто обсуждаете эти вещи?",
+		"eng_sentence": "Do you often discuss these things?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "У тебя есть собака?",
+		"eng_sentence": "Do you have a dog?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Тебе нравится эта профессия?",
+		"eng_sentence": "Do you like this profession?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Ты учишь английский онлайн?",
+		"eng_sentence": "Do you learn English online?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Ты работаешь каждый день?",
+		"eng_sentence": "Do you work every day?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Это стоит намного больше денег?",
+		"eng_sentence": "Does it cost much more money?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Тебе нужны эти билеты?",
+		"eng_sentence": "Do you need these tickets?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Вы учитесь в разных группах?",
+		"eng_sentence": "Do you study in different groups?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Тебе нравятся морепродукты?",
+		"eng_sentence": "Do you like seafood?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Ты знаешь этих людей?",
+		"eng_sentence": "Do you know these people?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он работает больше?",
+		"eng_sentence": "Does he work more?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Тебе нравится твоя профессия?",
+		"eng_sentence": "Do you like your profession?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Ты обычно рано приходишь домой?",
+		"eng_sentence": "Do you usually come home early?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Она работает меньше?",
+		"eng_sentence": "Does she work less?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Ему нравится его профессия?",
+		"eng_sentence": "Does he like his profession?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "У него есть какие-либо домашние животные?",
+		"eng_sentence": "Does he have any pets?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Ты встаёшь рано?",
+		"eng_sentence": "Do you get up early?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Она танцует профессионально?",
+		"eng_sentence": "Does she dance professionally?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Ты иногда делаешь ошибки?",
+		"eng_sentence": "Do you sometimes make mistakes?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Ты рекомендуешь это приложение?",
+		"eng_sentence": "Do you recommend this application?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Ты хочешь говорить по английски без ошибок?",
+		"eng_sentence": "Do you want to speak English without mistakes?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Ты рекомендуешь тот отель?",
+		"eng_sentence": "Do you recommend that hotel?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Это действительно интересует её?",
+		"eng_sentence": "Does it really interest her?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Он часто посещает тебя?",
+		"eng_sentence": "Does he often visit you?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Ты обычно просыпаешься очень поздно?",
+		"eng_sentence": "Do you usually wake up very late?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Она рекомендует это приложение?",
+		"eng_sentence": "Does she recommend this application?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Он обычно заказывает это в том магазине?",
+		"eng_sentence": "Does he usually order it in that shop?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Он рекомендует это?",
+		"eng_sentence": "Does he recommend it?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Ты чувствуешь себя действительно счастливым?",
+		"eng_sentence": "Do you feel really happy?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Он видит отель?",
+		"eng_sentence": "Does he see a hotel?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Тебе больше нравится другая еда?",
+		"eng_sentence": "Do you like another food more?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Ты хочешь получать больше денег?",
+		"eng_sentence": "Do you want to get more money?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Ты часто готовишь?",
+		"eng_sentence": "Do you often cook?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Ты хочешь заказать это онлайн?",
+		"eng_sentence": "Do you want to order it online?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Ты хочешь купить это онлайн?",
+		"eng_sentence": "Do you want to buy it online?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Они хотят заказать это онлайн?",
+		"eng_sentence": "Do they want to order it online?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Ты платишь за это онлайн?",
+		"eng_sentence": "Do you pay for it online?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Ты покупаешь это онлайн?",
+		"eng_sentence": "Do you buy it online?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Ты хочешь посетить этот город в этом году?",
+		"eng_sentence": "Do you want to visit this city this year?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Он хочет посетить этот город в этом году?",
+		"eng_sentence": "Does he want to visit this city this year?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Она хочет посетить эти страны в следующем году?",
+		"eng_sentence": "Does she want to visit these countries next year?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Ты обычно просыпаешься очень рано?",
+		"eng_sentence": "Do you usually wake up very early?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Они часто просыпаются очень рано?",
+		"eng_sentence": "Do they often wake up very early?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Ты обычно просыпаешься поздно?",
+		"eng_sentence": "Do you usually wake up late?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Ты получаешь достаточно денег?",
+		"eng_sentence": "Do you get enough money?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Он получает достаточно денег?",
+		"eng_sentence": "Does he get enough money?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Она хочет приготовить завтрак?",
+		"eng_sentence": "Does she want to cook breakfast?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Она часто готовит?",
+		"eng_sentence": "Does she often cook?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Ты хочешь потанцевать?",
+		"eng_sentence": "Do you want to dance?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Ты обычно покупаешь дорогую одежду?",
+		"eng_sentence": "Do you usually buy expensive clothes?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Она обычно заказывает дорогую одежду?",
+		"eng_sentence": "Does she usually order expensive clothes?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Они обычно покупают дорогую одежду?",
+		"eng_sentence": "Do they usually buy expensive clothes?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Он хочет заказать эту игрушку?",
+		"eng_sentence": "Does he want to order this toy?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Он хочет заказать эти игрушки?",
+		"eng_sentence": "Does he want to order these toys?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Он хочет купить эту игрушку?",
+		"eng_sentence": "Does he want to buy this toy?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Ты заказываешь одежду онлайн?",
+		"eng_sentence": "Do you order clothes online?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Ты покупаешь одежду онлайн?",
+		"eng_sentence": "Do you buy clothes online?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Ты платишь за одежду онлайн?",
+		"eng_sentence": "Do you pay for clothes online?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Ты знаешь тех людей?",
+		"eng_sentence": "Do you know those people?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Ты знаешь этих детей?",
+		"eng_sentence": "Do you know these children?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Ты заказываешь это онлайн?",
+		"eng_sentence": "Do you order it online?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Ты хочешь увидеть это сейчас?",
+		"eng_sentence": "Do you want to see it now?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Ты видишь машину?",
+		"eng_sentence": "Do you see a car?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Он чувствует себя лучше?",
+		"eng_sentence": "Does he feel better?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Ты заказываешь еду онлайн?",
+		"eng_sentence": "Do you order food online?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Ты знаешь того человека?",
+		"eng_sentence": "Do you know that person?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Это действительно мотивирует его?",
+		"eng_sentence": "Does it really motivate him?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Тебе нравится готовить?",
+		"eng_sentence": "Do you like cooking?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Он рекомендует этот отель?",
+		"eng_sentence": "Does he recommend this hotel?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Ты предпочитаешь другую еду?",
+		"eng_sentence": "Do you prefer another food?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Ты хочешь заказать игрушку онлайн?",
+		"eng_sentence": "Do you want to order a toy online?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "У тебя есть деньги с собой?",
+		"eng_sentence": "Do you have money with you?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Это случается очень часто?",
+		"eng_sentence": "Does it happen very often?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Ты рекомендуешь эту книгу?",
+		"eng_sentence": "Do you recommend this book?",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Это случается иногда?",
+		"eng_sentence": "Does it happen sometimes?",
+		"lesson": "",
+		"difficulty": ""
+	}
+]
