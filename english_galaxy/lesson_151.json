@@ -1,0 +1,716 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Это типично для него.",
+		"eng_sentence": "It's typical of him.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Она ревнует своего мужа.",
+		"eng_sentence": "She's jealous of her husband.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Он очень хорош в игре на гитаре.",
+		"eng_sentence": "He's very good at playing the guitar.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Кто ответственный за это?",
+		"eng_sentence": "Who is responsible for it.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я особенно увлекаюсь иностранными языками.",
+		"eng_sentence": "I'm particularly keen on foreign languages.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он готов к худшему.",
+		"eng_sentence": "He's prepared for the worst.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Это очень типично для него.",
+		"eng_sentence": "It's very typical of him.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Он ответственный за все.",
+		"eng_sentence": "He's responsible for everything.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Давай обсудим некоторые вещи связанные с этой проблемой.",
+		"eng_sentence": "Let's discuss some things related to this problem.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Он ужасно говорит по французски.",
+		"eng_sentence": "He's terrible at speaking French.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Эта вещь мне знакома.",
+		"eng_sentence": "This thing is familiar to me.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я был шокирован новостью.",
+		"eng_sentence": "I was shocked by the news.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Она очень зла на него.",
+		"eng_sentence": "She's very angry with him.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Она очень обеспокоена своим будущим.",
+		"eng_sentence": "She feels very anxious about her future.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Я знаком с его другом.",
+		"eng_sentence": "I'm familiar with his friend.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Он отлично владеет языками.",
+		"eng_sentence": "He's excellent at languages.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Она очень хороша в игре на скрипке.",
+		"eng_sentence": "She's very good at playing the violin.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я к этому привык.",
+		"eng_sentence": "I'm used to it.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Она ужасно играет в теннис.",
+		"eng_sentence": "She's terrible at playing tennis.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Его обвинили в преступлении.",
+		"eng_sentence": "He was accused of a crime.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он отлично разбирается в математике.",
+		"eng_sentence": "He's excellent at maths.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Его лицо кажется мне знакомым.",
+		"eng_sentence": "His face seems familiar to me.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Он очень зол из-за этой ситуации.",
+		"eng_sentence": "He's very angry about this situation.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Её обвинили во лжи.",
+		"eng_sentence": "She was accused of lying .",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я знаком с ней.",
+		"eng_sentence": "I'm familiar with her.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Его лицо мне очень знакомо.",
+		"eng_sentence": "His face is very familiar to me.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Она ревнует своего мужа.",
+		"eng_sentence": "She's jealous of her husband.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Я был действительно удивлен её словами.",
+		"eng_sentence": "I was really surprised by her words.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Это довольно типично для него.",
+		"eng_sentence": "It's quite typical of him.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Он ужасно играет в теннис.",
+		"eng_sentence": "He's terrible at playing tennis.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Он был впечатлён её красотой.",
+		"eng_sentence": "He was impressed by her beauty.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я действительно устал делать это снова и снова.",
+		"eng_sentence": "I'm really tired of doing it again and again.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Он устал делать те же самые вещи снова и снова.",
+		"eng_sentence": "He's tired of doing the same things again and again.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Он ответственный за это.",
+		"eng_sentence": "He's responsible for it.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Я не готов к этому.",
+		"eng_sentence": "I'm not prepared for it.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Мы все были шокированы новостями.",
+		"eng_sentence": "We were all shocked by the news.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Она очень обеспокоена этой ситуацией.",
+		"eng_sentence": "She's very worried about this situation.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Я знаком с ним.",
+		"eng_sentence": "I'm familiar with him.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Он плохо играет в футбол.",
+		"eng_sentence": "He's bad at playing football.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Он очень беспокоится (тревожится) о своём будущем.",
+		"eng_sentence": "He's very anxious about his future.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я был действительно удивлен этим решением.",
+		"eng_sentence": "I was really surprised by this decision.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Мои идеи похожи на её.",
+		"eng_sentence": "My ideas are similar to hers.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Некоторые из моих коллег очень чувствительны к критике.",
+		"eng_sentence": "Some of my colleagues are very sensitive to criticism.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Все были шокированы его внезапной смертью.",
+		"eng_sentence": "Everyone was shocked by his sudden death.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Он не способен сделать такую вещь.",
+		"eng_sentence": "He's incapable of doing such a thing.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Он очень чувствителен к критике других людей.",
+		"eng_sentence": "He's very sensitive to other people's criticism.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я уверен, что он не способен говорить неправду.",
+		"eng_sentence": "I'm sure that he's incapable of telling a lie.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Она очень чувствительна к критике своих коллег.",
+		"eng_sentence": "She's very sensitive to her colleagues' criticism.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Тебе не нужно бояться делать это.",
+		"eng_sentence": "You don't need to be afraid of doing it.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Эта вещь всегда ассоциируется с богатством и успехом.",
+		"eng_sentence": "This thing is always associated with wealth and success.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я всегда был хорош в математике.",
+		"eng_sentence": "I have always been good at maths.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Она не способна говорить неправду.",
+		"eng_sentence": "She's incapable of telling a lie.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Он привык ложиться поздно.",
+		"eng_sentence": "He's accustomed to going to bed late.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я не привык выступать на публике.",
+		"eng_sentence": "I'm not used to speaking in public.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Наши идеи схожи с их.",
+		"eng_sentence": "Our ideas are similar to theirs.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Она часто ревнует своего мужа.",
+		"eng_sentence": "She's often jealous of her husband.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Она сыта по горло этой рутиной.",
+		"eng_sentence": "She's fed up with this routine.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Он не боится делать это.",
+		"eng_sentence": "He's not afraid of doing it.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я действительно боюсь это делать.",
+		"eng_sentence": "I'm really afraid of doing it.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Она боится искать новую работу.",
+		"eng_sentence": "She's afraid of looking for a new job.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Он всегда был хорош в цифрах.",
+		"eng_sentence": "He has always been good at figures.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Он действительно хорош в математике.",
+		"eng_sentence": "He's really good at maths.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Он никогда не был хорош в игре в футбол.",
+		"eng_sentence": "He has never been good at playing football.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Эти вещи тесно связаны друг с другом.",
+		"eng_sentence": "These things are closely related to each other.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Эти серии связаны друг с другом.",
+		"eng_sentence": "These series are related to each other.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Эти вещи совсем не связаны друг с другом.",
+		"eng_sentence": "These things aren't related to each other at all.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я вижу, что твоя точка зрения похожа на мою.",
+		"eng_sentence": "I see that your pont of view is similar to mine.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я вижу, что твоя идея похожа на её.",
+		"eng_sentence": "I see that your idea is similar to hers.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Эти две вещи очень похожи.",
+		"eng_sentence": "These two things are very similar.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Его обвинили в совершении того преступления.",
+		"eng_sentence": "He was accused of committing that crime.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Её обвинили в убийствах.",
+		"eng_sentence": "She was accused of murders.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Его обвинили во лжи.",
+		"eng_sentence": "He was accused of telling a lie.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Я не привык делать это.",
+		"eng_sentence": "I'm not accustomed to doing it.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я не привык вставать рано.",
+		"eng_sentence": "I'm not accustomed to getting up early.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он привык убирать в своей комнате два раза в неделю.",
+		"eng_sentence": "He's accustomed to cleaning his room twice a week.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Она увлекается чтением иностранной литературы.",
+		"eng_sentence": "She's keen on reading foreign literature.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Он увлекается спортом.",
+		"eng_sentence": "He's keen on sport.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Она увлекается просмотром фильмов.",
+		"eng_sentence": "She's keen on watching movies.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я привык вставать рано.",
+		"eng_sentence": "I'm accustomed to getting up early.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я не привык просыпаться так рано.",
+		"eng_sentence": "I'm not accustomed to waking up so early.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Он не привык делать это.",
+		"eng_sentence": "He's not accustomed to doing it.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я очень быстро привык к этой погоде.",
+		"eng_sentence": "Я got used to this weather very quickly.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Я привык вставать рано.",
+		"eng_sentence": "I got used to getting up early.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я не привык опаздывать на работу.",
+		"eng_sentence": "I'm not used to being late for work.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Мой коллега очень чувствителен к критике.",
+		"eng_sentence": "My colleague is very sensitive to criticism.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я очень чувствителен к холоду.",
+		"eng_sentence": "I'm very sensitive to cold.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Некоторые люди очень чувствительны к критике.",
+		"eng_sentence": "Some people are very sensitive to criticism.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Все мы знаем, что деньги часто ассоциируются со счастьем.",
+		"eng_sentence": "We all know that money is often associated with happiness.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Мне нужно сказать кое-что, связанное с нашей последней встречей.",
+		"eng_sentence": "I need to say something related to our last meeting.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я особенно увлекаюсь изучением иностранных языков.",
+		"eng_sentence": "I'm particularly keen on learning foreign languages.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Их обвинили в совершении преступления.",
+		"eng_sentence": "They were accused of committing a crime.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я не думаю, что он способен сделать это.",
+		"eng_sentence": "I don't think that he's capable of doing it.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Это поведение довольно типично для большинства подростков.",
+		"eng_sentence": "This behavior is quite typical of most teenagers.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я был действительно впечатлён красотой этого места.",
+		"eng_sentence": "I was really impressed by the beauty of this place.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я не думаю, что он способен сделать это.",
+		"eng_sentence": "I don't think that he's capable of doing it.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Он ужасно владеет иностранными языками.",
+		"eng_sentence": "He's terrible at foreign languages.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я привык работать под давлением.",
+		"eng_sentence": "I'm accustomed to working under pressure.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Его обвинили в убийстве.",
+		"eng_sentence": "He was accused of murder.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я думаю, он не способен сделать это.",
+		"eng_sentence": "I think he's incapable of doing it.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Я скоро привык к этому.",
+		"eng_sentence": "I got accustomed to it soon.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я не привык делать это.",
+		"eng_sentence": "I'm not used to doing it.",
+		"lesson": "151",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Я привык к этому.",
+		"eng_sentence": "I'm accustomed to it.",
+		"lesson": "151",
+		"difficulty": ""
+	}
+]
