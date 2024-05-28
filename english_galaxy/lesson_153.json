@@ -1,0 +1,716 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Он полон энтузиазма.",
+		"eng_sentence": "He's full of enthusiasm.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я действительно рад за тебя.",
+		"eng_sentence": "I'm really glad for you.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Это сделано из хлопка.",
+		"eng_sentence": "It's made of cotton.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Он очень раздражён ею.",
+		"eng_sentence": "He's very annoyed with her.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я так рад за тебя.",
+		"eng_sentence": "I'm so happy for you.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Это сделано из стали.",
+		"eng_sentence": "It's made of steel.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Он очень нервничает из-за своего будущего.",
+		"eng_sentence": "He's very nervous about his future.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Я действительно сожалею обо всём.",
+		"eng_sentence": "I'm really sorry about everything.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Она очень раздражена им.",
+		"eng_sentence": "She's very irritated with him.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Она безнадёжна в катании на коньках.",
+		"eng_sentence": "She's hopeless at skating.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я так рад за тебя.",
+		"eng_sentence": "I'm so glad for you.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Мне ясно, что мне нужно что-то делать прямо сейчас.",
+		"eng_sentence": "It's clear to me that I need to do something right now.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Она зависима от своих родителей.",
+		"eng_sentence": "She's dependent on her parents.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Он помолвлен с ней.",
+		"eng_sentence": "He's engaged to her.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Он абсолютно безнадежен в этом.",
+		"eng_sentence": "He's absolutely hopeless at it.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Ему не все ясно.",
+		"eng_sentence": "Not everything is clear to him.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Он был очень раздражён детьми.",
+		"eng_sentence": "He was very annoyed with the children.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Они были очень раздражены его грубостью.",
+		"eng_sentence": "They were very irritated by (with) his rudeness.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Мне всё ясно.",
+		"eng_sentence": "Everything is clear to me.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я действительно рад твоему успеху.",
+		"eng_sentence": "I'm really glad about your success.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он был очень разочарован результатом.",
+		"eng_sentence": "He was very disappointed about the result.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Он действительно уверен в этом?",
+		"eng_sentence": "Is he really sure about it?",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Она помолвлена с ним.",
+		"eng_sentence": "She's engaged to him.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Это сделано из шерсти.",
+		"eng_sentence": "It's made of wool.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я так рад твоим достижениям.",
+		"eng_sentence": "I'm so happy about your achievements.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Он очень раздражен её комментариями.",
+		"eng_sentence": "He's very irritated by her comments.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Она действительно без ума от музыки.",
+		"eng_sentence": "She's really crazy about music.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Он без ума от неё.",
+		"eng_sentence": "He's mad about her.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Он полон энтузиазма.",
+		"eng_sentence": "He's full of enthusiasm.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я не совсем уверен в этом.",
+		"eng_sentence": "I'm not really sure about it.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Она безнадёжна в кулинарии.",
+		"eng_sentence": "She's hopeless at cooking.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Это сделано из пластика.",
+		"eng_sentence": "It's made of plastic.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Она все ещё злится (в ярости) на него.",
+		"eng_sentence": "She's still furious with him.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Это мне не ясно.",
+		"eng_sentence": "It isn't clear to me.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Я так рад таким результатам.",
+		"eng_sentence": "I'm so happy about such results.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Она очень нервничает из-за этого.",
+		"eng_sentence": "She's very nervous about it.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я действительно раздражён этой вещью.",
+		"eng_sentence": "I'm really annoyed about this thing.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Это сделано из металла.",
+		"eng_sentence": "It's made of metal.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я действительно рад за тебя.",
+		"eng_sentence": "I'm really glad for you.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Сумка сделана из кожи.",
+		"eng_sentence": "The bag is made of leather.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Она очень нервничает из-за интервью.",
+		"eng_sentence": "She feels very nervous about the interview.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Мне это стало ясно.",
+		"eng_sentence": "It became clear to me .",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Она полна энергии не смотря на свой возраст.",
+		"eng_sentence": "She's full of energy despite her age.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Не смотря на свой возраст, он зависим от своих родителей.",
+		"eng_sentence": "Despite his age he's dependent on his parents.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Ты всегда очень добр ко мне.",
+		"eng_sentence": "You're always very kind to me.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Некоторые из его коллег присутствовали на конференции.",
+		"eng_sentence": "Some of his colleagues were present at the conference.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я хочу сказать, что благодарен тебе за все.",
+		"eng_sentence": "I want to say that I'm grateful to you for everything.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я знаком с такого рода проблемами.",
+		"eng_sentence": "I'm acquainted with this kind of problems.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Он так рад такому результату.",
+		"eng_sentence": "He's so happy about such a results.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Она всегда очень добра к нам.",
+		"eng_sentence": "She's always very kind to us.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Не смотря на свой возраст, он зависит от своего отца.",
+		"eng_sentence": "In spite of his age he's dependent on his father.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Он полон энергии, не смотря на свой возраст.",
+		"eng_sentence": "He's full of energy in spite of his age.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я опоздал на урок.",
+		"eng_sentence": "I was late for the lesson.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Его коллеги завидовали его успехам.",
+		"eng_sentence": "His colleagues were envious of his success.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Он хочет познакомиться с ней.",
+		"eng_sentence": "He wants to get acquainted with her.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Он немного опоздал на урок.",
+		"eng_sentence": "He was late for the lesson a little.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я благодарен тебе за твоё гостеприимство.",
+		"eng_sentence": "I'm grateful to you for your hospitality.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "У него аллергия на орехи.",
+		"eng_sentence": "He's allergic to nuts.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "У неё нет аллергии на это.",
+		"eng_sentence": "She isn't allergic to it.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "У меня аллергия на эту еду.",
+		"eng_sentence": "I'm allergic to this food.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Ей не хватает денег.",
+		"eng_sentence": "She's short of money.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Мне не хватает времени.",
+		"eng_sentence": "I'm short of time.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Ему не хватает наличных?",
+		"eng_sentence": "Is he short of cash?",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Было очень мило с твоей стороны помочь нам.",
+		"eng_sentence": "It was very nice of you to help us.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Было так мило с твоей стороны помочь мне.",
+		"eng_sentence": "It was so nice of you to help me.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Было действительно мило с его стороны встретить нас.",
+		"eng_sentence": "It was really nice of him to meet us.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Он часто грустит из-за этого.",
+		"eng_sentence": "He's often sad about it.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Она действительно грустит из-за этой вещи.",
+		"eng_sentence": "She's really sad about this thing.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он так грустит из-за своих ошибок.",
+		"eng_sentence": "He's so sad about his mistakes.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Все завидуют ему.",
+		"eng_sentence": "Everyone is envious of him. (Everyone envies him)",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Никто ей не завидует.",
+		"eng_sentence": "No one is envious of her. (No one envies her)",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Я не завидую тебе.",
+		"eng_sentence": "I'm not envious of you. (I don't envy you)",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Он отсутствовал на работе.",
+		"eng_sentence": "He was absent from work.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я отсутствовал в университете.",
+		"eng_sentence": "I was absent from the university.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он отсутствует на работе?",
+		"eng_sentence": "Is he absent from work?",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Ты хочешь с ней познакомиться?",
+		"eng_sentence": "Do you want to get acquainted with her?",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я действительно хочу с ним познакомиться.",
+		"eng_sentence": "I really want to get acquainted with him.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я никогда не хотел с ними знакомиться.",
+		"eng_sentence": "I've never wanted to get acquainted with them.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Ему наскучил этот формат образования.",
+		"eng_sentence": "He's bored with this format of education.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Ей наскучила эта работа.",
+		"eng_sentence": "She's bored with this job.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Ему наскучил этот фильм?",
+		"eng_sentence": "Is he bored with this movie?",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Эта вещь нам непонятна.",
+		"eng_sentence": "This thing isn't clear to us.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Эта вещь мне понятна.",
+		"eng_sentence": "This thing is clear to me.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Эта вещь тебе понятна?",
+		"eng_sentence": "Is this thing clear to you?",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Им не хватает воды.",
+		"eng_sentence": "They're short of water.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Мне не хватает денег.",
+		"eng_sentence": "I'm short of money.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Тебе не хватило времени?",
+		"eng_sentence": "Were you short of time.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Им не хватает времени.",
+		"eng_sentence": "They're short of time.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Было очень мило с твоей стороны предложить это.",
+		"eng_sentence": "It was very nice of you to offer it.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "У мальчика аллергия на эту еду.",
+		"eng_sentence": "The boy is allergic to this food.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я отсутствовал на встрече.",
+		"eng_sentence": "I was absent from the meeting.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я хочу с ним познакомиться.",
+		"eng_sentence": "I want to get acquainted with him.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Почему он так завидует ей?",
+		"eng_sentence": "Why is he so envious of her? (Why does he envy her?)",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Она присутствовала на уроке.",
+		"eng_sentence": "She was present at the lesson.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Ты знаком с ней?",
+		"eng_sentence": "Are you acquainted with her?",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Она отсутствовала в школе.",
+		"eng_sentence": "She was absent from school.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "У неё аллергия на домашнюю пыль.",
+		"eng_sentence": "She is allergic to house dust.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Это очень мило с твоей стороны.",
+		"eng_sentence": "It's very nice of you.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Он присутствовал на встрече.",
+		"eng_sentence": "He was present at the meeting.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Он не благодарен за это?",
+		"eng_sentence": "Isn't he grateful for it?.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Ему не хватает наличных.",
+		"eng_sentence": "He's short of cash.",
+		"lesson": "153",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Она грустит об этом.",
+		"eng_sentence": "She's sad about it.",
+		"lesson": "153",
+		"difficulty": ""
+	}
+]
