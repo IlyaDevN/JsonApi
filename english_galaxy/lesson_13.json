@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я счастлив.",
+		"eng_sentence": "I am happy.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Ты абсолютно прав.",
+		"eng_sentence": "You are absolutely right.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Это чудесно.",
+		"eng_sentence": "It is wonderful.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Это мало.",
+		"eng_sentence": "It is little.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Это действительно чудесно.",
+		"eng_sentence": "It is really wonderful.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я из России.",
+		"eng_sentence": "I am from Russia.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Он очень счастлив.",
+		"eng_sentence": "He is very happy.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Это плохо.",
+		"eng_sentence": "It is bad.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Он из Англии.",
+		"eng_sentence": "He is from England.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Это один миллион долларов.",
+		"eng_sentence": "It is one million dollars.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Это так скучно.",
+		"eng_sentence": "It is so boring.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Это один миллион.",
+		"eng_sentence": "It is one million.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Я на работе.",
+		"eng_sentence": "I am at work.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Они абсолютно правы.",
+		"eng_sentence": "They are absolutely right.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Это так замечательно.",
+		"eng_sentence": "It is so wonderful.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Это слишком мало.",
+		"eng_sentence": "It is too little.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Они в школе.",
+		"eng_sentence": "They are at school.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Она очень грустная.",
+		"eng_sentence": "She is very sad.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Это интересно.",
+		"eng_sentence": "It is interesting.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Это очень хорошо.",
+		"eng_sentence": "It is very good.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Она занята сейчас.",
+		"eng_sentence": "She is busy now.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Она в школе.",
+		"eng_sentence": "She is at school.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Она из Соединенных Штатов.",
+		"eng_sentence": "She is from the United States.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Я дома.",
+		"eng_sentence": "I am at home.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это очень плохо.",
+		"eng_sentence": "It is very bad.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Он её муж.",
+		"eng_sentence": "He is her husband.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Он сердитый.",
+		"eng_sentence": "He is angry.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Он очень сердитый.",
+		"eng_sentence": "He is very angry.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Это хорошо.",
+		"eng_sentence": "It is good.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я свободен.",
+		"eng_sentence": "I am free.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Ты прав.",
+		"eng_sentence": "You are right.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я здесь.",
+		"eng_sentence": "I am here.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Они очень заняты.",
+		"eng_sentence": "They are very busy.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Это так хорошо.",
+		"eng_sentence": "It is so good.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Я очень занят сейчас.",
+		"eng_sentence": "I am very busy now.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я так счастлив.",
+		"eng_sentence": "I'm so happy.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Это очень интересно.",
+		"eng_sentence": "It is very interesting.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Он сейчас на работе.",
+		"eng_sentence": "He is at work now.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Это очень важно.",
+		"eng_sentence": "It is very important.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я студент.",
+		"eng_sentence": "I am a student.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Она действительно злая.",
+		"eng_sentence": "She is really angry.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Мы дома.",
+		"eng_sentence": "We are at home.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Они мои друзья.",
+		"eng_sentence": "They are my friends.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Ты мой лучший друг.",
+		"eng_sentence": "You are my best friend.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Он очень старый.",
+		"eng_sentence": "He is very old.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Они учителя.",
+		"eng_sentence": "They are teachers.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Он мой лучший друг.",
+		"eng_sentence": "He is my best friend.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Он учитель.",
+		"eng_sentence": "He is a teacher.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Она очень молодая.",
+		"eng_sentence": "She is very young.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Ей 60 лет.",
+		"eng_sentence": "She is sixty years old.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Она секретарь.",
+		"eng_sentence": "She is a secretary.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Он мой друг.",
+		"eng_sentence": "He is my friend.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Мы студенты.",
+		"eng_sentence": "We are students.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Они менеджеры.",
+		"eng_sentence": "They are managers.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Это вопрос.",
+		"eng_sentence": "It is a question.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Он в своей комнате.",
+		"eng_sentence": "He is in his room.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Она в своей комнате.",
+		"eng_sentence": "She is in her room.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я действительно уверен.",
+		"eng_sentence": "I am really sure.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Мы действительно уверены.",
+		"eng_sentence": "We are really sure.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Он абсолютно прав.",
+		"eng_sentence": "He is absolutely right.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я абсолютно уверен.",
+		"eng_sentence": "I am absolutely sure.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я абсолютно прав.",
+		"eng_sentence": "I am absolutely right.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Он абсолютно уверен.",
+		"eng_sentence": "He is absolutely sure.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Это игра.",
+		"eng_sentence": "It is a game.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Это мальчик.",
+		"eng_sentence": "This is a boy.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Они очень хорошие друзья.",
+		"eng_sentence": "They are very good friends.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Они дети.",
+		"eng_sentence": "They are children.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Он ребенок.",
+		"eng_sentence": "He is a child.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Мы дети.",
+		"eng_sentence": "We are children.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Она певица.",
+		"eng_sentence": "She is a singer.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я певец.",
+		"eng_sentence": "I am a singer.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Они певцы.",
+		"eng_sentence": "They are singers.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Мне 40 лет.",
+		"eng_sentence": "I am forty years old.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Мне 60 лет.",
+		"eng_sentence": "I am sixty years old.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Ему сорок лет.",
+		"eng_sentence": "He is forty years old.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Она врач.",
+		"eng_sentence": "She is a doctor.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я врач.",
+		"eng_sentence": "I am a doctor.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Они врачи.",
+		"eng_sentence": "They are doctors.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Они действительно уверены.",
+		"eng_sentence": "They are really sure.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Он действительно уверен.",
+		"eng_sentence": "He is really sure.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Я уверен.",
+		"eng_sentence": "I am sure.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Мы уверены.",
+		"eng_sentence": "We are sure.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Он уверен.",
+		"eng_sentence": "He is sure.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Этого достаточно.",
+		"eng_sentence": "It is enough.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Они слишком большие.",
+		"eng_sentence": "They are too big.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я в своей комнате.",
+		"eng_sentence": "I am in my room.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Это проблема.",
+		"eng_sentence": "It is a problem.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Он бизнесмен.",
+		"eng_sentence": "He is a businessman.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Мне 30.",
+		"eng_sentence": "I am thirty.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Он программист.",
+		"eng_sentence": "He is a programmer.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Он менеджер.",
+		"eng_sentence": "He is a manager.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Это любовь.",
+		"eng_sentence": "It is love.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Это факт.",
+		"eng_sentence": "It is a fact.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Этого больше чем достаточно.",
+		"eng_sentence": "It is more than enough.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Она учитель.",
+		"eng_sentence": "She is a teacher.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Он певец.",
+		"eng_sentence": "He is a singer.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Они сейчас вместе.",
+		"eng_sentence": "They are together now.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Она его жена.",
+		"eng_sentence": "She is his wife.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Он сейчас в другой стране.",
+		"eng_sentence": "He is in another country now.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Ему 60.",
+		"eng_sentence": "He is sixty.",
+		"lesson": "",
+		"difficulty": ""
+	}
+]
