@@ -604,7 +604,7 @@
 	{	
 		"id": 87,
 		"rus_sentence": "Тебе не хватило времени?",
-		"eng_sentence": "Were you short of time.",
+		"eng_sentence": "Were you short of time?",
 		"lesson": "153",
 		"difficulty": ""
 	},
@@ -695,7 +695,7 @@
 	{	
 		"id": 100,
 		"rus_sentence": "Он не благодарен за это?",
-		"eng_sentence": "Isn't he grateful for it?.",
+		"eng_sentence": "Isn't he grateful for it?",
 		"lesson": "153",
 		"difficulty": ""
 	},

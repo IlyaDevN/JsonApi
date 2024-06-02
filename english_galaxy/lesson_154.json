@@ -16,7 +16,7 @@
 	{	
 		"id": 3,
 		"rus_sentence": "Ты мог бы мне объяснить эту вещь?",
-		"eng_sentence": "Can you explain this thing to me?.",
+		"eng_sentence": "Can you explain this thing to me?",
 		"lesson": "",
 		"difficulty": ""
 	},
@@ -421,8 +421,8 @@
 	},
 	{	
 		"id": 61,
-		"rus_sentence": "Почему ты не слушаешь его?.",
-		"eng_sentence": "Why don't you listen to him?.",
+		"rus_sentence": "Почему ты не слушаешь его?",
+		"eng_sentence": "Why don't you listen to him?",
 		"lesson": "",
 		"difficulty": ""
 	},
