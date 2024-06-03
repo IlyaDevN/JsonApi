@@ -295,14 +295,14 @@
 	},
 	{	
 		"id": 43,
-		"rus_sentence": "Она полна энергии не смотря на свой возраст.",
+		"rus_sentence": "Она полна энергии, несмотря на свой возраст.",
 		"eng_sentence": "She's full of energy despite her age.",
 		"lesson": "153",
 		"difficulty": ""
 	},
 	{	
 		"id": 44,
-		"rus_sentence": "Не смотря на свой возраст, он зависим от своих родителей.",
+		"rus_sentence": "Несмотря на свой возраст, он зависим от своих родителей.",
 		"eng_sentence": "Despite his age he's dependent on his parents.",
 		"lesson": "153",
 		"difficulty": ""
@@ -351,14 +351,14 @@
 	},
 	{	
 		"id": 51,
-		"rus_sentence": "Не смотря на свой возраст, он зависит от своего отца.",
+		"rus_sentence": "Несмотря на свой возраст, он зависит от своего отца.",
 		"eng_sentence": "In spite of his age he's dependent on his father.",
 		"lesson": "153",
 		"difficulty": ""
 	},
 	{	
 		"id": 52,
-		"rus_sentence": "Он полон энергии, не смотря на свой возраст.",
+		"rus_sentence": "Он полон энергии, несмотря на свой возраст.",
 		"eng_sentence": "He's full of energy in spite of his age.",
 		"lesson": "153",
 		"difficulty": ""

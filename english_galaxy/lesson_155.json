@@ -128,7 +128,7 @@
 	{	
 		"id": 19,
 		"rus_sentence": "Чем она обеспокоена?",
-		"eng_sentence": "What's she worry about?",
+		"eng_sentence": "What's she worried about?",
 		"lesson": "155",
 		"difficulty": ""
 	},
@@ -492,7 +492,7 @@
 	{	
 		"id": 71,
 		"rus_sentence": "Какая причина её отказа?",
-		"eng_sentence": "What's the reason to her refusal?",
+		"eng_sentence": "What's the reason for her refusal?",
 		"lesson": "155",
 		"difficulty": ""
 	},
