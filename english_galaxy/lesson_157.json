@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Он влюбился в неё.",
+		"eng_sentence": "He fell in love with her.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "В общем, это интересное предложение.",
+		"eng_sentence": "In general, it's an interesting offer.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Он часто в стрессе.",
+		"eng_sentence": "He is often under stress.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Я не знаю, что делать касательно этой проблемы.",
+		"eng_sentence": "I don't know what to do in terms of this problem.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я хочу сказать тебе одну вещь касательно этой проблемы.",
+		"eng_sentence": "I want to tell you one thing in terms of this problem.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я в хороших отношениях со своими соседями.",
+		"eng_sentence": "I'm on good terms with my neighbours.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "На самом деле, это неправда.",
+		"eng_sentence": "In fact, it isn't true.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Она отвечает за отдел маркетинга.",
+		"eng_sentence": "She is in charge of the marketing department.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Она очень талантливый человек от природы.",
+		"eng_sentence": "She is a very talented person by nature.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Это действительно случилось к моему великому удивлению.",
+		"eng_sentence": "It really happened to my great surprise.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Он думает обо всем с точки зрения денег.",
+		"eng_sentence": "He thinks about everything in terms of money.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Она влюбилась в него.",
+		"eng_sentence": "She fell in love with him.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Вам нужно принять это во внимание.",
+		"eng_sentence": "You need to take it into account (consideration).",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Он отвечает за этот отдел.",
+		"eng_sentence": "He is in charge of this department.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Он сейчас в поезде.",
+		"eng_sentence": "He's on a train now.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Это всё ещё в прогрессе.",
+		"eng_sentence": "It's still in progress.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Она часто находится под давлением.",
+		"eng_sentence": "She is often under pressure.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я был в сомнении.",
+		"eng_sentence": "I was in doubt. (I doubted it)",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Это в процессе.",
+		"eng_sentence": "It's in progress.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Они влюблены.",
+		"eng_sentence": "They are in love.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я спешу.",
+		"eng_sentence": "I'm in a hurry.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я сомневаюсь сейчас.",
+		"eng_sentence": "I'm in doubt now.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Она часто путешествует на самолёте.",
+		"eng_sentence": "She often travels by plane.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Он сейчас в самолёте.",
+		"eng_sentence": "He's on the plane now.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я знаю, это противозаконно.",
+		"eng_sentence": "I know it's against the law.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Она думает об этом с точки зрения денег.",
+		"eng_sentence": "She thinks about it in terms of money.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Он сейчас в автобусе.",
+		"eng_sentence": "He's on the bus now.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Мне нужно это учитывать.",
+		"eng_sentence": "I need to take it into account.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Я поехал туда на машине.",
+		"eng_sentence": "I went there by car.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я не спешу.",
+		"eng_sentence": "I'm not in a hurry.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Мы можем поговорить об этом подробно.",
+		"eng_sentence": "We can talk about it in detail.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Он очень добрый человек от природы.",
+		"eng_sentence": "He is a very kind person by nature.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Ты спешишь сейчас?",
+		"eng_sentence": "Are you in a hurry now?",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Мне нужно видеть это на бумаге.",
+		"eng_sentence": "I need to see it on paper.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Другими словами, ты тоже можешь сделать это.",
+		"eng_sentence": "In other words, you can also do it.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Ему не нравится путешествовать на автобусе.",
+		"eng_sentence": "He doesn't like travelling by bus.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Это не случилось к моему удивлению.",
+		"eng_sentence": "It didn't happen to my surprise.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Мы можем обсудить это подробно?",
+		"eng_sentence": "Can we discuss it in detail?",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Он влюбился в неё.",
+		"eng_sentence": "He fell in love with her.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я часто хожу туда пешком.",
+		"eng_sentence": "I often go there on foot.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "У тебя есть это на бумаге?",
+		"eng_sentence": "Do you have it on paper?",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Он отвечает за отдел продаж.",
+		"eng_sentence": "He is in charge of the sales department.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Он в поисках ответа на этот вопрос.",
+		"eng_sentence": "He is in search of an answer to this question.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "В общем, это довольно интересное предложение.",
+		"eng_sentence": "In general, it's quite an interesting offer.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я хочу сосредоточиться на этой проблеме пока что.",
+		"eng_sentence": "I want to focus on this problem for the time being.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "В дополнение к этому, это может привести к более серьёзным проблемам.",
+		"eng_sentence": "In addition to it, it can lead to more serious problems.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Эта машина в плохом состоянии.",
+		"eng_sentence": "This machine is in bad condition.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Наоборот, нам нужно обратить внимание на это.",
+		"eng_sentence": "On the contrary, we need to pay attention to it.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Другими словами, эта вещь также заслуживает нашего внимания.",
+		"eng_sentence": "In other words, this thing also deserves our attention.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Ты не можешь принять все как должное.",
+		"eng_sentence": "You can't take everything for granted.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "В общем, это вполне хорошая идея.",
+		"eng_sentence": "In general, it's quite a good idea.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Она в поисках ответа на эти вопросы.",
+		"eng_sentence": "She's in search of an answer to these questions.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "У меня хорошее настроение.",
+		"eng_sentence": "I'm in a good mood.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Они живут на окраине города.",
+		"eng_sentence": "They live on the outskirts of the town.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "На самом деле, это довольно сложный экзамен.",
+		"eng_sentence": "In fact, it's a quite a difficult exam.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "В дополнение к этому, это стоит слишком дорого.",
+		"eng_sentence": "In addition to it, it costs too much.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Наоборот, нам нужно принять это во внимание.",
+		"eng_sentence": "On the contrary, we need to take it into account.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Все в твоём распоряжении.",
+		"eng_sentence": "Everything is at your disposal.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Всё будет в его распоряжении.",
+		"eng_sentence": "Everything will be at his disposal.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Всё было в моём распоряжении.",
+		"eng_sentence": "Everything was at my disposal.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я вижу, у тебя хорошее настроение.",
+		"eng_sentence": "I see you are in a good mood.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Почему у тебя плохое настроение?",
+		"eng_sentence": "Why are you in a bad mood?",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Я знаю почему у него хорошее настроение.",
+		"eng_sentence": "I know why he's in a good mood.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Мой коллега живёт в пригороде.",
+		"eng_sentence": "My colleague lives in the suburbs.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Мой коллега живет в центре города.",
+		"eng_sentence": "My colleague lives in the city centre.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Они живут в пригороде?",
+		"eng_sentence": "Do they live in the suburbs?",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "В общем, эта идея довольно хорошая.",
+		"eng_sentence": "In general, this idea is quite good.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "В общем, эта идея не достаточно хорошая.",
+		"eng_sentence": "In general, this idea isn't good enough.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "В общем, эта идея действительно интересная.",
+		"eng_sentence": "In general, this idea is really interesting.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Я пока что остановлюсь.",
+		"eng_sentence": "I'll stop for the time being.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я пока что буду там.",
+		"eng_sentence": "I'll be there for the time being.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Я пока что остановился.",
+		"eng_sentence": "I stopped for the time being.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "В дополнение к этому, я хочу сказать следующее.",
+		"eng_sentence": "In addition to it, I want to say the following.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "В дополнение к этому, я хочу спеть кое-что.",
+		"eng_sentence": "In addition to it, I want to sing something.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "В дополнение к этому, я сделаю следующее.",
+		"eng_sentence": "In addition to it, I'll do the following.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "На самом деле, это довольно сложный тест.",
+		"eng_sentence": "In fact, it's quite a difficult test.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "На самом деле, это действительно сложный экзамен.",
+		"eng_sentence": "In fact, it's a really difficult exam.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "На самом деле, это была очень хорошая идея.",
+		"eng_sentence": "In fact, it was a very good idea.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Мы не можем принимать всё как должное.",
+		"eng_sentence": "We can't take everything for granted.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Нам нужно принять это как должное.",
+		"eng_sentence": "We need to take it for granted.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Я принял всё как должное.",
+		"eng_sentence": "I took everything for granted.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Всё будет в твоём распоряжении.",
+		"eng_sentence": "Everything will be at your disposal.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Всё было в его распоряжении.",
+		"eng_sentence": "Everything was at his disposal.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Другими словами, это означает следующее.",
+		"eng_sentence": "In other words, it means the following.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Другими словами, эта вещь также важна.",
+		"eng_sentence": "In other words, this thing is also important.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Другими словами, это может означать следующее.",
+		"eng_sentence": "In other words, it can mean the following.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Мой друг живет в пригороде.",
+		"eng_sentence": "My friend lives in the suburbs.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Большинство людей принимают это как должное.",
+		"eng_sentence": "Most people take it for granted.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я думаю, пока что этого достаточно.",
+		"eng_sentence": "I think it's enough for the time being.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "В общем, это довольно интересная мысль.",
+		"eng_sentence": "In general, it's quite an interesting thought.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Наоборот, это не работает таким образом.",
+		"eng_sentence": "On the contrary, it doesn't work this way.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Наоборот, вещи не работают таким образом.",
+		"eng_sentence": "On the contrary, things don't work this way.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Что ты думаешь о жизни в пригороде?",
+		"eng_sentence": "What do you think about living in the suburbs.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я пока что хочу прекратить это делать.",
+		"eng_sentence": "I want to stop doing it for the time being.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Он живет на окраине города.",
+		"eng_sentence": "He lives on the outskirts of the city.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Не обращай на это внимание!",
+		"eng_sentence": "Don't pay attention to it!",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Он в плохом настроении.",
+		"eng_sentence": "He is a bad mood.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Это в твоём распоряжении.",
+		"eng_sentence": "It's at your disposal.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Эта машина в хорошем состоянии.",
+		"eng_sentence": "This car is in good condition.",
+		"lesson": "157",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Она живет на окраине.",
+		"eng_sentence": "She lives on the outskirts.",
+		"lesson": "157",
+		"difficulty": ""
+	}
+]
