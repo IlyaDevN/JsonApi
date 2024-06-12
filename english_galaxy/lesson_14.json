@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Она моя мама.",
+		"eng_sentence": "She's my mother.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я в порядке.",
+		"eng_sentence": "I'm OK / all right / alright / fine.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Мы дома.",
+		"eng_sentence": "We're at home.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Ей 70 лет.",
+		"eng_sentence": "She's seventy years old.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Ему 70.",
+		"eng_sentence": "He's seventy.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Она американка.",
+		"eng_sentence": "She's American.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Ей 50 лет.",
+		"eng_sentence": "She's fifty years old.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Ты очень трудолюбивый.",
+		"eng_sentence": "You're very hard-working.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Она очень бедная.",
+		"eng_sentence": "She's very poor.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Ему 70.",
+		"eng_sentence": "He's seventy.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Ему 8.",
+		"eng_sentence": "He's eight.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я в порядке.",
+		"eng_sentence": "I'm OK / all right.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Он холост.",
+		"eng_sentence": "He's single.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Это опасно.",
+		"eng_sentence": "It's dangerous.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Это так далеко.",
+		"eng_sentence": "It's so far.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Она в порядке.",
+		"eng_sentence": "She's OK. / She's all right",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Я в порядке.",
+		"eng_sentence": "I'm fine.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Это очень далеко.",
+		"eng_sentence": "It's very far.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Мы дома.",
+		"eng_sentence": "We're at home.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Ты очень умный.",
+		"eng_sentence": "You're very smart.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Ему 18.",
+		"eng_sentence": "He's eighteen.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Он очень трудолюбивый.",
+		"eng_sentence": "He's very hard-working.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Она такая ленивая.",
+		"eng_sentence": "She's so lazy.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Ты прав.",
+		"eng_sentence": "You're right.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это лучше.",
+		"eng_sentence": "It's better.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Ты такой трудолюбивый.",
+		"eng_sentence": "You're so hard-working.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Ты действительно прав.",
+		"eng_sentence": "You're really right.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Он в порядке.",
+		"eng_sentence": "He's fine / OK / all right / alright.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Ты абсолютно прав.",
+		"eng_sentence": "You're absolutely right.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Он очень ленивый.",
+		"eng_sentence": "He's very lazy.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Это рядом.",
+		"eng_sentence": "It's near.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Ей 20 лет.",
+		"eng_sentence": "She's twenty years old.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Он ленивый.",
+		"eng_sentence": "He's lazy.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Я женат.",
+		"eng_sentence": "I'm married.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он американец.",
+		"eng_sentence": "He's American.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он очень умный.",
+		"eng_sentence": "He's very smart.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я в порядке.",
+		"eng_sentence": "I'm alright / all right.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Она замужем.",
+		"eng_sentence": "She's married.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Он бедный.",
+		"eng_sentence": "He's poor.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Она очень умная.",
+		"eng_sentence": "She's very smart.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это очень опасно.",
+		"eng_sentence": "It's very dangerous.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Он женат.",
+		"eng_sentence": "He's married.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Она очень богатая.",
+		"eng_sentence": "She's very rich.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я холост.",
+		"eng_sentence": "I'm single.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я русский.",
+		"eng_sentence": "I'm Russian.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Она с ним сейчас.",
+		"eng_sentence": "She's with him now.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Это очень эффективно.",
+		"eng_sentence": "It's very effective.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Это возможно.",
+		"eng_sentence": "It's possible.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я думаю, это хорошо.",
+		"eng_sentence": "I think, it's good.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я думаю, это действительно замечательно.",
+		"eng_sentence": "I think it's really wonderful.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Она со мной сейчас.",
+		"eng_sentence": "She's with me now.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я думаю, это очень хорошо.",
+		"eng_sentence": "I think, it's very good.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Она очень красивая.",
+		"eng_sentence": "She's very beautiful.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Она моя сестра.",
+		"eng_sentence": "She's my sister.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Они мои родители.",
+		"eng_sentence": "They're my parents.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я вижу, ты очень занят.",
+		"eng_sentence": "I see you're very busy.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Она моя мама.",
+		"eng_sentence": "She's my mother.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Ты такая красивая.",
+		"eng_sentence": "You're so beautiful.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Это намного лучше.",
+		"eng_sentence": "It's much better.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Это так легко.",
+		"eng_sentence": "It's so easy.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я думаю, это возможно.",
+		"eng_sentence": "I think, it's possible.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Он думает, это возможно.",
+		"eng_sentence": "He thinks it's possible.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Они знают, это возможно.",
+		"eng_sentence": "They know it's possible.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Это ошибка.",
+		"eng_sentence": "It's a mistake.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Это деньги.",
+		"eng_sentence": "It's money.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Это опасная ситуация.",
+		"eng_sentence": "It's a dangerous situation.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Это абсолютно бесплатно.",
+		"eng_sentence": "It's absolutely free.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Это очень дорого.",
+		"eng_sentence": "It's very expensive.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я готов сейчас.",
+		"eng_sentence": "I'm ready now.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Мы готовы сейчас.",
+		"eng_sentence": "We're ready now.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Он готов сейчас.",
+		"eng_sentence": "He's ready now.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Это слишком трудно.",
+		"eng_sentence": "It's too difficult.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Это слишком легко.",
+		"eng_sentence": "It's too easy.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Это очень трудно.",
+		"eng_sentence": "It's very difficult.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он мой отец.",
+		"eng_sentence": "He's my father.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Он мой друг.",
+		"eng_sentence": "He's my friend.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Ты его отец.",
+		"eng_sentence": "You're his father.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Это очень легко.",
+		"eng_sentence": "It's very easy.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Он свободен.",
+		"eng_sentence": "He's free.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Это бесплатно.",
+		"eng_sentence": "It's free.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Мы свободны.",
+		"eng_sentence": "We're free.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я готов.",
+		"eng_sentence": "I'm ready.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Он готов.",
+		"eng_sentence": "He's ready.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Мы готовы.",
+		"eng_sentence": "We're ready.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Я думаю, ты прав.",
+		"eng_sentence": "I think you're right.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я думаю, он абсолютно прав.",
+		"eng_sentence": "I think he's absolutely right.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он думает, что он прав.",
+		"eng_sentence": "He thinks that he's right.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я знаю, что это ошибка.",
+		"eng_sentence": "I know that it's a mistake.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Это так эффективно.",
+		"eng_sentence": "It's so effective.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Это действительно возможно.",
+		"eng_sentence": "It's really possible.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Он мой брат",
+		"eng_sentence": "He's my brother.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я думаю, ты абсолютно прав.",
+		"eng_sentence": "I think you're absolutely right.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Они его родители.",
+		"eng_sentence": "They're his parents.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я думаю, что это очень эффективно.",
+		"eng_sentence": "I think that it's very effective.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Это очень важно.",
+		"eng_sentence": "It's very important.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я думаю, это замечательно.",
+		"eng_sentence": "I think it's wonderful.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я думаю, что это действительно хорошо.",
+		"eng_sentence": "I think that it's really good.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Он сейчас с нами.",
+		"eng_sentence": "He's with us now.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Это действительно эффективно.",
+		"eng_sentence": "It's really effective.",
+		"lesson": "14",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Я знаю, это очень дорого.",
+		"eng_sentence": "I know it's very expensive.",
+		"lesson": "14",
+		"difficulty": ""
+	}
+]
