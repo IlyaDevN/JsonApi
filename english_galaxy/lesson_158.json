@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я не думаю об этом в настоящее время.",
+		"eng_sentence": "I don't think about it at present.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Дети спят на первом этаже (сейчас).",
+		"eng_sentence": "The kids are sleeping on the first floor.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Какая длина пути?",
+		"eng_sentence": "What's the length of the way?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Твой английский становится все лучше и лучше.",
+		"eng_sentence": "Your English is getting better and better.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Послушай! Музыка играет очень громко.",
+		"eng_sentence": "Listen! The music is playing very loudly.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я часто думаю об этом.",
+		"eng_sentence": "I often think about it.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Ничего из этих вещей не интересует его.",
+		"eng_sentence": "None of these things interests him.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Что делает Кейт (сейчас)?",
+		"eng_sentence": "What is Kate doing?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Насколько эффективен этот метод?",
+		"eng_sentence": "How effective is this method?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Он никогда не ходит в это место.",
+		"eng_sentence": "He never goes to this place.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Каждый из нас хочет сделать тоже самое.",
+		"eng_sentence": "Each of us wants to do the same.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Все в порядке.",
+		"eng_sentence": "Everything is alright.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Насколько длинное это расстояние?",
+		"eng_sentence": "How long is this distance?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Что говорит Алекс (сейчас)?",
+		"eng_sentence": "What is Alex saying?.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Никто не знает этого.",
+		"eng_sentence": "No one knows it.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Все это понимают сейчас.",
+		"eng_sentence": "Everyone understands it now.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Этого сейчас никто не понимает.",
+		"eng_sentence": "No one understands it now.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Мне это никогда не помогает.",
+		"eng_sentence": "It never helps me.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Кто-то здесь есть.",
+		"eng_sentence": "Somebody is here.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Все это понимают.",
+		"eng_sentence": "Everyone understands it.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Никому из нас это не нравится.",
+		"eng_sentence": "None of us likes it.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Идёт дождь (сейчас).",
+		"eng_sentence": "It's raining.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я стараюсь делать это на регулярной основе.",
+		"eng_sentence": "I try to do it on a regular basis.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Какая длина комнаты?",
+		"eng_sentence": "What's the length of the room?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Кажется, все в порядке.",
+		"eng_sentence": "Everything seems alright.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Идёт снег (сейчас).",
+		"eng_sentence": "It's snowing.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Малыш плачет (сейчас).",
+		"eng_sentence": "The baby is crying.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Он делает физические упражнения довольно регулярно.",
+		"eng_sentence": "He does physical exercises quite regularly.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Она любит блины.",
+		"eng_sentence": "She loves pancakes.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Малыш часто плачет.",
+		"eng_sentence": "The baby often cries.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Каждый из нас прекрасно понимает это сейчас.",
+		"eng_sentence": "Each of us perfectly understands it now.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Они сейчас едут домой.",
+		"eng_sentence": "They are going home now.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Всё кажется очень странным сейчас.",
+		"eng_sentence": "Everything seems very strange now.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Никому из них не нравится эта идея сейчас.",
+		"eng_sentence": "None of them likes this idea now.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он пишет что-то на доске (сейчас).",
+		"eng_sentence": "He is writing something on the blackboard.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Никто из них действительно не понимает это сейчас.",
+		"eng_sentence": "None of them really understands it now.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Что делает учитель (сейчас)?",
+		"eng_sentence": "What's the teacher doing?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Кто-то звонит мне (сейчас).",
+		"eng_sentence": "Somebody is calling me.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Каждый из нас это осознаёт.",
+		"eng_sentence": "Each of us realizes it.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я сейчас пишу письмо своему коллеге.",
+		"eng_sentence": "I'm writing a letter to my colleague.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Он постоянно жалуется на что-то совсем без всякой причины.",
+		"eng_sentence": "He's constantly complaining about something for no reason at all.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Мои коллеги и я работаем невероятно усердно в эти дни.",
+		"eng_sentence": "My colleagues and I are working incredibly hard these days.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Врач очень успешно проводит все свои операции.",
+		"eng_sentence": "The doctor conducts all his operations very successfully.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "О чём они говорят в данный момент.",
+		"eng_sentence": "What are they talking about at the moment?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я полностью не согласен с таким утверждением.",
+		"eng_sentence": "I'm totally disagree with such a statement.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Бензин становится всё более и более дорогим.",
+		"eng_sentence": "The petrol is getting more and more expensive.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я вижу, что твой английский становится всё лучше и лучше.",
+		"eng_sentence": "I see that your English is getting better and better.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Всё становится всё более и более дорогим.",
+		"eng_sentence": "Everything is getting more and more expensive.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Врачи проводят операцию (сейчас).",
+		"eng_sentence": "The doctors are conducting an operation.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я совершенно не согласен с этим сейчас.",
+		"eng_sentence": "I totally disagree with it now.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Идёт сильный дождь.",
+		"eng_sentence": "It's raining heavily.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Летом здесь часто идёт дождь?",
+		"eng_sentence": "Does it often rain here in summer?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "У меня будет очень важная встреча завтра.",
+		"eng_sentence": "I'm having a very important meeting tomorrow.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Мы встречаемся завтра в шесть.",
+		"eng_sentence": "We are meeting tomorrow at six.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я и мой друг разговариваем по телефону (сейчас).",
+		"eng_sentence": "My friend and I are talking on the phone.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Мы встречаемся после работы.",
+		"eng_sentence": "We are meeting after work.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Они болтают после работы.",
+		"eng_sentence": "They chat after work.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я работаю на этим проектом сейчас.",
+		"eng_sentence": "I'm working on this project now.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Сейчас идёт дождь?",
+		"eng_sentence": "Is it raining now?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Сейчас идёт снег?",
+		"eng_sentence": "Is it snowing now?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Вчера в 5 шёл дождь?",
+		"eng_sentence": "Was it raining yesterday at five?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Она постоянно жалуется на него.",
+		"eng_sentence": "She is constantly complaining about him.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Она жалуется на него в данный момент.",
+		"eng_sentence": "She is complaining about him at the moment.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Они постоянно ведут себя очень плохо.",
+		"eng_sentence": "They are constantly behaving very badly.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "От чего зависит эта вещь?",
+		"eng_sentence": "What does this thing depend on?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "От кого зависят эти вещи?",
+		"eng_sentence": "Who do these things depend on?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "От чего зависит твоё решение?",
+		"eng_sentence": "What does your decision depend on?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Эта вещь касается каждого из нас.",
+		"eng_sentence": "This thing concerns each of us.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Эти изменения касаются каждого из нас.",
+		"eng_sentence": "These changes concern each of us.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Эти вещи не касаются никого из нас.",
+		"eng_sentence": "These things concern none of us.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Необходимо сделать это сегодня.",
+		"eng_sentence": "It's necessary to do it today.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Необходимо было сделать это вчера.",
+		"eng_sentence": "It was necessary to do it yesterday.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Необходимо будет сделать это завтра.",
+		"eng_sentence": "It'll be necessary to do it tomorrow.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я уезжаю из города завтра.",
+		"eng_sentence": "I'm leaving the city tomorrow.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я возвращаюсь в город завтра.",
+		"eng_sentence": "I'm coming back to the city tomorrow.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я прибываю туда завтра в 6.",
+		"eng_sentence": "I'm arriving there tomorrow at six.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Он идёт к стоматологу завтра.",
+		"eng_sentence": "He's going to the dentist tomorrow.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Она идёт в школу завтра.",
+		"eng_sentence": "She is going to school tomorrow.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Он не идёт туда завтра.",
+		"eng_sentence": "He isn't going there tomorrow.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Мы иногда встречаемся после работы.",
+		"eng_sentence": "We sometimes meet after work.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Мы обычно встречаемся перед работой.",
+		"eng_sentence": "We usually meet before work.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Они всегда встречают его после работы.",
+		"eng_sentence": "They always meet him after work.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Это касается каждого из нас сейчас.",
+		"eng_sentence": "It concerns each of us now.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Это касается всех нас сейчас.",
+		"eng_sentence": "It concerns all of us now.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Это касалось каждого из них.",
+		"eng_sentence": "It concerned each of them.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Почему она всегда перебивает других людей?",
+		"eng_sentence": "Why is she always interrupting other people?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Почему они обычно говорят об этом?",
+		"eng_sentence": "Why do they usually talk about it?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я лечу в Соединённые Штаты на следующей неделе.",
+		"eng_sentence": "I'm flying to the United States next week.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Такая важная вещь касается каждого из нас.",
+		"eng_sentence": "Such an important thing concerns each of us.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Она часто кричит на него без причины.",
+		"eng_sentence": "She often shout at him for no reason.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я работаю над очень важным проектом в настоящее время.",
+		"eng_sentence": "I'm working on a very important project at present.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Это очень легко сказать, но это не так легко сделать.",
+		"eng_sentence": "It is very easy to say so but it isn't so easy to do it.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "От чего это зависит сейчас?",
+		"eng_sentence": "What does it depend on now?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Почему он всегда жалуется?",
+		"eng_sentence": "Why is he always complaining?",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Летом здесь часто идут дожди.",
+		"eng_sentence": "It often rains here in summer.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Они прибывают в Нью-Йорк сегодня вечером.",
+		"eng_sentence": "They are arriving in New York tonight.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я ухожу в 4.",
+		"eng_sentence": "I am leaving at four.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Идёт сильный снег.",
+		"eng_sentence": "It is snowing heavily.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Такая возможность существует.",
+		"eng_sentence": "Such a possibility exists.",
+		"lesson": "158",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Она всегда кричит на него.",
+		"eng_sentence": "She is always shouting at him.",
+		"lesson": "158",
+		"difficulty": ""
+	}
+]
