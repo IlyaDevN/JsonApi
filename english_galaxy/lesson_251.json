@@ -324,7 +324,7 @@
 	{	
 		"id": 47,
 		"rus_sentence": "Я уловил некоторого рода тревогу в её глазах.",
-		"eng_sentence": "I picked up on some kind of anxiety.",
+		"eng_sentence": "I picked up on some kind of anxiety in her eyes.",
 		"lesson": "",
 		"difficulty": ""
 	},
@@ -709,7 +709,7 @@
 	{	
 		"id": 102,
 		"rus_sentence": "Я считаю, он зарабатывает больше 10 тысяч долларов ежемесячно.",
-		"eng_sentence": "I reckon he pulls in over ten thousand dollars month.",
+		"eng_sentence": "I reckon he pulls in over ten thousand dollars monthly.",
 		"lesson": "",
 		"difficulty": ""
 	},
