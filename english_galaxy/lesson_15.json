@@ -1,0 +1,674 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я не дома.",
+		"eng_sentence": "I'm not at home.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Они не счастливы.",
+		"eng_sentence": "They aren't happy.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Она не занята сейчас.",
+		"eng_sentence": "She isn't busy now.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Это не так сложно.",
+		"eng_sentence": "It isn't so difficult.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Он не занят сейчас.",
+		"eng_sentence": "He isn't busy now.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Это не популярно.",
+		"eng_sentence": "It isn't popular.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Они не счастливы.",
+		"eng_sentence": "They aren't happy.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Это не так интересно мне.",
+		"eng_sentence": "It isn't so interesting for me.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Мы не здесь.",
+		"eng_sentence": "We aren't here.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Это не лучше.",
+		"eng_sentence": "It isn't better.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Ты не прав.",
+		"eng_sentence": "You aren't right.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Это не популярно сейчас.",
+		"eng_sentence": "It isn't popular now.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Он не прав.",
+		"eng_sentence": "He isn't right.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Он не молодой.",
+		"eng_sentence": "He isn't young.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Я не дома.",
+		"eng_sentence": "I'm not at home.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Это не проблема.",
+		"eng_sentence": "It isn't a problem.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Они не женаты.",
+		"eng_sentence": "They aren't married.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Это не так много.",
+		"eng_sentence": "It isn't so much.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Она не ленивая.",
+		"eng_sentence": "She isn't lazy.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Это не легко.",
+		"eng_sentence": "It isn't easy.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он не женат.",
+		"eng_sentence": "He isn't married.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Это не дорого.",
+		"eng_sentence": "It isn't expensive.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я не ленивый.",
+		"eng_sentence": "I'm not lazy.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Они не богаты.",
+		"eng_sentence": "They aren't rich.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это не важно.",
+		"eng_sentence": "It isn't important. / It's unimportant",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Это не так хорошо.",
+		"eng_sentence": "It isn't so good.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Они не такие трудолюбивые.",
+		"eng_sentence": "They aren't so hard-working.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Он не доктор.",
+		"eng_sentence": "He isn't a doctor.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Она не замужем.",
+		"eng_sentence": "She isn't married.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Это не интересно.",
+		"eng_sentence": "It isn't interesting.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Это не мало.",
+		"eng_sentence": "It isn't little.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Она не старая.",
+		"eng_sentence": "She isn't old.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Это не много.",
+		"eng_sentence": "It isn't much.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Это не так легко.",
+		"eng_sentence": "It isn't so easy.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он не такой трудолюбивый.",
+		"eng_sentence": "He isn't so hard-working.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Она не учительница.",
+		"eng_sentence": "She isn't a teacher.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Они не друзья.",
+		"eng_sentence": "They aren't friends.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Он не менеджер.",
+		"eng_sentence": "He isn't a manager.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Это не сложно.",
+		"eng_sentence": "It isn't difficult.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Она не счастлива.",
+		"eng_sentence": "She isn't happy. / She is unhappy",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Он не бедный.",
+		"eng_sentence": "He isn't poor.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Они сейчас не в школе.",
+		"eng_sentence": "They aren't at school now.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это не так плохо.",
+		"eng_sentence": "It isn't so bad.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я думаю, это неправильно.",
+		"eng_sentence": "I think it isn't right. / I think it's wrong.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Это не лучшее решение.",
+		"eng_sentence": "It isn't the best decision.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Я знаю, он не дома сейчас.",
+		"eng_sentence": "I know he isn't at home now.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я знаю, это не бесплатно.",
+		"eng_sentence": "I know it isn't free.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Это не лучшая идея.",
+		"eng_sentence": "It isn't the best idea.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я вижу, это не дорого.",
+		"eng_sentence": "I see it isn't expensive.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я знаю, они не правы.",
+		"eng_sentence": "I know they aren't write. / I know they are wrong",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я думаю, что это не так плохо.",
+		"eng_sentence": "I think that it isn't so bad.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Это неправильно.",
+		"eng_sentence": "It isn't right / correct. / It's wrong / incorrect",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я не боюсь этого.",
+		"eng_sentence": "I'm not afraid of it.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я думаю, это не так дёшево.",
+		"eng_sentence": "I think it isn't so cheap.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Она думает, что он не прав.",
+		"eng_sentence": "She thinks that he isn't right.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я думаю, это не реально.",
+		"eng_sentence": "I think it isn't real. / I think it's unreal",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я думаю, что это не лучший ответ.",
+		"eng_sentence": "I think that it isn't the best answer.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Он не уверен.",
+		"eng_sentence": "He isn't sure.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Это не возможно.",
+		"eng_sentence": "It isn't possible. / It's impossible",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Это возможно.",
+		"eng_sentence": "It's possible.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Мы не так близко.",
+		"eng_sentence": "We aren't so near.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Это не так близко.",
+		"eng_sentence": "It isn't so near.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Они так близко.",
+		"eng_sentence": "They're so near.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я знаю, она не на работе сейчас.",
+		"eng_sentence": "I know she isn't at work now.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Он знает, она на работе сейчас.",
+		"eng_sentence": "He knows she's at work now.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Ты знаешь, она не в школе сейчас.",
+		"eng_sentence": "You know she isn't at school now.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я думаю, это не ошибка.",
+		"eng_sentence": "I think it isn't a mistake.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Она думает, это не ошибка.",
+		"eng_sentence": "She thinks it isn't a mistake.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Мы думаем, это ошибка.",
+		"eng_sentence": "We think it's a mistake.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Мы не уверены.",
+		"eng_sentence": "We aren't sure.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Мы уверены.",
+		"eng_sentence": "We're sure.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Это не бесплатно.",
+		"eng_sentence": "It isn't free.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Это бесплатно.",
+		"eng_sentence": "It's free.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я думаю, что это неправильно.",
+		"eng_sentence": "I think that it isn't right / correct. / I think that it's wrong / incorrect.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я думаю, это правильно.",
+		"eng_sentence": "I think it's correct.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я думаю, это не лучшее решение.",
+		"eng_sentence": "I think it isn't the best decision.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Она думает, это лучшее решение.",
+		"eng_sentence": "She thinks it's the best decision.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я вижу, это не эффективно.",
+		"eng_sentence": "I see it isn't effective. / I see it's ineffective.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я вижу, что это эффективно.",
+		"eng_sentence": "I see that it's effective.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Это не так далеко.",
+		"eng_sentence": "It isn't so far.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Это так далеко.",
+		"eng_sentence": "It's so far.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Это не эффективно.",
+		"eng_sentence": "It isn't effective. / It's ineffective",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Я не уверен.",
+		"eng_sentence": "I'm not sure. / I'm unsure.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Это неправильно.",
+		"eng_sentence": "It isn't right / correct. / It's wrong / incorrect.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Я знаю, это не далеко.",
+		"eng_sentence": "I know it isn't far.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я вижу, это не так близко.",
+		"eng_sentence": "I see it isn't so near.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я думаю, это невозможно.",
+		"eng_sentence": "I think it isn't possible. / I think it's impossible.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Это не лучший ответ.",
+		"eng_sentence": "It isn't the best answer.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я вижу, это не так дёшево.",
+		"eng_sentence": "I see it isn't so cheap.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я не боюсь этих вещей.",
+		"eng_sentence": "I'm not afraid of these things.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я вижу, они не счастливы вместе.",
+		"eng_sentence": "I see they aren't happy together. / I see they are unhappy together.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я не боюсь.",
+		"eng_sentence": "I'm not afraid.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Это нереально.",
+		"eng_sentence": "It isn't real. / It's unreal.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Они не боятся.",
+		"eng_sentence": "They aren't afraid.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я вижу, это не лучшая идея.",
+		"eng_sentence": "I see it isn't the best idea.",
+		"lesson": "",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Он не боится этого.",
+		"eng_sentence": "He isn't afraid of it.",
+		"lesson": "",
+		"difficulty": ""
+	}
+]
