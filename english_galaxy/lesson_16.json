@@ -1,0 +1,667 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я прав?",
+		"eng_sentence": "Am I right?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Они с тобой?",
+		"eng_sentence": "Are they with you?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Это дешевле?",
+		"eng_sentence": "Is it cheaper?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Они хорошие врачи?",
+		"eng_sentence": "Are they good doctors?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Это лучше?",
+		"eng_sentence": "It it better?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Это лучшая идея?",
+		"eng_sentence": "Is it the best idea?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Ты студент?",
+		"eng_sentence": "Are you a student?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Они с тобой?",
+		"eng_sentence": "Are they with you?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Это дешевле?",
+		"eng_sentence": "Is it cheaper?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Он директор?",
+		"eng_sentence": "Is he a director?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Он американец?",
+		"eng_sentence": "Is he American?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я прав?",
+		"eng_sentence": "Am I right?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Она твой помощник?",
+		"eng_sentence": "Is she your assistant?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Ты занят сейчас?",
+		"eng_sentence": "Are you busy now?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Это дороже?",
+		"eng_sentence": "Is it more expensive?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Она американка?",
+		"eng_sentence": "Is she American?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Мы правы?",
+		"eng_sentence": "Are we right?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Ты готов сейчас?",
+		"eng_sentence": "Are you ready now?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Это правильно?",
+		"eng_sentence": "Is it right? / Is it correct?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Она твой секретарь?",
+		"eng_sentence": "Is she your secretary?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он за границей?",
+		"eng_sentence": "Is he abroad?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Она секретарь?",
+		"eng_sentence": "Is she a secretary?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Это правильно?",
+		"eng_sentence": "Is it right? / Is it correct?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Вы вместе сейчас?",
+		"eng_sentence": "Are you together now?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это трудно?",
+		"eng_sentence": "Is it difficult?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Они твои друзья?",
+		"eng_sentence": "Are they your friends?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Ты готов?",
+		"eng_sentence": "Are you ready?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Он твой директор?",
+		"eng_sentence": "Is he your director?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Это более эффективно?",
+		"eng_sentence": "It it more effective?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Ты дома?",
+		"eng_sentence": "Are you at home?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Она из Соединённых Штатов?",
+		"eng_sentence": "Is she from the United States?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Вы уверены?",
+		"eng_sentence": "Are you sure?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Это важно?",
+		"eng_sentence": "Is it important?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Вы действительно счастливы вместе?",
+		"eng_sentence": "Are you really happy together?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он твой коллега?",
+		"eng_sentence": "Is he your colleague?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он бизнесмен?",
+		"eng_sentence": "Is he a businessman?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Это лучше сейчас?",
+		"eng_sentence": "Is it better now?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Она твоя коллега?",
+		"eng_sentence": "Is she your colleague?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Он из Англии?",
+		"eng_sentence": "Is he from England?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Это легко?",
+		"eng_sentence": "Is it easy?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Он твой друг?",
+		"eng_sentence": "Is he your friend?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Ты из Бразилии?",
+		"eng_sentence": "Are you from Brazil?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Вы счастливы вместе?",
+		"eng_sentence": "Are you happy together?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Это интересно тебе?",
+		"eng_sentence": "Is it interesting for you?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Ты из России?",
+		"eng_sentence": "Are you from Russia?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Он водитель?",
+		"eng_sentence": "Is he a driver?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Он в больнице?",
+		"eng_sentence": "Is he in hospital?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Он твой тренер?",
+		"eng_sentence": "Is he your trainer?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Она в больнице сейчас?",
+		"eng_sentence": "Is she in hospital now?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Ты с ним сейчас?",
+		"eng_sentence": "Are you with him now?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Это интересно или нет?",
+		"eng_sentence": "Is it interesting or not?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Ты в парке?",
+		"eng_sentence": "Are you in the park?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Он твой парень?",
+		"eng_sentence": "Is he your boyfriend?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Это очень важно?",
+		"eng_sentence": "Is it very important?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Это сложно или нет?",
+		"eng_sentence": "Is it difficult or not?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Это лучшая цена?",
+		"eng_sentence": "Is it the best price?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Они сейчас в парке?",
+		"eng_sentence": "Are they in the park now?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Они хорошие врачи?",
+		"eng_sentence": "Are they good doctors?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Они профессиональные работники?",
+		"eng_sentence": "Are they professional workers?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Он сейчас в той комнате?",
+		"eng_sentence": "Is he in that room now?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Он тренер?",
+		"eng_sentence": "Is he a trainer?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Ты действительно уверен?",
+		"eng_sentence": "Are you really sure?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Он действительно уверен?",
+		"eng_sentence": "Is he really sure?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Ты готов или нет?",
+		"eng_sentence": "Are you ready or not?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Она готова или нет?",
+		"eng_sentence": "Is she ready or not?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Он твой лучший друг?",
+		"eng_sentence": "Is he your best friend?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Он её лучший друг?",
+		"eng_sentence": "Is he her best friend?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Они твои лучшие друзья?",
+		"eng_sentence": "Are they your best friends?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Они рабочие?",
+		"eng_sentence": "Are they workers?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Это правильно или нет?",
+		"eng_sentence": "Is it right or not?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Ты в этой комнате?",
+		"eng_sentence": "Are you in this room?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Это в той комнате?",
+		"eng_sentence": "Is it in that room?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Это действительно возможно?",
+		"eng_sentence": "Is it really possible?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Это действительно важно?",
+		"eng_sentence": "Is it really important?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Это лучшая идея?",
+		"eng_sentence": "Is it the best idea?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Он на кухне?",
+		"eng_sentence": "Is he in the kitchen?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Она на кухне?",
+		"eng_sentence": "Is she in the kitchen?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Они на кухне?",
+		"eng_sentence": "Are they in the kitchen?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Она твоя учительница?",
+		"eng_sentence": "Is she your teacher?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Она их учительница?",
+		"eng_sentence": "Is she their teacher?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Они твои учителя?",
+		"eng_sentence": "Are they your teachers?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Это легко или нет?",
+		"eng_sentence": "Is it easy or not?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Это действительно лучший ответ?",
+		"eng_sentence": "Is it really the best answer?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Она носитель языка?",
+		"eng_sentence": "Is she a native speaker?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Она твоя девушка?",
+		"eng_sentence": "Is she your girlfriend?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Они трудолюбивые студенты?",
+		"eng_sentence": "Are they hard-working students?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Это действительно лучший выбор?",
+		"eng_sentence": "Is it really the best choice?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Он работник?",
+		"eng_sentence": "Is he a worker?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Они хорошие тренеры?",
+		"eng_sentence": "Are they good trainers?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Они профессиональные учителя?",
+		"eng_sentence": "Are they professional teachers?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Это лучший ответ?",
+		"eng_sentence": "Is it the best answer?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Он носитель языка?",
+		"eng_sentence": "Is he a native speaker?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Это лучший выбор?",
+		"eng_sentence": "Is it the best choice?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Она сейчас на кухне?",
+		"eng_sentence": "Is she in the kitchen now?",
+		"lesson": "16",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Это действительно лучшая цена?",
+		"eng_sentence": "Is it really the best price?",
+		"lesson": "16",
+		"difficulty": ""
+	}
+]
