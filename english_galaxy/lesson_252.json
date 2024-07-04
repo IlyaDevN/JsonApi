@@ -554,7 +554,7 @@
 	},
 	{	
 		"id": 80,
-		"rus_sentence": "Нам нужно продолжать, потому что отступать уже слишком сложно.",
+		"rus_sentence": "Нам нужно продолжать, потому что отступать уже слишком поздно.",
 		"eng_sentence": "We need to go on because it's too late to back down now.",
 		"lesson": "",
 		"difficulty": ""
@@ -604,7 +604,7 @@
 	{	
 		"id": 87,
 		"rus_sentence": "Ей пришло в голову, что она оставила дверь незапертой.",
-		"eng_sentence": "It occurred to her that that she had left the door unlocked.",
+		"eng_sentence": "It occurred to her that she had left the door unlocked.",
 		"lesson": "",
 		"difficulty": ""
 	},
