@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Мне действительно нравится заниматься в тренажёрном зале.",
+		"eng_sentence": "I really like working out at the gym.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я столкнулся с одним своим старым другом, когда шёл на вечеринку.",
+		"eng_sentence": "I ran across an old friend of mine while I was going to the party.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Тебе нужно включить принтер в розетку.",
+		"eng_sentence": "You need to plug the printer into the socket.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Я случайно наткнулся на неё в супермаркете.",
+		"eng_sentence": "I accidentally bumped into her at he supermarket.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Он, должно быть, задремал во время фильма.",
+		"eng_sentence": "He must have dozed off during the movie.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я столкнулся с ним на конференции.",
+		"eng_sentence": "I ran across him at the conference.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Я опоздал на встречу, потому что застрял в пробке.",
+		"eng_sentence": "I was late for the meeting because I had been held up in a traffic jam.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Как ты можешь видеть, я пытаюсь донести очень важный момент.",
+		"eng_sentence": "As you can see, I'm trying to put across a very important point.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я столкнулся с множеством трудностей на своём пути.",
+		"eng_sentence": "I ran up lots of difficulties on my way.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Лекция была настолько скучной, что я задремал.",
+		"eng_sentence": "The lecture was so boring that I dozed off.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Льет дождь, поэтому нам придётся остаться дома.",
+		"eng_sentence": "It's pouring down so we have to stay at home.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Страна не согласилась списать такие огромные долги.",
+		"eng_sentence": "The country didn't agree to write off such huge debts.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "С ним очень легко иметь дело.",
+		"eng_sentence": "He's very easy to deal with.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я застрял в пробке.",
+		"eng_sentence": "I was held up in a traffic jam.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Я столкнулся с разного рода проблемами.",
+		"eng_sentence": "I ran up against different kind of problems.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я постараюсь донести это сообщение.",
+		"eng_sentence": "I'll try to get this message across.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Правительству давно пора расправиться с бюрократией и коррупцией.",
+		"eng_sentence": "It's high time the government to crack down on bureaucracy and corruption.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "На самом деле, я столкнулся с большим количеством проблем.",
+		"eng_sentence": "Actually, I came up against lots of problems.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "На твоём месте я бы не стал останавливаться на прошлом.",
+		"eng_sentence": "If I were you, I wouldn't dwell on the past.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Правительству следует прекратить безработицу.",
+		"eng_sentence": "The government should clamp down on unemployment.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я наткнулся на него по дороге домой.",
+		"eng_sentence": "I bumped into him on the way home.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Полиция подавила протестующих.",
+		"eng_sentence": "The police clamped down on the protestors.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Он задремал во время фильма.",
+		"eng_sentence": "He nodded off during the movie.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Компания была вынуждена списать те долги.",
+		"eng_sentence": "The company was forced to write off those debts.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Он пытался донести свою идею, но мы всё равно не могли её понять.",
+		"eng_sentence": "He tried to get his idea across but we couldn't understand it anyway.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Когда я выглянул в окно, лил дождь.",
+		"eng_sentence": "When I looked out of the window, it was pouring down.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Тебе нужно убедиться, что принтер подключён к сети.",
+		"eng_sentence": "You need to make sure that the printer is plugged in.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Я хотел бы остановиться на этой проблеме.",
+		"eng_sentence": "I'd like to dwell on this problem.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Я постараюсь донести суть.",
+		"eng_sentence": "I'll try to get the point across.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я привык иметь дело с разного рода людьми.",
+		"eng_sentence": "I'm used to dealing with different kinds of people.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Моя батарея разряжена, поэтому мне нужно подключить её к сети.",
+		"eng_sentence": "My battery is low so I need to plug it in.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я не могу это понять.",
+		"eng_sentence": "I can't work it out.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Мне нужно пробежаться по этим документам, прежде чем подписывать их.",
+		"eng_sentence": "I need to run through these documents before signing them.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Лекция была настолько скучной, что он задремал.",
+		"eng_sentence": "The lecture was so boring that he nodded off.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Давай, для начала, пробежимся по этим документам.",
+		"eng_sentence": "Let's run through these documents for a start.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Мы столкнулись с очень серьёзными препятствиями в действительно.",
+		"eng_sentence": "We came up against very serious obstacles in reality.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Включи это в розетку.",
+		"eng_sentence": "Plug it into the socket.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Правительство решило расправиться с нелегальной иммиграцией.",
+		"eng_sentence": "The government decided to crack down on illegal immigration.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Есть определённые преимущества занятий в тренажёрном зале.",
+		"eng_sentence": "There are certain benefits of working out at the gym.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я хотел бы ещё раз пробежаться по этим документам, прежде чем подписывать их.",
+		"eng_sentence": "I'd like to run through these documents one more time before signing them.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Если быть довольно откровенным, я не могу понять что здесь происходит.",
+		"eng_sentence": "To be quite frank, I can't figure out what is going on here.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Что я пытаюсь донести, так это, что мы не можем быть безразличны к тому, что происходит.",
+		"eng_sentence": "What I am trying to get across is that we can't be indifferent to what is going on.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Ты можешь догадаться, на кого я наткнулся по дороге на работу?",
+		"eng_sentence": "Can you guess who I bumped into on my way to work?",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Правительству давно пора покончить с коррупцией и бюрократией.",
+		"eng_sentence": "It's high time the government clamped down on corruption and bureaucracy.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "С какими трудностями ты столкнулся, пока ты решал этот вопрос?",
+		"eng_sentence": "What difficulties did you run up against while you were tackling this issue?",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Лил дождь, и я очень быстро промок.",
+		"eng_sentence": "It was pouring down and I got soaked very quickly.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Правительство намерено покончить с уклонением от уплаты налогов.",
+		"eng_sentence": "The government is determined to clamp down on tax evasion.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я столкнулся с ним, пока я гулял в парке.",
+		"eng_sentence": "I ran across him while I was walking in the park.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Было объявлено, что правительство будет расправляться с нелегальной иммиграцией, но это вызвало новые беспорядки.",
+		"eng_sentence": "It was announced that the government would crack down on illegal immigration but it caused new riots.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я извинился за то, что опоздал на встречу, потому что я застрял в ужасной пробке.",
+		"eng_sentence": "I apologized for coming late for meeting because I had been held up in an awful traffic jam.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Он задремал во время встречи.",
+		"eng_sentence": "He nodded off during the meeting.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Мне кажется, что устройство не включено в розетку.",
+		"eng_sentence": "It seems to me that the device isn't plugged into the socket.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я хотел бы остановиться на одном моменте, который стоит упомянуть.",
+		"eng_sentence": "I'd like to dwell on one point which is worth mentioning.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я осознал, что задремал во время фильма.",
+		"eng_sentence": "I realized that I had nodded off during the movie.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Достаточно удивительно, но он не смог донести это сообщение.",
+		"eng_sentence": "Surprisingly enough, but he couldn't get this message across.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Мне кажется он никогда не был в состоянии решить это.",
+		"eng_sentence": "It seems to me, he has never been able to work it out.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Ты можешь это решить?",
+		"eng_sentence": "Can you work it out?",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я не могу разобраться, что здесь происходит.",
+		"eng_sentence": "I can't work out what is going on here.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я искала розетку чтобы включить свой фен.",
+		"eng_sentence": "I was looking for a socket to plug in my hairdryer.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Где я могу найти розетку, чтобы подключить мой ноутбук?",
+		"eng_sentence": "Where can I find a socket to plug in my laptop?",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Прежде всего, тебе нужно включить это устройство в розетку.",
+		"eng_sentence": "First of all, you need to plug in this device.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Тем не менее, есть некоторые недостатки занятий в тренажёрном зале.",
+		"eng_sentence": "Nevertheless, there are some disadvantages of working out at the gym.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Что касается меня, я думаю, есть так много преимуществ занятий в тренажёрном зале.",
+		"eng_sentence": "As for me, I think there are so many advantages of working out at the gym.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Он не видит никаких преимуществ занятий в тренажёрном зале.",
+		"eng_sentence": "He doesn't see any advantages of working out at the gym.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я задремал, пока я смотрел тот фильм.",
+		"eng_sentence": "I dozed off while I was watching that movie.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Мне было так трудно не задремать во время того скучного фильма.",
+		"eng_sentence": "It was so difficult for me not to doze off during that boring movie.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я задремал, пока он рассказывал нам такую длинную историю.",
+		"eng_sentence": "I dozed off while he was telling us such a long story.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я не могу разобраться, как это работает.",
+		"eng_sentence": "I can work out how it functions.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я не мог понять, как ему удалось решить эту задачу.",
+		"eng_sentence": "I can't work out how he managed to solve this task.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Она не может разобраться, как пользоваться этим приложением.",
+		"eng_sentence": "She can't work out how to use this application.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я знаю, что сделал ошибку, но я не собираюсь останавливаться на этом.",
+		"eng_sentence": "I know that I made a mistake but I'm not going to dwell on it.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Тебе бы лучше не останавливаться на прошлом.",
+		"eng_sentence": "You had better not to dwell on the past.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Я хотел бы остановиться на одном очень важно вопросе, который касается всех.",
+		"eng_sentence": "I'd like to dwell on one very important question which concerns everyone.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Списание такого огромного долга представляется крайне маловероятным.",
+		"eng_sentence": "Writing off such a huge debt seems highly unlikely.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Они были вынуждены списать все те долги.",
+		"eng_sentence": "They were forced to write off all those debts.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Компании удалось списать все свои убытки.",
+		"eng_sentence": "The company managed to write off all its losses.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я не могу сказать, что с ним так легко иметь дело.",
+		"eng_sentence": "I can't say that he is so easy to deal with.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "С ним не так легко иметь дело.",
+		"eng_sentence": "It's not so easy do deal with him.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я часто имею дело с такими людьми.",
+		"eng_sentence": "I often deal with such people.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Дождь льёт с двух часов.",
+		"eng_sentence": "It has been pouring down since two o'clock.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Внезапно полил дождь.",
+		"eng_sentence": "The rain poured down suddenly.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Вчера весь день лил дождь.",
+		"eng_sentence": "Yesterday, it was pouring down all day.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Ты понятия не имеешь с какими трудностями я столкнулся.",
+		"eng_sentence": "You have no idea what difficulties I have come up against.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Однако, он столкнулся с множеством неожиданных проблем.",
+		"eng_sentence": "However, he came up against lots of unexpected problems.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "К счастью, мне удалось преодолеть все трудности, с которыми я столкнулся на своём пути.",
+		"eng_sentence": "Luckily, I managed to overcome all the difficulties I had come up against on my way.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Когда я проходил мимо своей старой школы, я столкнулся со своим бывшим учителем.",
+		"eng_sentence": "When I was passing my old school, I ran across my former teacher.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Компания столкнулась с жёсткой конкуренцией.",
+		"eng_sentence": "The company ran up against fierce competition.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Откровенно говоря, я не думаю, что это лучший способ донести сообщение.",
+		"eng_sentence": "To be frank, I don't think that it's the best way of putting the message across.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Он занимается в местном тренажёрном зале один или два раза в неделю.",
+		"eng_sentence": "He works out at the local gym once or twice a week.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я спросил его, как он собирается справляться с той проблемой.",
+		"eng_sentence": "I asked him how he was going to deal with that problem.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я, должно быть, задремал, потому что я не слышал твоего стука в дверь.",
+		"eng_sentence": "I must have dozed off because I didn't hear your knock at the door.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Они столкнулись с большим сопротивлением, пока они пытались это сделать.",
+		"eng_sentence": "They came up against a great deal of resistance while they were trying to do it.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Было объявлено, что рейс будет задержан из-за тумана.",
+		"eng_sentence": "It was announced that the flight would be held up because of the fog.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Он сказал, что он наткнулся на неё в местном супермаркете.",
+		"eng_sentence": "He said that he had bumped into her in a local supermarket.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Правительству давно пора покончить с азартными играми.",
+		"eng_sentence": "It's high time the government clamped down on gambling.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Не забудь включить тостер в розетку.",
+		"eng_sentence": "Don't forget to plug in the toaster.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я знаю, что у нас заканчивается время, так что давай просто быстро пробежимся по основным пунктам.",
+		"eng_sentence": "I know that we are running out of time so let's just run though the main points quickly.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Банк был вынужден списать часть долгов компании.",
+		"eng_sentence": "The bank was forced to write off some of the company's debts.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Что я делаю, так это пытаюсь донести очень серьезный момент.",
+		"eng_sentence": "What I'm doing is trying to put across a very serious point.",
+		"lesson": "253",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Тебе нужно включить пылесос в розетку.",
+		"eng_sentence": "You need to plug the vacuum cleaner into the socket.",
+		"lesson": "253",
+		"difficulty": ""
+	}
+]
