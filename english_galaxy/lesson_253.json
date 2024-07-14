@@ -23,7 +23,7 @@
 	{	
 		"id": 4,
 		"rus_sentence": "Я случайно наткнулся на неё в супермаркете.",
-		"eng_sentence": "I accidentally bumped into her at he supermarket.",
+		"eng_sentence": "I accidentally bumped into her at the supermarket.",
 		"lesson": "253",
 		"difficulty": ""
 	},
@@ -114,7 +114,7 @@
 	{	
 		"id": 17,
 		"rus_sentence": "Правительству давно пора расправиться с бюрократией и коррупцией.",
-		"eng_sentence": "It's high time the government to crack down on bureaucracy and corruption.",
+		"eng_sentence": "It's high time the government cracked down on bureaucracy and corruption.",
 		"lesson": "253",
 		"difficulty": ""
 	},
@@ -246,7 +246,7 @@
 	},
 	{	
 		"id": 36,
-		"rus_sentence": "Мы столкнулись с очень серьёзными препятствиями в действительно.",
+		"rus_sentence": "Мы столкнулись с очень серьёзными препятствиями в действительности.",
 		"eng_sentence": "We came up against very serious obstacles in reality.",
 		"lesson": "253",
 		"difficulty": ""
@@ -345,7 +345,7 @@
 	{	
 		"id": 50,
 		"rus_sentence": "Я извинился за то, что опоздал на встречу, потому что я застрял в ужасной пробке.",
-		"eng_sentence": "I apologized for coming late for meeting because I had been held up in an awful traffic jam.",
+		"eng_sentence": "I apologized for coming late for the meeting because I had been held up in an awful traffic jam.",
 		"lesson": "253",
 		"difficulty": ""
 	},

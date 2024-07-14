@@ -30,7 +30,7 @@
 	{	
 		"id": 5,
 		"rus_sentence": "Это лучше?",
-		"eng_sentence": "It it better?",
+		"eng_sentence": "Is it better?",
 		"lesson": "16",
 		"difficulty": ""
 	},
@@ -198,7 +198,7 @@
 	{	
 		"id": 29,
 		"rus_sentence": "Это более эффективно?",
-		"eng_sentence": "It it more effective?",
+		"eng_sentence": "Is it more effective?",
 		"lesson": "16",
 		"difficulty": ""
 	},
