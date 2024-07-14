@@ -1,0 +1,611 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Почему ты так занят?",
+		"eng_sentence": "Why are you so busy?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Почему он прав?",
+		"eng_sentence": "Why is he right?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Сколько им лет?",
+		"eng_sentence": "How old are they?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Что в этой коробке?",
+		"eng_sentence": "What's in this box?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Почему он прав?",
+		"eng_sentence": "Why is he right?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Почему это так?",
+		"eng_sentence": "Why is it so?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Почему это так дорого?",
+		"eng_sentence": "Why is it so expensive?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Сколько ей лет?",
+		"eng_sentence": "How old is she?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Почему ты так занят?",
+		"eng_sentence": "Why are you so busy?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Кто прав?",
+		"eng_sentence": "Who is right?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Кто они?",
+		"eng_sentence": "Who are they?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Когда она на работе?",
+		"eng_sentence": "When is she at work?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Как она?",
+		"eng_sentence": "How is she?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Что неправильно?",
+		"eng_sentence": "What's wrong?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Когда ты свободен?",
+		"eng_sentence": "When are you free?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Сколько им лет?",
+		"eng_sentence": "How old are they?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Что в этой коробке?",
+		"eng_sentence": "What's in this box?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Что правильно?",
+		"eng_sentence": "What's right? / What's correct?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Почему ты на работе сейчас?",
+		"eng_sentence": "Why are you at work now?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Когда ты дома?",
+		"eng_sentence": "When are you at home?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Сколько тебе лет?",
+		"eng_sentence": "How old are you?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Почему это неправильно?",
+		"eng_sentence": "Why is it wrong?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Кто не прав?",
+		"eng_sentence": "Who is wrong?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Сколько ему лет?",
+		"eng_sentence": "How old is he?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Кто он?",
+		"eng_sentence": "Who is he?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Где ты?",
+		"eng_sentence": "Where are you?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Где они?",
+		"eng_sentence": "Where are they?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Почему ты такой грустный?",
+		"eng_sentence": "Why are you so sad?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Почему ты такой счастливый?",
+		"eng_sentence": "Why are you so happy?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Почему это бесплатно?",
+		"eng_sentence": "Why is it free?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Почему она так расстроена?",
+		"eng_sentence": "Why is she so upset?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Кто здесь?",
+		"eng_sentence": "Who is here?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Почему она такая грустная?",
+		"eng_sentence": "Why is she so sad?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Где это?",
+		"eng_sentence": "Where is it?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Как он?",
+		"eng_sentence": "How is he?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Что это?",
+		"eng_sentence": "What is it?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Почему она злится?",
+		"eng_sentence": "Why is she angry?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Когда он там?",
+		"eng_sentence": "When is he there?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Как ты?",
+		"eng_sentence": "How are you?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Почему он так расстроен?",
+		"eng_sentence": "Why is he so upset / unhappy / sad?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Кто там?",
+		"eng_sentence": "Who is there?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Сколько стоит эта вещь?",
+		"eng_sentence": "How much is this thing?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Что в коробке?",
+		"eng_sentence": "What's in the box?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Почему это правильно?",
+		"eng_sentence": "Why is it right / correct?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Сколько стоят эти брюки?",
+		"eng_sentence": "How much are these trousers?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Какая у него работа?",
+		"eng_sentence": "What's his job?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Сколько стоит эта пара джинсов?",
+		"eng_sentence": "How much is this pair of jeans?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Где то место?",
+		"eng_sentence": "Where is that place?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Сколько стоят эти джинсы?",
+		"eng_sentence": "How much are these jeans?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Что в этой коробке?",
+		"eng_sentence": "What's in this box?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Что там?",
+		"eng_sentence": "What's there?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Сколько стоит это платье?",
+		"eng_sentence": "How much is this dress?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Как тебя зовут?",
+		"eng_sentence": "What's your name?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Что лучше?",
+		"eng_sentence": "What's better?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Почему это лучше?",
+		"eng_sentence": "Why is it better?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Какая у тебя работа?",
+		"eng_sentence": "What's your job?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Где это место?",
+		"eng_sentence": "Where is this place?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Почему это хуже?",
+		"eng_sentence": "Why is it worse?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Кто она?",
+		"eng_sentence": "Who is she?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Что хуже?",
+		"eng_sentence": "What is worse?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Что лучше?",
+		"eng_sentence": "What's better?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Откуда она?",
+		"eng_sentence": "Where is she from?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Откуда ты?",
+		"eng_sentence": "Where are you from?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Сколько стоит эта книга?",
+		"eng_sentence": "How much is this book?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Сколько стоят эти игрушки?",
+		"eng_sentence": "How much are these toys?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Сколько стоит эта игрушка?",
+		"eng_sentence": "How much is this toy?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Сколько стоят те книги?",
+		"eng_sentence": "How much are those books?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Какая у неё работа?",
+		"eng_sentence": "What's her job?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Сколько стоит эта пара брюк?",
+		"eng_sentence": "How much is this pair of trousers?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Сколько стоят эти сумки?",
+		"eng_sentence": "How much are these bags?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Откуда он?",
+		"eng_sentence": "Where is he from?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Что здесь сейчас?",
+		"eng_sentence": "What's here now?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Как её зовут?",
+		"eng_sentence": "What's her name?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Почему это дешевле?",
+		"eng_sentence": "Why is it cheaper?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Что дешевле?",
+		"eng_sentence": "What's cheaper?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Что дороже?",
+		"eng_sentence": "What's more expensive?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Почему ты расстроен?",
+		"eng_sentence": "Why are you upset / unhappy / sad?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Что более эффективно?",
+		"eng_sentence": "What's more effective?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Как его зовут?",
+		"eng_sentence": "What's his name?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Сколько стоит эта сумка?",
+		"eng_sentence": "How much is this bag?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Сколько это стоит?",
+		"eng_sentence": "How much is it?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Где твоя машина?",
+		"eng_sentence": "Where is your car?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Где этот магазин?",
+		"eng_sentence": "Where is this shop?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Сколько стоит этот дом?",
+		"eng_sentence": "How much is this house?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Что важнее?",
+		"eng_sentence": "What's more important?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Сколько стоит твой компьютер?",
+		"eng_sentence": "How much is your computer?",
+		"lesson": "17",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Сколько стоит эта квартира?",
+		"eng_sentence": "How much is this flat / apartment?",
+		"lesson": "17",
+		"difficulty": ""
+	}
+]
