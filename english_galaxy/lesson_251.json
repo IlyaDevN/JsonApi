@@ -64,7 +64,7 @@
 	},
 	{	
 		"id": 10,
-		"rus_sentence": "Давай вернемся к обсуждению этого вопроса.",
+		"rus_sentence": "Давай вернёмся к обсуждению этого вопроса.",
 		"eng_sentence": "Let's get back to discussing this issue.",
 		"lesson": "251",
 		"difficulty": ""
@@ -393,7 +393,7 @@
 	},
 	{	
 		"id": 57,
-		"rus_sentence": "Давай вернемся к обсуждению твоих достижений.",
+		"rus_sentence": "Давай вернёмся к обсуждению твоих достижений.",
 		"eng_sentence": "Let's get back to discussing your accomplishments.",
 		"lesson": "251",
 		"difficulty": ""

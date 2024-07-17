@@ -1,0 +1,709 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Это лежит в коробке.",
+		"eng_sentence": "It lies in the box.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Это лежит на диване.",
+		"eng_sentence": "It lies on the sofa.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Он тренер моего друга.",
+		"eng_sentence": "He is my friend's trainer.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Она учитель моего друга.",
+		"eng_sentence": "She is my friend's teacher.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Они в одной группе.",
+		"eng_sentence": "They are in one group.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Они контролируют это.",
+		"eng_sentence": "They control it.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Она очень красивая.",
+		"eng_sentence": "She is very beautiful.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Это так далеко отсюда.",
+		"eng_sentence": "It's so far from here.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Они вместе.",
+		"eng_sentence": "They are together.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Это лежит в коробке.",
+		"eng_sentence": "It lies in the box.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Он выглядит очень богатым.",
+		"eng_sentence": "He looks very rich.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Она живёт очень далеко отсюда.",
+		"eng_sentence": "She lives very far from here.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Они живут вместе.",
+		"eng_sentence": "They live together.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Мы учимся в разных группах.",
+		"eng_sentence": "We study in different groups.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Этого достаточно.",
+		"eng_sentence": "It's enough.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Он пишет книги.",
+		"eng_sentence": "He writes books.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Она сейчас на работе.",
+		"eng_sentence": "She is at work now.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Это очень просто.",
+		"eng_sentence": "It's very simple.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он в школе.",
+		"eng_sentence": "He is at school.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Он очень богатый.",
+		"eng_sentence": "He is very rich.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Это лежит на диване.",
+		"eng_sentence": "It lies on the sofa.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Она учится в университете.",
+		"eng_sentence": "She studies at university.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Она выглядит очень красиво.",
+		"eng_sentence": "She looks very beautiful.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Этого кажется достаточно.",
+		"eng_sentence": "It seems enough.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это кажется необходимым.",
+		"eng_sentence": "It seems necessary.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Мы в одной группе.",
+		"eng_sentence": "We are in one group.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Это в коробке.",
+		"eng_sentence": "It's in the box.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Это слишком дорого.",
+		"eng_sentence": "It's too expensive.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Я учусь в университете.",
+		"eng_sentence": "I study at university.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Мы в разных местах.",
+		"eng_sentence": "We are in different places.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Он писатель.",
+		"eng_sentence": "He is a writer.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Они учатся в одной группе.",
+		"eng_sentence": "They study in one group.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Это на диване.",
+		"eng_sentence": "It's on the sofa.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Он наш учитель.",
+		"eng_sentence": "He is our teacher.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Мы живем в разных местах.",
+		"eng_sentence": "We live in different places.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Это стоит так дорого.",
+		"eng_sentence": "It costs so much / It's so expensive.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Он студент.",
+		"eng_sentence": "He is a student.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Это необходимо.",
+		"eng_sentence": "It's necessary.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Это под контролем.",
+		"eng_sentence": "It is under control.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я сейчас в другом месте.",
+		"eng_sentence": "I'm in another place now.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это выглядит очень просто.",
+		"eng_sentence": "It looks very simple.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Я учусь в школе.",
+		"eng_sentence": "I study at school.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Он преподаёт английский.",
+		"eng_sentence": "He teaches English.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я в университете.",
+		"eng_sentence": "I'm at university.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Она с ним в данный момент.",
+		"eng_sentence": "She is with him at the moment.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "У него есть план.",
+		"eng_sentence": "He has a plan.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Он тренер моего брата.",
+		"eng_sentence": "He is my brother's trainer.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Он из другой страны.",
+		"eng_sentence": "He's from another country.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Это традиция.",
+		"eng_sentence": "It's a tradition.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Они очень профессиональные тренеры.",
+		"eng_sentence": "They are very professional trainers.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Она учитель моего друга.",
+		"eng_sentence": "She is my friend's teacher.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Она работает с ним.",
+		"eng_sentence": "She works with him.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Она учится в другой стране.",
+		"eng_sentence": "She studies in another country.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Он действительно любит её.",
+		"eng_sentence": "He really loves her.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я вижу одну ошибку.",
+		"eng_sentence": "I see one mistake.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Мы живём в этом отеле.",
+		"eng_sentence": "We live in this hotel.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Она живёт в другом городе.",
+		"eng_sentence": "She lives in another city.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Мы действительно так думаем.",
+		"eng_sentence": "We really think so.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Он тренирует моего друга.",
+		"eng_sentence": "He trains my friend.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Они вместе на этой фотографии.",
+		"eng_sentence": "They are together in this photo.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Мы вместе в этом отеле.",
+		"eng_sentence": "We are together in this hotel.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я очень занят в данный момент.",
+		"eng_sentence": "I'm very busy at the moment.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Он очень занят в данный момент.",
+		"eng_sentence": "He's very busy at the moment.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Они очень заняты сейчас.",
+		"eng_sentence": "They are very busy now.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "У меня так много вопросов.",
+		"eng_sentence": "I have so many questions.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "У него так много ошибок.",
+		"eng_sentence": "He has so many mistakes.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "У них так много вопросов.",
+		"eng_sentence": "They have so many questions.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Это их традиция.",
+		"eng_sentence": "It's their tradition.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Это наша традиция.",
+		"eng_sentence": "It's our tradition.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Это их страна.",
+		"eng_sentence": "It's their country.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Это мой вопрос.",
+		"eng_sentence": "It's my question.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Это мой учитель.",
+		"eng_sentence": "This is my teacher.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Они мои друзья.",
+		"eng_sentence": "They are my friends.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Это настоящая любовь.",
+		"eng_sentence": "It is real love.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Они настоящие друзья.",
+		"eng_sentence": "They are real friends.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Они любят друг друга.",
+		"eng_sentence": "They love each other.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Мы любим друг друга.",
+		"eng_sentence": "We love each other.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Он любит её.",
+		"eng_sentence": "He loves her.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Они расслабляются на тех фотографиях.",
+		"eng_sentence": "They relax in those photos.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Мы улыбаемся на этой фотографии.",
+		"eng_sentence": "We smile in this photo.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Мы расслабляемся на этих фото.",
+		"eng_sentence": "We relax in these photos.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "У них есть эта традиция.",
+		"eng_sentence": "They have this tradition.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "У них есть тот план.",
+		"eng_sentence": "They have that plan.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "У него есть эта традиция.",
+		"eng_sentence": "He has this tradition.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Это любовь.",
+		"eng_sentence": "It is love.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Это ошибка.",
+		"eng_sentence": "It's a mistake.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Ты выглядишь таким занятым.",
+		"eng_sentence": "You look so busy.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Ей нравится его план.",
+		"eng_sentence": "She likes his plan.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Она есть на этой фотографии.",
+		"eng_sentence": "She's in this photo.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "У меня слишком мало свободного времени.",
+		"eng_sentence": "I have too little free time.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Она улыбается на этой фотографии.",
+		"eng_sentence": "She smiles in this photo.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Это моё время.",
+		"eng_sentence": "It's my time.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я знаю, это ошибка.",
+		"eng_sentence": "I know it's a mistake.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Она из другого города.",
+		"eng_sentence": "She is from another city.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Это есть в этом тексте.",
+		"eng_sentence": "It's in this text.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Мы тренируемся вместе.",
+		"eng_sentence": "We train together.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Она живёт в этой комнате.",
+		"eng_sentence": "She lives in this room.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Мы в этом отеле.",
+		"eng_sentence": "We are in this hotel.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Это так.",
+		"eng_sentence": "It is so.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Она в своей комнате.",
+		"eng_sentence": "She's in her room.",
+		"lesson": "18",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я хочу прочитать этот текст.",
+		"eng_sentence": "I want to read this text.",
+		"lesson": "18",
+		"difficulty": ""
+	}
+]
