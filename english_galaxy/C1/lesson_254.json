@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я с нетерпением жду твоего ответа в ближайшем будущем.",
+		"eng_sentence": "I look forward to hearing from you in the near future.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Он не женат, не смотря на то, что ему 40 лет, но я думаю, что он скоро остепенится.",
+		"eng_sentence": "He isn't married despite being forty but I guess he will settle down soon.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Это скрасило мой день.",
+		"eng_sentence": "It brightened up my day.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Я хотел внести некоторые изменения, но потом я решил придерживаться нашего первоначального плана.",
+		"eng_sentence": "I wanted to make some changes but then I decided to stick to our original plan.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Учитель сказал, что урок окончен.",
+		"eng_sentence": "The teacher said that the lesson was over.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Это требует гораздо больших усилий.",
+		"eng_sentence": "It calls for much more efforts.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Кто-то взломал этот компьютер.",
+		"eng_sentence": "Someone hacked into this computer.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Ещё один магазин закрылся на этой неделе из-за кризиса.",
+		"eng_sentence": "One more shop has closed down this week because of the crisis.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Такого рода работа требует большого количества профессиональных навыков и огромного опыта в этой области.",
+		"eng_sentence": "This kind of job calls for lots of professional skills and vast experience in this area.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Ты мог бы повторить это ещё раз, потому что я не могу понять о чём ты говоришь.",
+		"eng_sentence": "Could you go over it again because I can't understand what you are talking about.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "У меня едва хватило времени пролистать этот отчёт.",
+		"eng_sentence": "I hardly had time to flick trough this report.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Ты мог бы немного притормозить, потому что это слишком быстро для меня?",
+		"eng_sentence": "Could you slow down a bit because it's too fast for me?",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Эти изменения также открывают новые возможности и для иностранных студентов.",
+		"eng_sentence": "These changes open up new possibilities for international students as well.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я придерживаюсь идеи, что очень важно вести здоровый образ жизни.",
+		"eng_sentence": "I stick to the idea that it's very important to lead a healthy lifestyle.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Утреннее солнце оживляет комнату.",
+		"eng_sentence": "The morning sunshine brightens up the room.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Ты мог бы подождать секунду?",
+		"eng_sentence": "Could you hold on a second?",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Она хотела как-то ускорить этот процесс.",
+		"eng_sentence": "She wanted to speed up this process somehow.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Он сказал, что они никогда по-настоящему не занимался спортом.",
+		"eng_sentence": "He said that he had never really gone in for sports.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я бы хотел пролистать эту книгу.",
+		"eng_sentence": "I'd like to flick through this book.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Ты можешь подождать?",
+		"eng_sentence": "Can you hold on?",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Мне нужно это обдумать.",
+		"eng_sentence": "I need to think it over.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я не могу разобрать, о чём он говорит.",
+		"eng_sentence": "I can't make out what he is talking about.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Их брак начал разваливаться.",
+		"eng_sentence": "Their marriage started to fall apart.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Что тебя сдерживает?",
+		"eng_sentence": "What is holding you back?",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я с нетерпением жду своей следующей тренировки.",
+		"eng_sentence": "I look forward to my next training.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Их соглашение разваливалось в конце.",
+		"eng_sentence": "Their agreement was falling apart in the end.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Ему нужно притормозить, потому что он едет так быстро.",
+		"eng_sentence": "He needs to slow down because he is driving so fast.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Ты можешь повторить это снова?",
+		"eng_sentence": "Can you go over it again?",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Встреча закончилась до 3 часов.",
+		"eng_sentence": "The meeting was over before three o'clock.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Она была так разочарована, что не могла сдержать слезы.",
+		"eng_sentence": "She was so disappointed that she couldn't hold back her tears.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Он женился и остепенился в конце.",
+		"eng_sentence": "He got married and settled down in the end.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я уверен, эта работа откроет для меня новые возможности.",
+		"eng_sentence": "I'm sure this job will open up new opportunities for me.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я хотел бы сказать, что я тоже занимаюсь спортом.",
+		"eng_sentence": "I'd like to say that I also go in for sports.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Он взломал его компьютер.",
+		"eng_sentence": "He hacked into his computer.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Я решил усовершенствовать свой английский перед поездкой в Нью-Йорк.",
+		"eng_sentence": "I decided to polish up my English before going to New York.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я просто не могу понять, как ты находишь время для всех этих вещей.",
+		"eng_sentence": "I just can't make out how you find time for all these things.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Мне потребуется некоторое время чтобы это обдумать.",
+		"eng_sentence": "It will take me some time to think it over.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Многие бизнесмены были вынуждены закрыть свои небольшие фирмы.",
+		"eng_sentence": "Many businessmen were forced to close down their small firms.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Нам нужно как-то ускорить этот процесс.",
+		"eng_sentence": "We need to speed up this process somehow.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Он хотел бы усовершенствовать его французский.",
+		"eng_sentence": "He'd like to polish up his French.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "И последнее, но не менее важное: это требует очень тщательного анализа.",
+		"eng_sentence": "Last but not least, it calls for a very thorough analysis.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Фирме нужно улучшить свой имидж, потому что её репутация оставляет желать лучшего.",
+		"eng_sentence": "The firm needs to polish up its image because its reputation leaves a lot to be desired.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Есть надежда, что этот курс английского языка откроет новые горизонты для студентов из всех слоёв общества.",
+		"eng_sentence": "It is hoped that this English course will open up new horizons for students from all walks of life.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Фирма теряет очень большие деньги и может закрыться.",
+		"eng_sentence": "The firm is losing very big money and may close down .",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я просто хотел спросить тебя, сколько времени тебе понадобилось, чтобы обосноваться в этой стране.",
+		"eng_sentence": "I just wanted to ask you how long it took you to settle down in this country.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Ему посоветовали закрыть свой бизнес, потому что он становился очень неприбыльным.",
+		"eng_sentence": "He was advised to close down his business because it was getting very unprofitable.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Если ты немного ускоришься, мы сможем закончить все до того, как потемнеет.",
+		"eng_sentence": "If you speed up a little, we will be able to finish everything before it gets dark.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я обдумываю это последние несколько дней.",
+		"eng_sentence": "I've been thinking it over for the last few days.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "У неё не хватает силы воли, чтобы придерживаться диеты.",
+		"eng_sentence": "She doesn't have enough willpower to stick to the diet.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Как это только что было отмечено, ситуация требует немедленных действий.",
+		"eng_sentence": "As it has just been pointed out, the situation calls for immediate action.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я обдумаю твоё предложение и завтра дам тебе свой ответ.",
+		"eng_sentence": "I'll think over your suggestion and give you my answer tomorrow.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Сделка развалилась, потому что они не договорились о цене.",
+		"eng_sentence": "The deal fell apart because they didn't agree on the price.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Как не удивительно, это открывает почти безграничные возможности.",
+		"eng_sentence": "Amazing as it may seem, it opens up almost unlimited possibilities.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я решил пролистать каталог, пока я ждал.",
+		"eng_sentence": "I decided to flick though the catalogue while I was waiting.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Протесты были настолько сильны, что полиция не могла сдерживать толпу.",
+		"eng_sentence": "The protests were so strong that the police were unable to hold back the crowd.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Тебе следует притормозить на перекрестке.",
+		"eng_sentence": "You should slow down at the junction.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я попросил его немного притормозить, потому что он ехал слишком быстро.",
+		"eng_sentence": "I asked him to slow down a bit because he was driving too fast.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Он притормозил только после поворота.",
+		"eng_sentence": "He slowed down only after the turn.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Он просиял при мысли о посещении своего родного горда.",
+		"eng_sentence": "He brightened up at the thought of visiting his hometown.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Новая картина оживит твою комнату.",
+		"eng_sentence": "A new picture will brighten up your room.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Она просияла, когда увидела его.",
+		"eng_sentence": "She brightened up when she saw him.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Что касается моих спортивных предпочтений, я занимаюсь дзюдо.",
+		"eng_sentence": "As far as my sport preferences are concerned, I go in for judo.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Как ты уже догадался, я занимаюсь плаванием.",
+		"eng_sentence": "As you have already guessed, I go in for swimming.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Как ты уже возможно догадался, я увлекаюсь различными видами спорта.",
+		"eng_sentence": "As you may have already guessed, I go in for different kinds of sport.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Мы будем надеяться, что погода прояснится позже.",
+		"eng_sentence": "Let's hope that the weather will brighten up later.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Небо уже посветлело, так что мы можем выйти прямо сейчас.",
+		"eng_sentence": "The sky has already brightened up so we can go out right now.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Если погода не прояснится, мы останемся дома.",
+		"eng_sentence": "If the weather doesn't brighten up we'll stay at home.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Как ты, наверное, уже догадался, я занимаюсь спортом.",
+		"eng_sentence": "As you might have already guessed, I go in for sports.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он также занимается тенисом.",
+		"eng_sentence": "He also goes in for tennis.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Ему не очень нравится спорт.",
+		"eng_sentence": "He doesn't really like sports.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Насколько я могу понять, она никогда не была замужем.",
+		"eng_sentence": "As far as I can make out, she has never been married.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Я не могу понять, что он пытается нам сказать.",
+		"eng_sentence": "I can't make out what he is trying to tell us.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Я с трудом мог понять, что там происходило.",
+		"eng_sentence": "I could hardly make out what was going on there.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Меня попросили подождать пару минут.",
+		"eng_sentence": "I was asked to hold on a couple of minutes.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Подожди секунду, пожалуйста.",
+		"eng_sentence": "Hold on a second, please.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Она попросила меня подождать минутку, пока она с кем-то разговаривала.",
+		"eng_sentence": "She asked me to hold on a minute while she was talking to somebody.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я выйду, когда закончится дождь.",
+		"eng_sentence": "I will go out when the rain is over.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я выйду в случае, если дождь прекратится.",
+		"eng_sentence": "I will go out in case it stops raining.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я не могу выйти, потому что у меня слишком много срочной работы.",
+		"eng_sentence": "I can't go out because I have too much urgent work.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я подобрал журнал и пролистал его.",
+		"eng_sentence": "I picked up a magazine and flicked through it.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Он подобрал листовку и прочёл её.",
+		"eng_sentence": "He picked up a leaflet and read it.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я подобрал мусор и выбросил его в мусорное ведро.",
+		"eng_sentence": "I picked up the trash and threw it in the trash can.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Я не мог разобрать, что она говорит.",
+		"eng_sentence": "I couldn't make out what she was saying.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Так сложно понять, что здесь происходит.",
+		"eng_sentence": "It's so difficult to make out what is going on here.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Моя мама не могла понять, как пользоваться этой программой.",
+		"eng_sentence": "My mother couldn't make out how to use this program.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Книга была такой старой, что разваливалась у меня в руках.",
+		"eng_sentence": "The book was so old that it fell apart in my hands.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Она была так расстроена, что едва сдерживала слёзы.",
+		"eng_sentence": "She was so upset that she could hardly hold back her tears.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "В последнее время рост продаж замедлился.",
+		"eng_sentence": "The sales growth has slowed down recently.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я решил перечитать эту работу прежде, чем сдать её.",
+		"eng_sentence": "I decided to go over this work before handing it in.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Тебе следовало бы усовершенствовать свой испанский перед поездкой в Испанию.",
+		"eng_sentence": "You should have polished up your Spanish before going to Spain.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я с нетерпением жду твоего своевременного совета.",
+		"eng_sentence": "I look forward to your advice in due course.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Преступная банда взломала центральную базу данных компании.",
+		"eng_sentence": "A criminal gang hacked into the company's central database.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Мы ждем этого события с нетерпением.",
+		"eng_sentence": "We wait for this event with eager anticipation.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Была введена новая система, чтобы ускорить процесс регистрации.",
+		"eng_sentence": "A new system was introduced to speed up the registration process.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я просто хочу перечитать основные пункты, отмеченные в списке.",
+		"eng_sentence": "I just want to go over the main points marked on the list.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я действительно надеюсь, что он скоро женится и остепенится.",
+		"eng_sentence": "I really hope that he'll get married soon and settle down.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Преступная банда взломала сеть компьютеров.",
+		"eng_sentence": "A criminal gang hacked into the network of computers.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Учитель сказал, что урок скоро закончится.",
+		"eng_sentence": "The teacher said that the lesson would be over soon.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я решил немного подождать, не смотря на то, что очень устал.",
+		"eng_sentence": "I decided to hold on a bit despite being very tired.",
+		"lesson": "254",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Я придерживаюсь точки зрения, что все хорошо, что хорошо кончается.",
+		"eng_sentence": "I stick to the point that all is well that ends well.",
+		"lesson": "254",
+		"difficulty": ""
+	}
+]
