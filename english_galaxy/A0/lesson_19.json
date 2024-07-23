@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Это не то же самое.",
+		"eng_sentence": "It isn't the same.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я не уверен в этом.",
+		"eng_sentence": "I'm not sure about it.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Он не платит за своё образование.",
+		"eng_sentence": "He doesn't pay for his education.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Я не готов к этому.",
+		"eng_sentence": "I'm not ready for it.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я не занят в данный момент.",
+		"eng_sentence": "I'm not busy at the moment.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он не учится.",
+		"eng_sentence": "He doesn't study.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Это не выглядит так эффективно.",
+		"eng_sentence": "It doesn't look so effective.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Это не всё.",
+		"eng_sentence": "It isn't everything.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Мы не играем в одной команде.",
+		"eng_sentence": "We don't play in one team.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Нас это не интересует.",
+		"eng_sentence": "It doesn't interest us.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Мы живём в этом доме.",
+		"eng_sentence": "We live in this house.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Он не выглядит старым.",
+		"eng_sentence": "He doesn't look old.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Это не кажется таким лёгким.",
+		"eng_sentence": "It doesn't seem so easy.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Она не на работе.",
+		"eng_sentence": "She isn't at work.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Нам это не интересно.",
+		"eng_sentence": "It isn't interesting for us.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Он не студент.",
+		"eng_sentence": "He isn't a student.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Они не знают всего.",
+		"eng_sentence": "They don't know everything.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "I не согласен с ней.",
+		"eng_sentence": "I don't agree with her.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Это не так важно.",
+		"eng_sentence": "It isn't so important.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я не помню этого.",
+		"eng_sentence": "I don't remember it.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он не живёт здесь.",
+		"eng_sentence": "He doesn't live here.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Они не делают это лучше.",
+		"eng_sentence": "They don't do it better.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Это не так эффективно.",
+		"eng_sentence": "It isn't so effective.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Это не мотивирует её.",
+		"eng_sentence": "It doesn't motivate her.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Они не в этой команде.",
+		"eng_sentence": "They aren't in this team.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Она не с нами.",
+		"eng_sentence": "She isn't with us.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Это наша жизнь.",
+		"eng_sentence": "It's our life.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Он не старый.",
+		"eng_sentence": "He isn't old.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Это не выглядит таким важным.",
+		"eng_sentence": "It doesn't look so important.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Он не в школе.",
+		"eng_sentence": "He isn't at school.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Он не живёт в Америке.",
+		"eng_sentence": "He doesn't live in America.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Он не дома.",
+		"eng_sentence": "He isn't at home.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "У меня нет никаких ошибок.",
+		"eng_sentence": "I done't have any mistakes.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Это не ошибка.",
+		"eng_sentence": "It isn't a mistake.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он не здесь.",
+		"eng_sentence": "He isn't here.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Она не права.",
+		"eng_sentence": "She isn't right.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Он не выглядит счастливым.",
+		"eng_sentence": "He doesn't look happy.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Она действительно хочет этого.",
+		"eng_sentence": "She really wants it.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Он не американец.",
+		"eng_sentence": "He isn't American.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Это не в моей сумке.",
+		"eng_sentence": "It isn't in my bag.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это мне не интересно.",
+		"eng_sentence": "It isn't interesting for me.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Он не играет в этой команде.",
+		"eng_sentence": "He doesn't play in this team.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это не моя идея.",
+		"eng_sentence": "It isn't my idea.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Это не кажется слишком сложным.",
+		"eng_sentence": "It doesn't seem too difficult.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Он не в нашей команде.",
+		"eng_sentence": "He isn't in our team.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Это не легко для нас.",
+		"eng_sentence": "It isn't easy for us.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Она не бедная.",
+		"eng_sentence": "She isn't poor.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Это не бесплатно сейчас.",
+		"eng_sentence": "It isn't free now.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Это не то же самое.",
+		"eng_sentence": "It isn't the same.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Это не так вкусно.",
+		"eng_sentence": "It isn't so tasty.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я не уверен в этом.",
+		"eng_sentence": "I'm not sure about this thing / about it.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Он не танцор.",
+		"eng_sentence": "He isn't a dancer.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Он не толстый.",
+		"eng_sentence": "He isn't fat.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Он не ест много.",
+		"eng_sentence": "He doesn't eat much.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Он не учится с нами.",
+		"eng_sentence": "He doesn't study with us.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Он не платит за своё образование.",
+		"eng_sentence": "He doesn't pay for his education.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Он не мой лучший друг.",
+		"eng_sentence": "He isn't my best friend.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я не готов к этому.",
+		"eng_sentence": "I'm not ready for it.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я не пользуюсь тем сервисом.",
+		"eng_sentence": "I don't use that service.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я знаю, это не кажется возможным.",
+		"eng_sentence": "I know it doesn't seem possible.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Это не мой компьютер.",
+		"eng_sentence": "It isn't my computer.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Это не его дом.",
+		"eng_sentence": "It isn't his house.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Это не кажется таким трудным.",
+		"eng_sentence": "It doesn't seem so difficult.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Они не кажутся такими опасными.",
+		"eng_sentence": "They don't seem so dangerous.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Это кажется таким трудным.",
+		"eng_sentence": "It seems so difficult.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Я вижу, это не легко.",
+		"eng_sentence": "I see it isn't easy.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я понимаю, что это легко.",
+		"eng_sentence": "I understand that it's easy.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Ему не нравится танцевать.",
+		"eng_sentence": "He doesn't like dancing.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Ей не нравится петь.",
+		"eng_sentence": "She doesn't like singing.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Мне не нравится танцевать.",
+		"eng_sentence": "I don't like dancing.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Это бесплатно для них.",
+		"eng_sentence": "It's free for them.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Это не легко для меня.",
+		"eng_sentence": "It isn't easy for me.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Я не читаю эти книги.",
+		"eng_sentence": "I don't read these books.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Он не читает эти книги.",
+		"eng_sentence": "He doesn't read these books.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я читаю эту книгу.",
+		"eng_sentence": "I read this book.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Мне кажется, это не так в действительности.",
+		"eng_sentence": "It seems to me it isn't so in reality.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Мне кажется, что ты прав.",
+		"eng_sentence": "It seems to me that you are right.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Он знает, это не возможно.",
+		"eng_sentence": "He knows it isn't possible. / He knows it's impossible",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я знаю, это опасно.",
+		"eng_sentence": "I know it's dangerous.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я знаю, это не возможно.",
+		"eng_sentence": "I know it's impossible.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Я знаю, это не то же самое.",
+		"eng_sentence": "I know it isn't the same.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Она знает, это не то же самое.",
+		"eng_sentence": "She knows it isn't the same.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Я знаю, это отличается.",
+		"eng_sentence": "I know it is different.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Он не зарабатывает эти деньги.",
+		"eng_sentence": "He doesn't earn this money.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Она не зарабатывает эти деньги.",
+		"eng_sentence": "She doesn't earn this money.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я не зарабатываю так много денег.",
+		"eng_sentence": "I don't earn so much money.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я думаю, это не то же самое.",
+		"eng_sentence": "I think it isn't the same.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Это не выглядит вкусно.",
+		"eng_sentence": "It doesn't look tasty.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Это не вкусно.",
+		"eng_sentence": "It isn't tasty.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Он не ест эту еду.",
+		"eng_sentence": "He doesn't eat this food.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Это не проблема для меня.",
+		"eng_sentence": "It isn't a problem for me.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я знаю, это не хорошо.",
+		"eng_sentence": "I know it isn't good.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я думаю, это не плохо.",
+		"eng_sentence": "I think it isn't good.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я не менеджер.",
+		"eng_sentence": "I'm not a manager.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Это не большие деньги.",
+		"eng_sentence": "It isn't big money.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Она не моя коллега.",
+		"eng_sentence": "She isn't my colleague.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я не занят в данный момент.",
+		"eng_sentence": "I'm not busy at the moment.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Она не певица.",
+		"eng_sentence": "She isn't a singer.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Он не выглядит бедным.",
+		"eng_sentence": "He doesn't look poor.",
+		"lesson": "19",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Это не так в реальности.",
+		"eng_sentence": "It isn't so in reality.",
+		"lesson": "19",
+		"difficulty": ""
+	}
+]
