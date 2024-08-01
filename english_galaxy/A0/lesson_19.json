@@ -120,7 +120,7 @@
 	},
 	{	
 		"id": 18,
-		"rus_sentence": "I не согласен с ней.",
+		"rus_sentence": "Я не согласен с ней.",
 		"eng_sentence": "I don't agree with her.",
 		"lesson": "19",
 		"difficulty": ""
@@ -646,7 +646,7 @@
 	{	
 		"id": 93,
 		"rus_sentence": "Я думаю, это не плохо.",
-		"eng_sentence": "I think it isn't good.",
+		"eng_sentence": "I think it isn't bad.",
 		"lesson": "19",
 		"difficulty": ""
 	},
