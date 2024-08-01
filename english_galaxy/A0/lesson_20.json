@@ -1,0 +1,653 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Это намного дороже?",
+		"eng_sentence": "Is it much more expensive?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Они очень профессиональные работники?",
+		"eng_sentence": "Are they very professional workers?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Ты в порядке?",
+		"eng_sentence": "Are you OK?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Что в той сумке?",
+		"eng_sentence": "What's in that bag?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Ты сейчас в парке?",
+		"eng_sentence": "Are you in the park now?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Она очень бедная?",
+		"eng_sentence": "Is she very poor?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Ты там работаешь?",
+		"eng_sentence": "Do you work there?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Это опасно?",
+		"eng_sentence": "Is it dangerous?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Что опасно?",
+		"eng_sentence": "What is dangerous?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Ты здесь учишься?",
+		"eng_sentence": "Do you study here?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Почему это так странно?",
+		"eng_sentence": "Why is it so strange?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Она бедная?",
+		"eng_sentence": "Is she poor?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Это плохо?",
+		"eng_sentence": "Is it bad?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Он студент?",
+		"eng_sentence": "Is he a student?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Ты действительно сердишься?",
+		"eng_sentence": "Are you really angry?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Ты сейчас на работе?",
+		"eng_sentence": "Are you at work now?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Что ты думаешь об этом?",
+		"eng_sentence": "What do you think about it?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Она журналист?",
+		"eng_sentence": "Is she a journalist?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Это хорошо?",
+		"eng_sentence": "Is it good?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Почему это так опасно?",
+		"eng_sentence": "Why is it so dangerous?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Тебе нравится та профессия?",
+		"eng_sentence": "Do you like that profession?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Он журналист?",
+		"eng_sentence": "Is he a journalist?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Почему это плохо?",
+		"eng_sentence": "Why is it bad?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Он богат?",
+		"eng_sentence": "Is he rich?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Они очень хорошие работники?",
+		"eng_sentence": "Are they very good workers?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Он очень богат?",
+		"eng_sentence": "Is he very rich?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Он в порядке?",
+		"eng_sentence": "Is he OK?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Как она себя чувствует?",
+		"eng_sentence": "How does she feel?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Это очень популярно в наши дни?",
+		"eng_sentence": "Is it very popular nowadays?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Кто с тобой?",
+		"eng_sentence": "Who is with you?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Почему это так популярно?",
+		"eng_sentence": "Why is it so popular?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Чего он хочет?",
+		"eng_sentence": "What does he want?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Что дешевле?",
+		"eng_sentence": "What is cheaper?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Это очень популярно?",
+		"eng_sentence": "Is it very popular?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Ты часто гуляешь в парке?",
+		"eng_sentence": "Do you often walk in the park?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Что ты думаешь об этих вещах?",
+		"eng_sentence": "What do you think about these things?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Она студентка?",
+		"eng_sentence": "Is she a student?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Ты поддерживаешь это?",
+		"eng_sentence": "Do you support it?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Что в этой сумке?",
+		"eng_sentence": "What is in this bag?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Почему это хорошо?",
+		"eng_sentence": "Why is it good?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Он поддерживает эту идею?",
+		"eng_sentence": "Does he support this idea?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Это лучший результат?",
+		"eng_sentence": "Is it the best result?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это полезно?",
+		"eng_sentence": "Is it useful?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Что ты обычно отвечаешь?",
+		"eng_sentence": "What do you usually answer?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Ты обеспокоен (взволнован)?",
+		"eng_sentence": "Are you worried?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Он носит формальную одежду?",
+		"eng_sentence": "Does he wear formal clothes?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Это гораздо дороже?",
+		"eng_sentence": "Is it much more expensive?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Это действительно так интересно?",
+		"eng_sentence": "Is it really so interesting?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Ты носишь повседневную одежду?",
+		"eng_sentence": "Do you wear casual clothes?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Ты действительно обеспокоен?",
+		"eng_sentence": "Are you really worried?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Что ты обычно покупаешь там?",
+		"eng_sentence": "What do you usually buy there?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Она носит бедную одежду?",
+		"eng_sentence": "Does she wear poor clothes?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Этого достаточно для тебя?",
+		"eng_sentence": "Is it enough for you?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Ты предпочитаешь повседневную одежду?",
+		"eng_sentence": "Do you prefer casual clothes?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Это действительно так важно?",
+		"eng_sentence": "Is it really so important?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Это намного дешевле?",
+		"eng_sentence": "Is it much cheaper?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Он хороший или нет?",
+		"eng_sentence": "Is he good or not?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Это хорошо или плохо?",
+		"eng_sentence": "Is it good or bad?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Это действительно полезно?",
+		"eng_sentence": "Is it really useful?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Он действительно обеспокоен?",
+		"eng_sentence": "Is he really worried?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Ей нравится её работа?",
+		"eng_sentence": "Does she like her job?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Ей нравится её одежда?",
+		"eng_sentence": "Does she like her clothes?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Тебе нравится твоя работа?",
+		"eng_sentence": "Do you like your job?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Кто против этого решения?",
+		"eng_sentence": "Who is against this decision?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Кто против этой вещи?",
+		"eng_sentence": "Who is against this thing?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Кто против того решения?",
+		"eng_sentence": "Who is against that decision?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Это действительно выглядит так полезно?",
+		"eng_sentence": "Does it really look so useful?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Это действительно выглядит так интересно?",
+		"eng_sentence": "Does it really look so interesting?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Это дешевле?",
+		"eng_sentence": "Is it cheaper?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Это стоит намного меньше?",
+		"eng_sentence": "Does it cost much less?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Это стоит намного больше?",
+		"eng_sentence": "Does it cost much more?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Почему ты так занят в данный момент?",
+		"eng_sentence": "Why are you so busy at the moment?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Почему ты так занят сейчас?",
+		"eng_sentence": "Why are you so busy now?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Почему он так занят в данный момент?",
+		"eng_sentence": "Why is he so busy at the moment?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Это плохо или нет?",
+		"eng_sentence": "Is it bad or not?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Это действительно кажется таким повседневным?",
+		"eng_sentence": "Does it really seem so casual?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Это действительно кажется таким интересным?",
+		"eng_sentence": "Does it really seem so interesting?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Ты носишь неформальную одежду?",
+		"eng_sentence": "Do you wear informal clothes?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Она носит формальную одежду?",
+		"eng_sentence": "Does she wear formal clothes?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Этого достаточно?",
+		"eng_sentence": "Is it enough?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Кто против этого?",
+		"eng_sentence": "Who is against it?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Это действительно так сложно?",
+		"eng_sentence": "Is it really so difficult?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Это слишком формально?",
+		"eng_sentence": "Is it too formal?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Почему ты так беспокоишься?",
+		"eng_sentence": "Why are you so worried?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Это твой выбор?",
+		"eng_sentence": "Is it your choice?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Ты беспокоишься?",
+		"eng_sentence": "Do you worry? / Are you worried?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Это под контролем?",
+		"eng_sentence": "Is it under control?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Что ты обычно выбираешь?",
+		"eng_sentence": "What do you usually choose?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Это дорого или нет?",
+		"eng_sentence": "Is it expensive or not?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Она учитель или нет?",
+		"eng_sentence": "Is she a teacher or not?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Почему ты так сильно волнуешься?",
+		"eng_sentence": "Why do you worry so much?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Это дёшево или нет?",
+		"eng_sentence": "Is it cheap or not?",
+		"lesson": "20",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Они богаты или нет?",
+		"eng_sentence": "Are they rich or not?",
+		"lesson": "20",
+		"difficulty": ""
+	}
+]
