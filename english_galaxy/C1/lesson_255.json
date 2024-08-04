@@ -310,7 +310,7 @@
 	{	
 		"id": 45,
 		"rus_sentence": "Достаточно очевидно, что эти продукты не соответствуют требуемым стандартам.",
-		"eng_sentence": "Obviously enough, these products don't measure up to these standards.",
+		"eng_sentence": "Obviously enough, these products don't measure up to the required standards.",
 		"lesson": "255",
 		"difficulty": ""
 	},
@@ -324,7 +324,7 @@
 	{	
 		"id": 47,
 		"rus_sentence": "Он, должно быть, скупил все эти товары с очень хорошей скидкой.",
-		"eng_sentence": "He must have bought all these goods with a very good discount.",
+		"eng_sentence": "He must have bought up all these goods with a very good discount.",
 		"lesson": "255",
 		"difficulty": ""
 	},
@@ -351,22 +351,22 @@
 	},
 	{	
 		"id": 51,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Очень жаль, что они лишены такого рода возможности.",
+		"eng_sentence": "It a real pity that they are deprived of this kind of opportunity.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 52,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Излишне говорить, что необходимо нанять больше сотрудников, чтобы сделать этот бизнес более эффективным.",
+		"eng_sentence": "Needless to say, more staff need to be taken on to make this business work more efficiently.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 53,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Для нас стало сюрпризом, что игра завершилась вничью.",
+		"eng_sentence": "It came a surprise.",
 		"lesson": "255",
 		"difficulty": ""
 	},
