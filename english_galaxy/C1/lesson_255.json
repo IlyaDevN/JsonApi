@@ -44,7 +44,7 @@
 	{	
 		"id": 7,
 		"rus_sentence": "Ты можешь сказать мне, к чему ты клонишь?",
-		"eng_sentence": "Can you tell me what are you getting at?",
+		"eng_sentence": "Can you tell me what you are getting at?",
 		"lesson": "255",
 		"difficulty": ""
 	},
@@ -366,406 +366,336 @@
 	{	
 		"id": 53,
 		"rus_sentence": "Для нас стало сюрпризом, что игра завершилась вничью.",
-		"eng_sentence": "It came a surprise.",
+		"eng_sentence": "It came to us as a surprise that the game ended in a draw.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 54,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он новый сотрудник, и наш босс просто хочет посмотреть, как он справляется.",
+		"eng_sentence": "He is a new employee and our boss just want to see how he measures up.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 55,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они в этом году скупили всю землю в этом районе.",
+		"eng_sentence": "They have bought up all the land in this area this year.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 56,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я пытался убедить его воздержаться от алкоголя.",
+		"eng_sentence": "I was trying to persuade him to keep off alcohol.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 57,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я думаю, что ему следует воздержаться от курения в этом месте.",
+		"eng_sentence": "I think he should keep off smoking in this place.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 58,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мой врач рекомендует мне воздерживаться от солёной пищи.",
+		"eng_sentence": "My doctor recommends keeping off salty food.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 59,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Говорят, что буря скоро утихнет.",
+		"eng_sentence": "It's said that the storm will die down soon.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 60,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Буря наконец утихла.",
+		"eng_sentence": "The storm finally died down.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 61,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она подождёт, пока всё утихнет.",
+		"eng_sentence": "She'll wait till everything dies down.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 62,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Потуши свет перед сном!",
+		"eng_sentence": "Put out the light before going to bed!",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 63,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он заметил полицейского и потушил сигарету.",
+		"eng_sentence": "He noticed the policeman anв put out the cigarette.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 64,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Не забудь погасить лампу перед выходом.",
+		"eng_sentence": "Don't forget to put out the lamp before going out.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 65,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Её туфли начинают изнашиваться.",
+		"eng_sentence": "Her shoes are starting to wear out.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 66,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Моё платье уже износилось, так что мне нужно купить новое.",
+		"eng_sentence": "My dress has already worn out so I need to buy a new one.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 67,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Эта жидкость может предотвратить твою обувь от изнашивания.",
+		"eng_sentence": "This liquid can prevent your shoes from wearing out.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 68,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я загляну к тебе в следующий раз, когда буду в городе.",
+		"eng_sentence": "I will look in on you next time when I am in town.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 69,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я заглянул к своим родителям по дороге домой.",
+		"eng_sentence": "I looked in on my parents on the way home",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 70,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты хотел бы заглянуть к ней на чашечку кофе?",
+		"eng_sentence": "Would you like to look in on her for a cup of coffee?",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 71,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Пожар было не так легко потушить.",
+		"eng_sentence": "The fire wasn't so easy to put out.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 72,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Пожарным наконец удалось потушить огонь.",
+		"eng_sentence": "The firefighters finally managed to put out the fire.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 73,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Обычно очень трудно потушить пожар самостоятельно.",
+		"eng_sentence": "It's usually very difficult to put out a fire on your own.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 74,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Премьера в пятницу распродана.",
+		"eng_sentence": "The premiere on Friday is sold out.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 75,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Все билеты уже распроданы.",
+		"eng_sentence": "All the tickets have already been sold out.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 76,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они продают эти товары по очень привлекательной цене.",
+		"eng_sentence": "They sell out these goods at a very attractive price.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 77,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Позволь ему попробовать объяснить, к чему он клонит.",
+		"eng_sentence": "Let him try to explain what he is getting at.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 78,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты можешь мне сказать, к чему он клонит?",
+		"eng_sentence": "Can you tell me what he is getting at?",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 79,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я с трудом мог понять, к чему она клонила.",
+		"eng_sentence": "I could hardly figure out what she was getting at.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 80,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Без всякого преувеличения, это был полный грабёж.",
+		"eng_sentence": "Without any exaggeration, it was a complete rip-off.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 81,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я думаю, что это был полный грабёж.",
+		"eng_sentence": "I think it was a complete rip-off.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 82,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "На самом деле, это полный грабёж.",
+		"eng_sentence": "Actually, it's a complete rip-off.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 83,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Здесь написано не ходить по траве.",
+		"eng_sentence": "It is written here to keep off the grass.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 84,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они сказали ему держаться подальше от этого разрушенного здания.",
+		"eng_sentence": "They told him to keep off this destroyed building.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 85,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Тебе бы лучше воздержаться от курения здесь.",
+		"eng_sentence": "You'd better keep off smoking here.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 86,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Как ни удивительно, его ограбили среди бела дня.",
+		"eng_sentence": "Surprising as it may seem, he was ripped off in broad daylight.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 87,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Остался ещё один момент, который я хотел бы записать.",
+		"eng_sentence": "There is one more point left which I'd like to note down.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 88,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "С течением времени, в моём уме формируется более четкая картина.",
+		"eng_sentence": "As time goes by, a clearer picture is formed in my mind.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 89,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Для нас стало настоящим шоком, что его безрассудная езда закончилась его смертью.",
+		"eng_sentence": "It came to us as a real shock that his reckless driving ended in his death.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 90,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он продолжал выполнять свои обязанности, несмотря на то, что он плохо себя чувствовал.",
+		"eng_sentence": "He continued carrying out his duties despite feeling sick.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 91,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Эта компания известна тем, что очень охотно нанимает стажёров.",
+		"eng_sentence": "This company is known for taking on trainees very eagerly.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 92,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Аплодисменты стихли, и он начал свою очень вдохновляющую речь.",
+		"eng_sentence": "The applause died down and he started his very inspiring speech.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 93,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они были так настойчивы, что он уступил их требованиям.",
+		"eng_sentence": "They were so persistent that he gave in to their demands.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 94,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я прихожу к выводу, что не так-то просто продвинуться в этом бизнесе.",
+		"eng_sentence": "I come to the conclusion that it isn't so easy to get ahead in this business.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 95,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Тебе нужно записать основные моменты, которые ты собираешься включить в эссе.",
+		"eng_sentence": "You need to note down the main points which you are going to include in the essay.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 96,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Некоторые учителя просто хвастаются своими знаниями, даже не пытаясь донести их до учеников.",
+		"eng_sentence": "Some teachers just show off their knowledge without even trying to convey it to students.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 97,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "К чему именно ты клонишь?",
+		"eng_sentence": "What exactly are you getting at?",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 98,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я заглянул к своему другу по дороге домой.",
+		"eng_sentence": "I looked in on my friend on the way home.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 99,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Если ты будешь продолжать в том же духе, ты можешь очень быстро вымотаться.",
+		"eng_sentence": "If you go on like this, you can wear yourself out very quickly.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 100,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "255",
-		"difficulty": ""
-	},
-	{	
-		"id": 101,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "255",
-		"difficulty": ""
-	},
-	{	
-		"id": 102,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "255",
-		"difficulty": ""
-	},
-	{	
-		"id": 103,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "255",
-		"difficulty": ""
-	},
-	{	
-		"id": 104,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "255",
-		"difficulty": ""
-	},
-	{	
-		"id": 105,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "255",
-		"difficulty": ""
-	},
-	{	
-		"id": 106,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "255",
-		"difficulty": ""
-	},
-	{	
-		"id": 107,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "255",
-		"difficulty": ""
-	},
-	{	
-		"id": 108,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "255",
-		"difficulty": ""
-	},
-	{	
-		"id": 109,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "255",
-		"difficulty": ""
-	},
-	{	
-		"id": 110,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они провели очень важное исследование, которое привело к научному прорыву.",
+		"eng_sentence": "They carried out very important research which led to a scientific breakthrough.",
 		"lesson": "255",
 		"difficulty": ""
 	}
