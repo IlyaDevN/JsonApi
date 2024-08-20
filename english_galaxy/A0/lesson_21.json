@@ -1,0 +1,751 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Скажи это!",
+		"eng_sentence": "Say it!",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Закрой дверь!",
+		"eng_sentence": "Close the door!",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я могу плавать.",
+		"eng_sentence": "I can swim.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Я мог бы купить эту вещь.",
+		"eng_sentence": "I could buy this thing.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я бы купил эту вещь.",
+		"eng_sentence": "I would buy this thing.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я бы хотел заказать эту еду.",
+		"eng_sentence": "I'd like (I would like) to order this food.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Ты можешь сказать это сейчас.",
+		"eng_sentence": "You can say it now.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Ты можешь сказать мне это.",
+		"eng_sentence": "You can tell me it (this).",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Это мне не помогает.",
+		"eng_sentence": "It doesn't help me.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Скажи это!",
+		"eng_sentence": "Say it!",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Закрой дверь!",
+		"eng_sentence": "Close the door!",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Это действительно мотивирует меня.",
+		"eng_sentence": "It really motivates me.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Скажи мне эту вещь!",
+		"eng_sentence": "Tell me this thing!",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Это ему помогает так сильно.",
+		"eng_sentence": "It helps him so much.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Я могу плавать очень хорошо.",
+		"eng_sentence": "I can swim very well.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Расскажи мне эту историю!",
+		"eng_sentence": "Tell me this story!",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Я могу понять их.",
+		"eng_sentence": "I can understand them.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я могу сделать это сейчас.",
+		"eng_sentence": "I can do it now.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Она делает это каждый день.",
+		"eng_sentence": "She does it every day.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я хочу прочитать это письмо.",
+		"eng_sentence": "I want to read this letter.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Мы не курим.",
+		"eng_sentence": "We don't smoke.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я могу это понять.",
+		"eng_sentence": "I can understand it.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я могу говорить по-английски и по-русски.",
+		"eng_sentence": "I can speak English and Russian.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Я хочу сказать тебе, что это не мотивирует меня.",
+		"eng_sentence": "I want  to tell you that it doesn't motivate me.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Закрой окно, пожалуйста!",
+		"eng_sentence": "Close the window, please! / Please, close the window",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Дай мне эту вещь!",
+		"eng_sentence": "Give me this thing!",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я хочу сказать, что она хочет стать учителем.",
+		"eng_sentence": "I want to say that she wants to become a teacher.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Он курит очень часто.",
+		"eng_sentence": "He smokes very often.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Я могу немного говорить по-английски.",
+		"eng_sentence": "I can speak English a little / a little bit.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Он хочет быть богатым.",
+		"eng_sentence": "He wants to be rich.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Это мотивирует меня так сильно.",
+		"eng_sentence": "It motivates me so much.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Дай мне эту сумку!",
+		"eng_sentence": "Give me this bag!",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Скажи эту вещь, пожалуйста!",
+		"eng_sentence": "Say this thing, please!",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Я хочу сказать, что я не курю.",
+		"eng_sentence": "I want to say that I don't smoke.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он предпочитает чёрный чай.",
+		"eng_sentence": "He prefers black tea.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Это действительно помогает нам.",
+		"eng_sentence": "It really helps us.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Он хочет стать программистом.",
+		"eng_sentence": "He wants to become a programmer.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Я могу говорить по-испански.",
+		"eng_sentence": "I can speak Spanish.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Мы часто играем вместе.",
+		"eng_sentence": "We often play together.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я могу помочь тебе.",
+		"eng_sentence": "I can help you.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я часто делаю это.",
+		"eng_sentence": "I often do it.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Открой окно! / Закрой окно!",
+		"eng_sentence": "Open the window! / Close the window!",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Он часто говорит эту вещь.",
+		"eng_sentence": "He often says this thing.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Скажи мне это!",
+		"eng_sentence": "Tell me it! / Tell me about it!",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Это мотивирует его.",
+		"eng_sentence": "It motivates him.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Она не хочет курить.",
+		"eng_sentence": "She doesn't want to smoke.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Открой дверь!",
+		"eng_sentence": "Open the door!",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Она часто говорит это.",
+		"eng_sentence": "She often says it.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я могу дать тебе эту игрушку.",
+		"eng_sentence": "I can give you this toy.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Она делает свою домашнюю работу без её родителей.",
+		"eng_sentence": "She does her homework without her parents.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я могу бы сделать это с твоей помощью.",
+		"eng_sentence": "I could do it with your help.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Он хочет остановиться здесь.",
+		"eng_sentence": "He wants to stop here.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я мог бы сделать это сейчас.",
+		"eng_sentence": "I could do it now.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я бы сделал это позже.",
+		"eng_sentence": "I would do it later.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я хочу остановиться.",
+		"eng_sentence": "I want to stop.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Она предпочитает морепродукты.",
+		"eng_sentence": "She prefers seafood.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я делаю свою домашнюю работу после школы.",
+		"eng_sentence": "I do my homework after school.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я читаю английские книги.",
+		"eng_sentence": "I read English books.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Ты можешь положить это на пол.",
+		"eng_sentence": "You can put it on the floor.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Ты можешь остановиться сейчас.",
+		"eng_sentence": "You can stop now.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я мог бы купить эту вещь.",
+		"eng_sentence": "I could buy this thing.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я делаю это, когда у меня есть время.",
+		"eng_sentence": "I do it when I have time.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Я хочу дать тебе эту вещь.",
+		"eng_sentence": "I want to give you this thing.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Он иногда заказывает еду онлайн.",
+		"eng_sentence": "He sometimes orders food online.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Мы часто заказываем еду онлайн.",
+		"eng_sentence": "We often order food online.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Она всегда заказывает еду онлайн.",
+		"eng_sentence": "She always orders food online.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Он предпочитает другую еду.",
+		"eng_sentence": "He prefers another food.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Он не хочет есть другую еду.",
+		"eng_sentence": "He doesn't want to eat another food.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я предпочитаю другую еду.",
+		"eng_sentence": "I prefer another food.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Я хочу знать, как это работает.",
+		"eng_sentence": "I want to know how it works.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Она хочет знать, как это работает.",
+		"eng_sentence": "She wants to know how it works.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Мы не хотим знать, как это работает.",
+		"eng_sentence": "We don't want to know how it works.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Я обычно заказываю это онлайн.",
+		"eng_sentence": "I usually order it online.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Он обычно заказывает книги онлайн.",
+		"eng_sentence": "He usually orders books online.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он заказывает еду онлайн каждый день.",
+		"eng_sentence": "He orders food online every day.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я делаю это, когда у меня есть свободное время.",
+		"eng_sentence": "I do it when I have free time.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Ты делаешь это, когда у тебя есть свободное время.",
+		"eng_sentence": "You do it when you have free time.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Он делает это, когда у него есть свободное время.",
+		"eng_sentence": "He does it when he has free time.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Ты можешь положить это на стол.",
+		"eng_sentence": "You can put it on the table.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я могу положить это на стол.",
+		"eng_sentence": "I can put it on the table.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Мы не можем положить это на стол.",
+		"eng_sentence": "We can't put it on the table.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я хотел бы заказать эту еду.",
+		"eng_sentence": "I'd like to order this food.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Он хотел бы заказать этот чай.",
+		"eng_sentence": "He'd like to order this tea.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Мы хотели бы заказать эти торты.",
+		"eng_sentence": "We'd like to order these cakes.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Ты можешь положить это там.",
+		"eng_sentence": "You can put it there.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Мы можем положить это там.",
+		"eng_sentence": "We can put it there.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он может положить это здесь.",
+		"eng_sentence": "He can put it here.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Он даёт очень интересные примеры.",
+		"eng_sentence": "He gives very interesting examples.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Она даёт мне очень интересные книги.",
+		"eng_sentence": "She gives me very interesting books.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Они дают очень интересные примеры.",
+		"eng_sentence": "They give very interesting examples.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я могу читать по-английски.",
+		"eng_sentence": "I can read in English.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Он может читать по-испански.",
+		"eng_sentence": "He can read in Spanish.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я не умею читать по-русски.",
+		"eng_sentence": "I can't read in Russian.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я бы купил эту вещь.",
+		"eng_sentence": "I would buy this thing.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Она читает книги по-английски.",
+		"eng_sentence": "She reads books in English.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Остановись!",
+		"eng_sentence": "Stop!",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я бы сделал это.",
+		"eng_sentence": "I would do it.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Ты можешь сказать мне эту вещь сейчас.",
+		"eng_sentence": "You can tell me this thing now.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я вижу очень хорошие примеры в этой книге.",
+		"eng_sentence": "I see very good examples in this book.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Ты можешь сказать это сейчас.",
+		"eng_sentence": "You can say it now.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Ты можешь сказать мне это.",
+		"eng_sentence": "You can tell me it. / You can tell me about it.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Он делает своё домашнее задание со своими родителями.",
+		"eng_sentence": "He does his homework with his parents.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Я мог бы помочь тебе.",
+		"eng_sentence": "I could help you.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "Ты даешь очень интересные примеры.",
+		"eng_sentence": "You give very interesting examples.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": "Я бы сделал это снова.",
+		"eng_sentence": "I would do it again.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": "Я хотел бы заказать это сейчас.",
+		"eng_sentence": "I'd like to order it now.",
+		"lesson": "21",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": "Мы могли бы пойти туда вместе.",
+		"eng_sentence": "We could go there together.",
+		"lesson": "21",
+		"difficulty": ""
+	}
+]
