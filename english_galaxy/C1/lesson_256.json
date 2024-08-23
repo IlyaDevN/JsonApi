@@ -1,0 +1,772 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Это приведет к различным изменениям.",
+		"eng_sentence": "It will bring about different changes.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "К сожалению, в конечном итоге они развелись.",
+		"eng_sentence": "Unfortunately, the ended up getting divorced.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Он перебил её.",
+		"eng_sentence": "He cut in on her.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Она задремала и пропустила заключительную часть фильма.",
+		"eng_sentence": "She dropped off and missed the final part of the movie.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я зашёл к нему по дороге домой.",
+		"eng_sentence": "I called in on him on my way home.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Почему эта встреча была отменена?",
+		"eng_sentence": "Why was this meeting called off?",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Она так устала, что чуть не потеряла сознание.",
+		"eng_sentence": "She was so tired that she nearly blacked out.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Она разрезала пиццу.",
+		"eng_sentence": "She cut up the pizza.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Дети вырастут из этой одежды скоро.",
+		"eng_sentence": "The children will grow out of these clothes soon.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Он переписал её ответы, хотя и не был вполне уверен, что они были действительно верны.",
+		"eng_sentence": "He copied down her answers although he wasn't quite sure that they were really right.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Он прервал её и задал очень странный вопрос.",
+		"eng_sentence": "He cut in and asked her a very strange question.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Не забудь выйти из системы, или твой пароль может быть украден!",
+		"eng_sentence": "Don't forget to log out or your password can be stolen!",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Встреча была перенесена на понедельник.",
+		"eng_sentence": "The meeting was brought forward to Monday.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Тебе удалось это сделать?",
+		"eng_sentence": "Did you bring it off?",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Ты можешь забыть это очень легко, так что тебе лучше записать это.",
+		"eng_sentence": "You can forget it very easily so you'd (had) better copy it down.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Когда он вырос из своей куртки, он отдал её своему младшему брату.",
+		"eng_sentence": "When he grew out of his jacket, he gave it to his younger brother.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Я постараюсь убрать весь этот беспорядок.",
+		"eng_sentence": "I'll try to clear up all this mess.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Он разрезал мясо.",
+		"eng_sentence": "He cut up the meat.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Зайди сегодня вечером, если возможно.",
+		"eng_sentence": "Call in tonight if possible.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "На пришлось перенести ту встречу на следующий день.",
+		"eng_sentence": "We had to bring forward that meeting to the next day.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я ожидаю, что это приведёт к изменению отношения людей.",
+		"eng_sentence": "I expect that it'll bring about a change in people's attitude.",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 108,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 109,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	},
+	{	
+		"id": 110,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "256",
+		"difficulty": ""
+	}
+]
