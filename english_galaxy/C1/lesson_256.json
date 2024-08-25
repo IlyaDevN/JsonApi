@@ -134,7 +134,7 @@
 	},
 	{	
 		"id": 20,
-		"rus_sentence": "На пришлось перенести ту встречу на следующий день.",
+		"rus_sentence": "Нам пришлось перенести ту встречу на следующий день.",
 		"eng_sentence": "We had to bring forward that meeting to the next day.",
 		"lesson": "256",
 		"difficulty": ""
@@ -268,7 +268,7 @@
 	{	
 		"id": 39,
 		"rus_sentence": "Я заглянул к своему старому знакомому.",
-		"eng_sentence": "I dropped in om my old acquaintance.",
+		"eng_sentence": "I dropped in on my old acquaintance.",
 		"lesson": "256",
 		"difficulty": ""
 	},
@@ -295,477 +295,407 @@
 	},
 	{	
 		"id": 43,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он чуть не потерял сознание при виде этой вещи.",
+		"eng_sentence": "He nearly passed out at the sight of this thing.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 44,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Тебе нужно выйти из системы перед выключением компьютера.",
+		"eng_sentence": "You need to log out before switching off the computer.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 45,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мне удалось найти нескольких помощников, чтобы раздать те листовки.",
+		"eng_sentence": "I managed to find a few helpers to hand out those leaflets.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 46,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он был на грани потери сознания, потому что он не ел последние два дня.",
+		"eng_sentence": "He was on the verge of blacking out because he hadn't eaten for the last tw days.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я решил оставить эту тему, потому что не хотел в итоге спорить с ним.",
+		"eng_sentence": "I decided to drop the subject because I didn't want to end up arguing with him.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 48,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Вам нужно запомнить свой пароль для входа в систему.",
+		"eng_sentence": "You need to remember your password to login.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 49,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она зашла попрощаться.",
+		"eng_sentence": "She called in to say goodbye.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 50,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Очень необычное предложение было выдвинуто генеральным директором компании.",
+		"eng_sentence": "A very unusual proposal was brought forward by the CEO of the company.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 51,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты можешь зайти ко мне, когда захочешь.",
+		"eng_sentence": "You can drop in on me whenever you want.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 52,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Студентам раздали некоторые материалы для чтения.",
+		"eng_sentence": "The student were handed out some reading materials.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 53,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он задремал, когда он читал одну из этих статей.",
+		"eng_sentence": "He dropped off when he was reading one of these articles.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 54,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Нет сомнения, это довольно сложная задача, но я постараюсь её успешно выполнить.",
+		"eng_sentence": "No doubt it's a rather difficult task but I'll try to bring it off.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 55,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Такая напряжённая работа стала причиной его нервного срыва.",
+		"eng_sentence": "Such a stressful job brought about his nervous breakdown.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 56,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я вижу, что ты ещё не вошёл в системы.",
+		"eng_sentence": "I see that you haven't logged in yet.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 57,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Тебе нужно войти в систему, чтобы пользоваться этим приложением бесплатно.",
+		"eng_sentence": "You need to log in to use this application for free.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 58,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты уже вошёл в систему?",
+		"eng_sentence": "Have you already logged in?",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 59,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я задремал, читая тот отчёт.",
+		"eng_sentence": "I dropped off while reading that report.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 60,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он внезапно задремал, пока слушал эту лекцию.",
+		"eng_sentence": "He dropped off suddenly while listening to this lecture.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 61,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я старался не задремать во время того скучного урока.",
+		"eng_sentence": "I tried not to drop off during that boring lesson.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 62,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она вмешалась в наш разговор.",
+		"eng_sentence": "She cut in on our conversation.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 63,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мне не нравится, когда кто-то перебивает меня.",
+		"eng_sentence": "I don't like it when someone is cutting in on me.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 64,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он извинился за то, что перебил нас.",
+		"eng_sentence": "He apologized for cutting in on us.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 65,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я думаю, что он уже вырос из этого.",
+		"eng_sentence": "I think he has already grown out of it.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 66,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Дети уже выросли из всей своей одежды.",
+		"eng_sentence": "The children have already grown out of all their clothes.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 67,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я думаю, он скоро вырастет из этой обуви.",
+		"eng_sentence": "I think he'll grow out of these shoes soon.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 68,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я думаю, ты не против, если я загляну на чашечку кофе.",
+		"eng_sentence": "I think you don't mind if I drop in for a cup of coffee.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 69,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я заскочу к тебе сегодня вечером, чтобы попрощаться.",
+		"eng_sentence": "I will drop in on you tonight to say goodbye.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 70,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты можешь заскочить ко мне сегодня?",
+		"eng_sentence": "Can you drop in on me today?",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 71,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Извини, что перебиваю тебя.",
+		"eng_sentence": "Sorry for cutting in on you.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 72,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он внезапно перебил нас.",
+		"eng_sentence": "He cut in on us suddenly.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 73,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Пожалуйста, не перебивай меня.",
+		"eng_sentence": "Please don't cut in on me.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 74,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я собираюсь зайти к нему на обратном пути домой.",
+		"eng_sentence": "I'm going to call in on him on my way back home.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 75,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты мог бы зайти ко мне по дороге домой?",
+		"eng_sentence": "Could you call in on me on your way home?",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 76,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я хотел бы зайти к нему завтра.",
+		"eng_sentence": "I'd (would) like to call in on him tomorrow.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 77,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он нарезал морковь и положил её в кастрюлю.",
+		"eng_sentence": "He cut up the carrots and put it in the pot.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 78,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Твоя очередь резать овощи.",
+		"eng_sentence": "It's your turn to cut up the vegetables.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 79,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Когда гости вошли на кухню, она резала пирог.",
+		"eng_sentence": "When the guests entered the kitchen, she was cutting up the pie.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 80,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Дети уже выросли из этой одежды.",
+		"eng_sentence": "The kids have already grown out of these clothes.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 81,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Боюсь, он скоро вырастет из своей куртки.",
+		"eng_sentence": "I'm afraid he'll grow out of his jacket soon.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 82,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Дети обычно очень быстро вырастают из своей одежды.",
+		"eng_sentence": "The kids usually grow out of their clothes very fast.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 83,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Все ушли, оставив нас убирать беспорядок.",
+		"eng_sentence": "Everyone went out leaving us to clear up the mess.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 84,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Меня попросили разобраться с этими проблемами.",
+		"eng_sentence": "I was asked to clear up these problems.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 85,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я думаю, что будет очень трудно убрать этот беспорядок.",
+		"eng_sentence": "I think it'll be very difficult to clear up this mess.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 86,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "К нашему огромному разочарованию, игра была отменена.",
+		"eng_sentence": "To our huge disappointment, the game was called off.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 87,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они говорят, что встреча уже перенесена на следующий день.",
+		"eng_sentence": "They said that the meeting had already been brought forward to the following day.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 88,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она хотела навестить тебя после ужина.",
+		"eng_sentence": "She wanted to call in on you after dinner.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 89,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Тебе потребуется выйти из системы и потом снова войти в систему.",
+		"eng_sentence": "You will be required to log out and log in again after that.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 90,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Учитель попросил переписать предложения, написанные на доске.",
+		"eng_sentence": "The teacher asked to copy down the sentences written on the blackboard.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 91,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "К нашему великому разочарованию, пикник был отменён из-за дождя.",
+		"eng_sentence": "To our great disappointment, the picnic was called off because of the rain.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 92,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Была его очередь резать овощи.",
+		"eng_sentence": "It was his turn to cut up the vegetables.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 93,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она была на грани потери сознания, и это действительно пугало всех.",
+		"eng_sentence": "She was on the brink of blacking out and it really scared everyone.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 94,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я подумал что навещу тебя по дороге домой.",
+		"eng_sentence": "I thought that I would call in on you on the way home.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 95,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Было выдвинуто несколько новых предложений во время встречи.",
+		"eng_sentence": "Several new proposals were brought forward during the meeting.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 96,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мне показалось, что он сделал это чудесно.",
+		"eng_sentence": "It seemed to me that he had brought it off wonderfully.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 97,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Если он будет продолжать в том же духе, то может закончить в тюрьме.",
+		"eng_sentence": "If he goes on like this, he can end up in prison.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 98,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Студенты переписали то, что преподаватель написал на доске.",
+		"eng_sentence": "The students copied down what the lecturer had written on the blackboard.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 99,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он чуть не потеряла сознание при виде крови.",
+		"eng_sentence": "She nearly passed out at the sight of the blood.",
 		"lesson": "256",
 		"difficulty": ""
 	},
 	{	
 		"id": 100,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "256",
-		"difficulty": ""
-	},
-	{	
-		"id": 101,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "256",
-		"difficulty": ""
-	},
-	{	
-		"id": 102,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "256",
-		"difficulty": ""
-	},
-	{	
-		"id": 103,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "256",
-		"difficulty": ""
-	},
-	{	
-		"id": 104,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "256",
-		"difficulty": ""
-	},
-	{	
-		"id": 105,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "256",
-		"difficulty": ""
-	},
-	{	
-		"id": 106,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "256",
-		"difficulty": ""
-	},
-	{	
-		"id": 107,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "256",
-		"difficulty": ""
-	},
-	{	
-		"id": 108,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "256",
-		"difficulty": ""
-	},
-	{	
-		"id": 109,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "256",
-		"difficulty": ""
-	},
-	{	
-		"id": 110,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мы понимали, что нам придётся убрать весь этот хлам.",
+		"eng_sentence": "We understood that we would have to clear up all this clutter.",
 		"lesson": "256",
 		"difficulty": ""
 	}
