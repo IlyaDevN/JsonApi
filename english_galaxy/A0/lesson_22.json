@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я умею кататься на велосипеде.",
+		"eng_sentence": "I can ride a bike.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я должен сделать это.",
+		"eng_sentence": "I must do it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я должен сделать это сегодня.",
+		"eng_sentence": "I must do it today.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Я вижу свои ошибки.",
+		"eng_sentence": "I see my mistakes.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Он не хочет проигрывать.",
+		"eng_sentence": "He doesn't want to loose.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Ей нужно это прямо сейчас.",
+		"eng_sentence": "She needs it right now.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Что ты обычно покупаешь здесь?",
+		"eng_sentence": "What do you usually buy here?",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Я вижу это сейчас.",
+		"eng_sentence": "I see it now.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Ты можешь остаться здесь.",
+		"eng_sentence": "You can stay here.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Он не видит своих ошибок.",
+		"eng_sentence": "He doesn't see his mistakes.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Мы обычно встречаемся вместе.",
+		"eng_sentence": "We usually meet together.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Продолжай!",
+		"eng_sentence": "Continue!",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Мы можем выиграть сейчас.",
+		"eng_sentence": "We can win now.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Она часто посещает нас.",
+		"eng_sentence": "She often visits us.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Нам нужно это срочно.",
+		"eng_sentence": "We need it urgently.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я хочу посетить это место снова.",
+		"eng_sentence": "I wan't to visit this place again.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Ты можешь попробовать это снова.",
+		"eng_sentence": "You can try it again.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Продолжай, пожалуйста!",
+		"eng_sentence": "Continue, please!",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Мы часто встречаемся.",
+		"eng_sentence": "We often meet.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Она обычно остаётся дома.",
+		"eng_sentence": "She usually stays at home.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я иногда катаюсь на лошади.",
+		"eng_sentence": "I sometimes ride a horse.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я хотел бы посетить Соединенные Штаты.",
+		"eng_sentence": "I'd like to visit the United States.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Мне нужно это срочно.",
+		"eng_sentence": "I need it urgently.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Ты часто слушаешь музыку?",
+		"eng_sentence": "Do you often listen to music?",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Ты можешь выиграть.",
+		"eng_sentence": "You can win.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я хочу попробовать это снова.",
+		"eng_sentence": "I want to try it again.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я часто катаюсь на велосипеде.",
+		"eng_sentence": "I often ride a bike.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Я хотел бы продолжить.",
+		"eng_sentence": "I'd like to continue.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Ты смотришь телевизор или нет?",
+		"eng_sentence": "Do you watch TV or not?",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Послушай меня!",
+		"eng_sentence": "Listen to me!",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Я умею кататься на велосипеде.",
+		"eng_sentence": "I can ride a bike.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я хочу остаться дома.",
+		"eng_sentence": "I want to stay at home.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Она смотрит телевизор?",
+		"eng_sentence": "Does she watch TV?",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Мне нужно это сейчас.",
+		"eng_sentence": "I need it now.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он обычно выигрывает.",
+		"eng_sentence": "He usually wins.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Они встречаются в школе.",
+		"eng_sentence": "They meet at school.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Он часто слушает музыку.",
+		"eng_sentence": "He often listens to music.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Ты можешь попробовать.",
+		"eng_sentence": "You can try.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я понимаю этого человека.",
+		"eng_sentence": "I understand this person.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я хочу продолжить.",
+		"eng_sentence": "I want to continue.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Послушай это!",
+		"eng_sentence": "Listen to it!",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Я хочу остаться в этом месте.",
+		"eng_sentence": "I want to stay in this place.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я не хочу покупать эту вещь.",
+		"eng_sentence": "I don't want to buy this thing.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Ей нужно понять это.",
+		"eng_sentence": "She needs to understand it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я думаю, это не интересует их.",
+		"eng_sentence": "I think it doesn't interest them.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Я должен сделать это.",
+		"eng_sentence": "I must do it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я часто проверяю это.",
+		"eng_sentence": "I often check it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я должен заплатить за это.",
+		"eng_sentence": "I must pay for it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я должен идти туда сейчас.",
+		"eng_sentence": "I must go there now.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Пожалуйста, продолжай!",
+		"eng_sentence": "Please, continue!",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я думаю, это не интересует его.",
+		"eng_sentence": "I think it doesn't interest him.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я хотел бы задать тебе один вопрос.",
+		"eng_sentence": "I'd like to ask you one question.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Ты можешь спросить меня.",
+		"eng_sentence": "You can ask me.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я должен сделать это сегодня.",
+		"eng_sentence": "I must do it today.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Во сколько ты обычно приходишь на работу?",
+		"eng_sentence": "What time do you usually come to work?",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я обычно прихожу домой в восемь часов вечера.",
+		"eng_sentence": "I usually come home at eight o'clock in the evening.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я должен быть более осторожным.",
+		"eng_sentence": "I must be more careful.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я обычно прихожу домой очень поздно.",
+		"eng_sentence": "I usually come home very late.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Мне нужно проверить эту информацию.",
+		"eng_sentence": "I need to check this information.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Тебе нужно проверить эти ответы.",
+		"eng_sentence": "You need to check these answers.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Ему нужно проверить эту информацию.",
+		"eng_sentence": "He needs to check this information.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я не понимаю, как это работает.",
+		"eng_sentence": "I don't understand how it works.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Я не знаю, как это работает.",
+		"eng_sentence": "I don't know how it works.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я не знаю, где она работает.",
+		"eng_sentence": "I don't know where she works.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Тебе нужно посмотреть этот фильм.",
+		"eng_sentence": "You need to watch this movie.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Мне нужно посмотреть эту программу.",
+		"eng_sentence": "I need to watch this program.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Ты можешь посмотреть этот фильм.",
+		"eng_sentence": "You can watch this movie.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я хочу задать тебе два вопроса.",
+		"eng_sentence": "I want to ask you two questions.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он хочет задать тебе один вопрос.",
+		"eng_sentence": "He wants to ask you one question.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Ему нужно сделать это.",
+		"eng_sentence": "He needs to do it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Мне нужно сделать это.",
+		"eng_sentence": "I need to do it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Ей нужно сделать это.",
+		"eng_sentence": "She needs to do it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Я хочу проверить эту информацию.",
+		"eng_sentence": "I want to check this information.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я могу проверить эту информацию.",
+		"eng_sentence": "I can check this information.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Тебе следует быть более осторожным.",
+		"eng_sentence": "You should be more careful.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Тебе нужно быть более осторожным.",
+		"eng_sentence": "You need to be more careful.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Тебе следует сделать это.",
+		"eng_sentence": "You should do it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Ты должен сделать это.",
+		"eng_sentence": "You must do it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Тебе нужно сделать это.",
+		"eng_sentence": "You need to do it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я знаю, что мне нужно продолжить это.",
+		"eng_sentence": "I know that I need to continue it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Я знаю, что я должен продолжить это.",
+		"eng_sentence": "I know that I must continue it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я знаю, что я могу продолжить это.",
+		"eng_sentence": "I know that I can continue it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Я чувствую, что мне нужно больше практики.",
+		"eng_sentence": "I feel that I need more practice.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Она чувствует, что ей нужно больше практики.",
+		"eng_sentence": "She feels that she needs more practice.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Они чувствуют, что им нужно немного практики.",
+		"eng_sentence": "They feel that they need some practice.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Ты можешь потерять своё время и деньги там.",
+		"eng_sentence": "You can lose your time and money there.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Мне нужно проверить это.",
+		"eng_sentence": "I need to check it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я прихожу домой в три часа дня.",
+		"eng_sentence": "I come home at three o'clock in the afternoon.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Мы встречаемся на работе.",
+		"eng_sentence": "We meet at work.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Мне нужно сказать тебе одну вещь.",
+		"eng_sentence": "I need to tell you one thing.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я думаю, тебе следует быть более осторожным.",
+		"eng_sentence": "I think you should be more careful.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Он не хочет терять своё время.",
+		"eng_sentence": "He doesn't want to lose his time.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я теряю своё время и деньги там.",
+		"eng_sentence": "I lose my time and money there.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я должен работать сейчас.",
+		"eng_sentence": "I must work now.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я думаю, тебе следует сделать это.",
+		"eng_sentence": "I think you should do it.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я хочу задать тебе вопрос.",
+		"eng_sentence": "I want to ask you a question.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я не хочу терять время.",
+		"eng_sentence": "I don't want to lose time.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Мне нужно кое-что тебе сказать.",
+		"eng_sentence": "I need to tell you something.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я проверяю свою электронную почту каждый день.",
+		"eng_sentence": "I check my email every day.",
+		"lesson": "22",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Во сколько ты обычно приходишь домой?",
+		"eng_sentence": "What time do you usually come home?",
+		"lesson": "22",
+		"difficulty": ""
+	}
+]
