@@ -156,7 +156,7 @@
 	{	
 		"id": 23,
 		"rus_sentence": "Тебе нужно войти в систему, чтобы прочитать сообщение.",
-		"eng_sentence": "You need to login to read the message.",
+		"eng_sentence": "You need to log in to read the message.",
 		"lesson": "256",
 		"difficulty": ""
 	},
@@ -184,7 +184,7 @@
 	{	
 		"id": 27,
 		"rus_sentence": "Не забудь выйти из системы.",
-		"eng_sentence": "Don't forget to logout.",
+		"eng_sentence": "Don't forget to log out.",
 		"lesson": "256",
 		"difficulty": ""
 	},
@@ -331,7 +331,7 @@
 	{	
 		"id": 48,
 		"rus_sentence": "Вам нужно запомнить свой пароль для входа в систему.",
-		"eng_sentence": "You need to remember your password to login.",
+		"eng_sentence": "You need to remember your password to log in.",
 		"lesson": "256",
 		"difficulty": ""
 	},
@@ -652,7 +652,7 @@
 	},
 	{	
 		"id": 94,
-		"rus_sentence": "Я подумал что навещу тебя по дороге домой.",
+		"rus_sentence": "Я подумал, что навещу тебя по дороге домой.",
 		"eng_sentence": "I thought that I would call in on you on the way home.",
 		"lesson": "256",
 		"difficulty": ""
