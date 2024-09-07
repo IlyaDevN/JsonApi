@@ -1,0 +1,772 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Очень жаль слышать, что он бросил школу.",
+		"eng_sentence": "It's a real pity to hear that he dropped out of school.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Как ты, возможно, уже понял, я не хотел отставать от своих занятий.",
+		"eng_sentence": "As you might have already understood I didn't want to fall behind with my studies.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Директора заметили, что рабочие начали снижать темп работы.",
+		"eng_sentence": "The directors noticed that the workers started to slack off.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "У них заканчиваются деньги.",
+		"eng_sentence": "They are running out of money.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Её певческая карьера начала взлетать после её появления в той программе.",
+		"eng_sentence": "Her singing career started taking off after her appearance in that program.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я знаю, что она интересуется йогой, но мне это не очень нравится.",
+		"eng_sentence": "I know that she is into yoga but I don't like it that much.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Если ты пропустишь эти уроки, ты можешь очень легко отстать от остального класса.",
+		"eng_sentence": "If you miss these lessons, you can fall behind the rest of the class very easily.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Тебе давно пора прибраться в своей комнате.",
+		"eng_sentence": "It's high time you cleaned up your room.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Убедись, что ты сделал резервную копию всего.",
+		"eng_sentence": "Make sure that you backed up everything.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Тебе нужно взвесить все достоинства и недостатки этих двух вариантов.",
+		"eng_sentence": "You need to weigh up all the advantages and disadvantages of these two options.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я подумал, что могу немного расслабиться.",
+		"eng_sentence": "I thought that I could slack off a little.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я перезвоню тебе сразу.",
+		"eng_sentence": "I will call you back straight away.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Ты можешь подойти ко мне?",
+		"eng_sentence": "Can you come up to me?",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Он подошёл ко мне и задал несколько вопросов.",
+		"eng_sentence": "He came up to me and asked several questions.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Мне нужно прибраться в этом месте.",
+		"eng_sentence": "I need to clean up this place.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Чтобы узнать больше, ты также можешь посетить следующий веб-сайт.",
+		"eng_sentence": "To find out more you can also visit the following website.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Самолёт скоро взлетит.",
+		"eng_sentence": "The plane will take off soon.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Он бросил колледж всего через месяц.",
+		"eng_sentence": "He dropped out of college after only a month.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Ты можешь снять свитер потому, что здесь жарко.",
+		"eng_sentence": "You can take off the sweater because it's hot in here.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Это быстрое обновление по поводу того, что происходит в этом регионе.",
+		"eng_sentence": "It's a quick update about what is coming up in this region.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Тебе нужно пройтись по своей работе, прежде чем сдать её.",
+		"eng_sentence": "You need to go over your work before handing it in.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Она не могла бежать достаточно быстро, чтобы догнать его.",
+		"eng_sentence": "She couldn't run fast enough to catch up with him.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я стараюсь создавать резервные копии этих файлов на ежедневной основе.",
+		"eng_sentence": "I try to back up these files on a daily basis.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Ещё осталось время чтобы догнать их.",
+		"eng_sentence": "There is still time left to catch up with them.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я чувствую, что мне нужно прочитать дополнительный материал по этому вопросу перед встречей.",
+		"eng_sentence": "I feel that I need to read up on this issue.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я постараюсь выяснить всю правду.",
+		"eng_sentence": "I'll try to find out the whole truth.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Контракт был составлен на этой неделе.",
+		"eng_sentence": "The contact has been drawn up this week.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Я вижу, что их бизнес действительно взлетел в этом году.",
+		"eng_sentence": "I see that their business has really taken off this year.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Мне нужно почитать литературу по этому предмету.",
+		"eng_sentence": "I need to read up on this subject.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я обычно заканчиваю работу в пятницу около пяти часов.",
+		"eng_sentence": "I usually knock off work at about five o'clock on Friday.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Компания стремится снизить цены на все свои компьютеры.",
+		"eng_sentence": "The company aims to bring down prices on all of its computers.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Что предстоит?",
+		"eng_sentence": "What is coming up?",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Они составили новый контракт.",
+		"eng_sentence": "The drew up a new contract.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Я просто хочу сказать, что я действительно интересуюсь этим.",
+		"eng_sentence": "I just want to say that I'm really into it.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "На нужно взвесить все за и против прежде чем сделать это.",
+		"eng_sentence": "We need to weigh up all the pros and cons before doing it.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он сдал домашнее задание учителю.",
+		"eng_sentence": "He handed in his homework to the teacher.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я перезвоню тебе позже, когда проверю все детали, связанные с этим делом.",
+		"eng_sentence": "I will call you back later when I check all the details related to this case.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Я думаю, нам давно пора прерваться на ланч.",
+		"eng_sentence": "I think it's high time we knocked off for lunch.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Насколько я могу видеть, у нас ещё не кончилось время.",
+		"eng_sentence": "As far as I can see, we haven't run out of time yet.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Они снизили цену.",
+		"eng_sentence": "They brought down the price.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Позже она выяснила, что её обманули.",
+		"eng_sentence": "She found out later that she had been deceived.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Как ты можешь видеть, я действительно интересуюсь музыкой, и она стала неотъемлемой частью моей жизни.",
+		"eng_sentence": "As you can see, I'm really into music and it has become an inseparable part of my life.",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 108,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 109,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	},
+	{	
+		"id": 110,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "257",
+		"difficulty": ""
+	}
+]
