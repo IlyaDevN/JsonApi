@@ -211,7 +211,7 @@
 	},
 	{	
 		"id": 31,
-		"rus_sentence": "Они закончили ссориться.",
+		"rus_sentence": "Закончилось тем, что они поссорились.",
 		"eng_sentence": "The ended up quarrelling.",
 		"lesson": "256",
 		"difficulty": ""
@@ -317,7 +317,7 @@
 	{	
 		"id": 46,
 		"rus_sentence": "Он был на грани потери сознания, потому что он не ел последние два дня.",
-		"eng_sentence": "He was on the verge of blacking out because he hadn't eaten for the last tw days.",
+		"eng_sentence": "He was on the verge of blacking out because he hadn't eaten for the last two days.",
 		"lesson": "256",
 		"difficulty": ""
 	},
@@ -386,7 +386,7 @@
 	},
 	{	
 		"id": 56,
-		"rus_sentence": "Я вижу, что ты ещё не вошёл в системы.",
+		"rus_sentence": "Я вижу, что ты ещё не вошёл в систему.",
 		"eng_sentence": "I see that you haven't logged in yet.",
 		"lesson": "256",
 		"difficulty": ""
@@ -603,7 +603,7 @@
 	},
 	{	
 		"id": 87,
-		"rus_sentence": "Они говорят, что встреча уже перенесена на следующий день.",
+		"rus_sentence": "Они сказали, что встреча уже перенесена на следующий день.",
 		"eng_sentence": "They said that the meeting had already been brought forward to the following day.",
 		"lesson": "256",
 		"difficulty": ""
