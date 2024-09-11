@@ -170,7 +170,7 @@
 	{	
 		"id": 25,
 		"rus_sentence": "Я чувствую, что мне нужно прочитать дополнительный материал по этому вопросу перед встречей.",
-		"eng_sentence": "I feel that I need to read up on this issue.",
+		"eng_sentence": "I feel that I need to read up on this issue before the meeting.",
 		"lesson": "257",
 		"difficulty": ""
 	},
@@ -239,7 +239,7 @@
 	},
 	{	
 		"id": 35,
-		"rus_sentence": "На нужно взвесить все за и против прежде чем сделать это.",
+		"rus_sentence": "Нам нужно взвесить все за и против прежде чем сделать это.",
 		"eng_sentence": "We need to weigh up all the pros and cons before doing it.",
 		"lesson": "257",
 		"difficulty": ""
@@ -295,84 +295,84 @@
 	},
 	{	
 		"id": 43,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Если ты продолжишь пропускать занятия, ты очень быстро отстанешь от остального класса.",
+		"eng_sentence": "If you keep missing classes, you will fall behind the rest of the class very quickly.",
 		"lesson": "257",
 		"difficulty": ""
 	},
 	{	
 		"id": 44,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я прекрасно осознаю, что мне придется посмотреть литературу по этому предмету, если я собираюсь выступить с речью на эту тему.",
+		"eng_sentence": "I perfectly realize that I'll have to read up on this subject if I'm going to give a speech on it.",
 		"lesson": "257",
 		"difficulty": ""
 	},
 	{	
 		"id": 45,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Тебе нужно взвесить все плюсы и минусы этого предложения прежде, чем принимать окончательное решение.",
+		"eng_sentence": "You need to weigh up all the pros and cons of this offer before making the final decision.",
 		"lesson": "257",
 		"difficulty": ""
 	},
 	{	
 		"id": 46,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Было бы вполне разумно почитать об этой компании, прежде чем идти на собеседование.",
+		"eng_sentence": "It would be quite reasonable to read up on this company before going for an interview.",
 		"lesson": "257",
 		"difficulty": ""
 	},
 	{	
 		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я не имел ни малейшего представления почему это произошло.",
+		"eng_sentence": "I didn't have the faintest idea why it had come up.",
 		"lesson": "257",
 		"difficulty": ""
 	},
 	{	
 		"id": 48,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мне пришлось догонять остальной класс, потому что я пропустил много занятий из-за своей болезни.",
+		"eng_sentence": "I had to catch up with the rest of my class because I had missed lots of classes due to my illness.",
 		"lesson": "257",
 		"difficulty": ""
 	},
 	{	
 		"id": 49,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Один из парней подошёл ко мне и начал говорить.",
+		"eng_sentence": "One of the guys came up to me and started talking.",
 		"lesson": "257",
 		"difficulty": ""
 	},
 	{	
 		"id": 50,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Их попросили составить некоторые предложения по улучшению работы компании.",
+		"eng_sentence": "They were asked to draw up some proposals for improving the company's performance.",
 		"lesson": "257",
 		"difficulty": ""
 	},
 	{	
 		"id": 51,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Комната нуждается в уборке.",
+		"eng_sentence": "The room needs cleaning up.",
 		"lesson": "257",
 		"difficulty": ""
 	},
 	{	
 		"id": 52,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мы все могли видеть, что его бизнес действительно взлетел в предыдущем году.",
+		"eng_sentence": "We could all see that his business had really taken off the year before.",
 		"lesson": "257",
 		"difficulty": ""
 	},
 	{	
 		"id": 53,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я действительно интересуюсь изучением английского, и он стал неотъемлемой частью моей жизни.",
+		"eng_sentence": "I'm really into learning English and it has become an inseparable part of my life.",
 		"lesson": "257",
 		"difficulty": ""
 	},
 	{	
 		"id": 54,
-		"rus_sentence": ".",
+		"rus_sentence": "Он сказал, что подал в отставку в начале года.",
 		"eng_sentence": ".",
 		"lesson": "257",
 		"difficulty": ""
