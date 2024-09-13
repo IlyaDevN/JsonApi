@@ -1,0 +1,639 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я не могу поверить своим глазам.",
+		"eng_sentence": "I can't believe my eyes.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Ты веришь в Бога?",
+		"eng_sentence": "Do you believe in God?",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Как ты живёшь на эти деньги?",
+		"eng_sentence": "How do you live on this money?",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Она получает слишком мало денег.",
+		"eng_sentence": "She gets to little money.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Он ест слишком много.",
+		"eng_sentence": "He eats too much.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он делает ошибки снова и снова.",
+		"eng_sentence": "He makes mistakes again and again.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Я часто хожу туда.",
+		"eng_sentence": "I often go there.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Я могу слышать тебя сейчас.",
+		"eng_sentence": "I can hear you now.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Ты можешь взять это.",
+		"eng_sentence": "You can take it.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Я сплю более, чем достаточно.",
+		"eng_sentence": "I sleep more than enough.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Он есть слишком много.",
+		"eng_sentence": "He eats too much.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я не могу в это поверить.",
+		"eng_sentence": "I can't believe it.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Я часто беру его с собой.",
+		"eng_sentence": "I often take him with me.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я ем на работе с моими коллегами.",
+		"eng_sentence": "I eat at work with my colleagues.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Ты можешь взять эти деньги.",
+		"eng_sentence": "You can take this money.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Она слишком мало спит.",
+		"eng_sentence": "She sleeps too little.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Я слышу тебя лучше сейчас.",
+		"eng_sentence": "I hear you better now.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я хочу путешествовать больше.",
+		"eng_sentence": "I want to travel more.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он тренируется слишком мало.",
+		"eng_sentence": "He trains too little.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Мы часто ходим туда вместе.",
+		"eng_sentence": "We often go there together.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я чувствую себя таким счастливым.",
+		"eng_sentence": "I feel so happy. / I'm so happy.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Она тратит слишком много денег.",
+		"eng_sentence": "She spends too much money.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Ты показываешь очень хорошие результаты.",
+		"eng_sentence": "You show very good results.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Как ты живешь на эти деньги?",
+		"eng_sentence": "How do you live on this money?",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Ты веришь в Бога?",
+		"eng_sentence": "Do you believe in God?",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Где она живёт?",
+		"eng_sentence": "Where does she live?",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Она показывает плохие результаты.",
+		"eng_sentence": "She shows bad results.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Сколько денег вы получаете?",
+		"eng_sentence": "How much money do you get?",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Мы можем поговорить об этом позже.",
+		"eng_sentence": "We can talk about it later.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Мне нужно идти.",
+		"eng_sentence": "I need to go.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Она заканчивает свою работу очень рано.",
+		"eng_sentence": "She finished her work very early.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Они показывают это по телевизору.",
+		"eng_sentence": "They show it on TV.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я хочу начать этот курс.",
+		"eng_sentence": "I want to start this course.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Я тренируюсь очень интенсивно.",
+		"eng_sentence": "I train very intensively.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Она получает слишком мало денег.",
+		"eng_sentence": "She gets to little money.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я не могу поверить своим ушам.",
+		"eng_sentence": "I can't believe my ears.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я заканчиваю свою работу очень поздно.",
+		"eng_sentence": "I finish my work very late.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Я часто делаю эти ошибки.",
+		"eng_sentence": "I often make these mistakes.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я верю тебе.",
+		"eng_sentence": "I believe you.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Мы говорим о разным вещах.",
+		"eng_sentence": "We talk about different things.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Она не ест мясо.",
+		"eng_sentence": "She doesn't eat meat.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Нам нужно поговорить об этом.",
+		"eng_sentence": "We need to talk about it.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Он хочет путешествовать.",
+		"eng_sentence": "He wants to travel.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я чувствую себя намного лучше.",
+		"eng_sentence": "I feel much better.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я чувствую себя очень счастливым.",
+		"eng_sentence": "I feel very happy.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Она чувствует себя действительно счастливой.",
+		"eng_sentence": "She feels really happy.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Мы часто ходим в школу вместе.",
+		"eng_sentence": "We often go to school together.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Они часто ходят туда вместе.",
+		"eng_sentence": "They often go there together.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я хочу сказать, что я не могу поверить своим глазам.",
+		"eng_sentence": "I want to say that I can't believe my eyes.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я хочу сказать тебе, что он не может поверить своим ушам.",
+		"eng_sentence": "I want to tell you that he can't believe his ears.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Она спит слишком много.",
+		"eng_sentence": "She sleeps too much.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я могу слышать его сейчас.",
+		"eng_sentence": "I can hear him now.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я могу слышать их сейчас.",
+		"eng_sentence": "I can hear them now.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Она показывает это по телевизору.",
+		"eng_sentence": "She shows it on TV.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Он показывает это по телевизору.",
+		"eng_sentence": "He shows it on TV.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Он верит в Бога?",
+		"eng_sentence": "Does he believe in God?",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Они верят в Бога?",
+		"eng_sentence": "Do they believe in God?",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Он заканчивает свою работу очень поздно.",
+		"eng_sentence": "He finishes his work very late.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я заканчиваю свою работу очень рано.",
+		"eng_sentence": "I finish my work very early.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Он получает очень большие деньги.",
+		"eng_sentence": "He gets very big money.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я получаю очень большие деньги.",
+		"eng_sentence": "I get very big money.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Она показывает очень хорошие результаты.",
+		"eng_sentence": "She shows very good results.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Они показывают очень хороший результат.",
+		"eng_sentence": "They show a very good result.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Ты можешь скачать это сейчас.",
+		"eng_sentence": "You can download it now.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я хочу скачать этот файл.",
+		"eng_sentence": "I want to download this file.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Я хотел бы скачать это видео.",
+		"eng_sentence": "I'd like to download this video.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Мне нужно заплатить за это.",
+		"eng_sentence": "I need to pay for it.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Мне нужно заплатить за эту услугу.",
+		"eng_sentence": "I need to pay for this service.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Она спит слишком мало.",
+		"eng_sentence": "She sleeps too little.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Ты умеешь водить машину?",
+		"eng_sentence": "Can you drive a car?",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "У меня достаточно мотивации.",
+		"eng_sentence": "I have enough motivation.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "У него достаточно денег.",
+		"eng_sentence": "He has enough money.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Ты согласен или нет?",
+		"eng_sentence": "Do you agree or not?",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я согласен сн ей.",
+		"eng_sentence": "I agree with her.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я полностью согласен с этим.",
+		"eng_sentence": "I absolutely agree with it.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Давай говорить по-английски.",
+		"eng_sentence": "Let's speak English.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Ты можешь сесть здесь.",
+		"eng_sentence": "You can sit here.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Ты можешь сесть там.",
+		"eng_sentence": "You can sit there.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Он преподаёт английский и немецкий.",
+		"eng_sentence": "He teaches English and German.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Это стоит намного дороже.",
+		"eng_sentence": "It costs much more.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Это стоит 10 евро.",
+		"eng_sentence": "It costs ten euros.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Это стоит пять тысяч фунтов.",
+		"eng_sentence": "It costs five thousand pounds.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Это стоит 400 долларов.",
+		"eng_sentence": "It costs four hundred dollars.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Она часто готовит.",
+		"eng_sentence": "She often cooks.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Это может произойти.",
+		"eng_sentence": "It can happen.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Он учится в школе.",
+		"eng_sentence": "He studies at school.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он учится в университете.",
+		"eng_sentence": "He studies at university.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я знаю, что мне нужно начать это.",
+		"eng_sentence": "I know that I need to start (begin) it.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Мне кажется, что ты прав.",
+		"eng_sentence": "It seems to me that you are right.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Они часто присылают мне эти письма.",
+		"eng_sentence": "They often send me these letters.",
+		"lesson": "23",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я часто забываю эти вещи.",
+		"eng_sentence": "I often forget these things.",
+		"lesson": "23",
+		"difficulty": ""
+	}
+]
