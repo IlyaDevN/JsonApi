@@ -1,0 +1,772 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Из какого города ты родом?",
+		"eng_sentence": "What city do you come from?",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Он расстался со своей девушкой.",
+		"eng_sentence": "He split up with his girlfriend.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Она застегнула браслет, который идеально ей подходил.",
+		"eng_sentence": "She did up her bracelet which suited her perfectly.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "На твоём месте, я бы записал это на бумаге.",
+		"eng_sentence": "If I were you I would put it down on paper.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "На мой взгляд, он слишком умён, чтобы попасться на такой трюк.",
+		"eng_sentence": "In my opinion, he is too smart to fall for such a trick.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Никто не ожидал, что они расстанутся после года брака.",
+		"eng_sentence": "No one expected that they would break up after a year of marriage.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Правительство спасло несколько компаний в отрасли.",
+		"eng_sentence": "The government bailed out some companies in the industry.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Не откладывай это до следующей недели!",
+		"eng_sentence": "Don't put it off till next week!",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я очень уважаю твоего директора, потому что он известен своим большим профессионализмом.",
+		"eng_sentence": "I really look up to your director because he is known for his great professionalism.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Ты можешь вынести мусор, потому что он так плохо пахнет?",
+		"eng_sentence": "Can you take out the trash because it smells so bad?",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Откуда ты родом изначально?",
+		"eng_sentence": "Where do you come from originally?",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Там он остановился и вынул бумажник.",
+		"eng_sentence": "He stopped there and took out his wallet.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Она выросла в сельской местности.",
+		"eng_sentence": "She grew up in a rural area.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Тебе нужно застегнуть ремень.",
+		"eng_sentence": "You need to do up the belt.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Правительство не решалось спасать банки, которые действительно нуждались в поддержке.",
+		"eng_sentence": "The government hesitated to bail out the banks which really needed support.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я разберусь с этой проблемой довольно легко.",
+		"eng_sentence": "I will sort out this problem pretty easily.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Я больше не собираюсь с этим мириться.",
+		"eng_sentence": "I'm not going to put up with it anymore.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я записываю эти ужасные результаты на их непрофессионализм.",
+		"eng_sentence": "I put down this terrible results to their unprofessionalism.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Мне нужно привести в порядок свою комнату.",
+		"eng_sentence": "I need to do up my room.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я собираюсь заскочить в магазин на минуту.",
+		"eng_sentence": "I'm going to pop into a store for a minute.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я боюсь, нам придется отложить встречу.",
+		"eng_sentence": "I am afraid we will have to put off the meeting.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "К счастью, у нас есть много времени, чтобы разобраться во всех этих деталях.",
+		"eng_sentence": "Luckily, we have plenty of time to sort out all these details.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Мы можем обсудить это прямо сейчас, если ты не возражаешь.",
+		"eng_sentence": "We can talk it over right now if you don't mind.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Я постараюсь разобраться во всём этом беспорядке.",
+		"eng_sentence": "I will try to sort out all this mess.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Она вытерла разлитую воду.",
+		"eng_sentence": "She mopped up the spilt water.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я собираюсь заскочить в этот магазин не более, чем на десять минут.",
+		"eng_sentence": "I am going to pop into this shop for no more than ten minutes.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Эта группа распалась в прошлом году.",
+		"eng_sentence": "This band split up last year.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Большинство людей уважают этого героя за его храбрость, мужество и решимость.",
+		"eng_sentence": "Most people look up to this hero for his bravery, courage and determination.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Мне придется обсудить это с ним.",
+		"eng_sentence": "I will have to talk it over with him.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я приписываю такое поведение его воспитанию.",
+		"eng_sentence": "I put down such behaviour to his upbringing.",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 108,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 109,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	},
+	{	
+		"id": 110,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "258",
+		"difficulty": ""
+	}
+]
