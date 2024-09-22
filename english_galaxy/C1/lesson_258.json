@@ -107,7 +107,7 @@
 	{	
 		"id": 16,
 		"rus_sentence": "Я разберусь с этой проблемой довольно легко.",
-		"eng_sentence": "I will sort out this problem pretty easily.",
+		"eng_sentence": "I'll sort out this problem pretty easily.",
 		"lesson": "258",
 		"difficulty": ""
 	},
@@ -142,7 +142,7 @@
 	{	
 		"id": 21,
 		"rus_sentence": "Я боюсь, нам придется отложить встречу.",
-		"eng_sentence": "I am afraid we will have to put off the meeting.",
+		"eng_sentence": "I'm afraid we'll have to put off the meeting.",
 		"lesson": "258",
 		"difficulty": ""
 	},
@@ -163,7 +163,7 @@
 	{	
 		"id": 24,
 		"rus_sentence": "Я постараюсь разобраться во всём этом беспорядке.",
-		"eng_sentence": "I will try to sort out all this mess.",
+		"eng_sentence": "I'll try to sort out all this mess.",
 		"lesson": "258",
 		"difficulty": ""
 	},
@@ -198,7 +198,7 @@
 	{	
 		"id": 29,
 		"rus_sentence": "Мне придется обсудить это с ним.",
-		"eng_sentence": "I will have to talk it over with him.",
+		"eng_sentence": "I'll have to talk it over with him.",
 		"lesson": "258",
 		"difficulty": ""
 	},
@@ -211,561 +211,491 @@
 	},
 	{	
 		"id": 31,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Этот парень влюбился в ту девушку.",
+		"eng_sentence": "This guy fell for that girl.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 32,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он вырос в Индии.",
+		"eng_sentence": "He grew up in India.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 33,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Их брак распался через год.",
+		"eng_sentence": "Their marriage broke up after a year.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 34,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я хотел бы записать некоторые из моих мыслей.",
+		"eng_sentence": "I'd like to put down some of my thoughts.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 35,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она пытается накопить немного денег, чтобы отремонтировать свою квартиру.",
+		"eng_sentence": "She's trying to save up some money to do up her flat.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 36,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он собирается потратиться и купить очень мощный спортивный автомобиль.",
+		"eng_sentence": "He's going to splash out and buy a very powerful sports car.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 37,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я записал её адрес на листке бумаги.",
+		"eng_sentence": "I put down her address on a sheet of paper.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 38,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он вытер пролитое молоко.",
+		"eng_sentence": "He mopped up the spilt milk.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 39,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он потратился на роскошь.",
+		"eng_sentence": "He splashed out on luxuries.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 40,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я записал это в свой дневник.",
+		"eng_sentence": "I put it  down in my diary.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 41,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я записываю эту неудачу на их неопытность и непрофессионализм.",
+		"eng_sentence": "I put down this failure to their inexperience and unprofessionalism.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 42,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это действительно кажется таким странным, что будучи такой бедной, она спускает все свои деньги на дизайнерскую одежду.",
+		"eng_sentence": "It really seems so weird that being so poor she splashes out all her money on designer clothes.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 43,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Обсуждалось, как спасти экономику страны во время такого серьёзного кризиса.",
+		"eng_sentence": "It was discussed how to bail out the economy of the country in times of such a serious crisis.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 44,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Её разрыв со своим парнем оказался очень болезненным опытом.",
+		"eng_sentence": "Her breakup with her boyfriend turned out to be a very painful experience.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 45,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Наш босс в основном списывает эти неудовлетворительные результаты на их непрофессионализм и неопытность.",
+		"eng_sentence": "Our boss mostly put down these unsatisfactory results to their unprofessionalism and inexperience.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 46,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я всегда уважал его за его мужество, отвагу, настойчивость, решительность и огромную силу воли.",
+		"eng_sentence": "I've always looked up to him for his courage, bravery, persistence, determination and great willpower.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Вполне понятно, что правительство не может спасти каждую убыточную компанию.",
+		"eng_sentence": "It's quite understandable that the government can't bail out every unprofitable company.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 48,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я придерживаюсь точки зрения, что мне никогда не нужно откладывать на завтра то, что может быть сделано сегодня.",
+		"eng_sentence": "I stick to the point that I never need to put off till tomorrow what can be done today.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 49,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Студенты этого университета родом из всех концов света.",
+		"eng_sentence": "The students of this university come from all corners of the world.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 50,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я просто поинтересовался, мог бы ты сказать мне, как застегнуть этот ремень безопасности.",
+		"eng_sentence": "I was just wondering if you could tell me how to do up this seatbelt.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 51,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она сказала, что заскочит в тот магазин на секунду.",
+		"eng_sentence": "She said that she would pop into that store for a second.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 52,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Как ты понимаешь, очень трудно смириться с тем, что там происходит.",
+		"eng_sentence": "As you understand, it's really difficult to put up with what is going there.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 53,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он действительно ненавидит это, потому что его босс всегда унижает его.",
+		"eng_sentence": "He really hates it because his boss always puts him down.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 54,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Нам нужно было многое обсудить. / Нам было о чём поговорить.",
+		"eng_sentence": "We had a great deal to talk over.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 55,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ему нужно перестать унижать других без всякой причины.",
+		"eng_sentence": "He needs to stop putting down others for no reason at all.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 56,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он вырос в очень богатой семье.",
+		"eng_sentence": "He grew up in a very wealthy family.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 57,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Кем он хочет стать, когда вырастет?",
+		"eng_sentence": "What does he want to be when he grows up?",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 58,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Все родители говорят, что дети растут так быстро.",
+		"eng_sentence": "All the parents say that kids grow up so quickly.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 59,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я попытался записать всю речь целиком.",
+		"eng_sentence": "I tried to put down the whole speech.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 60,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Тебе бы лучше записать всё, что она говорит.",
+		"eng_sentence": "You'd better put down everything (what) she says.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 61,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мне кажется, что я забыл записать её адрес.",
+		"eng_sentence": "It seems to me that I forgot to put down her address.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 62,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Излишне говорить, что им есть что обсудить.",
+		"eng_sentence": "Needless to say, they have a great deal to talk over.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 63,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты хотел бы это обсудить?",
+		"eng_sentence": "Would you like to talk it over?",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 64,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Честно говоря, я слышал, как они это обсуждали.",
+		"eng_sentence": "To be honest, I heard them talking it over.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 65,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она взяла тряпку, чтобы вытереть чай, который она разлила.",
+		"eng_sentence": "She took a cloth to mop up the tea which she had spilt.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 66,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты можешь использовать эту тряпку, чтобы вытереть воду.",
+		"eng_sentence": "You can use this cloth to mop up the water.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 67,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я ищу что-нибудь, чтобы вытереть эту воду.",
+		"eng_sentence": "I'm looking for something to mop up this water.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 68,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они все уважают его как героя.",
+		"eng_sentence": "They all look up to him as a hero.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 69,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Все люди в этом городе уважают его.",
+		"eng_sentence": "All the people in this city look up to him.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 70,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они уважают его за его доброту и честность.",
+		"eng_sentence": "They look up to him for his kindness and honesty.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 71,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он пытался унизить его, чтобы разрушить его репутацию.",
+		"eng_sentence": "He tried to put him down to ruin his reputation.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 72,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "К счастью, наш босс никогда не унижал нас.",
+		"eng_sentence": "Luckily, our boss has never put us down.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 73,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты должен перестать унижать своих коллег.",
+		"eng_sentence": "You must stop putting down your colleagues.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 74,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Было очень грустно слышать, что они расстались.",
+		"eng_sentence": "It was very sad to hear that they had split up.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 75,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она была опустошена, когда они расстались.",
+		"eng_sentence": "She was devastated when they split up.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 76,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я бы расстроился, если бы мои родители расстались.",
+		"eng_sentence": "I would be upset if my parents split up.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 77,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я постараюсь не забыть вынести мусор.",
+		"eng_sentence": "I'll try not to forget to take out the garbage.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 78,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты можешь вынести эту коробку?",
+		"eng_sentence": "Can you take out this box?",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 79,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она сказала, что вернется и вынесет мусор.",
+		"eng_sentence": "She said that she would come back and take out the garbage.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 80,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Очень странная идея возникла в её голове как вспышка.",
+		"eng_sentence": "A very strange idea popped up in her mind like a flash.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 81,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это первая вещь, которая пришла мне в голову.",
+		"eng_sentence": "It's the first thing that popped into my head.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 82,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Как эта вещь пришла тебе в голову?",
+		"eng_sentence": "How did this thing pop into your head?",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 83,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они решили отремонтировать весь дом.",
+		"eng_sentence": "They decided to do up the whole house.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 84,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Нам давно пора отремонтировать кухню.",
+		"eng_sentence": "It's high time we did up the kitchen.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 85,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Весь дом был отремонтирован к рождеству.",
+		"eng_sentence": "The whole house had been done up by Christmas.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 86,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он сказал, что он не собирался мириться с подобными оскорблениями.",
+		"eng_sentence": "He said that he wasn't going to put up with such insults.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 87,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Стало очевидно, что он влюбился в неё.",
+		"eng_sentence": "It became obvious that he had fallen for her.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 88,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она обычно выносит мусор ежедневно.",
+		"eng_sentence": "She usually takes out the trash daily.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 89,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мальчику сказали завязать шнурки, но он не услышал этого.",
+		"eng_sentence": "The boy was told to do up his shoelaces but he didn't hear it.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 90,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я не ожидал, что она влюбится в того парня.",
+		"eng_sentence": "I didn't expect her to fall for that lad.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 91,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Весь дом был отремонтирован в этом году.",
+		"eng_sentence": "The whole house has been done up this year.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 92,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Есть одна очень популярная поговорка, которая гласит, что нам никогда не нужно откладывать на завтра то, что мы можем сделать сегодня.",
+		"eng_sentence": "There is one very popular saying which says that we never need to put off till tomorrow what we can do today.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 93,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она никогда не рассматривала идею расстаться с ним.",
+		"eng_sentence": "She has never considered the idea of breaking up with him.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 94,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он говорит, что ему трудно мириться со всей этой несправедливостью.",
+		"eng_sentence": "He says that it's difficult for him to put up with all this injustice.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 95,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я действительно думаю, что тебе не следовало тратиться.",
+		"eng_sentence": "I do think you shouldn't have splashed out.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 96,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Её оставили, чтобы убрать весь этот беспорядок после его отставки.",
+		"eng_sentence": "She was left to mop up all this mess after his resignation.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 97,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Чем бы ты хотел заниматься, когда ты вырастешь?",
+		"eng_sentence": "What would you like to do when you grow up?",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 98,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он сказал, что постарается уладить ту проблему.",
+		"eng_sentence": "He said that he would try to sort out that problem.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 99,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он родом из Нью-Йорка.",
+		"eng_sentence": "He comes from New York.",
 		"lesson": "258",
 		"difficulty": ""
 	},
 	{	
 		"id": 100,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "258",
-		"difficulty": ""
-	},
-	{	
-		"id": 101,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "258",
-		"difficulty": ""
-	},
-	{	
-		"id": 102,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "258",
-		"difficulty": ""
-	},
-	{	
-		"id": 103,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "258",
-		"difficulty": ""
-	},
-	{	
-		"id": 104,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "258",
-		"difficulty": ""
-	},
-	{	
-		"id": 105,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "258",
-		"difficulty": ""
-	},
-	{	
-		"id": 106,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "258",
-		"difficulty": ""
-	},
-	{	
-		"id": 107,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "258",
-		"difficulty": ""
-	},
-	{	
-		"id": 108,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "258",
-		"difficulty": ""
-	},
-	{	
-		"id": 109,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "258",
-		"difficulty": ""
-	},
-	{	
-		"id": 110,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я абсолютно убеждён, что им не следовало расставаться.",
+		"eng_sentence": "I'm absolutely convinced that they shouldn't have split up.",
 		"lesson": "258",
 		"difficulty": ""
 	}
