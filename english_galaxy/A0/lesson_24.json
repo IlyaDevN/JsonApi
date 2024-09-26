@@ -1,0 +1,772 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Посмотри на это!",
+		"eng_sentence": "Look at it!",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я люблю такого рода еду.",
+		"eng_sentence": "I love this kind of food. / I like this kind of food.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Подожди меня!",
+		"eng_sentence": "Wait for me!",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Он работает мало.",
+		"eng_sentence": "He works little.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я хочу обсудить это с тобой.",
+		"eng_sentence": "I want to discuss it with you.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Они продают эти товары очень дёшево.",
+		"eng_sentence": "They sell these goods very cheaply.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Он бегает очень быстро.",
+		"eng_sentence": "He runs very fast.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Что тебе нравится больше?",
+		"eng_sentence": "What do you like more?",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Она хочет продать свою квартиру.",
+		"eng_sentence": "She wants to sell her flat (apartment).",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Они продают это очень дёшево.",
+		"eng_sentence": "They sell it very cheaply.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Она не танцует профессионально.",
+		"eng_sentence": "She doesn't dance professionally.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Встань, пожалуйста!",
+		"eng_sentence": "Stand up, please!",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Он бегает быстрее.",
+		"eng_sentence": "He runs faster.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я могу позвонить тебе сейчас.",
+		"eng_sentence": "I can call you now.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Посмотри на это!",
+		"eng_sentence": "Look at it!",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Они строят дома.",
+		"eng_sentence": "They build houses.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Ей нравится её новое платье?",
+		"eng_sentence": "Does she like her new dress?",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Он действительно ненавидит это?",
+		"eng_sentence": "Does he really hate it?",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Мы можем обсудить это прямо сейчас.",
+		"eng_sentence": "We can discuss it right now.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Они продают эти продукты очень дорого.",
+		"eng_sentence": "They sell these products very expensively.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Это может начаться скоро.",
+		"eng_sentence": "It can begin soon.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Мне нужно позвонить ему сейчас.",
+		"eng_sentence": "I need to call him now.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Ты можешь посмотреть на это.",
+		"eng_sentence": "You can look at it.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Посмотри на этот слайд!",
+		"eng_sentence": "Look at this slide!",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Встань!",
+		"eng_sentence": "Stand up!",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Как часто ты пользуешься интернетом?",
+		"eng_sentence": "How often do you use the Internet?",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Что ты думаешь о его предложении?",
+		"eng_sentence": "What do you think about his offer?",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Посмотри на него!",
+		"eng_sentence": "Look at him!",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Он строит очень хорошие дома.",
+		"eng_sentence": "He builds very good houses.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Посмотри на меня!",
+		"eng_sentence": "Look at me!",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Тебе нравится эта музыка?",
+		"eng_sentence": "Do you like this music?",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Он продает это очень дорого.",
+		"eng_sentence": "He sells it very expensively.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я хочу встать.",
+		"eng_sentence": "I want to stand up.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Я могу бежать очень быстро.",
+		"eng_sentence": "I can run very fast.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Что ты думаешь об этой идее?",
+		"eng_sentence": "What do you think about this idea?",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я часто пользуюсь этой услугой.",
+		"eng_sentence": "I often use this service.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Смотри!",
+		"eng_sentence": "Look!",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Я действительно ненавижу эту вещь.",
+		"eng_sentence": "I really hate this thing.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Мне не нравится танцевать.",
+		"eng_sentence": "I don't like dancing.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я пользуюсь интернетом почти каждый день.",
+		"eng_sentence": "I use the Internet almost every day.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я часто пользуюсь интернетом.",
+		"eng_sentence": "I often use the Internet.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Ты можешь встать здесь.",
+		"eng_sentence": "You can stand here",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Ей нравится танцевать.",
+		"eng_sentence": "She likes dancing.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Не беспокойся об этом!",
+		"eng_sentence": "Don't worry about it!",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я пишу по-английски очень редко.",
+		"eng_sentence": "I write in English very rarely (seldom).",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Я хочу улучшить свою речь.",
+		"eng_sentence": "I want to improve my speaking.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Когда ты просыпаешься?",
+		"eng_sentence": "When do you wake up?",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я делаю это очень редко.",
+		"eng_sentence": "I do it very rarely (seldom).",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Мне нужно запомнить эти правила.",
+		"eng_sentence": "I need to remember these rules.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я обычно просыпаюсь в семь часов утра.",
+		"eng_sentence": "I usually wake up at seven o'clock in the morning.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я хотел бы улучшить свою речь.",
+		"eng_sentence": "I'd like to improve my speaking.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Ему нужно запомнить это.",
+		"eng_sentence": "He needs to remember it.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я думаю, мы можем подождать это.",
+		"eng_sentence": "I think we can wait for it.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Как ты находишь эту идею?",
+		"eng_sentence": "How do you find this idea?",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я часто гуляю в парке.",
+		"eng_sentence": "I often walk in the park.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я хочу улучшить своё аудирование.",
+		"eng_sentence": "I want to improve my listening.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я хочу выпить чашку чая.",
+		"eng_sentence": "I want to drink a cup of tea.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я не беспокоюсь об этих вещах.",
+		"eng_sentence": "I don't worry about these things.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Он предпочитает изучать английский здесь.",
+		"eng_sentence": "He prefers to learn English here.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я предпочитаю изучать русский здесь.",
+		"eng_sentence": "I prefer to learn Russian here.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Она предпочитает изучать испанский язык там.",
+		"eng_sentence": "She prefers to learn Spanish there.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я хотел бы выпить немного воды.",
+		"eng_sentence": "I'd like to drink some water.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Он хотел бы выпить немного чая.",
+		"eng_sentence": "He'd like to drink some tea.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я хотел бы выпить чашку кофе.",
+		"eng_sentence": "I'd like to drink a cup of coffee.",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "В какое время он встаёт?",
+		"eng_sentence": "What time does he gets up?",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 108,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 109,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	},
+	{	
+		"id": 110,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "24",
+		"difficulty": ""
+	}
+]
