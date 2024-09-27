@@ -456,316 +456,239 @@
 	},
 	{	
 		"id": 66,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "В какое время ты встаёшь?",
+		"eng_sentence": "What time do you get up?",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 67,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Когда она просыпается?",
+		"eng_sentence": "When does she wake up?",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 68,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я предпочитаю изучать английский онлайн.",
+		"eng_sentence": "I prefer to learn English online.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 69,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он предпочитает изучать испанский онлайн.",
+		"eng_sentence": "He prefers to learn Spanish online.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 70,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я предпочитаю смотреть эти видео уроки.",
+		"eng_sentence": "I prefer to watch these video lessons.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 71,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я хотел бы выпить стакан сока.",
+		"eng_sentence": "I'd like to drink a glass of juice.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 72,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я хотел бы выпить стакан воды.",
+		"eng_sentence": "I'd like to drink a glass of water.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 73,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он хотел бы выпить чашку чая.",
+		"eng_sentence": "He'd like to drink a cup of tea.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 74,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я не знаю, где я могу найти это.",
+		"eng_sentence": "I don't know where I can find it.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 75,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он не знает, где он может найти это.",
+		"eng_sentence": "He doesn't know where he can find it.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 76,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я пытаюсь запомнить это правило.",
+		"eng_sentence": "I try to remember this rule.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 77,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он пытается запомнить эти правила.",
+		"eng_sentence": "He tries to remember these rules.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 78,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я могу найти это очень легко.",
+		"eng_sentence": "I can find it very easily.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 79,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты можешь найти это очень легко.",
+		"eng_sentence": "You can find it very easily.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 80,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он не может найти это сейчас.",
+		"eng_sentence": "He can't find it now.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 81,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Не беспокойся!",
+		"eng_sentence": "Don't worry!",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 82,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Не пей это!",
+		"eng_sentence": "Don't drink it!",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 83,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Подожди меня!",
+		"eng_sentence": "Wait for me!",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 84,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Как часто ты гуляешь в парке?",
+		"eng_sentence": "How often do you walk in the park?",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 85,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Как часто она гуляет в парке?",
+		"eng_sentence": "How often does she walk in the park?",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 86,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Когда ты гуляешь в парке?",
+		"eng_sentence": "When do you walk in the park?",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 87,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они действительно любят друг друга.",
+		"eng_sentence": "They really love each other.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 88,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я люблю такого рода фильмы.",
+		"eng_sentence": "I love (like) this kind of movies.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 89,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я хочу улучшить мою речь, аудирование и грамматику.",
+		"eng_sentence": "I want to improve my speaking, listening and grammar.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 90,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Подожди этого!",
+		"eng_sentence": "Wait for it!",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 91,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я не хочу ждать этого!",
+		"eng_sentence": "I don't want to wait for it!",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 92,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я люблю такого рода музыку.",
+		"eng_sentence": "I love (like) this kind of music.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 93,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я не знаю, где я могу найти эту информацию.",
+		"eng_sentence": "I don't know where I can find this information.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 94,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я хотел бы улучшить своё аудирование.",
+		"eng_sentence": "I'd like to improve my listening.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 95,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мы можем найти эту информацию очень легко в наше время.",
+		"eng_sentence": "We can find this information very easily nowadays.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 96,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я хочу улучшить свой английский.",
+		"eng_sentence": "I want to improve my English.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 97,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я люблю такого рода еду.",
+		"eng_sentence": "I love this kind of food.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 98,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она хочет выпить чашку кофе.",
+		"eng_sentence": "She wants to drink a cup of coffee.",
 		"lesson": "24",
 		"difficulty": ""
 	},
 	{	
 		"id": 99,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "24",
-		"difficulty": ""
-	},
-	{	
-		"id": 100,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "24",
-		"difficulty": ""
-	},
-	{	
-		"id": 101,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "24",
-		"difficulty": ""
-	},
-	{	
-		"id": 102,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "24",
-		"difficulty": ""
-	},
-	{	
-		"id": 103,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "24",
-		"difficulty": ""
-	},
-	{	
-		"id": 104,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "24",
-		"difficulty": ""
-	},
-	{	
-		"id": 105,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "24",
-		"difficulty": ""
-	},
-	{	
-		"id": 106,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "24",
-		"difficulty": ""
-	},
-	{	
-		"id": 107,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "24",
-		"difficulty": ""
-	},
-	{	
-		"id": 108,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "24",
-		"difficulty": ""
-	},
-	{	
-		"id": 109,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "24",
-		"difficulty": ""
-	},
-	{	
-		"id": 110,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Когда ты обычно встаёшь?",
+		"eng_sentence": "When do you usually get up?",
 		"lesson": "24",
 		"difficulty": ""
 	}
