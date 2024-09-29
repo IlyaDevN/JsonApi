@@ -141,631 +141,561 @@
 	},
 	{	
 		"id": 21,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Нам нужно поторопиться, или мы не сможем за ними угнаться.",
+		"eng_sentence": "We need to hurry up or we won't be able to keep up with them.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 22,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мы выписались до полудня.",
+		"eng_sentence": "We checked out before midday.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 23,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я стараюсь хорошо ладить со своими соседями.",
+		"eng_sentence": "I try to get on well with my neighbours.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 24,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я затронул эту тему во время нашего разговора.",
+		"eng_sentence": "I brought up this subject during our conversation.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 25,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Компания была поглощена своим конкурентом.",
+		"eng_sentence": "The company was taken over by its competitor.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 26,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Полиция будет расследовать это преступление.",
+		"eng_sentence": "The police will look into this crime.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 27,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мне не очень нравится рано вставать.",
+		"eng_sentence": "I don't really like getting up early.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 28,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Смотря вперёд, я пытаюсь понять, что же я собираюсь там делать.",
+		"eng_sentence": "Looking ahead, I try to understand what on earth I'm going to do there.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 29,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Когда она собирается вернуться?",
+		"eng_sentence": "When is she going to come back?",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 30,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я буду продолжать работать на этим проектом.",
+		"eng_sentence": "I will carry on working on this project.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 31,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Забегая вперёд, я думаю, что это правильное решение.",
+		"eng_sentence": "Looking ahead, I think that it's the right decision.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 32,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я не могу за тобой угнаться, потому что ты так быстро бежишь.",
+		"eng_sentence": "I can't keep up with you because you are running so fast.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 33,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Насколько хорошо ты ладишь со своими коллегами?",
+		"eng_sentence": "How well do you get on with your colleagues?",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 34,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она смотрит свысока на людей без высшего образования.",
+		"eng_sentence": "She looks down on people without higher education.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 35,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Его партнёр собирается завладеть этим бизнесом.",
+		"eng_sentence": "His partner is going to take over this business.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 36,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Оглядываясь назад, я всё ещё не могу понять, что с этим было не так.",
+		"eng_sentence": "Looking back, I still can't figure out what was wrong with it.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 37,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я действительно не думаю, что если я запишу это, это мне так сильно поможет.",
+		"eng_sentence": "I don't really think that if I write it down, it will help me so much.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 38,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она присматривает за своей бабушкой.",
+		"eng_sentence": "She looks after her grandmother.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 39,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он настолько высокомерен, что смотрит свысока на своих сотрудников.",
+		"eng_sentence": "He is so arrogant that he looks down on his employees.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 40,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он был воспитан совей мамой.",
+		"eng_sentence": "He was brought up by his mother.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 41,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Было почти невозможно продолжать с ним разговор со всем тем шумом на заднем плане.",
+		"eng_sentence": "It was almost impossible to carry on a conversation with him with all that noise in the background.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 42,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Вспоминая тот день, я могу сказать, что я проснулся с мыслью, что вот-вот произойдёт что-то чудесное.",
+		"eng_sentence": "Remembering that day I can say that I woke up with the thought that something wonderful was about to happen.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 43,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я решил записаться на этот курс, чтобы заполнить некоторые пробелы в своих знаниях.",
+		"eng_sentence": "I decided to enrol on this course to fill in some gaps in my knowledge.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 44,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Люди, с которыми я работал, были очень сговорчивы, дружелюбны и с ними было легко ладить.",
+		"eng_sentence": "The people I was working with were very cooperative, friendly and easy to get along with.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 45,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Предполагается, что они выпишутся из отеля к трём часам.",
+		"eng_sentence": "It is supposed that they will have checked out of the hotel by three o'clock.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 46,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты должен понять, что тебе не нужно записывать буквально каждое слово во время прослушивания лекции.",
+		"eng_sentence": "You have to understand that you needn't write down every single word while listening to the lecture.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 47,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они могли бы затронуть это на встрече, но по некоторой причине, не сделали этого.",
+		"eng_sentence": "They could have brought it up at the meeting but they didn't do it for some reason.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 48,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я не считаю справедливым смотреть свысока на людей, которые не имеют высшего образования.",
+		"eng_sentence": "I don't consider it fair to look down on people who don't have higher education.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 49,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она действительно хотела угнаться за последними тенденциями моды, но потом бросила эту идею.",
+		"eng_sentence": "She really wanted to keep up with the latest fashions but then she gave up this idea.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 50,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он продолжал работать как обычно, несмотря на то, что у него были очень большие проблемы, связанные с его семьей, а также со здоровьем.",
+		"eng_sentence": "He carried on working as usual despite having very big problems related to his family and health as well.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 51,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она спросила меня, кем она была воспитана.",
+		"eng_sentence": "She asked me who she had been brought up by.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 52,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он смотрит свысока на людей, которые никогда не пытались поступить в университет.",
+		"eng_sentence": "He looks down on people who have never tried to enter a university.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 53,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я спросил его, во сколько он собирался вернуться.",
+		"eng_sentence": "I asked him what time he was going to come back.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 54,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она спросила меня, хотел ли я зайти на чашку кофе.",
+		"eng_sentence": "She asked me if I wanted to come in for a cup of coffee.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 55,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Оглядываясь назад на это, я действительно думаю, мне следовало сделать совершенно другую вещь.",
+		"eng_sentence": "Looking back on it, I do think I should have done a completely different thing.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 56,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Это худший отель, который я когда-либо встречал.",
+		"eng_sentence": "It's the worst hotel I've ever come across.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 57,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я никогда не сталкивался с этим раньше.",
+		"eng_sentence": "I've never come across it before.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 58,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты когда-нибудь сталкивался с этими вещами в своей жизни?",
+		"eng_sentence": "Have you ever come across these things in your life?",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 59,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Никогда не позволяй негативным эмоция овладеть тобой!",
+		"eng_sentence": "Never let negative emotions take over you!",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 60,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Они не были счастливы, когда он завладел их бизнесом.",
+		"eng_sentence": "They weren't happy when he took over their business.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 61,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Очень сильное чувство печали внезапно овладело мной.",
+		"eng_sentence": "A very strong feeling of sadness took over me suddenly.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 62,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты, должно быть, привык вставать так рано.",
+		"eng_sentence": "You must have got accustomed to getting up so early.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 63,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мне не очень нравится вставать так рано.",
+		"eng_sentence": "I don't really like getting up so early.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 64,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Каждый раз, когда я встаю так рано, я чувствую себя очень хорошо.",
+		"eng_sentence": "Every time I get up so early I feel so good.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 65,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Предполагается, что они выпишутся из отеля к десяти часам.",
+		"eng_sentence": "They are supposed to check out of the hotel by ten.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 66,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Тебе нужно выписаться из отеля к четырём часам.",
+		"eng_sentence": "You need to check out of the hotel by four.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 67,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Когда я пришёл в отель она собиралась выписаться.",
+		"eng_sentence": "When I came to the hotel, she was about to check out.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 68,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он, должно быть, уже вернулся.",
+		"eng_sentence": "He must have already come back.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 69,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Становилось темнее, я мы решили вернуться домой.",
+		"eng_sentence": "It was getting darker so we decided to come back home.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 70,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Во сколько она вернулась туда?",
+		"eng_sentence": "What time did she come back there?",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 71,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Кто будет присматривать за детьми, пока тебя не будет?",
+		"eng_sentence": "Who will look after the children while you are away?",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 72,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты можешь присмотреть за моей собакой, пока меня не будет?",
+		"eng_sentence": "Can you look after my dog while I'm away?",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 73,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я попросила его присмотреть за моей бабушкой, потому что он живёт рядом с ней.",
+		"eng_sentence": "I asked him to look after my grandmother because he lives next to her.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 74,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ты хотел бы зайти на чашку чая?",
+		"eng_sentence": "Would you like to come in for a cup of tea?",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 75,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Извини, у меня нет времени зайти на чашку чая.",
+		"eng_sentence": "Sorry, I have no time to come in for a cup of tea.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 76,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я хотел бы зайти, если ты не против.",
+		"eng_sentence": "I'd like to come in if you don't mind.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 77,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она очень искренняя, и с ней легко ладить.",
+		"eng_sentence": "She is very sincere and easy to get along with.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 78,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Как он ладит с твоими детьми?",
+		"eng_sentence": "How does he get along with your kids?",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 79,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Ему довольно трудно ладить с незнакомыми людьми.",
+		"eng_sentence": "It's quite difficult for him to get along with unfamiliar people.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 80,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Кем он был воспитан?",
+		"eng_sentence": "Who was he brought up by?",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 81,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она была воспитана своим отцом.",
+		"eng_sentence": "She was brought up by her father.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 82,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Она говорит, действительно трудно воспитывать ребенка одной.",
+		"eng_sentence": "She says it's really difficult to bring up a child alone.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 83,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мне пришлось заполнить анкету заглавными буквами.",
+		"eng_sentence": "I had to fill in the form in capital letters.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 84,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Мне пришлось заполнить некоторые формы, чтобы скачать эту программу бесплатно.",
+		"eng_sentence": "I had to fill in some forms to download this program for free.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 85,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Не забудь заполнить все пробелы!",
+		"eng_sentence": "Don't forget to fill in all the gaps!",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 86,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Честно говоря, я бы не хотел затрагивать это, но у нас заканчиваются деньги.",
+		"eng_sentence": "Honestly, I wouldn't like to bring it up but we are running out of money.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 87,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Как ни удивительно, она пожертвовала многообещающей карьерой, чтобы ухаживать за детьми.",
+		"eng_sentence": "Amazing as it may seem, she sacrificed a promising career to look after the kids.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 88,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Прожив с ним около недели, она осознала, как трудно с ним было ладить.",
+		"eng_sentence": "Having lived with him for about a week, she realized how difficult he was to get on with.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 89,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Тебе нужно научиться смотреть вперед, если ты действительно полон решимости преуспеть в этом или в том.",
+		"eng_sentence": "You need to learn to look ahead if you are really determined to succeed in this or that.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 90,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Что касается одного из моих друзей, ему нравится просыпаться на рассвете.",
+		"eng_sentence": "As far as one of my friends is concerned, he likes waking up at dawn.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 91,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Я сказал, что те слова были совершенно новыми для меня, и я никогда не сталкивался с ними.",
+		"eng_sentence": "I said that those words were completely new to me and I had never come across them.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 92,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Само собой разумеется, что не всегда так легко ладить с нашими соседями.",
+		"eng_sentence": "It goes without saying that it isn't always that easy to get on with our neighbours.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 93,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Оглядываясь на своё прошлое, я прихожу к выводу, что было сделано так много ошибок.",
+		"eng_sentence": "Looking back on my past, I come to the conclusion that so many mistakes were made.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 94,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Его внезапно охватило очень сильное чувство гнева.",
+		"eng_sentence": "A very strong feeling of anger took over him suddenly.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 95,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "У неё всегда было отвращение вставать так рано.",
+		"eng_sentence": "She has always had an aversion to getting up so early.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 96,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Был сформирован специальный комитет для рассмотрения той проблемы.",
+		"eng_sentence": "A special committee was formed to look into that problem.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 97,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Тебе не нужно записывать буквально каждое слово, которое она говорит.",
+		"eng_sentence": "You don't need to write down every single word she says.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 98,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Он попытался заглянуть вперёд и понять, что же он собирается делать в этой компании.",
+		"eng_sentence": "He tried to look ahead and understand what on earth he was going to do in this company.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 99,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Действительно трудно гнаться за последними тенденциями моды всё время.",
+		"eng_sentence": "It's really hard to keep up with the latest fashions all the time.",
 		"lesson": "259",
 		"difficulty": ""
 	},
 	{	
 		"id": 100,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "259",
-		"difficulty": ""
-	},
-	{	
-		"id": 101,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "259",
-		"difficulty": ""
-	},
-	{	
-		"id": 102,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "259",
-		"difficulty": ""
-	},
-	{	
-		"id": 103,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "259",
-		"difficulty": ""
-	},
-	{	
-		"id": 104,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "259",
-		"difficulty": ""
-	},
-	{	
-		"id": 105,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "259",
-		"difficulty": ""
-	},
-	{	
-		"id": 106,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "259",
-		"difficulty": ""
-	},
-	{	
-		"id": 107,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "259",
-		"difficulty": ""
-	},
-	{	
-		"id": 108,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "259",
-		"difficulty": ""
-	},
-	{	
-		"id": 109,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
-		"lesson": "259",
-		"difficulty": ""
-	},
-	{	
-		"id": 110,
-		"rus_sentence": ".",
-		"eng_sentence": ".",
+		"rus_sentence": "Полиция расследует это преступление последние две недели.",
+		"eng_sentence": "The police have been looking into this crime for the last two weeks.",
 		"lesson": "259",
 		"difficulty": ""
 	}
