@@ -289,7 +289,7 @@
 	{	
 		"id": 42,
 		"rus_sentence": "Ты можешь встать здесь.",
-		"eng_sentence": "You can stand here",
+		"eng_sentence": "You can stand here.",
 		"lesson": "24",
 		"difficulty": ""
 	},
@@ -450,7 +450,7 @@
 	{	
 		"id": 65,
 		"rus_sentence": "В какое время он встаёт?",
-		"eng_sentence": "What time does he gets up?",
+		"eng_sentence": "What time does he get up?",
 		"lesson": "24",
 		"difficulty": ""
 	},

@@ -274,7 +274,7 @@
 	},
 	{	
 		"id": 40,
-		"rus_sentence": "Он был воспитан совей мамой.",
+		"rus_sentence": "Он был воспитан своей мамой.",
 		"eng_sentence": "He was brought up by his mother.",
 		"lesson": "259",
 		"difficulty": ""
@@ -477,7 +477,7 @@
 	},
 	{	
 		"id": 69,
-		"rus_sentence": "Становилось темнее, я мы решили вернуться домой.",
+		"rus_sentence": "Становилось темнее, и мы решили вернуться домой.",
 		"eng_sentence": "It was getting darker so we decided to come back home.",
 		"lesson": "259",
 		"difficulty": ""
