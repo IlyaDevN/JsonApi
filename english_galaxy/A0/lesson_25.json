@@ -1,0 +1,751 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Он придёт к нам скоро.",
+		"eng_sentence": "He will come to us soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Мы поговорим об этом скоро.",
+		"eng_sentence": "We will talk about it soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я помогу тебе.",
+		"eng_sentence": "I will help you.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Она пойдёт туда с нами.",
+		"eng_sentence": "She will go there with us.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я поеду в Англию в следующем году.",
+		"eng_sentence": "I will go to England next year.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я буду работать над этими ошибками.",
+		"eng_sentence": "I will work on these mistakes.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Я перезвоню тебе.",
+		"eng_sentence": "I will call you back.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Я помогу тебе с большим удовольствием.",
+		"eng_sentence": "I will help you with great pleasure.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Он придёт к нам скоро.",
+		"eng_sentence": "He will come to us soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Наш учитель проверит эту работу скоро.",
+		"eng_sentence": "Our teacher will check this work soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я получу те деньги скоро.",
+		"eng_sentence": "I'll get that money soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я помогу тебе.",
+		"eng_sentence": "I'll help you.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Она будет преподавать английский.",
+		"eng_sentence": "She'll teach English.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Это произойдёт скоро.",
+		"eng_sentence": "It'll happen soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Мы посетим это место скоро.",
+		"eng_sentence": "We'll visit this place soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я поеду в Соединённые штаты в следующем году.",
+		"eng_sentence": "I'll go to the United States next year.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Он пойдет туда с нами.",
+		"eng_sentence": "He'll go there with us.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я пошлю ей письмо.",
+		"eng_sentence": "I'll send her a letter.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я проверю всё.",
+		"eng_sentence": "I'll check everything.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Они построят дом.",
+		"eng_sentence": "They'll build a house.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я буду работать над этими ошибками.",
+		"eng_sentence": "I'll work on these mistakes.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Мы поговорим об этом скоро.",
+		"eng_sentence": "We'll talk about it soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я хочу сказать тебе, что я перезвоню тебе позже.",
+		"eng_sentence": "I want to tell you that I'll call you back later.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Мы увидим это скоро.",
+		"eng_sentence": "We'll see it soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это скоро будет стоить больше.",
+		"eng_sentence": "It'll cost more soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я прочитаю эту книгу.",
+		"eng_sentence": "I'll read this book.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Этот проект принесёт им меньше денег.",
+		"eng_sentence": "This project will bring them less money.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Мы всё обсудим.",
+		"eng_sentence": "We'll discuss everything.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Это принесёт ему больше денег.",
+		"eng_sentence": "It'll bring him more money.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я постараюсь сделать это сегодня.",
+		"eng_sentence": "I'll try to do it today.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Ему понравится эта идея.",
+		"eng_sentence": "He'll like this idea.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я поеду в Испанию в следующем месяце.",
+		"eng_sentence": "I'll go to Spain next month.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я посмотрю тот фильм.",
+		"eng_sentence": "I'll watch that movie.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Ей понравится то предложение.",
+		"eng_sentence": "She'll like that offer.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Это будет лучше.",
+		"eng_sentence": "It'll be better.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я скажу ему эту вещь.",
+		"eng_sentence": "I'll tell him this thing.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Она посетит другие города в этом году.",
+		"eng_sentence": ".",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Это будет лучшее решение.",
+		"eng_sentence": "It'll be the best decision.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Он будет работать над теми ошибками.",
+		"eng_sentence": "He'll work on those mistakes.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Он придёт сюда завтра.",
+		"eng_sentence": "He'll come here tomorrow.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я сделаю это завтра.",
+		"eng_sentence": "I'll do it tomorrow.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Тебе понравится та еда.",
+		"eng_sentence": "You'll like that food.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я пришлю тебе электронное письмо.",
+		"eng_sentence": "I'll send you an email.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Ты скоро узнаешь это.",
+		"eng_sentence": "You'll know it soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я также посещу эти страны.",
+		"eng_sentence": "I'll also visit these countries.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Она останется дома.",
+		"eng_sentence": "She'll stay at home.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Тебе понравится эта идея.",
+		"eng_sentence": "You'll like this idea.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я куплю другой билет.",
+		"eng_sentence": "I'll buy another ticket.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Он заплатит за всё.",
+		"eng_sentence": "He'll pay for everything.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я буду ждать этого.",
+		"eng_sentence": "I'll wait for it.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я прослушаю эту программу.",
+		"eng_sentence": "I'll listen to this program.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я постараюсь тратить меньше денег на это.",
+		"eng_sentence": "I'll try to spend less money on it.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я перезвоню тебе скоро.",
+		"eng_sentence": "I'll call you back soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я постараюсь сделать это.",
+		"eng_sentence": "I'll try to do it.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я думаю, я увижу его сегодня.",
+		"eng_sentence": "I think I'll see him today.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я заплачу за это.",
+		"eng_sentence": "I'll pay for it.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я прослушаю этот подкаст.",
+		"eng_sentence": "I'll listen to this podcast.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я думаю, я пойму это скоро.",
+		"eng_sentence": "I think I'll understand it soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я выпью немного кофе.",
+		"eng_sentence": "I'll drink some coffee.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я думаю, я последую его рекомендации.",
+		"eng_sentence": "I think I'll follow his recommendation.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я помогу тебе с огромным удовольствием.",
+		"eng_sentence": "I'll help you with great pleasure.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я думаю, я последую этому совету.",
+		"eng_sentence": "I think, I'll follow this advice.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Я послушаю эту песню.",
+		"eng_sentence": "I'll listen to this song.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я перезвоню тебе позже .",
+		"eng_sentence": "I'll call you back later.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я перезвоню ему скоро.",
+		"eng_sentence": "I'll call him back soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Он перезвонит мне завтра.",
+		"eng_sentence": "He'll call me back tomorrow.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я последую твоей рекомендации.",
+		"eng_sentence": "I'll follow your recommendation.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я последую твоему совету.",
+		"eng_sentence": "I'll follow your advice.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Она последует моим рекомендациям.",
+		"eng_sentence": ".",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Она пойдет в этот музей.",
+		"eng_sentence": "She'll go to this museum.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Он пойдет в тот музей.",
+		"eng_sentence": "He'll go to that museum.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Они посетят этот музей.",
+		"eng_sentence": "They'll visit this museum.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Я заплачу за тебя.",
+		"eng_sentence": "I'll pay for you.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Она заплатит за меня.",
+		"eng_sentence": "She'll pay for me.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я заплачу за это в следующий раз.",
+		"eng_sentence": "I'll pay for it next time.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я съем один бутерброд на завтра.",
+		"eng_sentence": "I'll eat one sandwich for breakfast.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Она съест два яйца на завтрак.",
+		"eng_sentence": "She'll eat two eggs for breakfast.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Он съест несколько бутербродов на обед.",
+		"eng_sentence": "He'll eat some sandwiches for lunch.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Мы дадим ему подарок.",
+		"eng_sentence": "We'll give him a present.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я дам ему этот подарок.",
+		"eng_sentence": "I'll give him this present.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Они дадут ему некоторые подарки.",
+		"eng_sentence": "They'll give him some presents.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я съем это на завтрак.",
+		"eng_sentence": "I'll eat it for breakfast.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Я съем это на обед.",
+		"eng_sentence": "I'll eat it for lunch.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Она съест это на завтрак.",
+		"eng_sentence": "She'll eat it for breakfast.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Я постараюсь закончить это скоро.",
+		"eng_sentence": "I'll try to finish it soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Она постарается закончить это скоро.",
+		"eng_sentence": "She'll try to finish it soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Они постараются купить это скоро.",
+		"eng_sentence": "They'll try to buy it soon.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Они последуют моему совету.",
+		"eng_sentence": "They'll follow my advice.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Она последует твоей рекомендации.",
+		"eng_sentence": "She'll follow your recommendation.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Она съест этот торт на обед.",
+		"eng_sentence": "She'll eat this cake for lunch.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Она съедят эти торты на обед.",
+		"eng_sentence": "They'll eat these cakes for lunch.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я съем тот торт на завтрак.",
+		"eng_sentence": "I'll eat that cake for breakfast.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я выпью немного чая.",
+		"eng_sentence": "I'll drink some tea.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я думаю, я буду очень занят этой вещью.",
+		"eng_sentence": "I think I'll be very busy with this thing.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я выберу второй ответ.",
+		"eng_sentence": "I'll choose the second answer.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я поеду в Лондон на этой неделе.",
+		"eng_sentence": "I'll go to London this week.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Он будет преподавать другие предметы.",
+		"eng_sentence": "He'll teach other subjects.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я съем этот бутерброд.",
+		"eng_sentence": "I'll eat this sandwich.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я пойду в театр с ней.",
+		"eng_sentence": "I'll go to the cinema with her.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Я дам ей подарок.",
+		"eng_sentence": "I'll give her a present.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я выберу первый ответ.",
+		"eng_sentence": "I'll choose the first answer.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Я съем эту еду на ужин.",
+		"eng_sentence": "I'll eat this food for dinner.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Я выберу третий ответ.",
+		"eng_sentence": "I'll choose the third answer.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "Я сделаю это с большим удовольствием.",
+		"eng_sentence": "I'll do it with great pleasure.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": "Мы пойдем в кино вместе.",
+		"eng_sentence": "We'll go to the cinema together.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": "Она будет преподавать другой предмет в университете.",
+		"eng_sentence": "She'll teach another subject at university.",
+		"lesson": "25",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": "Я расскажу ей все.",
+		"eng_sentence": "I'll tell her everything.",
+		"lesson": "25",
+		"difficulty": ""
+	}
+]
