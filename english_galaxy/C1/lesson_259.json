@@ -9,7 +9,7 @@
 	{	
 		"id": 2,
 		"rus_sentence": "Он был воспитан в атмосфере роскоши, изобилия и богатства.",
-		"eng_sentence": "He was brought up in an atmosphere of luxury, abundance.",
+		"eng_sentence": "He was brought up in an atmosphere of luxury, abundance and wealth.",
 		"lesson": "259",
 		"difficulty": ""
 	},
@@ -44,7 +44,7 @@
 	{	
 		"id": 7,
 		"rus_sentence": "Если он продолжит так водить машину, это может однажды привести к очень трагической аварии.",
-		"eng_sentence": "If he carries on .",
+		"eng_sentence": "If he carries on driving like that, it can lead to a very tragic accident one day.",
 		"lesson": "259",
 		"difficulty": ""
 	},
