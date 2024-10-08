@@ -254,7 +254,7 @@
 	{	
 		"id": 37,
 		"rus_sentence": "Она посетит другие города в этом году.",
-		"eng_sentence": ".",
+		"eng_sentence": "She'll visit other cities this year.",
 		"lesson": "25",
 		"difficulty": ""
 	},
@@ -478,7 +478,7 @@
 	{	
 		"id": 69,
 		"rus_sentence": "Она последует моим рекомендациям.",
-		"eng_sentence": ".",
+		"eng_sentence": "She'll follow my recommendations.",
 		"lesson": "25",
 		"difficulty": ""
 	},
@@ -687,7 +687,7 @@
 	},
 	{	
 		"id": 99,
-		"rus_sentence": "Я пойду в театр с ней.",
+		"rus_sentence": "Я пойду в кино с ней.",
 		"eng_sentence": "I'll go to the cinema with her.",
 		"lesson": "25",
 		"difficulty": ""
