@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я не думаю, что цена упадет.",
+		"eng_sentence": "I don't think that the price will go down.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "К нашей великой радости, его первая работа оказалась настоящим шедевром.",
+		"eng_sentence": "To our great delight, his first work turned out (to be) a real masterpiece.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Во втором раунде он был сбит с ног своим соперником.",
+		"eng_sentence": "He was knocked down by his opponent in the second round.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Ты мог бы включить свет, пожалуйста?",
+		"eng_sentence": "Could you turn on the light, please?",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Её прервали на середине разговора.",
+		"eng_sentence": "She was cut off in the middle of the conversation.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Это всё сводится к одному и тому же.",
+		"eng_sentence": "It all adds up to the same thing.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Мне очень жаль, но скоро мне придётся лечь спать.",
+		"eng_sentence": "I'm sorry but I'll have to turn in soon.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Как оказалось, он стал банкротом.",
+		"eng_sentence": "As it turned out, he became bankrupt.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я только что включил компьютер, потому что мне нужно напечатать это письмо.",
+		"eng_sentence": "I've just turned on the computer because I need to type this letter.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Собака сбежала, как только он появился.",
+		"eng_sentence": "The dog ran off as soon as he appeared.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Ты мог бы выключить лампу, потому что она так ярко светит?",
+		"eng_sentence": "Could you turn off the lamp because it's shining so brightly?",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Он, кажется, не питает особых надежд на успех этого проекта.",
+		"eng_sentence": "He seems to hold out little hope for the success of this project.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Не впускайте никого!",
+		"eng_sentence": "Don't let anybody in!",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Цена нефти сильно упала в последнее время.",
+		"eng_sentence": "The price of oil has gone down greatly recently.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Ничего, если я сделаю музыку немного громче?",
+		"eng_sentence": "Is it okay if I turn up the music a bit?",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Не забудь это выключить перед отъездом!",
+		"eng_sentence": "Don't forget to switch it off before leaving!",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Цена внезапно поднялась.",
+		"eng_sentence": "The price went up suddenly.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Грабители ворвались в банк.",
+		"eng_sentence": "The robbers broke into the bank.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он протянул руку.",
+		"eng_sentence": "He held out his hand.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Всё шло хорошо, но потом мы столкнулись с несколькими проблемами.",
+		"eng_sentence": "Everything was going well but then we ran into a few problems.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я действительно надеюсь, что мы можем рассчитывать на твою помощь.",
+		"eng_sentence": "I really hope that we can count on your help.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Они были отрезаны от внешнего мира.",
+		"eng_sentence": "They were cut off from the outside world.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Его отец сбежал, когда он был маленьким ребёнком.",
+		"eng_sentence": "His father ran off when he was a little child.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Это может способствовать продвижению этого продукта.",
+		"eng_sentence": "It can add up to the promotion of this product.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Солнце только что взошло.",
+		"eng_sentence": "The sun has just come up.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Бомба взорвалась около полудня.",
+		"eng_sentence": "The bomb went off at around midday.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я всегда мог рассчитывать на поддержку моих друзей.",
+		"eng_sentence": "I have always been able to count on my friend's support.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Воры ворвались в дом и похитили сейф.",
+		"eng_sentence": "The thieves broke into the house and stoles the safe.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Его имя было исключено из списка.",
+		"eng_sentence": "His name was left out of the list.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Он не думает, что правда вскроется.",
+		"eng_sentence": "He doesn't think that the truth will come out.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Они упускают много вещей, которые действительно важны.",
+		"eng_sentence": "They leave out lots of things which really matter.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я всё проверил и выключил свет перед уходом.",
+		"eng_sentence": "I checked everything and turned off the light before leaving.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Они не хотели впускать новых посетителей.",
+		"eng_sentence": "They didn't want to let in new visitors.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Что касается меня, я иногда ложусь спать после полуночи.",
+		"eng_sentence": "As for me, I sometimes turn in after midnight.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Когда вышла её последняя книга?",
+		"eng_sentence": "When did her latest book come out?",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Недавно я столкнулся со своим старым другом.",
+		"eng_sentence": "I ran into an old friend of mine recently.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я включил компьютер, чтобы проверить свою электронную почту.",
+		"eng_sentence": "I switched on the computer to check my email.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Ты мог бы прибавить звук?",
+		"eng_sentence": "Could you turn up the sound?",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Мой будильник не зазвонил.",
+		"eng_sentence": "My alarm clock didn't go off.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Его сбила машина.",
+		"eng_sentence": "He was knocked down by a car.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Кто-то вломился в его дом и украл драгоценности и некоторые другие ценные вещи.",
+		"eng_sentence": "Someone broke into his house and stole the jewelry and some other precious things.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Некоторые эксперты считают, что это может способствовать успеху проекта.",
+		"eng_sentence": "Some experts believe that it can add up to the success of the project.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Как сообщалось, местные жители были отрезаны от внешнего мира.",
+		"eng_sentence": "As it was reported, the local people had been cut off from the outside world .",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я действительно рассчитываю на тебя, что ты поможешь мне в таких сложных обстоятельствах.",
+		"eng_sentence": "I really count on you to help me in such difficult circumstances.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я ожидаю, что цены будут продолжать расти и станут нелепо высокими.",
+		"eng_sentence": "I expect that the prices will carry on going up and become ridiculously high.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Продажи компании упали почти на половину.",
+		"eng_sentence": "The company's sales went down by almost a half.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Меня попросили выключить будильник, потому что шум был совершенно невыносим.",
+		"eng_sentence": "I was asked to turn off my alarm clock because the noise was absolutely unbearable.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я ожидаю добраться в то место до того, как солнце сядет.",
+		"eng_sentence": "I expect to get to that place before the sun goes down.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Он включила радио, чтобы послушать последние новости.",
+		"eng_sentence": "She turned on the radio to listen to the latest.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я столкнулся с одним из моих одноклассников, когда ехал на работу.",
+		"eng_sentence": "I ran into one of my classmates while I was commuting to work.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Вор пытался сбежать с украденными деньгами, но он был пойман полицией.",
+		"eng_sentence": "The thief tried tried to run off with the stolen money but he was caught by the police.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я предлагаю открыть окна, чтобы впустить немного свежего воздуха.",
+		"eng_sentence": "I suggest opening the windows to let in some fresh air.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я особо не питаю надежду найти лучшую работу в нынешней ситуации.",
+		"eng_sentence": "I don't hold out much hope of finding a better job in the current situation.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Насколько я могу видеть, это сводится к одному и тому же.",
+		"eng_sentence": "As far as I can see, it adds up to the same thing.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Он заметил на следующий день, что его имя было исключено из списка.",
+		"eng_sentence": "He noticed the next day that his name had been left out of the list.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "К счастью, бомба не взорвалась.",
+		"eng_sentence": "Luckily, the bomb didn't go off.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Бомба взорвалась в том здании.",
+		"eng_sentence": "The bomb went off in that building.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "К нашему удивлению, бомба не взорвалась.",
+		"eng_sentence": "To our surprise, the bomb didn't go off.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Её отец сбежал, когда она была совсем младенцем.",
+		"eng_sentence": "Her dad ran off when she was just a baby.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я не знаю, куда сбежала моя сестра.",
+		"eng_sentence": "I don't know where my sister ran off.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Если этот мужчина сбежит, полиция его поймает.",
+		"eng_sentence": "If this man runs off, the police will catch him.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Водоснабжение было остановлено на две недели.",
+		"eng_sentence": "The water supply was cut off for two weeks.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Мы были полностью отрезаны от цивилизации.",
+		"eng_sentence": "We were completely cut off from civilization.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Электричество в этом городе было отключено на пять дней.",
+		"eng_sentence": "The electricity in this town was cut off for five days.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Ты можешь рассчитывать на него, что он поможет тебе в любое время.",
+		"eng_sentence": "You can count on him to help you any time.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Я знал, что я мог на тебя рассчитывать.",
+		"eng_sentence": "I knew I could count on you.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Тебе бы лучше ни на что и ни на кого не рассчитывать.",
+		"eng_sentence": "You'd better not to count on anything or anyone.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Цена на еду растёт год за годом.",
+		"eng_sentence": "The price of food goes up year by year.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Спрос на эти товары рос день за днём во время эпидемии.",
+		"eng_sentence": "The demand for these goods went up day by day during the epidemic.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Цена неожиданно подросла.",
+		"eng_sentence": "The price went up unexpectedly.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Ты можешь угадать с кем я только что столкнулся?",
+		"eng_sentence": "Can uou guess who I've just run into?",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Я столкнулся со своим старым другом в том магазине.",
+		"eng_sentence": "I ran into my old friend in that shop.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Ты можешь столкнуться с ними на концерте.",
+		"eng_sentence": "You might run into them at the concert.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Он обычно ложится спать около полуночи.",
+		"eng_sentence": "He usually turns in at about midnight.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Мне давно пора ложиться спать, потому что уже очень поздно.",
+		"eng_sentence": "It's hight time I turned in because it's very late.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Во сколько ты обычно ложишься спать?",
+		"eng_sentence": "What time do you usually turn in?",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Ты не против, если я сильнее включу обогреватель.",
+		"eng_sentence": "Do you mind if I turn up the heater.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я бы хотел прибавить громкость радио, если ты не возражаешь.",
+		"eng_sentence": "I'd like to turn up the radio if you don't mind.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Он сильнее включил обогреватель, потому что в комнате было очень холодно.",
+		"eng_sentence": "He turned up the heater because it was so cold in the room.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Тебе нужно нажать эту кнопку, чтобы включить компьютер.",
+		"eng_sentence": "You need to push this button to turn on the computer.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Мы редко включаем вентилятор, потому что температура в комнате довольно комфортная.",
+		"eng_sentence": "We rarely turn on the fan because the temperature in the room is quite comfortable.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Он включил компьютер, как только добрался домой.",
+		"eng_sentence": "He turned on the computer as soon as he got home.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Книга выйдет на следующей неделе.",
+		"eng_sentence": "The book will come out next week.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я абсолютно уверен, что вся правда выйдет наружу.",
+		"eng_sentence": "I'm absolutely sure that all the truth will come out.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Её первая книга уже вышла.",
+		"eng_sentence": "Her first book has already come out.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я завел будильник прошлой ночью, но он почему то не зазвонил.",
+		"eng_sentence": "I set my alarm clock last night but id didn't go off for some reason.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Его попросили выключить мобильный телефон.",
+		"eng_sentence": "He was asked to switch off the mobile phone.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Оказалось, что всё было спланировано заранее.",
+		"eng_sentence": "It turned out that everything had been planned beforehand.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я просто хотел убедиться, что весь свет был выключен.",
+		"eng_sentence": "I just wanted to ensure that all the lights were switched off.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Он оказался в больнице после того, как был сбит машиной.",
+		"eng_sentence": "He ended up in hospital after being knocked down by a car.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я включил сильнее обогреватель, потому что было ужасно холодно.",
+		"eng_sentence": "I turned up the heater because it was absolutely freezing.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Врачи почти не питали надежды на её выздоровление.",
+		"eng_sentence": "The doctors held out little hope of her recovering.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Она не думала, что правда когда-нибудь выйдет наружу.",
+		"eng_sentence": "She didn't think that the truth would ever come out.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Оказалось, что она всё сделала нарочно.",
+		"eng_sentence": "It turned out that she had done everything on purpose.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я всегда стараюсь держать в уме, что мне нужно выключить газ, прежде чем выходить из дома.",
+		"eng_sentence": "I always try to keep in mind that I need to turn off the gas before leaving the house.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я полагаю, что мы можем исключить второе предложение.",
+		"eng_sentence": "I suppose we can leave out the second sentence.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Тебе давно пора ложиться спать, потому что уже очень поздно.",
+		"eng_sentence": "It's high time you turned in because it's very late.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Стакан упал на пол и разбился на куски.",
+		"eng_sentence": "The glass fell to the floor and broke into peaces.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я открыл шторы и впустил немного света.",
+		"eng_sentence": "I opened the curtains and let in some light.",
+		"lesson": "260",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Один из боксёров был сбит с ног во время боя.",
+		"eng_sentence": "One of the boxers was knocked down during the fight.",
+		"lesson": "260",
+		"difficulty": ""
+	}
+]
