@@ -191,7 +191,7 @@
 	{	
 		"id": 28,
 		"rus_sentence": "Воры ворвались в дом и похитили сейф.",
-		"eng_sentence": "The thieves broke into the house and stoles the safe.",
+		"eng_sentence": "The thieves broke into the house and stole the safe.",
 		"lesson": "260",
 		"difficulty": ""
 	},
@@ -337,8 +337,8 @@
 	},
 	{	
 		"id": 49,
-		"rus_sentence": "Он включила радио, чтобы послушать последние новости.",
-		"eng_sentence": "She turned on the radio to listen to the latest.",
+		"rus_sentence": "Она включила радио, чтобы послушать последние новости.",
+		"eng_sentence": "She turned on the radio to listen to the latest news.",
 		"lesson": "260",
 		"difficulty": ""
 	},
@@ -352,7 +352,7 @@
 	{	
 		"id": 51,
 		"rus_sentence": "Вор пытался сбежать с украденными деньгами, но он был пойман полицией.",
-		"eng_sentence": "The thief tried tried to run off with the stolen money but he was caught by the police.",
+		"eng_sentence": "The thief tried to run off with the stolen money but he was caught by the police.",
 		"lesson": "260",
 		"difficulty": ""
 	},
@@ -492,7 +492,7 @@
 	{	
 		"id": 71,
 		"rus_sentence": "Ты можешь угадать с кем я только что столкнулся?",
-		"eng_sentence": "Can uou guess who I've just run into?",
+		"eng_sentence": "Can you guess who I've just run into?",
 		"lesson": "260",
 		"difficulty": ""
 	},
@@ -533,8 +533,8 @@
 	},
 	{	
 		"id": 77,
-		"rus_sentence": "Ты не против, если я сильнее включу обогреватель.",
-		"eng_sentence": "Do you mind if I turn up the heater.",
+		"rus_sentence": "Ты не против, если я сильнее включу обогреватель?",
+		"eng_sentence": "Do you mind if I turn up the heater?",
 		"lesson": "260",
 		"difficulty": ""
 	},
