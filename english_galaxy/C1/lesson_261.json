@@ -1,0 +1,772 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Она собрала всю информацию воедино и поняла, что он имел в виду.",
+		"eng_sentence": "She pieced all the information together and understood what he really meant.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Не выбрасывай это, потому что это может дважды пригодиться.",
+		"eng_sentence": "Don't throw it away because it might come in handy one day.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Мне бы не хотелось с ним ссориться.",
+		"eng_sentence": "I wouldn't like to fall out with him.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Кто-то ворвался и украл драгоценности на сумму более двухсот тысяч долларов.",
+		"eng_sentence": "Someone broke in and stole more than two hundred thousand dollars of jewelry.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Мне очень жаль слышать, что твой дядя скончался вчера.",
+		"eng_sentence": "I'm sorry to hear that your uncle passed away yesterday.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Берегись автомобилей, когда переходишь дорогу!",
+		"eng_sentence": "Look out for cars when crossing the road!",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Он раздавал значительные суммы денег на благотворительность.",
+		"eng_sentence": "He gave away substantial sums of money to charity.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Я не думаю, что он сможет вернуть всю сумму сейчас.",
+		"eng_sentence": "I don't think that he'll be able to pay back all the sum now.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "В конце концов, он появился на вечеринке.",
+		"eng_sentence": "He turned up at the party eventually.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Я часто путаю эти слова.",
+		"eng_sentence": "I often mix up these words.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "В конце концов, он нашёл в себе мужество пригласить её на свидание.",
+		"eng_sentence": "He found the courage to ask her out in the end.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "К моему удивлению, они часто ссорятся.",
+		"eng_sentence": "To my surprise, they often fall out.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Тебе нужно немного успокоиться, потому что не необходимости беспокоиться.",
+		"eng_sentence": "You need to calm down a bit because there is no need to worry.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Пожалуйста, будь осторожен, потому что подъезжает автобус.",
+		"eng_sentence": "Please, watch out because there is a bus coming.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Он скончался в прошлом году.",
+		"eng_sentence": "He passed away last year.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Она повесила на стену свой любимый плакат.",
+		"eng_sentence": "She put up her favorite poster on the wall.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Тебе нужно немного взбодриться.",
+		"eng_sentence": "You need to cheer up a bit.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Он решил немного поднять цену.",
+		"eng_sentence": "He decided to put up the price a bit.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Когда он сможет вернуть все эти деньги?",
+		"eng_sentence": "When will he be able to pay back all this money?",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Кто-то вломился прошлой ночью и украл его ноутбук.",
+		"eng_sentence": "Someone broke in last night and stole his laptop.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "В конце концов они подняли цену.",
+		"eng_sentence": "They put up the price in the end.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Взбодрись!",
+		"eng_sentence": "Cheer up!",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Пожалуйста, будь осторожен, потому что там может быть подъезжающая машина.",
+		"eng_sentence": "Please look out because there can be a car coming.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Твой велосипед может быть украден, если ты не будешь осторожен.",
+		"eng_sentence": "Your bike can be stolen if you don't watch out.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Мне удалось собрать воедино всю правду.",
+		"eng_sentence": "I managed to piece together the whole truth.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я наткнулся на новое выражение в этом тексте.",
+		"eng_sentence": "I came across a new expression in this text.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Если ничего не изменится, эта фирма скоро пойдет ко дну.",
+		"eng_sentence": "If nothing changes, this firm will go under soon.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Вмешалась полиция и ситуация успокоилась.",
+		"eng_sentence": "The police intervened and the situation calmed down.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Он кажется очень честным и искренним человеком.",
+		"eng_sentence": "He comes across a very honest and sincere person.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Он выбросил её старую одежду.",
+		"eng_sentence": "He threw away her old clothes.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Его бизнес идёт ко дну.",
+		"eng_sentence": "His business is going under.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Надеюсь она оправится от этого скоро.",
+		"eng_sentence": "I hope she'll get over it soon.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Он решил пригласить её на свидание.",
+		"eng_sentence": "He decided to ask her out.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Он раздал свои старые игрушки.",
+		"eng_sentence": "He gave his old toys away.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Следи за такого рода ошибками, когда говоришь по-английски!",
+		"eng_sentence": "Look out for these kind of mistakes when speaking English!",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я всегда это путаю.",
+		"eng_sentence": "I always mix it up.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Он встал и выглянул в окно.",
+		"eng_sentence": "He stood up and looked out of the window.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Он повесил на стену несколько своих любимых плакатов.",
+		"eng_sentence": "He put up some of his favorite posters on the wall.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Они договорились встретиться в семь, но она не появилась.",
+		"eng_sentence": "They arranged to meet at seven but she didn't turn up.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Мне удалось преодолеть все эти трудности.",
+		"eng_sentence": "I managed to get over all these difficulties.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Они не могли сильно поднять цены, потому что они боялись потерять своих покупателей.",
+		"eng_sentence": "They couldn't put up the prices greatly because they were afraid of loosing their customers.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Они прекрасно осознавали факт, что им понадобятся годы, чтобы вернуть кредит.",
+		"eng_sentence": "They were perfectly aware of the fact that it would take them years to pay back the loan.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это до сих пор загадка, как воры сумели вломиться и украсть спрятанные деньги.",
+		"eng_sentence": "It's still a mystery how the thieves managed to break in and steal the hidden money.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Не выбрасывай хорошие вещи, которые тебе действительно не нужны, потому что их можно отдать нуждающимся.",
+		"eng_sentence": "Don't throw away good things which you don't really need because they can be given away to the needy.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Он мог бы успокоиться гораздо раньше, потому что на самом деле беспокоиться было не о чем.",
+		"eng_sentence": "He could have calmed down much earlier because there was nothing to worry about in reality.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Все были удивлены услышать, что он появился незадолго до конца вечеринки.",
+		"eng_sentence": "Everyone was surprised to hear that he had turned up just before the end of the party.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "То что они говорят, часто кажется немного резким.",
+		"eng_sentence": "What they say often comes across as a little harsh.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Этот парень действительно хочет пригласить её на свидание, но он не знает, что делать со своей застенчивостью.",
+		"eng_sentence": "This guy really wants to ask her out but he doesn't know what to do with his shyness.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Когда она выглянула в окно, она увидела его, переходящего дорогу.",
+		"eng_sentence": "When she looked out of the window, she saw him crossing the road.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Остережение карманников может помочь тебе избежать множества неприятностей.",
+		"eng_sentence": "Looking out for pickpockets can help you avoid having lots of trouble.",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 108,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 109,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	},
+	{	
+		"id": 110,
+		"rus_sentence": ".",
+		"eng_sentence": ".",
+		"lesson": "261",
+		"difficulty": ""
+	}
+]
