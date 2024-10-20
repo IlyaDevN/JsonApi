@@ -8,7 +8,7 @@
 	},
 	{	
 		"id": 2,
-		"rus_sentence": "Не выбрасывай это, потому что это может дважды пригодиться.",
+		"rus_sentence": "Не выбрасывай это, потому что это может однажды пригодиться.",
 		"eng_sentence": "Don't throw it away because it might come in handy one day.",
 		"lesson": "261",
 		"difficulty": ""
@@ -85,7 +85,7 @@
 	},
 	{	
 		"id": 13,
-		"rus_sentence": "Тебе нужно немного успокоиться, потому что не необходимости беспокоиться.",
+		"rus_sentence": "Тебе нужно немного успокоиться, потому что нет необходимости беспокоиться.",
 		"eng_sentence": "You need to calm down a bit because there is no need to worry.",
 		"lesson": "261",
 		"difficulty": ""
@@ -198,7 +198,7 @@
 	{	
 		"id": 29,
 		"rus_sentence": "Он кажется очень честным и искренним человеком.",
-		"eng_sentence": "He comes across a very honest and sincere person.",
+		"eng_sentence": "He comes across as a very honest and sincere person.",
 		"lesson": "261",
 		"difficulty": ""
 	},
@@ -660,7 +660,7 @@
 	{	
 		"id": 95,
 		"rus_sentence": "Как сообщалось, воры вломились через кухонное окно.",
-		"eng_sentence": "As is was reported, the thieves had broken in through the kitchen window.",
+		"eng_sentence": "As it was reported, the thieves had broken in through the kitchen window.",
 		"lesson": "261",
 		"difficulty": ""
 	},
