@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Он приедет к нам?",
+		"eng_sentence": "Will he come to us?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Он будет изучать английский онлайн?",
+		"eng_sentence": "Will he learn English online?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Они присоединятся к нам?",
+		"eng_sentence": "Will they join us?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Ты пойдёшь за покупками сейчас?",
+		"eng_sentence": "Will you go shopping now?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Ты пойдешь в отпуск в этом месяце?",
+		"eng_sentence": "Will you go on holiday this month?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он будет смеяться над ней?",
+		"eng_sentence": "Will he laugh at her?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Ты прибудешь в Россию на следующей неделе?",
+		"eng_sentence": "Will you arrive in Russia next week?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Мы будем играть в волейбол?",
+		"eng_sentence": "Will we paly volleyball?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я увижу свой прогресс?",
+		"eng_sentence": "Will I see my progress?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Ты будешь изучать английский здесь?",
+		"eng_sentence": "Will you learn English here?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Ты будешь свободен сегодня вечером?",
+		"eng_sentence": "Will you be free tonight?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Он будет изучать английский онлайн?",
+		"eng_sentence": "Will he learn English online?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Это поможет мне?",
+		"eng_sentence": "Will it help me?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Он придёт к нам?",
+		"eng_sentence": "Will he come to us?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Это будет полезно для нас?",
+		"eng_sentence": "Will it be useful for us?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Твои родители будут там?",
+		"eng_sentence": "Will you parents be there?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Это действительно поможет мне?",
+		"eng_sentence": "Will it really help me?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Это будет очень популярно?",
+		"eng_sentence": "Will it be very popular?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "У меня будут лучше результаты?",
+		"eng_sentence": "Will I have better results?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Они присоединятся к нам?",
+		"eng_sentence": "Will they join us?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Она скоро к нам присоединится?",
+		"eng_sentence": "Will she join us soon?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Он будет не согласен?",
+		"eng_sentence": "Will he disagree?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Ты пойдешь за покупками сейчас?",
+		"eng_sentence": "Will you go shopping now?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Они скоро приедут?",
+		"eng_sentence": "Will they arrive soon?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это будет очень смешно?",
+		"eng_sentence": "Will it be very funny?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Ты будешь смотреть этот матч?",
+		"eng_sentence": "Will you watch this match?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Ты будешь есть сейчас?",
+		"eng_sentence": "Will you eat now?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Мы встретимся сегодня?",
+		"eng_sentence": "Will we meet today?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Он будет жить в этом доме?",
+		"eng_sentence": "Will he live in this house?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Ты купишь машину?",
+		"eng_sentence": "Will you buy a car?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Это будет полезно?",
+		"eng_sentence": "Will it be useful?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Вы придёте туда рано?",
+		"eng_sentence": "Will you come there early?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Ты будешь говорить по-английски?",
+		"eng_sentence": "Will you speak English?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Он купит дом?",
+		"eng_sentence": "Will he buy a house?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Ты пойдешь в отпуск в этом месяце?",
+		"eng_sentence": "Will you go on holiday this month?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я буду говорить по-английски без ошибок?",
+		"eng_sentence": "Will I speak English without mistakes?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Мы будем играть в баскетбол?",
+		"eng_sentence": "Will we play basketball?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Это будет легко?",
+		"eng_sentence": "Will it be easy?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Он скоро прибудет?",
+		"eng_sentence": "Will he arrive soon?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Ты скоро будешь готов?",
+		"eng_sentence": "Will you be ready soon?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это будет легко для тебя?",
+		"eng_sentence": "Will it be easy for you?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Ты посмотришь этот новый фильм?",
+		"eng_sentence": "Will you watch this new movie?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "У меня будут хорошие результаты?",
+		"eng_sentence": "Will I have good results?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Мои результаты скоро будут лучше?",
+		"eng_sentence": "Will my results be better soon?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Это будет дороже?",
+		"eng_sentence": "Will it be more expensive?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Это будет бесплатно?",
+		"eng_sentence": "Will it be free?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Он поедет в отпуск этим летом?",
+		"eng_sentence": "Will he go on holiday this summer?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Ты решишь эту проблему?",
+		"eng_sentence": "Will you solve this problem?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Это действительно поможет нам?",
+		"eng_sentence": "Will it really help us?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Это будет слишком сложно для них?",
+		"eng_sentence": "Will it be too difficult for them?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Мы будем плавать в океане сегодня?",
+		"eng_sentence": "Will we swim in the ocean today?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Ты будешь очень занят сегодня вечером?",
+		"eng_sentence": "Will you be very busy tonight?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Это будет удобно для тебя?",
+		"eng_sentence": "Will it be convenient gor you?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Они будут смеяться над этим?",
+		"eng_sentence": "Will they laugh at it?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Ты будешь учиться намного усерднее?",
+		"eng_sentence": "Will you study much harder?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Ты пойдешь на море сейчас?",
+		"eng_sentence": "Will you go to the sea now?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Ты будешь тренироваться намного усерднее?",
+		"eng_sentence": "Will you train much harder?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Мы будем арендовать эту машину?",
+		"eng_sentence": "Will we rent this car?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Ты будешь свободен завтра?",
+		"eng_sentence": "Will you be free tomorrow?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Мой английский будет лучше?",
+		"eng_sentence": "Will my English be better?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Ты будешь арендовать машину?",
+		"eng_sentence": "Will you rent a car?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Это будет необходимо?",
+		"eng_sentence": "Will it be necessary?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Это будет необходимо сделать?",
+		"eng_sentence": "Will it be necessary to do it?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Это необходимо будет покупать?",
+		"eng_sentence": "Will it be necessary to buy it?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Это будет действительно мотивировать тебя?",
+		"eng_sentence": "Will it really motivate you?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Это будет действительно мотивировать его?",
+		"eng_sentence": "Will it really motivate him?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Он будет действительно мотивировать тебя?",
+		"eng_sentence": "Will he really motivate you?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Он будет смеяться над ней?",
+		"eng_sentence": "Will he laugh at her?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он посмотрит на неё?",
+		"eng_sentence": "Will he look at her?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Ты будешь снимать эту квартиру?",
+		"eng_sentence": "Will you rent this apartment?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Ты будешь снимать ту квартиру?",
+		"eng_sentence": "Will you rent that apartment?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Это будет правильный ответ?",
+		"eng_sentence": "Will it be the right answer?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Это будет лучшее решение?",
+		"eng_sentence": "Will it be the best decision?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Ты будешь заниматься усерднее?",
+		"eng_sentence": "Will you study harder?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Ты будешь учиться очень усердно?",
+		"eng_sentence": "Will you study very hard?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Ты будешь учиться действительно усердно?",
+		"eng_sentence": "Will you study really hard?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Мой уровень будет выше скоро?",
+		"eng_sentence": "Will my level be higher soon?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Мой английский будет намного лучше скоро?",
+		"eng_sentence": "Will my English be much better soon?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Это будет удобно для него?",
+		"eng_sentence": "Will it be convenient for him?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Это будет удобно для неё?",
+		"eng_sentence": "Will it be convenient for her?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Это принесёт нам очень большие деньги?",
+		"eng_sentence": "Will it bring us very big money?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Это принесёт мне очень большие деньги?",
+		"eng_sentence": "Will it bring me very big money?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Это принесёт тебе больше денег?",
+		"eng_sentence": "Will it bring you more money?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Это будет дешевле?",
+		"eng_sentence": "Will it be cheaper?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Это будет труднее?",
+		"eng_sentence": "Will it be harder?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Ты будешь тренироваться гораздо интенсивнее?",
+		"eng_sentence": "Will you train much more intensively?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Ты прибудешь в Украину на следующей неделе?",
+		"eng_sentence": "Will you arrive in Ukraine next week?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Мой английский станет лучше?",
+		"eng_sentence": "Will my English become better?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Это будет правильно?",
+		"eng_sentence": "Will it be right?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Это будет правильно?",
+		"eng_sentence": "Will it be correct?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Ты будешь говорить только по-английски?",
+		"eng_sentence": "Will you speak only English?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Ты пойдешь туда или нет?",
+		"eng_sentence": "Will you go there or not?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Мы поедем к океану?",
+		"eng_sentence": "Will we go to the ocean?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Ты купишь это или нет?",
+		"eng_sentence": "Will you buy it or not?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Ты будешь арендовать квартиру?",
+		"eng_sentence": "Will you rent an apartment?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Она будет смеяться над этими вещами?",
+		"eng_sentence": "Will she laugh at these things?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Ты останешься в этом отеле?",
+		"eng_sentence": "Will you stay in this hotel?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Ты решишь эту проблему?",
+		"eng_sentence": "Will you solve this problem?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Это будет правильный ответ?",
+		"eng_sentence": "Will it be the correct answer?",
+		"lesson": "27",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Это время будет удобным для тебя?",
+		"eng_sentence": "Will this time be convenient for you?",
+		"lesson": "27",
+		"difficulty": ""
+	}
+]
