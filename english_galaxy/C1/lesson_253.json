@@ -471,7 +471,7 @@
 	{	
 		"id": 68,
 		"rus_sentence": "Я не могу разобраться, как это работает.",
-		"eng_sentence": "I can work out how it functions.",
+		"eng_sentence": "I can't work out how it functions.",
 		"lesson": "253",
 		"difficulty": ""
 	},
@@ -674,7 +674,7 @@
 	{	
 		"id": 97,
 		"rus_sentence": "Я знаю, что у нас заканчивается время, так что давай просто быстро пробежимся по основным пунктам.",
-		"eng_sentence": "I know that we are running out of time so let's just run though the main points quickly.",
+		"eng_sentence": "I know that we are running out of time so let's just run through the main points quickly.",
 		"lesson": "253",
 		"difficulty": ""
 	},
