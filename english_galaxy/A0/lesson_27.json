@@ -51,7 +51,7 @@
 	{	
 		"id": 8,
 		"rus_sentence": "Мы будем играть в волейбол?",
-		"eng_sentence": "Will we paly volleyball?",
+		"eng_sentence": "Will we play volleyball?",
 		"lesson": "27",
 		"difficulty": ""
 	},
@@ -366,7 +366,7 @@
 	{	
 		"id": 53,
 		"rus_sentence": "Это будет удобно для тебя?",
-		"eng_sentence": "Will it be convenient gor you?",
+		"eng_sentence": "Will it be convenient for you?",
 		"lesson": "27",
 		"difficulty": ""
 	},
