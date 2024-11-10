@@ -1,0 +1,723 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я приду туда вовремя.",
+		"eng_sentence": "I will come there on time.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Ты будешь готовиться к этому экзамену?",
+		"eng_sentence": "Will you prepare for this exam?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Когда ты пойдёшь гулять?",
+		"eng_sentence": "When will you go for a walk?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Ты сделаешь это ещё раз?",
+		"eng_sentence": "Will you do it one more time?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Мы пойдем на пикник.",
+		"eng_sentence": "We'll go on a picnic.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Когда ты вернёшься?",
+		"eng_sentence": "When will you come back?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Я приду вовремя.",
+		"eng_sentence": "I'll come on time.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Будешь ли ты учиться в этом университете?",
+		"eng_sentence": "Will you study at this university?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Эти вещи будут дороже.",
+		"eng_sentence": "These things will be more expensive.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Я думаю, он победит.",
+		"eng_sentence": "I think he'll win.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Как это поможет мне?",
+		"eng_sentence": "How will it help me?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Ты позвонишь ей?",
+		"eng_sentence": "Will you call her?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Это не удивит его.",
+		"eng_sentence": "It won't surprise him.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я позвоню ей сегодня вечером.",
+		"eng_sentence": "I'll call her tonight.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Они будут танцевать вместе?",
+		"eng_sentence": "Will they dance together?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Он купит машину в этом году.",
+		"eng_sentence": "He'll buy a car this year.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Ты придёшь туда вовремя?",
+		"eng_sentence": "Will you come there on time?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я вернусь скоро.",
+		"eng_sentence": "I'll be back soon.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Когда он вернётся?",
+		"eng_sentence": "When will he be back?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Ей понравится это?",
+		"eng_sentence": "Will she like it?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Эта вещь не удивит её.",
+		"eng_sentence": "This thing won't surprise her.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я скоро вернусь.",
+		"eng_sentence": "I'll come back soon.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Ты будешь жить за границей?",
+		"eng_sentence": "Will you live abroad?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Кто тебе поможет?",
+		"eng_sentence": "Who will help you?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это будет проблемой для него?",
+		"eng_sentence": "Will it be a problem for him?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я сделаю другое упражнение.",
+		"eng_sentence": "I'll do another exercise.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Он не будет делать эти упражнения.",
+		"eng_sentence": "He won't do these exercises.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Когда ты вернёшься?",
+		"eng_sentence": "When will you come back?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Она будет учиться в этом месте?",
+		"eng_sentence": "Will she study in this place?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Это не будет менее дорого.",
+		"eng_sentence": "It won't be less expensive.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Это действительно удивит её?",
+		"eng_sentence": "Will it really surprise her?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Ему действительно понравится это?",
+		"eng_sentence": "Will he really like it?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Это будет менее дорого?",
+		"eng_sentence": "Will it be less expensive",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Я не буду звонить ей.",
+		"eng_sentence": "I won't call her.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Это будет намного дешевле?",
+		"eng_sentence": "Will it be much cheaper?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Это будет намного дороже?",
+		"eng_sentence": "Will it be much more expensive?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Ты будешь делать другие упражнения?",
+		"eng_sentence": "Will you do other exercises?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Я думаю, она с тобой согласится.",
+		"eng_sentence": "I think she'll agree with you.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я думаю, мы не узнаем этого.",
+		"eng_sentence": "I think we won't know it.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Мы не встретимся завтра.",
+		"eng_sentence": "We won't meet tomorrow.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Ты будешь тренироваться каждый день?",
+		"eng_sentence": "Will you train every day?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Эта вещь не будет дешевле.",
+		"eng_sentence": "This thing won't be cheaper.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Ты будешь дома завтра?",
+		"eng_sentence": "Will you be at home tomorrow?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я вернусь домой позже.",
+		"eng_sentence": "I'll return home later.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Это удивит его?",
+		"eng_sentence": "Will it surprise him?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Я сделаю это ещё один раз.",
+		"eng_sentence": "I'll do it one more time.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Ты пойдёшь гулять с нами?",
+		"eng_sentence": "Will you go for a walk with us?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я посмотрю на это фото.",
+		"eng_sentence": "I'll look at this photo.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Ты будешь готовиться к этому экзамену?",
+		"eng_sentence": "Will you prepare for this exam?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Когда ты пойдёшь гулять?",
+		"eng_sentence": "When will you go for a walk?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Ты сделаешь это ещё раз?",
+		"eng_sentence": "Will you do it one more time?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Это будет менее эффективно.",
+		"eng_sentence": "It'll be less effective.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Он одолжит ей немного денег.",
+		"eng_sentence": "He'll lend her some money.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Он пойдёт с тобой в зоопарк?",
+		"eng_sentence": "Will he go to the zoo with you?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я постараюсь заниматься английским каждый день.",
+		"eng_sentence": "I'll try to learn English every day.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Когда ты будешь готов обсудить эти вещи?",
+		"eng_sentence": "When will you be ready to discuss these things?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Это не будет так легко для них.",
+		"eng_sentence": "It won't be so easy for them.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Кого ты пригласишь?",
+		"eng_sentence": "Who will you invite?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Мы пойдем на пикник.",
+		"eng_sentence": "We'll go on a picnic.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я приглашу своих друзей.",
+		"eng_sentence": "I'll invite my friends.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Он не пойдёт на прогулку прямо сейчас.",
+		"eng_sentence": "He won't go for a walk right now.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Она пойдёт на прогулку прямо сейчас.",
+		"eng_sentence": "She'll go for a walk right now.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Они не пойдут домой прямо сейчас.",
+		"eng_sentence": "They won't go home right now.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "У него не будет этой возможности.",
+		"eng_sentence": "He won't have this opportunity.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "У неё не будет той возможности.",
+		"eng_sentence": "She won't have that opportunity.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "У меня не будет этих денег.",
+		"eng_sentence": "I won't have this money.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я пойду в зоопарк на этих выходных.",
+		"eng_sentence": "I'll go to the zoo this weekend.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Мы пойдём в зоопарк сегодня.",
+		"eng_sentence": "We'll go to the zoo today.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я пойду в зоопарк на этой неделе.",
+		"eng_sentence": "I'll go to the zoo this week.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Это будет легко для нас?",
+		"eng_sentence": "Will it be easy for us?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Это будет легко для тебя?",
+		"eng_sentence": "Will it be easy for you?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Это будет трудно для меня?",
+		"eng_sentence": "Will it be difficult for me?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Я уверен, это поможет тебе.",
+		"eng_sentence": "I'm sure it'll help you.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я уверен, это поможет мне.",
+		"eng_sentence": "I'm sure it'll help me.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я уверен, это не поможет мне.",
+		"eng_sentence": "I'm sure it won't help me.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я приглашу своих друзей на эту вечеринку.",
+		"eng_sentence": "I'll invite my friends to this party.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Она пригласит своих друзей на ту вечеринку.",
+		"eng_sentence": "She'll invite her friends to that party.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "У меня будет эта возможность.",
+		"eng_sentence": "I'll have this opportunity.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "У неё будет эта возможность.",
+		"eng_sentence": "She'll have this opportunity.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "У меня тоже будет эта возможность.",
+		"eng_sentence": "I'll also have this opportunity.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Это не будет слишком легко для них.",
+		"eng_sentence": "It won't be too easy for them.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Это не будет так легко для тебя.",
+		"eng_sentence": "It won't be so easy for you.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Это не будет слишком легко для нас.",
+		"eng_sentence": "It won't be too easy for us.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я постараюсь тренироваться более интенсивно.",
+		"eng_sentence": "I'll try to train more intensively.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Он будет стараться тренироваться намного интенсивнее.",
+		"eng_sentence": "He'll try to train much more intensively.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Когда ты пойдёшь на пикник?",
+		"eng_sentence": "When will you go on a picnic?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Когда мы пойдём на пикник?",
+		"eng_sentence": "When will we go on a picnic?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я хочу пойти на пикник.",
+		"eng_sentence": "I want to go on a picnic.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "У тебя будет эта возможность?",
+		"eng_sentence": "Will you have this opportunity?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Это не будет так эффективно.",
+		"eng_sentence": "It won't be so effective.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Как ты будешь готовиться к этим экзаменам?",
+		"eng_sentence": "How will you prepare for these exams?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Мы пойдём на пикник с тобой.",
+		"eng_sentence": "We'll go on a picnic with you.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Он не поедет в Японию в этом году.",
+		"eng_sentence": "He won't go to Japan this year.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Ты закроешь дверь?",
+		"eng_sentence": "Will you close the door?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Когда ты будешь готов поговорить об этой вещи?",
+		"eng_sentence": "When will you be ready to talk about this thing?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я буду готовиться к тому тесту.",
+		"eng_sentence": "I'll prepare for that test.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я думаю, тебе действительно понравится этот фильм.",
+		"eng_sentence": "I think you'll really like this movie.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я открою окно.",
+		"eng_sentence": "I'll open the window.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Он думает, они проиграют.",
+		"eng_sentence": "He thinks they will lose.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Твой брат будет дома завтра?",
+		"eng_sentence": "Will your brother be at home tomorrow?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я пойду гулять.",
+		"eng_sentence": "I'll go for a walk.",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Что изменится?",
+		"eng_sentence": "What will change?",
+		"lesson": "29",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Я не сделаю это снова.",
+		"eng_sentence": "I won't do it again.",
+		"lesson": "29",
+		"difficulty": ""
+	}
+]
