@@ -1,0 +1,723 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Она задала мне вопрос.",
+		"eng_sentence": "She asked me a question.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Она двигалась очень быстро.",
+		"eng_sentence": "She moved very quickly.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я посетил Францию в прошлом году.",
+		"eng_sentence": "I visited France last year.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Он сделал некоторые ошибки.",
+		"eng_sentence": "He made some mistakes.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Он ходил в школу.",
+		"eng_sentence": "He went to school.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я поделился этой информацией со своими коллегами.",
+		"eng_sentence": "I shared this information with my colleagues.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Они двигались очень медленно.",
+		"eng_sentence": "They moved very slowly.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Мы часто разговаривали вместе.",
+		"eng_sentence": "We often talked together.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Он двигался так быстро.",
+		"eng_sentence": "He moved so quickly.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Она задала мне вопрос.",
+		"eng_sentence": "She asked me a question.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я часто пользовался интернетом.",
+		"eng_sentence": "I often used the Internet.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Наш урок начался вовремя.",
+		"eng_sentence": "Our lesson started on time.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Он спас ей жизнь.",
+		"eng_sentence": "He saved her life.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Это мне так сильно помогло.",
+		"eng_sentence": "It helped me so much.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Я посетил Испанию в прошлом месяце.",
+		"eng_sentence": "I visited Spain last month.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Наш учитель исправил мои ошибки.",
+		"eng_sentence": "Our teacher corrected my mistakes.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Я учился действительно усердно.",
+		"eng_sentence": "I studied really hard.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Этот курс действительно помог мне.",
+		"eng_sentence": "This course really helped me.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Мне очень понравилась эта поездка.",
+		"eng_sentence": "I really liked this trip.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я работал вчера.",
+		"eng_sentence": "I worked yesterday.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Она прыгнула так высоко.",
+		"eng_sentence": "She jumped so high.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Это действительно помогло мне.",
+		"eng_sentence": "It really helped me.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я посетил Соединённые Штаты два месяца назад.",
+		"eng_sentence": "I visited the United States two months ago.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Я работал очень усердно.",
+		"eng_sentence": "I worked very hard.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Эта вещь мне очень помогла.",
+		"eng_sentence": "This thing helped me a lot / so much.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Те уроки так сильно помогли мне.",
+		"eng_sentence": "Those lessons helped me so much / a lot.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я перезвонил ему.",
+		"eng_sentence": "I called him back.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Мы сравнили эти цены.",
+		"eng_sentence": "We compared these prices.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Мне действительно понравилось это приложение.",
+		"eng_sentence": "I really liked this app.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Мы играли в разные игры.",
+		"eng_sentence": "We played different games.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Он провалил свой экзамен.",
+		"eng_sentence": "He failed his exam.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Она провалила этот тест.",
+		"eng_sentence": "She failed this test.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я поделился этим видео со своими друзьями.",
+		"eng_sentence": "I shared this video with my friends.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Он провалил свой последний экзамен.",
+		"eng_sentence": "He failed his last exam / final exam.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он задал мне некоторые вопросы.",
+		"eng_sentence": "He asked me some questions.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Мне понравилась эта поездка.",
+		"eng_sentence": "I liked this this trip.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Мне действительно понравилась эта тренировка.",
+		"eng_sentence": "I really liked this training.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Я поделился этой ссылкой со своими друзьями.",
+		"eng_sentence": "I shared this link with my friends.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я сравнил наши результаты.",
+		"eng_sentence": "I compared our results.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Мне так сильно понравилась эта страна.",
+		"eng_sentence": "I liked this country so much.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Мне все нравилось.",
+		"eng_sentence": "I liked everything.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Она посетила Бразилию три месяца назад.",
+		"eng_sentence": "She visited Brasil three months ago.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я исправил эту ошибку.",
+		"eng_sentence": "I corrected this mistake.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Ей действительно понравился этот город.",
+		"eng_sentence": "She really liked this city.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Он прыгнул очень высоко.",
+		"eng_sentence": "He jumped very high.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Он сделал ошибку.",
+		"eng_sentence": "He made a mistake.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я купил немного еды.",
+		"eng_sentence": "I bought some food.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я часто делал эти ошибки.",
+		"eng_sentence": "I often made these mistakes.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Она пошла в магазин.",
+		"eng_sentence": "She went to the shop.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Она часто говорила, что жила там.",
+		"eng_sentence": "She often said that she lived there.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Он пошёл в школу.",
+		"eng_sentence": "He went to school.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я мог учить английский весь день.",
+		"eng_sentence": "I could learn English all day.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я получил письмо от неё.",
+		"eng_sentence": "I got a letter from her.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Он получил слишком мало денег там.",
+		"eng_sentence": "He got too little money there.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Он сделал некоторые ошибки.",
+		"eng_sentence": "He made some mistakes.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я был очень занят.",
+		"eng_sentence": "I was very busy.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "К меня был вопрос.",
+		"eng_sentence": "I had a question.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Он рассказал мне эту историю.",
+		"eng_sentence": "He told me this story.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Мы были действительно счастливы.",
+		"eng_sentence": "We were really happy.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Он купил машину.",
+		"eng_sentence": "He bought a car.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я получил твоё письмо.",
+		"eng_sentence": "I got your letter.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Он получил твоё письмо.",
+		"eng_sentence": "He got your letter.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Мы получили письмо от тебя.",
+		"eng_sentence": "We got a letter from you.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Мы видели много людей там.",
+		"eng_sentence": "We saw many people there.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Они видели много людей тут.",
+		"eng_sentence": "They saw many people here.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Он видел много детей там.",
+		"eng_sentence": "He saw many children there.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я пошёл на работу.",
+		"eng_sentence": "I went to work.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Он пошёл на работу.",
+		"eng_sentence": "He went to work.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он хотел работать.",
+		"eng_sentence": "He wanted to work.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Она рассказала мне эту вещь снова.",
+		"eng_sentence": "She told me this thing again.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Он рассказал тебе ту вещь позже.",
+		"eng_sentence": "He told you that thing later.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Он сказал кое-что очень интересное.",
+		"eng_sentence": "He said something very interesting.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Она сказала что-то очень интересное.",
+		"eng_sentence": "She said something very interesting.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Она рассказала мне кое-что.",
+		"eng_sentence": "She told me something.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Это было абсолютно бесплатно.",
+		"eng_sentence": "It was absolutely free.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Там было очень красиво.",
+		"eng_sentence": "It was very beautiful there.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Это было действительно бесплатно.",
+		"eng_sentence": "It was really free.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Они ездили в Китай.",
+		"eng_sentence": "They went to China.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Он ездил в Англию.",
+		"eng_sentence": "He went to England.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Мы ездили в Китай.",
+		"eng_sentence": "We went to China.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "У меня было несколько вопросов.",
+		"eng_sentence": "I had some questions.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "У него было несколько вопросов.",
+		"eng_sentence": "He had some questions.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "У них было так много вопросов.",
+		"eng_sentence": "They had so many questions.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я мог понять его очень хорошо.",
+		"eng_sentence": "I could understand him very well.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Он мог понять её очень легко.",
+		"eng_sentence": "He could understand her very easily.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я мог понять его очень легко.",
+		"eng_sentence": "I could understand him very easily.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он видел их вместе.",
+		"eng_sentence": "He saw them together.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Она видела его там.",
+		"eng_sentence": "She saw him there.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я ходил туда вчера.",
+		"eng_sentence": "I went there yesterday.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я получил эти деньги.",
+		"eng_sentence": "I got this money.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я был так счастлив.",
+		"eng_sentence": "I was so happy.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я пошёл за покупками.",
+		"eng_sentence": "I went shopping.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я видел отель.",
+		"eng_sentence": "I saw a hotel.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я сделал все эти упражнения.",
+		"eng_sentence": "I did all these exercises.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Он занимался бизнесом.",
+		"eng_sentence": "He did business.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я часто видел её, когда я там работал.",
+		"eng_sentence": "I often saw her when I worked there.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я мог понимать их без каких-либо проблем.",
+		"eng_sentence": "I could understand them without any problems.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Он часто говорил это.",
+		"eng_sentence": "He often said it.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я купил билет.",
+		"eng_sentence": "I bought a ticket.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Я получил сообщение от него.",
+		"eng_sentence": "I got a message from him.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я получил твоё сообщение.",
+		"eng_sentence": "I got your message.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Это было бесплатно.",
+		"eng_sentence": "It was free.",
+		"lesson": "30",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Он сказал это снова.",
+		"eng_sentence": "He said it again.",
+		"lesson": "30",
+		"difficulty": ""
+	}
+]
