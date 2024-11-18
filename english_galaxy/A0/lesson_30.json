@@ -247,7 +247,7 @@
 	{	
 		"id": 36,
 		"rus_sentence": "Мне понравилась эта поездка.",
-		"eng_sentence": "I liked this this trip.",
+		"eng_sentence": "I liked this trip.",
 		"lesson": "30",
 		"difficulty": ""
 	},
@@ -393,7 +393,7 @@
 	},
 	{	
 		"id": 57,
-		"rus_sentence": "К меня был вопрос.",
+		"rus_sentence": "У меня был вопрос.",
 		"eng_sentence": "I had a question.",
 		"lesson": "30",
 		"difficulty": ""
