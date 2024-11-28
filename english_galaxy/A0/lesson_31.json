@@ -1,0 +1,716 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "У него не было денег.",
+		"eng_sentence": "He didn't have money.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я не закрыл дверь.",
+		"eng_sentence": "I didn't close the door.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я не делал эти физические упражнения.",
+		"eng_sentence": "I didn't do these physical exercises.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Я не поехал в свой загородный дом в воскресенье.",
+		"eng_sentence": "I didn't go to my country house on Sunday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "У него не было денег.",
+		"eng_sentence": "He didn't have money.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Мы не играли в тенис.",
+		"eng_sentence": "We didn't play tennis.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Это не принесло ему достаточно денег.",
+		"eng_sentence": "It didn't bring him enough money.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Он не купил машину.",
+		"eng_sentence": "He didn't buy a car.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Она не чувствовала себя счастливой с ним.",
+		"eng_sentence": "She didn't feel happy with him.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Она не послушала моего совета.",
+		"eng_sentence": "She didn't listen to my advice.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я не закрыл дверь.",
+		"eng_sentence": "I didn't close the door.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Это не стоило много.",
+		"eng_sentence": "It didn't cost much.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Он не хотел этого.",
+		"eng_sentence": "He didn't want it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Они не получили это письмо.",
+		"eng_sentence": "They didn't get this letter.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Я не хотел говорить об этом.",
+		"eng_sentence": "I didn't want to talk about it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я не заплатил за это.",
+		"eng_sentence": "I didn't pay for it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Я не пошёл на ту вечеринку.",
+		"eng_sentence": "I didn't go to that party.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Она не заперла дверь.",
+		"eng_sentence": "She didn't lock the door.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он не сделал ошибку.",
+		"eng_sentence": "He didn't make a mistake.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Он не учил английский в школе.",
+		"eng_sentence": "He didn't study English at school.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Мы этого не знали.",
+		"eng_sentence": "We didn't know it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Мне не понравилось это место.",
+		"eng_sentence": "I didn't like this place.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я ему не поверил.",
+		"eng_sentence": "I didn't believe him.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Это не помогло нам.",
+		"eng_sentence": "It didn't help us.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Они не играли в бадминтон.",
+		"eng_sentence": "They didn't play badminton.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я не купил компьютер вчера.",
+		"eng_sentence": "I didn't buy a computer yesterday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Это не выглядело так смешно.",
+		"eng_sentence": "It didn't look so funny.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Она не сдала этот тест.",
+		"eng_sentence": "She didn't pass this test.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Она не видела её вчера.",
+		"eng_sentence": "She didn't see her yesterday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я не делал те физические упражнения.",
+		"eng_sentence": "I didn't do those physical exercises.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Её слова не удивили меня.",
+		"eng_sentence": "Рук words didn't surprise me.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Это не произошло.",
+		"eng_sentence": "It didn't happen.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я думаю ты не понял это.",
+		"eng_sentence": "I think you didn't understand it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Я не ходил туда вчера.",
+		"eng_sentence": "I didn't go there yesterday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Мы не хотели этого.",
+		"eng_sentence": "We didn't want it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он не запер дверь.",
+		"eng_sentence": "He didn't lock the door.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Она не подписала этот документ.",
+		"eng_sentence": "She didn't sign this document.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Это не казалось странным.",
+		"eng_sentence": "It didn't seem strange.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Он не делал физические упражнения.",
+		"eng_sentence": "He didn't do physical exercises.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Ты не показал мне эти фото.",
+		"eng_sentence": "You didn't show me these photos.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Он не слушал это.",
+		"eng_sentence": "He didn't listen to it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Я не видел её в том месте.",
+		"eng_sentence": "I didn't see her in that place.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я не ездил в Испанию в прошлом году.",
+		"eng_sentence": "I didn't go to Spain last year.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Эта вещь не интересовала меня.",
+		"eng_sentence": "This thing didn't interest me.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я не поехал в свой загородный дом в воскресенье.",
+		"eng_sentence": "I didn't go to my country house on Sunday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Я не хотел говорить это.",
+		"eng_sentence": "I didn't want to say it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я не хотел ждать этого.",
+		"eng_sentence": "I didn't want to wait for it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я не понял, как это лучше сделать.",
+		"eng_sentence": "I didn't understand how to do it better.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я не ходил на вечеринку.",
+		"eng_sentence": "I didn't go to the party.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Он не ходил в университет во вторник.",
+		"eng_sentence": "He didn't go to university on Tuesday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Она не согласилась с этим.",
+		"eng_sentence": "She didn't agree with it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я не ходил туда в прошлые выходные.",
+		"eng_sentence": "I didn't go there last weekend.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я ничего не сказал.",
+		"eng_sentence": "I didn't say anything.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я не ходил на работу в четверг.",
+		"eng_sentence": "I didn't go to work on Thursday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Он не объяснил своё решение.",
+		"eng_sentence": "He didn't explain his decision.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я не знал, что сказать.",
+		"eng_sentence": "I didn't know what to say.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я не сделал какие-либо ошибки.",
+		"eng_sentence": "I didn't make any mistakes.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Мы не обсуждали это в пятницу.",
+		"eng_sentence": "We didn't discuss it on Friday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я не знал, что делать.",
+		"eng_sentence": "I didn't know what to do.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я не изучал этого в школе.",
+		"eng_sentence": "I didn't study it at school.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я не изучал Испанский в школе.",
+		"eng_sentence": "I didn't study Spanish at school.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Они не знали друг друга.",
+		"eng_sentence": "They didn't know each other.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Мы не знали друг друга.",
+		"eng_sentence": "We didn't know each other.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Они не знали друг друга в прошлом году.",
+		"eng_sentence": "They didn't know each other last year.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я не видел её в среду.",
+		"eng_sentence": "I didn't see her on Wednesday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Он не видел её в Понедельник.",
+		"eng_sentence": "He didn't see her on Monday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Она не видела его вчера.",
+		"eng_sentence": "She didn't see him yesterday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Она не говорила этого.",
+		"eng_sentence": "She didn't say it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он не сказал мне это.",
+		"eng_sentence": "He didn't tell me it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Он не ходил на вечеринку прошлой ночью.",
+		"eng_sentence": "He didn't go to the party last night.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Они не ходили на вечеринку прошлой ночью.",
+		"eng_sentence": "They didn't go to the party last night.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Он не ходил туда вчера.",
+		"eng_sentence": "He didn't go there yesterday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Они не хотели ждать этого.",
+		"eng_sentence": "They didn't want to wait for it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Мы не хотели ждать тебя.",
+		"eng_sentence": "We didn't want to wait for you.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он не хотел ждать её.",
+		"eng_sentence": "He didn't want to wait for her.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я не изучал эту вещь в университете.",
+		"eng_sentence": "I didn't study this thing at university.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Он не изучал этих вещей в школе.",
+		"eng_sentence": "He didn't study these things at school.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я не изучал эти проблемы там.",
+		"eng_sentence": "I didn't study these problems there.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "У них не было никаких вопросов.",
+		"eng_sentence": "They didn't have any questions.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "У нас не было никаких идей.",
+		"eng_sentence": "We didn't have any ideas.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "У неё не было никаких проблем.",
+		"eng_sentence": "She didn't have any problems.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я не пытался сделать это.",
+		"eng_sentence": "I didn't try to do it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Он не пытался сделать этого еще раз.",
+		"eng_sentence": "He didn't try to do it one more time.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Мы не пробовали сделать это снова.",
+		"eng_sentence": "We didn't try to do it again.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "У меня не было никаких серьёзных проблем.",
+		"eng_sentence": "I didn't have any serious problems.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "У него не было никаких проблем.",
+		"eng_sentence": "He didn't have any problems.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "У нас не было никаких вопросов.",
+		"eng_sentence": "We didn't have any questions.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Мы не обсуждали это в прошлый вторник.",
+		"eng_sentence": "We didn't discuss it last Tuesday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Они не ходили в зоопарк в Субботу.",
+		"eng_sentence": "They didn't go to the zoo on Saturday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Она не ходила в школу в понедельник.",
+		"eng_sentence": "She didn't go to school on Monday.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я не знал, что сказать ему.",
+		"eng_sentence": "I didn't know what to tell him.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Это не звучало странно.",
+		"eng_sentence": "It didn't sound strange.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Он не согласился.",
+		"eng_sentence": "He didn't agree.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Он ничего не сделал.",
+		"eng_sentence": "He didn't do anything.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Он не пытался улучшить свои результаты.",
+		"eng_sentence": "He didn't try to improve his results.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я не забыл сказать это.",
+		"eng_sentence": "I didn't forget to say it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Он не работал в банке.",
+		"eng_sentence": "He didn't work in a bank.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я не хотел ничего менять.",
+		"eng_sentence": "I didn't want to change anything.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Он не пытался ничего менять.",
+		"eng_sentence": "He didn't try to change anything.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Я не забыл сделать это.",
+		"eng_sentence": "I didn't forget to do it.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Они не любили друг друга.",
+		"eng_sentence": "They didn't love each other.",
+		"lesson": "31",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Я не хотел жить там.",
+		"eng_sentence": "I didn't want to live there.",
+		"lesson": "31",
+		"difficulty": ""
+	}
+]
