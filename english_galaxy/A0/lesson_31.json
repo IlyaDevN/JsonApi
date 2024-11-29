@@ -212,7 +212,7 @@
 	{	
 		"id": 31,
 		"rus_sentence": "Её слова не удивили меня.",
-		"eng_sentence": "Рук words didn't surprise me.",
+		"eng_sentence": "Her words didn't surprise me.",
 		"lesson": "31",
 		"difficulty": ""
 	},
@@ -456,7 +456,7 @@
 	},
 	{	
 		"id": 66,
-		"rus_sentence": "Он не видел её в Понедельник.",
+		"rus_sentence": "Он не видел её в понедельник.",
 		"eng_sentence": "He didn't see her on Monday.",
 		"lesson": "31",
 		"difficulty": ""
