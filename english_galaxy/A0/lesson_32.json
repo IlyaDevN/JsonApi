@@ -1,0 +1,674 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Она тебе ответила?",
+		"eng_sentence": "Did she answer you?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Ты написал письмо?",
+		"eng_sentence": "Did you write a letter?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Ты видел это в начале?",
+		"eng_sentence": "Did you see it in the beginning?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Ты читал об этом в конце?",
+		"eng_sentence": "Did you read about it in the end?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Тебе было нужно больше денег?",
+		"eng_sentence": "Did you need more money?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Ты согласился?",
+		"eng_sentence": "Did you agree?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Ты вернулся домой позже?",
+		"eng_sentence": "Did you come back later?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Ты говорил о нашем обществе?",
+		"eng_sentence": "Did you talk about our society?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Ты написал письмо?",
+		"eng_sentence": "Did you write a letter?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Ты помнил её фамилию?",
+		"eng_sentence": "Did you remember her surname?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Ты получил моё сообщение в прошлый вторник?",
+		"eng_sentence": "Did you get my message last Tuesday?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Они говорили о социальных проблемах?",
+		"eng_sentence": "Did they talk about social problems?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Ты закончил свою работу?",
+		"eng_sentence": "Did you finish your work?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Ты купил квартиру в понедельник?",
+		"eng_sentence": "Did you buy an apartment on Monday?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Она тебе ответила?",
+		"eng_sentence": "Did she answer you?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Она производили дешёвые товары?",
+		"eng_sentence": "Did they produce cheap goods?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Ты ходил на работу вчера?",
+		"eng_sentence": "Did you go to work yesterday?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Ты сохранил этот документ в четверг?",
+		"eng_sentence": "Did you save this document on Thursday?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Ты приглашал своих друзей в прошлое воскресенье?",
+		"eng_sentence": "Did you invite your friends last Sunday?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Ты посетил Германию на прошлой неделе?",
+		"eng_sentence": "Did you visit Germany last week?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Ты понял это?",
+		"eng_sentence": "Did you understand it?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Ты вспомнил его фамилию?",
+		"eng_sentence": "Did you remember his last name?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Он ходил в школу позавчера?",
+		"eng_sentence": "Did he go to school the day before yesterday?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Ты сдал этот экзамен?",
+		"eng_sentence": "Did you pass this exam?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Ты ездил в Англию в прошлом месяце?",
+		"eng_sentence": "Did you go to England last month?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Ты видел её на прошлой неделе?",
+		"eng_sentence": "Did you see her last week?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Они говорили по-английски?",
+		"eng_sentence": "Did they speak English?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Она потратила слишком много денег?",
+		"eng_sentence": "Did she spend too much money?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Ты водил машину вчера?",
+		"eng_sentence": "Did you drive a car yesterday?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Это принесло тебе хорошие деньги?",
+		"eng_sentence": "Did it bring you good money?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Вы всё обсудили?",
+		"eng_sentence": "Did you discuss everything?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Ты снимал квартиру?",
+		"eng_sentence": "Did you rent an apartment?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Ты отправил ей сообщение в четверг?",
+		"eng_sentence": "Did you send her a message on Thursday?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Ты учился вчера?",
+		"eng_sentence": "Did you study yesterday?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Это казалось очень странным?",
+		"eng_sentence": "Did it seem very strange?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Тебе нужно было больше времени?",
+		"eng_sentence": "Did you need more time?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Ты думал о той вещи?",
+		"eng_sentence": "Did you think about that thing?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Вы говорили о современных технологиях?",
+		"eng_sentence": "Did you talk about modern technology?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Ты работал вчера?",
+		"eng_sentence": "Did you work yesterday?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Они говорили о нашем современном обществе?",
+		"eng_sentence": "Did they talk about our modern society?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это случилось вчера?",
+		"eng_sentence": "Did it happen yesterday?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Они производили очень дорогие товары?",
+		"eng_sentence": "Did they produce very expensive goods?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Он купил большой дом?",
+		"eng_sentence": "Did he buy a large house?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Тебе понравился этот фильм?",
+		"eng_sentence": "Did you like this movie?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Ты ответил на это сообщение?",
+		"eng_sentence": "Did you answer this message?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Ты чувствовал себя счастливым, когда ты жил там?",
+		"eng_sentence": "Did you feel happy when you lived there?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Ты хотел сменить работу?",
+		"eng_sentence": "Did you want to change a job?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Он женился на ней?",
+		"eng_sentence": "Did he marry her?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Ты переехал в другую страну?",
+		"eng_sentence": "Did you move to another country?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Ты знал, что делать в той ситуации?",
+		"eng_sentence": "Did you know what to do in that situation?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Ты прочёл об этом в конце?",
+		"eng_sentence": "Did you read about it in the end?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Это стоило намного меньше?",
+		"eng_sentence": "Did it cost much less?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Ей была нужна твоя помощь?",
+		"eng_sentence": "Did she need your help?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Ты ходил туда, когда учился в школе?",
+		"eng_sentence": "Did you go there when you studied at school?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Ты слышал эту новость?",
+		"eng_sentence": "Did you hear this news?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Ты купил те билеты в среду?",
+		"eng_sentence": "Did you buy those tickets on Wednesday?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Она переехала за границу?",
+		"eng_sentence": "Did she move abroad?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Ты прибыл туда вовремя?",
+		"eng_sentence": "Did you arrive there on time?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Ей нужно было больше практики?",
+		"eng_sentence": "Did she need more practice?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Тебе нужно было найти это срочно?",
+		"eng_sentence": "Did you need to find it urgently?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Ей нужно было сделать это срочно?",
+		"eng_sentence": "Did she need to do it urgently?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Ты пригласил своих друзей на празднование своего дня рождения?",
+		"eng_sentence": "Did you invite your friends to your birthday party?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Ты хотел пригласить своих друзей на празднование своего дня рождения?",
+		"eng_sentence": "Did you want to invite your friends to your birthday party?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Он выиграл в конце?",
+		"eng_sentence": "Did he win in the end?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Ты выиграл?",
+		"eng_sentence": "Did you win?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Это стоило намного больше?",
+		"eng_sentence": "Did it cost much more?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Эта вещь стоила намного больше?",
+		"eng_sentence": "Did this thing cost much more?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Это случилось или нет?",
+		"eng_sentence": "Did it happen or not?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Это случилось во вторник?",
+		"eng_sentence": "Did it happen on Tuesday?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Ты хотел найти новую работу?",
+		"eng_sentence": "Did you want to find a new job?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Ты хотел найти работу?",
+		"eng_sentence": "Did you want to find a job?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Ты пытался найти новую работу?",
+		"eng_sentence": "Did you try to find a new job?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Ты подготовился к этому экзамену?",
+		"eng_sentence": "Did you prepare for this exam?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Ты подготовился к тому экзамену?",
+		"eng_sentence": "Did you prepare for that exam?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он говорил это или нет?",
+		"eng_sentence": "Did he say it or not?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Ты говорил это или нет?",
+		"eng_sentence": "Did you say it or not?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Она хотела это или нет?",
+		"eng_sentence": "Did she want it or not?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Это действительно интересовало тебя?",
+		"eng_sentence": "Did it really interest you?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Это действительно интересовало его?",
+		"eng_sentence": "Did it really interest him?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Ему нужны были деньги?",
+		"eng_sentence": "Did he need money?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Ему нужно было больше денег?",
+		"eng_sentence": "Did he need more money?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Она вышла за него замуж?",
+		"eng_sentence": "Did she marry him?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Ты подготовился к этому тесту?",
+		"eng_sentence": "Did you prepare for this test?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Это произошло в начале?",
+		"eng_sentence": "Did it happen in the beginning?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Ты прослушал этот урок?",
+		"eng_sentence": "Did you listen to this lesson?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Ты пытался изменить это?",
+		"eng_sentence": "Did you try to change it?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он рассказал тебе этот секрет?",
+		"eng_sentence": "Did he tell you this secret?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "У тебя были какие-либо проблемы?",
+		"eng_sentence": "Did you have any problems?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Ты видел это в начале?",
+		"eng_sentence": "Did you see it in the beginning?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Они поженились?",
+		"eng_sentence": "Did they get married?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Тебе нужно было пойти туда?",
+		"eng_sentence": "Did you need to go there?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Он переехал в Америку?",
+		"eng_sentence": "Did he move to America?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "У тебя были какие-либо вопросы?",
+		"eng_sentence": "Did you have any questions?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Ты знал, как сделать это лучше?",
+		"eng_sentence": "Did you know how to do it better?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Она рассказала ему тот секрет?",
+		"eng_sentence": "Did she tell him that secret?",
+		"lesson": "32",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Ты хотел это увидеть?",
+		"eng_sentence": "Did you want to see it?",
+		"lesson": "32",
+		"difficulty": ""
+	}
+]
