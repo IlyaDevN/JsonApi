@@ -44,7 +44,7 @@
 	{	
 		"id": 7,
 		"rus_sentence": "Ты вернулся домой позже?",
-		"eng_sentence": "Did you come back later?",
+		"eng_sentence": "Did you come back home later?",
 		"lesson": "32",
 		"difficulty": ""
 	},
@@ -106,7 +106,7 @@
 	},
 	{	
 		"id": 16,
-		"rus_sentence": "Она производили дешёвые товары?",
+		"rus_sentence": "Они производили дешёвые товары?",
 		"eng_sentence": "Did they produce cheap goods?",
 		"lesson": "32",
 		"difficulty": ""
@@ -365,7 +365,7 @@
 	},
 	{	
 		"id": 53,
-		"rus_sentence": "Ей была нужна твоя помощь?",
+		"rus_sentence": "Ей нужна была твоя помощь?",
 		"eng_sentence": "Did she need your help?",
 		"lesson": "32",
 		"difficulty": ""
