@@ -1,0 +1,653 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Что ты видел?",
+		"eng_sentence": "What did you see?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Как ты выучил английский?",
+		"eng_sentence": "How did you learn English?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Когда ты вернулся домой?",
+		"eng_sentence": "When did you come back home?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Что ты ел на ужин?",
+		"eng_sentence": "What did you eat for dinner?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Что ты сказал?",
+		"eng_sentence": "What did you say?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Когда ты вернулся домой?",
+		"eng_sentence": "When did you return home?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Что вы обсуждали в понедельник?",
+		"eng_sentence": "What did you discuss on Monday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Когда ты закончил свою работу?",
+		"eng_sentence": "When did you finish your work?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Почему ты пришёл домой так поздно?",
+		"eng_sentence": "Why did you come home so late?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Как ты понял это?",
+		"eng_sentence": "How did you understand it?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Где ты работал раньше?",
+		"eng_sentence": "Where did you work earlier?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Почему ты пошёл в то место?",
+		"eng_sentence": "Why did you go to that place?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Как ты выучил английский?",
+		"eng_sentence": "How did you learn English?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Что ты видел там?",
+		"eng_sentence": "What did you see there?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Ты видел своих друзей вчера?",
+		"eng_sentence": "Did you see your friends yesterday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Когда это началось?",
+		"eng_sentence": "When did it start?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Где ты жил раньше?",
+		"eng_sentence": "Where did you live earlier?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Кого ты видел там?",
+		"eng_sentence": "Who did you see there?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Что ты делал вчера?",
+		"eng_sentence": "What did you do yesterday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Что они тебя спросили?",
+		"eng_sentence": "What did they ask you?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Как ты улучшил свою речь?",
+		"eng_sentence": "How did you improve your speaking?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Что ты делал прошлым летом?",
+		"eng_sentence": "What did you do last summer?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Когда она звонила тебе в последний раз?",
+		"eng_sentence": "When did she call you last time?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Почему ты сделал это?",
+		"eng_sentence": "Why did you do it?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Ты посетил Италию в прошлом году?",
+		"eng_sentence": "Did you visit Italy last year?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Почему ты купил этот свитер?",
+		"eng_sentence": "Why did you by this sweater?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Что ты купил во вторник?",
+		"eng_sentence": "What did you buy on Tuesday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Когда он вернулся домой?",
+		"eng_sentence": "When did he come back home?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Что ты оставил дома в среду?",
+		"eng_sentence": "What did you leave at home on Wednesday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Где ты играл в четверг?",
+		"eng_sentence": "Where did you play on Thursday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Как это началось?",
+		"eng_sentence": "How did it begin?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Что она ответила в пятницу?",
+		"eng_sentence": "What did she answer on Friday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Что ты делал прошлой зимой?",
+		"eng_sentence": "What did you do last winter?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Что он ответил тебе в субботу?",
+		"eng_sentence": "What did he answer you on Saturday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Что ты выбрал в воскресенье?",
+		"eng_sentence": "What did you choose on Sunday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Что она сказал тебе в Понедельник?",
+		"eng_sentence": "What did he tell you on Monday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Когда ты последний раз его видел?",
+		"eng_sentence": "When did you see him last time?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Почему ты поверил этому?",
+		"eng_sentence": "Why did you believe it?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Как она себя чувствовала во вторник?",
+		"eng_sentence": "How did she feel on Tuesday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Когда ты получил это письмо?",
+		"eng_sentence": "When did you get this letter?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Где вы встретились?",
+		"eng_sentence": "Where did you meet?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Почему это стало так популярно?",
+		"eng_sentence": "Why did it become so popular?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Где ты нашёл эту информацию?",
+		"eng_sentence": "Where did you find this information?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Когда ты получил этот ответ?",
+		"eng_sentence": "When did you get this answer?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Как регулярно ты делал эти упражнения?",
+		"eng_sentence": "How regularly did you do these exercises?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Что ей было нужно в четверг?",
+		"eng_sentence": "What did she need on Thursday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Когда ты прибыл домой?",
+		"eng_sentence": "When did you arrive home?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Что ты делал на выходных?",
+		"eng_sentence": "What did you do at the weekend?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Сколько денег это им принесло?",
+		"eng_sentence": "How much money did it bring them?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Во сколько ты проснулся?",
+		"eng_sentence": "What time did you wake up?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "В какие игры ты играл?",
+		"eng_sentence": "What games did you play?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Что у тебя было на ужин?",
+		"eng_sentence": "What did you have for dinner?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Ты получил это письмо или нет?",
+		"eng_sentence": "Did you get this letter or not?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Сколько у тебя было свободного времени?",
+		"eng_sentence": "How much free time did you have?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Ты получил это электронное письмо или нет?",
+		"eng_sentence": "Did you get this email or not?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Что ты делал на прошлых выходных?",
+		"eng_sentence": "What did you do last weekend?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Что тебе нужно было сделать в пятницу?",
+		"eng_sentence": "What did you need to do on Friday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Какой отель ты выбрал?",
+		"eng_sentence": "What hotel did you choose?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Почему ты решил изучать английский язык?",
+		"eng_sentence": "Why did you decide to learn English?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Как часто ты тренировался?",
+		"eng_sentence": "How often did you train?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Как регулярно она тренировалась?",
+		"eng_sentence": "How regular did she train?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Сколько он заплатил?",
+		"eng_sentence": "How much did he pay?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Сколько она заплатила за это в понедельник?",
+		"eng_sentence": "How much did she pay for it on Monday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Сколько ты заплатил в воскресенье?",
+		"eng_sentence": "How much did you pay on Sunday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Что он ел на обед во вторник?",
+		"eng_sentence": "What did he eat for lunch on Tuesday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Что он ел на завтрак в среду?",
+		"eng_sentence": "What did he eat for breakfast on Wednesday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Что ты ел на ужин в четверг?",
+		"eng_sentence": "What did you eat for dinner on Thursday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Сколько у тебя было денег с собой?",
+		"eng_sentence": "How much money did you have with you on Friday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Сколько у тебя было денег в субботу?",
+		"eng_sentence": "How much money did you have on Saturday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Сколько у тебя было времени?",
+		"eng_sentence": "How much time did you have?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Как часто ты ходил в спортивный зал?",
+		"eng_sentence": "How often did you go to the gym?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Когда ты ходил в спортивный зал в последний раз?",
+		"eng_sentence": "When did you go to the gym last time?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Во сколько ты пришёл на работу?",
+		"eng_sentence": "What time did you come to work?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Когда ты пришёл на работу?",
+		"eng_sentence": "When did you come to work?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Что ты ел на завтрак?",
+		"eng_sentence": "What did you eat for breakfast?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Что они делали в прошлую пятницу?",
+		"eng_sentence": "What did they do last Friday?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Что ты решил делать?",
+		"eng_sentence": "What did you decide to do?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Что он решил делать?",
+		"eng_sentence": "What did he decide to do?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Что ты решил купить?",
+		"eng_sentence": "What did you decide to buy?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Как часто ты играл в футбол?",
+		"eng_sentence": "How often did you play football?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Как ты сюда добрался?",
+		"eng_sentence": "How did you get here?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Почему ты решил остаться дома?",
+		"eng_sentence": "Why did you decide to stay at home?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Сколько ошибок он сделал?",
+		"eng_sentence": "How many mistakes did he make?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Сколько ты заплатил за это?",
+		"eng_sentence": "How much did you pay for it?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Во сколько ты пришёл домой?",
+		"eng_sentence": "What time did you come home?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Которая песня тебе понравилась больше?",
+		"eng_sentence": "Which song did you like more?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Сколько ты работал?",
+		"eng_sentence": "How much did you work? / How long did you work?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Как ты обычно проводил своё свободное время?",
+		"eng_sentence": "How did you usually spend your free time?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Что ты хотел сделать?",
+		"eng_sentence": "What did you want to do?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Какую книгу ты прочитал?",
+		"eng_sentence": "What book did you read?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Сколько ошибок ты сделал?",
+		"eng_sentence": "How many mistakes did you make?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Как ты жил на эти деньги?",
+		"eng_sentence": "How did you live on this money?",
+		"lesson": "33",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Сколько это стоило?",
+		"eng_sentence": "How much did it cost? / How much was it?",
+		"lesson": "33",
+		"difficulty": ""
+	}
+]
