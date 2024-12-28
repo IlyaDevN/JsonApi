@@ -246,7 +246,7 @@
 	},
 	{	
 		"id": 36,
-		"rus_sentence": "Что она сказал тебе в Понедельник?",
+		"rus_sentence": "Что он сказал тебе в понедельник?",
 		"eng_sentence": "What did he tell you on Monday?",
 		"lesson": "33",
 		"difficulty": ""
@@ -470,7 +470,7 @@
 	},
 	{	
 		"id": 68,
-		"rus_sentence": "Сколько у тебя было денег с собой?",
+		"rus_sentence": "Сколько у тебя было денег с собой в пятницу?",
 		"eng_sentence": "How much money did you have with you on Friday?",
 		"lesson": "33",
 		"difficulty": ""
