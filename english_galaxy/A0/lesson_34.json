@@ -386,7 +386,7 @@
 	},
 	{	
 		"id": 56,
-		"rus_sentence": "Я знал что у него были некоторые проблемы.",
+		"rus_sentence": "Я знал, что у него были некоторые проблемы.",
 		"eng_sentence": "I knew that he had some problems.",
 		"lesson": "34",
 		"difficulty": ""
@@ -428,7 +428,7 @@
 	},
 	{	
 		"id": 62,
-		"rus_sentence": "Я поделился этот ссылкой с ним.",
+		"rus_sentence": "Я поделился этой ссылкой с ним.",
 		"eng_sentence": "I shared this link with him.",
 		"lesson": "34",
 		"difficulty": ""
