@@ -1,0 +1,716 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я прибыл домой очень рано.",
+		"eng_sentence": "I arrived home very early.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Мне казалось, что я был прав.",
+		"eng_sentence": "It seemed to me that I was right.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Они переехали в Америку.",
+		"eng_sentence": "They moved to America.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Они повернули направо.",
+		"eng_sentence": "They turned right.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Он хотел искать работу.",
+		"eng_sentence": "He wanted to look for a job.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Они поженились.",
+		"eng_sentence": "They got married.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Мы часто звонили друг другу.",
+		"eng_sentence": "We often called each other.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Я сохранил этот документ.",
+		"eng_sentence": "I saved this document.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я не беспокоился об этом.",
+		"eng_sentence": "I didn't worry about it.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Он контролировал свой бизнес.",
+		"eng_sentence": "He controlled his business.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Что она спросила у тебя?",
+		"eng_sentence": "What did she ask you?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я посмотрел на этот слайд.",
+		"eng_sentence": "I looked at this slide.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Я посмотрел одно видео.",
+		"eng_sentence": "I watched one video.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Мы жили очень счастливо.",
+		"eng_sentence": "We lived very happily.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Мы говорили о политике.",
+		"eng_sentence": "We talked about politics.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Ты смотрел телевизор вчера?",
+		"eng_sentence": "Did you watch TV yesterday?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Мы говорили о разных вещах.",
+		"eng_sentence": "We talked about different things.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я все контролировал.",
+		"eng_sentence": "I controlled everything.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он зарабатывал достаточно денег.",
+		"eng_sentence": "He earned enough money.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Эти вещи не интересовали меня.",
+		"eng_sentence": "These things didn't interest me.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я посмотрел фильм.",
+		"eng_sentence": "I watched a movie.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я послушал его.",
+		"eng_sentence": "I listened to him.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Он провалил свой последний экзамен.",
+		"eng_sentence": "He failed his final exam.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Всё казалось таким сложным.",
+		"eng_sentence": "Everything seemed so difficult.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я не беспокоился об этих вещах.",
+		"eng_sentence": "I didn't worry about these things.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Они спасли его жизнь.",
+		"eng_sentence": "They saved his life.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Они включили моё имя.",
+		"eng_sentence": "They included my name.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Я посмотрел на него.",
+		"eng_sentence": "I looked at him.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Я задал ей вопрос.",
+		"eng_sentence": "I asked her a question.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Этот тест казался таким легким.",
+		"eng_sentence": "This test seemed so easy.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Этот мужчина посмотрел на меня.",
+		"eng_sentence": "This man looked at me.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Они часто смотрели телевизор.",
+		"eng_sentence": "They often watched TV.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Что они производили?",
+		"eng_sentence": "What did they produce?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Вы говорили об этом?",
+		"eng_sentence": "Did you talk about it?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Они производили одежду.",
+		"eng_sentence": "They produced clothes.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я часто слушал музыку.",
+		"eng_sentence": "I often listened to music.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я не задавал ему каких-либо вопросов.",
+		"eng_sentence": "I didn't ask him any questions.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Мне не нравилось танцевать.",
+		"eng_sentence": "I didn't like dancing.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Эта вещь казалась такой важной.",
+		"eng_sentence": "This thing seemed so important.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Этот сервис включал это.",
+		"eng_sentence": "This service included it.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я прибыл домой очень рано.",
+		"eng_sentence": "I arrived home very early.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Это не интересовало меня.",
+		"eng_sentence": "It didn't interest me.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Что они предложили?",
+		"eng_sentence": "What did they offer?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я прослушал это интервью.",
+		"eng_sentence": "I listened to this interview.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Наш билет включал это.",
+		"eng_sentence": "Our ticket included it.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Эти мужчины посмотрели на нас.",
+		"eng_sentence": "These men looked at us.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Она провалила тот тест.",
+		"eng_sentence": "She failed that test.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Он женился на ней.",
+		"eng_sentence": "He married her.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Как он объяснил это?",
+		"eng_sentence": "How did he explain it?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я остался дома.",
+		"eng_sentence": "I stayed at home.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Сколько денег ты заработал там?",
+		"eng_sentence": "How much money did you earn there?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Мне казалось, что я был прав.",
+		"eng_sentence": "It seemed to me that I was right.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Он объяснил все очень хорошо.",
+		"eng_sentence": "He explained everything very well.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я решил перезвонить ей.",
+		"eng_sentence": "I decided to call her back.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Мне казалось, что это была ошибка.",
+		"eng_sentence": "It seemed to me that it was a mistake.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я знал что у него были некоторые проблемы.",
+		"eng_sentence": "I knew that he had some problems.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Она вышла замуж за этого мужчину.",
+		"eng_sentence": "She married this man.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я решил остаться дома.",
+		"eng_sentence": "I decided to stay at home.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Он женился на той женщине.",
+		"eng_sentence": "He married that woman.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я сохранил все эти файлы.",
+		"eng_sentence": "I saved all these files.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я повернул назад домой.",
+		"eng_sentence": "I turned back home.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я поделился этот ссылкой с ним.",
+		"eng_sentence": "I shared this link with him.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Он повернул направо.",
+		"eng_sentence": "He turned right.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Он повернул налево.",
+		"eng_sentence": "He turned left.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я решил поискать работу.",
+		"eng_sentence": "I decided to look for a job.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Я решил поискать это.",
+		"eng_sentence": "I decided to look for it.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Он решил поискать работу.",
+		"eng_sentence": "He decided to look for a job.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Они переехали в Америку.",
+		"eng_sentence": "They moved to America.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Они переехали в Соединённые Штаты.",
+		"eng_sentence": "They moved to the United States.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Как ты предпочитал тренироваться?",
+		"eng_sentence": "How did you prefer to train?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Где ты предпочитал тренироваться?",
+		"eng_sentence": "Where did you prefer to train?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Когда ты предпочитал тренироваться?",
+		"eng_sentence": "When did you prefer to train?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Мы повернули налево.",
+		"eng_sentence": "We turned left.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Они повернули направо.",
+		"eng_sentence": "They turned right.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Мы повернули назад.",
+		"eng_sentence": "We turned back.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Ты подготовился к этому тесту?",
+		"eng_sentence": "Did you prepare for this test?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Ты подготовился к тому тесту?",
+		"eng_sentence": "Did you prepare for that test?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Он приехал домой раньше.",
+		"eng_sentence": "He arrived home earlier. / He came home earlier.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я приехал домой раньше.",
+		"eng_sentence": "I arrived home earlier.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Она приехала туда раньше.",
+		"eng_sentence": "She arrived there earlier.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Как ты готовился к этому экзамену?",
+		"eng_sentence": "How did you prepare for this exam?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Как они готовились к этим экзаменам?",
+		"eng_sentence": "How did they prepare for these exams?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Где ты готовился к этому экзамену?",
+		"eng_sentence": "Where did you prepare for this exam?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Он хотел поискать работу.",
+		"eng_sentence": "He wanted to look for a job.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Он хотел найти работу.",
+		"eng_sentence": "He wanted to find a job.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я смотрел этот видео урок.",
+		"eng_sentence": "I watched this video lesson.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я смотрел эти видео уроки.",
+		"eng_sentence": "I watched these video lessons.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я перезвонил ей.",
+		"eng_sentence": "I called her back.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Когда ты посещал эту страну в последний раз?",
+		"eng_sentence": "When did you visit this country last time?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Как ты тренировался дома?",
+		"eng_sentence": "How did you train at home?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я поделился этим видео с моим другом.",
+		"eng_sentence": "I shared this video with my friend.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я повернул назад.",
+		"eng_sentence": "I turned back.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Как ты готовился к своим экзаменам?",
+		"eng_sentence": "How did you prepare for your exams?",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Она вышла за него замуж.",
+		"eng_sentence": "She married him.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Он прибыл в Испанию.",
+		"eng_sentence": "He arrived in Spain.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Они поженились два года назад.",
+		"eng_sentence": "They got married two years ago.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я посещал Ангию, когда я был ребёнком.",
+		"eng_sentence": "I visited England when I was a child.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Она перезвонила мне.",
+		"eng_sentence": "She called me back.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Мы прибыли в Соединённые Штаты.",
+		"eng_sentence": "We arrived in the United States.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Он переехал в Англию.",
+		"eng_sentence": "He moved to England.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Она не объяснила эту вещь.",
+		"eng_sentence": "She didn't explain this thing.",
+		"lesson": "34",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Мы часто звонили друг другу.",
+		"eng_sentence": "We often called each other.",
+		"lesson": "34",
+		"difficulty": ""
+	}
+]
