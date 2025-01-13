@@ -1,0 +1,674 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Всё зависело от нас.",
+		"eng_sentence": "Everything depended on us.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я запер дверь.",
+		"eng_sentence": "I locked the door.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я не запомнил его имя.",
+		"eng_sentence": "I din't remember his name.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Эта игра началась тридцать минут назад.",
+		"eng_sentence": "This game started thirty minutes ago.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я часто ждал её.",
+		"eng_sentence": "I often waited for her.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Они играли в настольный теннис.",
+		"eng_sentence": "They played table tennis.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Они не хотели обсуждать это.",
+		"eng_sentence": "They didn't want to discuss it.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Я не мог вспомнить это.",
+		"eng_sentence": "I couldn't remember it.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Что вы обсуждали с ней?",
+		"eng_sentence": "What did you discuss with her?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Ты запер дверь?",
+		"eng_sentence": "Did you lock the door?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Как ты улучшил свою грамматику?",
+		"eng_sentence": "How did you improve your grammar?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я ждал этого.",
+		"eng_sentence": "I waited for it.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Мы работали вместе.",
+		"eng_sentence": "We worked together.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Она готовила очень хорошо.",
+		"eng_sentence": "She cooked very well.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Вы обсуждали эту вещь с ним?",
+		"eng_sentence": "Did you discuss this thing with him?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Она заплакала внезапно.",
+		"eng_sentence": "She cried suddenly.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Я помыл свои волосы.",
+		"eng_sentence": "I washed my hair.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Мы часто путешествовали.",
+		"eng_sentence": "We often travelled.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я последовал твоему совету.",
+		"eng_sentence": "I followed your advice.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я все вспомнил.",
+		"eng_sentence": "I remembered everything.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Ты часто гулял в парке?",
+		"eng_sentence": "Did you often walk in the park?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Наши уроки начались десять минут назад.",
+		"eng_sentence": "Our lessons started ten minutes ago.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Это изменило мою жизнь.",
+		"eng_sentence": "It changed my life.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Когда начался этот урок?",
+		"eng_sentence": "When did this lesson start?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Они поцеловали друг друга.",
+		"eng_sentence": "They kissed each other.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Он помыл своё тело.",
+		"eng_sentence": "He washed his body.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Мы играли в бадминтон.",
+		"eng_sentence": "We played badminton.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Он не курил.",
+		"eng_sentence": "He didn't smoke.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Он изменил своё решение.",
+		"eng_sentence": "He changed his decision.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я следовал этой рекомендации.",
+		"eng_sentence": "I followed this recommendation.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Я умыл своё лицо.",
+		"eng_sentence": "I washed my face.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Мы часто играли вместе.",
+		"eng_sentence": "We often played together.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Как ты улучшил своё аудирование?",
+		"eng_sentence": "How did you improve your listening?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Они гуляли в лесу.",
+		"eng_sentence": "They walked in the forest.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Я действительно улучшил свою речь.",
+		"eng_sentence": "I really improved my speaking.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Где ты работал?",
+		"eng_sentence": "Where did you work?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я ждал его.",
+		"eng_sentence": "I waited for him.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Наш учитель проверил мою работу.",
+		"eng_sentence": "Our teacher checked my work.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Мы часто гуляли в парке.",
+		"eng_sentence": "We often walked in the park.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я помылся.",
+		"eng_sentence": "I washed myself.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Он поцеловал её.",
+		"eng_sentence": "He kissed her.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Я предпочитал заказывать это онлайн.",
+		"eng_sentence": "I preferred to order it online.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Они не хотели убивать это животное.",
+		"eng_sentence": "They didn't want to kill this animal.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Всё зависело от нас.",
+		"eng_sentence": "Everything depended on us.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Он курил слишком много, и это было очень плохо.",
+		"eng_sentence": "He smoked too much and it was very bad.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Что вы хотели сказать?",
+		"eng_sentence": "What did you want to say?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я не хотел готовить.",
+		"eng_sentence": "I didn't want to cook.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Они убили этого человека.",
+		"eng_sentence": "They killed this person.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Это не зависело от меня.",
+		"eng_sentence": "It didn't depend on me.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я надеялся, что я был прав.",
+		"eng_sentence": "I hoped that I was right.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Это зависело от меня.",
+		"eng_sentence": "It depended on me.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Мои друзья поддерживали меня.",
+		"eng_sentence": "My friends supported me.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я решил изучать английский более интенсивно.",
+		"eng_sentence": "I decided to learn English more intensively.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я окончил университет в прошлом году.",
+		"eng_sentence": "I graduated from university last year.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я надеялся победить.",
+		"eng_sentence": "I hoped to win.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Эти мальчики часто смеялись над ней.",
+		"eng_sentence": "These boys often laughed at her.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Те мальчики всегда смеялись над ней.",
+		"eng_sentence": "Those boys always laughed at her.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я решил подождать это.",
+		"eng_sentence": "I decided to wait for it.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я решил подождать тебя.",
+		"eng_sentence": "I decided to wait for you.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Они решили подождать это.",
+		"eng_sentence": "They decided to wait for it.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Почему они смеялись над этим?",
+		"eng_sentence": "Why did they laugh at it?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Когда они смеялись над ним?",
+		"eng_sentence": "When did they laugh at him?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Где они смеялись над ними?",
+		"eng_sentence": "Where did they laugh at them?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я сильно улучшил свою грамматику.",
+		"eng_sentence": "I improved my grammar a lot.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Она сильно улучшила свою грамматику.",
+		"eng_sentence": "She improved her grammar a lot.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Я улучшил свою грамматику.",
+		"eng_sentence": "I improved my grammar.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Твои друзья поддержали твою идею?",
+		"eng_sentence": "Did your friends support your idea?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Твоим друзьям понравилась эта идея?",
+		"eng_sentence": "Did your friends like this idea?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Она готовила, когда у неё было свободное время.",
+		"eng_sentence": "She cooked when she had free time.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Они готовили, когда у них было свободное время?",
+		"eng_sentence": "Did they cook when they had free time?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я готовил, когда у меня было свободное время.",
+		"eng_sentence": "I cooked when I had free time.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Он чувствовал себя очень плохо, потому что курил слишком много.",
+		"eng_sentence": "He felt very bad because he smoked too much.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Она чувствовал себя очень плохо, потому что курила так много.",
+		"eng_sentence": "She felt very bad because she smoked so much.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Ты подписал тот документ?",
+		"eng_sentence": "Did you sign that document?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Ты подписал этот документ?",
+		"eng_sentence": "Did you sign this document?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Ты подписал эти документы?",
+		"eng_sentence": "Did you sign these documents?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Они не путешествовали, потому что у них не было достаточно денег.",
+		"eng_sentence": "They didn't travel because they didn't have enough money.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я не путешествовал, потому что у меня не было денег.",
+		"eng_sentence": "I didn't travel because I didn't have money.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Она не путешествовала, потому что у неё не было достаточно денег.",
+		"eng_sentence": "She didn't travel because she didn't have enough money.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Он окончил университет два года назад.",
+		"eng_sentence": "He graduated from university two years ago.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Она окончила университет три месяца назад.",
+		"eng_sentence": "She graduated from university three months ago.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Мы вчера хотели встретиться.",
+		"eng_sentence": "We wanted to meet yesterday.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Когда ты окончил университет?",
+		"eng_sentence": "When did you graduate from university?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я не подписал этот документ.",
+		"eng_sentence": "I didn't sign this document.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Они смеялись дома.",
+		"eng_sentence": "They laughed at home.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Почему они убили этого мужчину?",
+		"eng_sentence": "Why did they kill this man?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я предпочёл остаться дома.",
+		"eng_sentence": "I preferred to stay at home.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я улучшил свою грамматику, аудирование и речь здесь.",
+		"eng_sentence": "I improved my grammar, listening and speaking here.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я надеялся, что это было так.",
+		"eng_sentence": "I hoped that it was so.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я решил подождать их.",
+		"eng_sentence": "I decided to wait for them.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я чувствую, что я значительно улучшил свой английский.",
+		"eng_sentence": "I feel that I improved my English a lot.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я не хотел смеяться.",
+		"eng_sentence": "I didn't want to laugh.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Как часто ты путешествовал?",
+		"eng_sentence": "How often did you travel?",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Это зависело от разных вещей.",
+		"eng_sentence": "It depended on different things.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я не хотел рассказывать ей эту вещь.",
+		"eng_sentence": "I didn't want to tell her this thing.",
+		"lesson": "35",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Это зависело от тебя?",
+		"eng_sentence": "Did it depend on you?",
+		"lesson": "35",
+		"difficulty": ""
+	}
+]
