@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я много учился.",
+		"eng_sentence": "I studied a lot.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я закончил свою работу.",
+		"eng_sentence": "I finished my work.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я закрыл дверь.",
+		"eng_sentence": "I closed the door.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Он много учился.",
+		"eng_sentence": "He studied a lot.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Она училась очень мало.",
+		"eng_sentence": "She studied very little.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я сравнил эти цены.",
+		"eng_sentence": "I compared these prices.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Я остановился возле того окна.",
+		"eng_sentence": "I stopped near that window.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Он действительно любил её.",
+		"eng_sentence": "He really loved her.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Она закончила работу очень рано.",
+		"eng_sentence": "She finished work very early.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Я согласился с этим.",
+		"eng_sentence": "I agreed with it.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Тебе понравилась эта идея?",
+		"eng_sentence": "Did you like this idea?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Эта вещь мотивировала меня так сильно.",
+		"eng_sentence": "This thing motivated me so much.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Тебе понравилось его предложение?",
+		"eng_sentence": "Did you like his offer?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Мы остановились там.",
+		"eng_sentence": "We stopped there.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Я учился очень усердно.",
+		"eng_sentence": "I studied very hard.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я сдал тот тест.",
+		"eng_sentence": "I passed that test.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Все хотели продолжить.",
+		"eng_sentence": "Everyone wanted to continue.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Он так много учился.",
+		"eng_sentence": "He studied so much.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Мои друзья рекомендовали этот курс.",
+		"eng_sentence": "My friends recommended this course.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Она любила танцевать.",
+		"eng_sentence": "She loved dancing.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Ты закрыл окно?",
+		"eng_sentence": "Did you close the window?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Мы продолжили.",
+		"eng_sentence": "We continued.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Что тебе понравилось больше?",
+		"eng_sentence": "What did you like more?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Ты открыл этот сайт?",
+		"eng_sentence": "Did you open this website?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это действительно мотивировало меня.",
+		"eng_sentence": "It really motivated me.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Когда ты закончил свою работу?",
+		"eng_sentence": "When did you finish your work?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Он умер очень старым.",
+		"eng_sentence": "He died very old.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Я сдал этот экзамен.",
+		"eng_sentence": "I passed this exam.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Он рекомендовал тот отель.",
+		"eng_sentence": "He recommended that hotel.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Он прыгнул так высоко.",
+		"eng_sentence": "He jumped so high.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Он часто пользовался интернетом.",
+		"eng_sentence": "He often used the Internet.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Эта машина остановилась здесь.",
+		"eng_sentence": "This car stopped here.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я также хотел продолжить.",
+		"eng_sentence": "I also wanted to continue.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Мне нужно было больше практики.",
+		"eng_sentence": "I needed more practice.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он закончил свою работу очень поздно.",
+		"eng_sentence": "He finished his work very late.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я открыл дверь.",
+		"eng_sentence": "I opened the door.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Он не хотел прыгать.",
+		"eng_sentence": "He didn't want to jump.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Она умерла четыре месяца назад.",
+		"eng_sentence": "She died four months ago.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я действительно ненавидел это.",
+		"eng_sentence": "I really hated it.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Мы сравнили те курсы.",
+		"eng_sentence": "We compared those courses.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я всегда верил ей.",
+		"eng_sentence": "I always believed her.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Как ты скачал это?",
+		"eng_sentence": "How did you download it?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Он пытался найти работу.",
+		"eng_sentence": "He tried to find a job.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я не понимал, почему он ненавидел это так сильно.",
+		"eng_sentence": "I didn't understand why he hated it so much.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Как долго длился один урок?",
+		"eng_sentence": "How long did one lesson last?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Я пользовался тем сервисом раньше.",
+		"eng_sentence": "I used that service earlier.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я скачал эти файлы.",
+		"eng_sentence": "I downloaded these files.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Ты изучал английский в университете?",
+		"eng_sentence": "Did you study English at university?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Мне нужно было сделать это немедленно.",
+		"eng_sentence": "I needed to do it immediately.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я пытался понять это.",
+		"eng_sentence": "I tried to understand it.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Она вернулась раньше.",
+		"eng_sentence": "She returned earlier. / She came back earlier.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я не думаю, что это действительно помогло мне.",
+		"eng_sentence": "I don't think that it really helped me.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я решил использовать этот сервис.",
+		"eng_sentence": "I decided to use this service.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Ты исправил эти ошибки?",
+		"eng_sentence": "Did you correct these mistakes?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я хотел достичь этой цели.",
+		"eng_sentence": "I wanted to achieve this aim.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я не отмечал этот праздник.",
+		"eng_sentence": "I didn't celebrate this holiday.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Что ты заказал в этом ресторане?",
+		"eng_sentence": "What did you order in this restaurant?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Что ты ел в этом ресторане?",
+		"eng_sentence": "What did you eat in this restaurant?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Что ты заказал в этом магазине?",
+		"eng_sentence": "What did you order in this shop?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я вернулся домой позже.",
+		"eng_sentence": "I returned home later.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Он вернулся в школу позже.",
+		"eng_sentence": "He returned to school later.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Они вернулись туда позже.",
+		"eng_sentence": "They returned there later.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Я не знаю, почему это случилось с нами.",
+		"eng_sentence": "I don't know why it happened to us.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Она не знает, почему это случилось с ней.",
+		"eng_sentence": "She doesn't know why it happened to her.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я не знал, почему это случилось со мной.",
+		"eng_sentence": "I didn't know why it happened to me.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Она не думает, что это ей помогло так сильно.",
+		"eng_sentence": "She doesn't think that it helped her so much.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Он не думает, что это ему так сильно помогло.",
+		"eng_sentence": "He doesn't think that it helped him so much.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я не думаю, что это помогло мне.",
+		"eng_sentence": "I don't think that it helped me.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Как долго длился один урок английского?",
+		"eng_sentence": "How long did one English lesson last?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Как долго длился этот урок английского?",
+		"eng_sentence": "How long did this English lesson last?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Как долго длились эти уроки английского?",
+		"eng_sentence": "How long did these English lessons last?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Ты добился своей цели?",
+		"eng_sentence": "Did you achieve your aim?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Ты добился этой цели?",
+		"eng_sentence": "Did you achieve this aim?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Она добилась своей цели?",
+		"eng_sentence": "Did she achieve her aim?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я скачал всё вчера.",
+		"eng_sentence": "I downloaded everything.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я скачал всё.",
+		"eng_sentence": "I downloaded everything.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я скачал это.",
+		"eng_sentence": "I downloaded it.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Она обычно покупала одежду онлайн.",
+		"eng_sentence": "She usually bought clothes online.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Она обычно заказывала всё онлайн.",
+		"eng_sentence": "She usually ordered everything online.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Мы всегда помогали друг другу.",
+		"eng_sentence": "We always helped each other.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Они всегда помогали друг другу.",
+		"eng_sentence": "They always helped each other.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Они всегда помогали нам.",
+		"eng_sentence": "They always helped us.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Это случилось со мной.",
+		"eng_sentence": "It happened to me.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Это случилось со мной однажды.",
+		"eng_sentence": "It happened to me one day.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Это случилось со мной вчера.",
+		"eng_sentence": "It happened to me yesterday.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Как ты отпраздновал свой день рождения?",
+		"eng_sentence": "How did you celebrate your birthday?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я исправил свои ошибки.",
+		"eng_sentence": "I corrected my mistakes.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я изучал английский в школе.",
+		"eng_sentence": "I studied English at school.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Ты согласился или нет?",
+		"eng_sentence": "Did you agree or not?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Он праздновал свой день рождения со своей семьей.",
+		"eng_sentence": "He celebrated his birthday with his family.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я достиг своей цели.",
+		"eng_sentence": "I achieved my aim.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Этот урок длился дольше.",
+		"eng_sentence": "This lesson lasted longer.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Как ты отметил этот праздник?",
+		"eng_sentence": "How did you celebrate this holiday?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я всё исправил.",
+		"eng_sentence": "I corrected everything.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Ты согласился сделать это?",
+		"eng_sentence": "Did you agree to do it?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Мне нужно было сделать это срочно.",
+		"eng_sentence": "I needed to do it urgently.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Ты скачал эту программу?",
+		"eng_sentence": "Did you download this program?",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я праздновал свой день рождения со своими друзьями.",
+		"eng_sentence": "I celebrated my birthday with my friends.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я часто пользовался интернетом, когда жил там.",
+		"eng_sentence": "I often used the Internet when I lived there.",
+		"lesson": "36",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Он согласился помочь тебе?",
+		"eng_sentence": "Did he agree to help you?",
+		"lesson": "36",
+		"difficulty": ""
+	}
+]
