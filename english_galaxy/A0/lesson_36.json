@@ -520,7 +520,7 @@
 	{	
 		"id": 75,
 		"rus_sentence": "Я скачал всё вчера.",
-		"eng_sentence": "I downloaded everything.",
+		"eng_sentence": "I downloaded everything yesterday.",
 		"lesson": "36",
 		"difficulty": ""
 	},
