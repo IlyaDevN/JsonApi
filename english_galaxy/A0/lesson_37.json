@@ -1,0 +1,716 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я присел.",
+		"eng_sentence": "I sat down.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Ты сделал свою домашнюю работу?",
+		"eng_sentence": "Did you do your homework?",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я катался на лошади.",
+		"eng_sentence": "I rode a horse.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Они полетели в Соединённые Штаты.",
+		"eng_sentence": "They flew to the United States.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Он съел эту пиццу.",
+		"eng_sentence": "He ate this pizza.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он спал слишком много.",
+		"eng_sentence": "He slept too much.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Я водил машину вчера.",
+		"eng_sentence": "I drove a car yesterday.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Он сломал свою ручку.",
+		"eng_sentence": "He broke his pen.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я прочитал всю эту книгу.",
+		"eng_sentence": "I read all this book.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Он сказал это очень громко.",
+		"eng_sentence": "He said it very loudly.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Она чувствовала себя очень грустной.",
+		"eng_sentence": "She felt very sad.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Он бежал очень быстро.",
+		"eng_sentence": "He ran very fast.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Я сел в кресло.",
+		"eng_sentence": "I sat in an armchair.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Ты показал очень хорошие результаты.",
+		"eng_sentence": "You showed very good results.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Сколько денег ты потратил на это?",
+		"eng_sentence": "How much money did you spend on it?",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Его машина сломалась.",
+		"eng_sentence": "His car broke down.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Ты водил машину на прошлой неделе?",
+		"eng_sentence": "Did you drive a car last week?",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Ты спал достаточно?",
+		"eng_sentence": "Did you sleep enough?",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я съел все.",
+		"eng_sentence": "I ate everything.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я прочитал эту книгу.",
+		"eng_sentence": "I read this book.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он спел свою любимую песню.",
+		"eng_sentence": "He sang his favourite song.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Она пела так красиво.",
+		"eng_sentence": "She sang so beautifully.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Как ты проводил своё свободное время?",
+		"eng_sentence": "How did you spend your free time?",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Я забыл это.",
+		"eng_sentence": "I forgot it.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я сел.",
+		"eng_sentence": "I sat down.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я забыл его имя.",
+		"eng_sentence": "I forgot his name.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Как ты себя чувствовал?",
+		"eng_sentence": "How did you feel?",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Ты сделал свою домашнюю работу?",
+		"eng_sentence": "Did you do your homework?",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Я не получил твоё сообщение.",
+		"eng_sentence": "I didn't get your message.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я сел на стул.",
+		"eng_sentence": "I sat on a chair.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Я получил это сообщение.",
+		"eng_sentence": "I got this message.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Что ты ел на обед?",
+		"eng_sentence": "What did you eat for lunch?",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я побежал туда.",
+		"eng_sentence": "I ran there.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Ты сделал это очень хорошо.",
+		"eng_sentence": "You did it very well.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Они занимались бизнесом.",
+		"eng_sentence": "They did business.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я спал слишком мало.",
+		"eng_sentence": "I slept to little.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Как ты провёл прошлое лето?",
+		"eng_sentence": "How did you spend last summer?",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Она съела торт.",
+		"eng_sentence": "She ate a cake.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Он показал мне эту вещь.",
+		"eng_sentence": "He showed me this thing.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я потратил все свои деньги на это.",
+		"eng_sentence": "I spent all my money on it.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я прочитал ту статью.",
+		"eng_sentence": "I read that article.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Что он ел на ужин?",
+		"eng_sentence": "What did he eat for dinner?",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Он чувствовал себя таким несчастным.",
+		"eng_sentence": "He felt so unhappy.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я чувствовал себя таким счастливым.",
+		"eng_sentence": "I felt so happy.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Мы были очень счастливы, потому что он чувствовал себя намного лучше.",
+		"eng_sentence": "We were very happy because he felt much better.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Он ел мясо.",
+		"eng_sentence": "He ate meat.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я сказал, что это было очень хорошо.",
+		"eng_sentence": "I said that it was very good.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я хранил этот секрет.",
+		"eng_sentence": "I kept this secret.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я сказал, что мне понравилась та идея.",
+		"eng_sentence": "I said that I liked that idea.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Эта машина сломалась внезапно.",
+		"eng_sentence": "This car broke down suddenly.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я сдержал это обещание.",
+		"eng_sentence": "I kept this promise.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я катался на лошади.",
+		"eng_sentence": "I rode a horse.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я знал, почему она чувствовала себя такой счастливой.",
+		"eng_sentence": "I knew why she felt so happy.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Она улетела в Великобританию.",
+		"eng_sentence": "She flew to the UK (the United Kingdom).",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я получил письмо от них.",
+		"eng_sentence": "I got a letter from them.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Она резала цветы.",
+		"eng_sentence": "She cut flowers.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я катался на велосипеде вчера.",
+		"eng_sentence": "I rode a bike yesterday.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я съел яблоко.",
+		"eng_sentence": "I ate an apple.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Он порезал свой палец.",
+		"eng_sentence": "He cut his finger.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Он улетел обратно в Россию.",
+		"eng_sentence": "He flew back to Russia.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Она улетела обратно в Англию.",
+		"eng_sentence": "She flew back to England.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Он порезался.",
+		"eng_sentence": "He cut himself.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Она порезалась.",
+		"eng_sentence": "She cut herself.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Она разрезала этот торт.",
+		"eng_sentence": "She cut this cake.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я разрезал эти торты.",
+		"eng_sentence": "I cut these cakes.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Мы не разрезали торт.",
+		"eng_sentence": "We didn't cut the cake.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я забыл, как это сделать.",
+		"eng_sentence": "I forgot how to do it.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Он забыл, как сказать это.",
+		"eng_sentence": "He forgot how to say it.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Мы не забыли сделать это.",
+		"eng_sentence": "We didn't forget to do it.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Я сказал, что это было очень важно.",
+		"eng_sentence": "I said that it was very important.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Он сказал, что это было очень полезно.",
+		"eng_sentence": "He said that it was very useful.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Они сказали, что это было не очень важно.",
+		"eng_sentence": "They said that it wasn't very important.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Он не сдержал это обещание.",
+		"eng_sentence": "He didn't keep this promise.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Она не сдержала тот секрет.",
+		"eng_sentence": "She didn't keep that secret.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я летал в Великобританию.",
+		"eng_sentence": "I flew to the UK.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я не летал в Великобританию.",
+		"eng_sentence": "I didn't fly to the UK.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я летел в Англию.",
+		"eng_sentence": "I flew to England.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Он ехал на верблюде.",
+		"eng_sentence": "He rode a camel.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Он ехал на лошади.",
+		"eng_sentence": "He rode a horse.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Она не каталась на верблюде.",
+		"eng_sentence": "She didn't ride a camel.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Он держал свои деньги в банке.",
+		"eng_sentence": "He kept his money in a bank.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Она держала свои деньги дома.",
+		"eng_sentence": "She kept her money at home.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Он не держал эти деньги в банке.",
+		"eng_sentence": "He didn't keep his money in a bank.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я летал в Лондон.",
+		"eng_sentence": "I flew to London.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Он летал в Лондон.",
+		"eng_sentence": "He flew to London.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я не летал в эту страну.",
+		"eng_sentence": "I didn't fly to this country.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я не понимал, почему она чувствовала себя такой несчастной.",
+		"eng_sentence": "I didn't understand why she felt so unhappy.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Мы видели, что он чувствовал себя таким счастливым.",
+		"eng_sentence": "We saw that he felt so happy.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Он вёл машину очень быстро и мне это не нравилось.",
+		"eng_sentence": "He drove a car very fast and I didn't like it.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я съел немного рыбы.",
+		"eng_sentence": "I ate some fish.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Её машина сломалась на прошлой неделе.",
+		"eng_sentence": "Her car broke down last week.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я не знал, почему он чувствовал себя таким несчастным.",
+		"eng_sentence": "I didn't know why he felt so unhappy.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я делал это регулярно.",
+		"eng_sentence": "I did it regularly.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Он улетел за границу.",
+		"eng_sentence": "He flew abroad.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я не знал, почему ей было так грустно.",
+		"eng_sentence": "I didn't know why she felt so sad.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Ты сделал это идеально.",
+		"eng_sentence": "You did it perfectly.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я показал лучший результат.",
+		"eng_sentence": "I showed the best result.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Она не сохранила этот секрет.",
+		"eng_sentence": "She didn't keep this secret.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Как ты обычно проводил своё свободное время, когда ты был ребёнком?",
+		"eng_sentence": "How did you usually spend your free time when you were a child?",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Я полетел туда.",
+		"eng_sentence": "I flew there.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Они полетели в Соединённые Штаты.",
+		"eng_sentence": "They flew to the United States.",
+		"lesson": "37",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Он дал мне этот совет.",
+		"eng_sentence": "He gave me this advice.",
+		"lesson": "37",
+		"difficulty": ""
+	}
+]
