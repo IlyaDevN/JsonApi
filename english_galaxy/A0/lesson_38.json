@@ -1,0 +1,716 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я проснулся очень поздно.",
+		"eng_sentence": "I woke up very late.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я встал в 8 часов утра.",
+		"eng_sentence": "I got up at eight o'clock in the morning.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Он проснулся очень рано.",
+		"eng_sentence": "He woke up very early.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Я взял деньги с собой.",
+		"eng_sentence": "I took money with me.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Это стоило слишком много.",
+		"eng_sentence": "It cost to much.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я выиграл в том чемпионате.",
+		"eng_sentence": "I won that championship.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Это стоило много.",
+		"eng_sentence": "It cost a lot.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Когда начался этот урок?",
+		"eng_sentence": "When did this lessons begin?",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Он заплатил за неё.",
+		"eng_sentence": "He paid for her.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Я не знал этого слова.",
+		"eng_sentence": "I didn't know this word.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я выиграл в этом соревновании.",
+		"eng_sentence": "I won this competition.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Что это означало?",
+		"eng_sentence": "What did it mean?",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Это стоило слишком мало.",
+		"eng_sentence": "It cost too little.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я пошёл на работу.",
+		"eng_sentence": "I went to work.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Он часто ходил в кино.",
+		"eng_sentence": "He often went to the cinema.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Что ты имел в виду?",
+		"eng_sentence": "What did you mean?",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Они построили мост.",
+		"eng_sentence": "They built a bridge.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Ты выиграл в том конкурсе?",
+		"eng_sentence": "Did you win that competition?",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Этот бумажник стоил очень мало.",
+		"eng_sentence": "This wallet cost very little.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я взял эти деньги.",
+		"eng_sentence": "I took this money.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Мы выиграли в этом чемпионате.",
+		"eng_sentence": "We won this championship.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я нашёл свои ключи.",
+		"eng_sentence": "I found my keys.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я знал это очень хорошо.",
+		"eng_sentence": "I knew it very well.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Они пошли в школу.",
+		"eng_sentence": "They went to school.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это стоило так много.",
+		"eng_sentence": "It cost so much.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Извини, я не понял тебя.",
+		"eng_sentence": "Sorry, I didn't understand you.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Она потеряла свою сумку.",
+		"eng_sentence": "She lost her bag.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Извини, я не понял этого.",
+		"eng_sentence": "Sorry, I didn't understand it.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Я не знал эту фразу.",
+		"eng_sentence": "I didn't know this phrase.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Он пошёл в университет.",
+		"eng_sentence": "He went to university.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Я нашёл свою сумку.",
+		"eng_sentence": "I found my bag.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я не понял это предложение.",
+		"eng_sentence": "I didn't understand this sentence.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Во сколько ты вчера встал?",
+		"eng_sentence": "What time did you get up yesterday?",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Я принял его предложение с большим удовольствием.",
+		"eng_sentence": "I took his offer with great pleasure.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Этот урок начался.",
+		"eng_sentence": "This lesson began / started.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он поехал в Индию.",
+		"eng_sentence": "He went to India.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я поехал в Соединённое Королевство.",
+		"eng_sentence": "I went to the United Kingdom.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Они построили дом.",
+		"eng_sentence": "They built a house.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я пошёл домой после работы.",
+		"eng_sentence": "I went home after work.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Ты видел её вчера?",
+		"eng_sentence": "Did you see her yesterday?",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это принесло ему очень большие деньги.",
+		"eng_sentence": "It brought him very big money.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Он потерял свой кошелёк.",
+		"eng_sentence": "He lost his wallet.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Он не мог найти эту информацию онлайн.",
+		"eng_sentence": "He couldn't find this information online.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Они говорили очень тихо.",
+		"eng_sentence": "They spoke very quietly.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Мой друг стал программистом.",
+		"eng_sentence": "My friend became a programmer.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Я часто видел её на работу.",
+		"eng_sentence": "I often saw her at work.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Она стала юристом.",
+		"eng_sentence": "She became a lawyer.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Во сколько ты проснулся вчера?",
+		"eng_sentence": "What time did you wake up yesterday?",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Она преподавала это предмет в школе.",
+		"eng_sentence": "She taught this subject at school.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Она преподавала математику в университете.",
+		"eng_sentence": "She taught maths at university.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я заплатил за эту услугу.",
+		"eng_sentence": "I paid for this service.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Ты выбрал правильный ответ.",
+		"eng_sentence": "You chose the correct answer.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я думаю, он знал это лучше.",
+		"eng_sentence": "I think he knew it better.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Он сказал это очень тихо.",
+		"eng_sentence": "He said it very quietly.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Это означало другую вещь.",
+		"eng_sentence": "It meant another thing.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Он говорил очень громко.",
+		"eng_sentence": "He spoke very loudly.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Наш учитель сказал это очень громко.",
+		"eng_sentence": "Our teacher said it very loudly.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я не мог найти свои ключи.",
+		"eng_sentence": "I couldn't find my keys.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Он не мог найти свои деньги.",
+		"eng_sentence": "He couldn't find his money.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Она не могла найти свои ключи.",
+		"eng_sentence": "She couldn't find her keys.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я не знал, что выбрать.",
+		"eng_sentence": "I didn't know what to choose.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Ты не знал, что ответить.",
+		"eng_sentence": "You didn't know what to answer.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Мы не знали, что выбрать.",
+		"eng_sentence": "We didn't know what to choose.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я проснулся вчера слишком поздно.",
+		"eng_sentence": "I woke up too late yesterday.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Она встала очень поздно.",
+		"eng_sentence": "She got up very late.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Ты проснулся вчера поздно.",
+		"eng_sentence": "You woke up late yesterday.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Его родители платили за его образование.",
+		"eng_sentence": "His parents paid for his education.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Его мама заплатила за машину прошлой осенью.",
+		"eng_sentence": "His mother paid for the car last autumn.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Её родители платили за её образование.",
+		"eng_sentence": "Her parents paid for her education.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Он хотел стать юристом.",
+		"eng_sentence": "He wanted to become a lawyer.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я хотел стать врачом.",
+		"eng_sentence": "I wanted to become a doctor.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Он стал программистом прошлой весной.",
+		"eng_sentence": "He became a programmer last spring.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Я проснулся слишком рано.",
+		"eng_sentence": "I woke up too early.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Она проснулась так рано.",
+		"eng_sentence": "She woke up so early.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он проснулся слишком рано.",
+		"eng_sentence": "He woke up too early.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я знал, что делать.",
+		"eng_sentence": "I knew what to do.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я знал, что сказать.",
+		"eng_sentence": "I knew what to say.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Мы не знали, что сказать.",
+		"eng_sentence": "We didn't know what to say.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я не выбрал другой ответ .",
+		"eng_sentence": "I didn't choose another answer.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я выбрал первый ответ.",
+		"eng_sentence": "I chose the first answer.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Мы выбрали другой отель.",
+		"eng_sentence": "We chose another hotel.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я не смог найти свою сумку.",
+		"eng_sentence": "I couldn't find my bag.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Он не мог найти свою машину.",
+		"eng_sentence": "He couldn't find his car.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Она не могла найти твою сумку.",
+		"eng_sentence": "She couldn't find your bag.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Ты заплатил за это?",
+		"eng_sentence": "Did you pay for it?",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Он заплатил за это?",
+		"eng_sentence": "Did he pay for it?",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Мы заплатили за эту еду?",
+		"eng_sentence": "Did we pay for this food?",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я не мог этого понять.",
+		"eng_sentence": "I couldn't understand it.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Она преподавала математику в школе.",
+		"eng_sentence": "She taught mathematics / maths at school.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я понял это правило.",
+		"eng_sentence": "I understood this rule.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я выбрал правильный ответ.",
+		"eng_sentence": "I chose the right answer.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Она стала учителем.",
+		"eng_sentence": "She became a teacher.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Он стал певцом.",
+		"eng_sentence": "He became a singer.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Это означало одну очень интересную вещь.",
+		"eng_sentence": "It meant one very interesting thing.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я решил заплатить за это позже.",
+		"eng_sentence": "I decided to pay for it later.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Мы выбрали третий ответ.",
+		"eng_sentence": "We chose the third answer.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Она стала актрисой.",
+		"eng_sentence": "She became an actress.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я потерял свои ключи и я не смог их найти.",
+		"eng_sentence": "I lost my keys and I couldn't find them.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я выбрал второй ответ.",
+		"eng_sentence": "I chose the second answer.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Я не знал, что делать в той ситуации.",
+		"eng_sentence": "I didn't know what to do in that situation.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Он выбрал неверный ответ.",
+		"eng_sentence": "He chose the wrong answer.",
+		"lesson": "38",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Я не платил за свою учёбу.",
+		"eng_sentence": "I didn't pay for my studies.",
+		"lesson": "38",
+		"difficulty": ""
+	}
+]
