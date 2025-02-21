@@ -51,7 +51,7 @@
 	{	
 		"id": 8,
 		"rus_sentence": "Когда начался этот урок?",
-		"eng_sentence": "When did this lessons begin?",
+		"eng_sentence": "When did this lesson begin?",
 		"lesson": "38",
 		"difficulty": ""
 	},
@@ -316,7 +316,7 @@
 	},
 	{	
 		"id": 46,
-		"rus_sentence": "Я часто видел её на работу.",
+		"rus_sentence": "Я часто видел её на работе.",
 		"eng_sentence": "I often saw her at work.",
 		"lesson": "38",
 		"difficulty": ""
@@ -337,7 +337,7 @@
 	},
 	{	
 		"id": 49,
-		"rus_sentence": "Она преподавала это предмет в школе.",
+		"rus_sentence": "Она преподавала этот предмет в школе.",
 		"eng_sentence": "She taught this subject at school.",
 		"lesson": "38",
 		"difficulty": ""
@@ -547,7 +547,7 @@
 	},
 	{	
 		"id": 79,
-		"rus_sentence": "Я не выбрал другой ответ .",
+		"rus_sentence": "Я не выбрал другой ответ.",
 		"eng_sentence": "I didn't choose another answer.",
 		"lesson": "38",
 		"difficulty": ""
