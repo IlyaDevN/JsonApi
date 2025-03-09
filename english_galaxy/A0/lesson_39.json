@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я купил килограмм яблок.",
+		"eng_sentence": "I bought a kilo of apples.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Он встал, и затем он сел.",
+		"eng_sentence": "He stood up and then he sat down.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я написал это на бумаге.",
+		"eng_sentence": "I wrote it on paper.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Он сел.",
+		"eng_sentence": "He sat down.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я слышал это тоже.",
+		"eng_sentence": "I heard it, too.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он пил молоко.",
+		"eng_sentence": "He drank milk.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Она отправила нам копию.",
+		"eng_sentence": "She sent us a copy.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Он выпил немного воды.",
+		"eng_sentence": "He drank some water.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Они продавали очень дорогие товары.",
+		"eng_sentence": "The sold very expensive goods.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Он сделал ошибку.",
+		"eng_sentence": "He made a mistake.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Он пришёл домой поздно.",
+		"eng_sentence": "He came home late.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Он написал письмо.",
+		"eng_sentence": "He wrote a letter.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Где ты встретил её?",
+		"eng_sentence": "Where did you meet her?",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "У него был вопрос.",
+		"eng_sentence": "He had a question.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Она продала свой дом.",
+		"eng_sentence": "She sold her house.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я отправил ей письмо.",
+		"eng_sentence": "I sent her a letter.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Они сделали несколько ошибок.",
+		"eng_sentence": "They made some mistakes.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Он рассказал мне всё.",
+		"eng_sentence": "He told me everything.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он тоже пришёл на вечеринку.",
+		"eng_sentence": "He also came to the party.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Они пили сок.",
+		"eng_sentence": "They drank juice.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "У меня была одна интересная идея.",
+		"eng_sentence": "I had one interesting idea.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я купил там немного еды.",
+		"eng_sentence": "I bought some food there.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я положил это сюда.",
+		"eng_sentence": "I put it here.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Она продавала дешёвые вещи.",
+		"eng_sentence": "She sold cheap things.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Она положила это туда.",
+		"eng_sentence": "She put it there.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Он сделал слишком много ошибок.",
+		"eng_sentence": "He made too many mistakes.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я написал и-мейл.",
+		"eng_sentence": "I wrote an email.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Он купил квартиру.",
+		"eng_sentence": "He bought an apartment.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Я отправил ей копию.",
+		"eng_sentence": "I sent her a copy.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я встретил её в том месте.",
+		"eng_sentence": "I met her in that place.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Он продавал дорогую одежду.",
+		"eng_sentence": "He sold expensive clothes.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я выучил все эти слова.",
+		"eng_sentence": "I learnt all these words.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Этот мальчик упал.",
+		"eng_sentence": "This boy fell.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Я всё понял.",
+		"eng_sentence": "I understood everything.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Я встал.",
+		"eng_sentence": "I stood up.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он написал книгу.",
+		"eng_sentence": "He wrote a book.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Он встал.",
+		"eng_sentence": "He stood up.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Я купил машину.",
+		"eng_sentence": "I bought a car.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Как ты выучил китайский?",
+		"eng_sentence": "How did you learn Chinese?",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Она не пришла на ту вечеринку.",
+		"eng_sentence": "She didn't come to that party.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Она сказала мне это.",
+		"eng_sentence": "She told me it.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Я купил немного яблок.",
+		"eng_sentence": "I bought some apples.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я выучил английский онлайн.",
+		"eng_sentence": "I learnt English online.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я все понял очень легко.",
+		"eng_sentence": "I understood everything very easily.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я обнаружил несколько новых слов в этом тексте.",
+		"eng_sentence": "I discovered some new words in this text.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Я выпил чашку чая.",
+		"eng_sentence": "I drank a cup of tee.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я купил килограмм яблок.",
+		"eng_sentence": "I bought a kilo of apples.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я мог сделать это очень легко вчера.",
+		"eng_sentence": "I could do it very easily yesterday.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Мы купили килограмм бананов.",
+		"eng_sentence": "We bought a kilo of bananas.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я оставил свою сумку дома.",
+		"eng_sentence": "I left my bag at home.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Он оставил свои ключи в том месте.",
+		"eng_sentence": "He left his keys in that place.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я обнаружил там так много новых слов.",
+		"eng_sentence": "I discovered so many new words there.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Эта девушка упала на пол.",
+		"eng_sentence": "This girl fell on the floor.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я положил это на письменный стол.",
+		"eng_sentence": "I put it on the desk.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Он рассказал мне, как это сделать.",
+		"eng_sentence": "He told me how to do it.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я ушёл из дома очень рано.",
+		"eng_sentence": "I left home very early.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я положил это под эту коробку.",
+		"eng_sentence": "I put it under this box.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я купил два килограмма картошки.",
+		"eng_sentence": "I bought two kilos of potatoes.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я встал, а затем сел.",
+		"eng_sentence": "I stood up and then I sat down.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Он сел, а затем он встал.",
+		"eng_sentence": "He sat down and then he stood up.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Она не встала.",
+		"eng_sentence": "She didn't stand up.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Он положил это на стол.",
+		"eng_sentence": "He put it on the table.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Я не клал это туда.",
+		"eng_sentence": "I didn't put it there.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Она положила это на стол.",
+		"eng_sentence": "She put it on the table.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Он положил это на его стол.",
+		"eng_sentence": "He put it on his table.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Это яблоко упало с дерева.",
+		"eng_sentence": "This apple fell from the tree.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Эти яблоки упали с дерева.",
+		"eng_sentence": "These apples fell from the tree.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Эти бананы не падали с дерева.",
+		"eng_sentence": "These bananas didn't fall from the tree.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я купил один апельсин.",
+		"eng_sentence": "I bought one orange.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Он купил два яблока.",
+		"eng_sentence": "He bought two apples.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Она купила пять бананов.",
+		"eng_sentence": "She bought five bananas.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Я не плавал в море.",
+		"eng_sentence": "I didn't swim in the sea.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Я плавал в озере.",
+		"eng_sentence": "I swam in the lake.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Он плавает в море каждый день.",
+		"eng_sentence": "He swims in the sea every day.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Она не могла поверить этому.",
+		"eng_sentence": "She couldn't believe it.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Он мог поверить мне.",
+		"eng_sentence": "He could believe me.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Она не могла поверить ему.",
+		"eng_sentence": "She couldn't believe him.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я хотел плавать в море.",
+		"eng_sentence": "I wanted to swim in the sea.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Он хотел плавать в океане.",
+		"eng_sentence": "He wanted to swim in the ocean.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я не хотел плавать там.",
+		"eng_sentence": "I didn't want to swim there.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Я выучил эти слова очень легко.",
+		"eng_sentence": "I learnt these words very easily.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я не выучил эти правила.",
+		"eng_sentence": "I didn't learn these rules.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Она выучила много новых слов там.",
+		"eng_sentence": "She learnt many new words there.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я слышал это по телевизору тоже.",
+		"eng_sentence": "I heard it on TV, too.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Я также слышал это по телевизору.",
+		"eng_sentence": "I also heard it on TV.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я мог тратить всё своё свободное время на это.",
+		"eng_sentence": "I could spend all my free time on it.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он не умел плавать.",
+		"eng_sentence": "He couldn't swim.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я хотел выпить немного воды.",
+		"eng_sentence": "I wanted to drink some water.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я мог понимать всё очень легко.",
+		"eng_sentence": "I could understand everything very easily.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Сколько ошибок она сделала?",
+		"eng_sentence": "How many mistakes did she make?",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Она положила это под свой стол.",
+		"eng_sentence": "She put it under her table.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я положил это на пол.",
+		"eng_sentence": "I put it on the floor.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я не хотел покупать это в том магазине.",
+		"eng_sentence": "I didn't want to buy it in that shop.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я выпил стакан сока.",
+		"eng_sentence": "I drank a glass of juice.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Он не пил вино.",
+		"eng_sentence": "He didn't drink wine.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Он написал это на бумаге.",
+		"eng_sentence": "He wrote it on paper.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я положил это около моего компьютера.",
+		"eng_sentence": "I put it near my computer.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я не хотел пить пиво.",
+		"eng_sentence": "I didn't want to drink beer.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я написал это на бумаге.",
+		"eng_sentence": "I wrote it on paper.",
+		"lesson": "39",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Он выпил чашку кофе.",
+		"eng_sentence": "He drank a cup of coffee.",
+		"lesson": "39",
+		"difficulty": ""
+	}
+]
