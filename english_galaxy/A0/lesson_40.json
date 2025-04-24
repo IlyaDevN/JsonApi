@@ -1,0 +1,716 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Ты был прав.",
+		"eng_sentence": "You were right.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Это было хорошо.",
+		"eng_sentence": "It was good.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Она была так добра к нам.",
+		"eng_sentence": "She was so kind to us.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Мы были там днём.",
+		"eng_sentence": "We were there in the afternoon.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Это было вечером.",
+		"eng_sentence": "It was in the evening.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он был там утром.",
+		"eng_sentence": "He was there in the morning.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Он был очень известным.",
+		"eng_sentence": "He was very famous.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Это была проблема.",
+		"eng_sentence": "It was a problem.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Они были очень голодные.",
+		"eng_sentence": "They were very hungry.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Он был очень занят.",
+		"eng_sentence": "He was very busy.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Это было очень плохо.",
+		"eng_sentence": "It was very bad.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я думаю ты был прав.",
+		"eng_sentence": "I think you were right.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Это было хорошо.",
+		"eng_sentence": "It was good.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Они были в другом месте.",
+		"eng_sentence": "They were in another place.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Он был так зол.",
+		"eng_sentence": "He was so angry.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я был дома.",
+		"eng_sentence": "I was at home.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Это было так скучно.",
+		"eng_sentence": "It was so boring.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Он был болен.",
+		"eng_sentence": "He was ill.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Было очень опасно в том месте.",
+		"eng_sentence": "It was very dangerous in that place.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Ему было действительно жаль.",
+		"eng_sentence": "He was really sorry.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я был на работу.",
+		"eng_sentence": "I was at work.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Это было очень интересно мне.",
+		"eng_sentence": "It was very interesting for me.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Она была больна на прошлой неделе.",
+		"eng_sentence": "She was ill last week.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Мне было действительно жаль.",
+		"eng_sentence": "I was really sorry.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Там было очень опасно.",
+		"eng_sentence": "It was very dangerous there.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Она была очень голодная.",
+		"eng_sentence": "She was very hungry.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Он был директором.",
+		"eng_sentence": "He was a director.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Это была ошибка.",
+		"eng_sentence": "It was a mistake.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Они были нашими  гостями.",
+		"eng_sentence": "They were our guests.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Это было так сложно.",
+		"eng_sentence": "It was so difficult.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Она была так добра к ним.",
+		"eng_sentence": "She was so kind to them.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Это было действительно замечательно.",
+		"eng_sentence": "It was really wonderful.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я был за границей прошлым летом.",
+		"eng_sentence": "I was abroad last summer.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Это было так хорошо.",
+		"eng_sentence": "It was so good.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Она была очень известной.",
+		"eng_sentence": "She was very famous.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он был в Англии на прошлой неделе.",
+		"eng_sentence": "He was in England last week.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Мы были так счастливы.",
+		"eng_sentence": "We were so happy.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Она была действительно зла.",
+		"eng_sentence": "She was really angry.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Это было так интересно.",
+		"eng_sentence": "It was so interesting.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я был в другой стране прошлой зимой.",
+		"eng_sentence": "I was in another country last winter.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это было замечательно.",
+		"eng_sentence": "It was wonderful.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Он был нашим директором.",
+		"eng_sentence": "He was our director.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это было очень легко.",
+		"eng_sentence": "It was very easy.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Она была в Соединённых Штатах в прошлом месяце.",
+		"eng_sentence": "She was in the United states last month.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Ты был абсолютно прав.",
+		"eng_sentence": "You were absolutely right.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Это было действительно скучно.",
+		"eng_sentence": "It was really boring.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Она была так добра к ней.",
+		"eng_sentence": "She was so kind to her.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Это был подарок для него.",
+		"eng_sentence": "It was a gift (present) for him.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Он боялся этого.",
+		"eng_sentence": "He was afraid of it.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Это были очень большие деньги.",
+		"eng_sentence": "It was very big money.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я думаю, это было нормально.",
+		"eng_sentence": "I think it was normal (OK / all right).",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Это был подарок для неё.",
+		"eng_sentence": "It was a gift (present) for her.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Мы были там днём.",
+		"eng_sentence": "We were there in the afternoon.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Это было проблемой для него.",
+		"eng_sentence": "It was a problem for him.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Она думает, это было что-то особенное.",
+		"eng_sentence": "She thinks it was something special.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Это было ужасно.",
+		"eng_sentence": "It was terrible.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Это было вечером.",
+		"eng_sentence": "It was in the evening.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Он думает, это было действительно ужасно.",
+		"eng_sentence": "He thinks it was really terrible.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Это был его подарок.",
+		"eng_sentence": "I was his gift (present).",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Она была такой уставшей вчера.",
+		"eng_sentence": "She was so tired yesterday.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Это был лучший результат.",
+		"eng_sentence": "It was the best result.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Это был мой подарок.",
+		"eng_sentence": "I was my gift (present).",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Это был мой первый подарок.",
+		"eng_sentence": "It was my first gift (present).",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я отсутствовал на прошлой неделе.",
+		"eng_sentence": "I was away last week.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Она отсутствовала в прошлый вторник.",
+		"eng_sentence": "She was away last Tuesday.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Они отсутствовали в прошлом месяце.",
+		"eng_sentence": "They were away last month.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я думаю, это было лучше.",
+		"eng_sentence": "I think it was better.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Она думает, это было очень хорошо.",
+		"eng_sentence": "She thinks it was very good.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Они думают, это было очень плохо.",
+		"eng_sentence": "They think it was very bad.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Он был уставшим.",
+		"eng_sentence": "He was tired.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Они действительно устали.",
+		"eng_sentence": "They were really tired.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Я был очень уставшим.",
+		"eng_sentence": "I was very tired.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Это было худшее решение.",
+		"eng_sentence": "It was the worst decision.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Это было ваше худшее решение.",
+		"eng_sentence": "It was your worsts decision.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он отсутствовал вчера.",
+		"eng_sentence": "He was absent yesterday.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Они отсутствовали в прошлую среду.",
+		"eng_sentence": "They were absent last Wednesday.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Она отсутствовала в школе вчера.",
+		"eng_sentence": "She was absent from school yesterday.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Её не было.",
+		"eng_sentence": "She was out.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Его не было.",
+		"eng_sentence": "He was out.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Их не было.",
+		"eng_sentence": "They were out.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Это был мой лучший результат.",
+		"eng_sentence": "It was my best result.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Это был мой худший результат.",
+		"eng_sentence": "It was my worst result.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Нас не было.",
+		"eng_sentence": "We were out.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Это был подарок для тебя.",
+		"eng_sentence": "It was a gift (present) for you.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Это был мой подарок.",
+		"eng_sentence": "It was my gift (present).",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Это была его машина.",
+		"eng_sentence": "It was his car.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Они были в отъезде.",
+		"eng_sentence": "They were away.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я думаю, это было ужасно.",
+		"eng_sentence": "I think it was terrible.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Мне кажется, что ты был прав.",
+		"eng_sentence": "It seems to me that you were right.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Это была деревня.",
+		"eng_sentence": "It was a village.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Это было утром.",
+		"eng_sentence": "It was in the morning.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я был не дома.",
+		"eng_sentence": "I was out.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Она присутствовала.",
+		"eng_sentence": "She was present.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Это был худший результат.",
+		"eng_sentence": "It was the worst result.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Она была действительно напугана.",
+		"eng_sentence": "She was really afraid.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Он был очень добр к нам.",
+		"eng_sentence": "He was very kind to us.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Это был худший выбор.",
+		"eng_sentence": "It was the worst choice.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Это было действительно ужасно.",
+		"eng_sentence": "It was really terrible.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я думаю, это было действительно плохо.",
+		"eng_sentence": "I think it was really bad.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Они боялись этих изменений.",
+		"eng_sentence": "They were afraid of these changes.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я был действительно счастлив.",
+		"eng_sentence": "I was really happy.",
+		"lesson": "40",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Мы были вместе целый день.",
+		"eng_sentence": "We were together all day.",
+		"lesson": "40",
+		"difficulty": ""
+	}
+]
