@@ -141,7 +141,7 @@
 	},
 	{	
 		"id": 21,
-		"rus_sentence": "Я был на работу.",
+		"rus_sentence": "Я был на работе.",
 		"eng_sentence": "I was at work.",
 		"lesson": "40",
 		"difficulty": ""
@@ -303,7 +303,7 @@
 	{	
 		"id": 44,
 		"rus_sentence": "Она была в Соединённых Штатах в прошлом месяце.",
-		"eng_sentence": "She was in the United states last month.",
+		"eng_sentence": "She was in the United States last month.",
 		"lesson": "40",
 		"difficulty": ""
 	},
@@ -408,7 +408,7 @@
 	{	
 		"id": 59,
 		"rus_sentence": "Это был его подарок.",
-		"eng_sentence": "I was his gift (present).",
+		"eng_sentence": "It was his gift (present).",
 		"lesson": "40",
 		"difficulty": ""
 	},
@@ -513,7 +513,7 @@
 	{	
 		"id": 74,
 		"rus_sentence": "Это было ваше худшее решение.",
-		"eng_sentence": "It was your worsts decision.",
+		"eng_sentence": "It was your worst decision.",
 		"lesson": "40",
 		"difficulty": ""
 	},
