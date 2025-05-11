@@ -29,7 +29,7 @@
 	},
 	{	
 		"id": 5,
-		"rus_sentence": "Я говорю по английски.",
+		"rus_sentence": "Я говорю по-английски.",
 		"eng_sentence": "I speak English.",
 		"lesson": "1",
 		"difficulty": ""
@@ -247,7 +247,7 @@
 	{	
 		"id": 36,
 		"rus_sentence": "Мне нравится это место.",
-		"eng_sentence": "I  like this place.",
+		"eng_sentence": "I like this place.",
 		"lesson": "1",
 		"difficulty": ""
 	},
