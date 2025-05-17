@@ -1,0 +1,660 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Она была замужем?",
+		"eng_sentence": "Was she married?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Ты был готов?",
+		"eng_sentence": "Were you ready?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Это было нормально для тебя?",
+		"eng_sentence": "Was it normal for you?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Он был прав?",
+		"eng_sentence": "Was he right?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Это было действительно дорого?",
+		"eng_sentence": "Was it really expensive?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Это было вчера?",
+		"eng_sentence": "Was it yesterday?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Он был действительно уверен?",
+		"eng_sentence": "Was he really sure?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Это было очень далеко?",
+		"eng_sentence": "Was it very far?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Это было странно?",
+		"eng_sentence": "Was it strange?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Это было действительно важно?",
+		"eng_sentence": "Was it really important?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Это было в прошлом веке?",
+		"eng_sentence": "Was it last century?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Ты был готов?",
+		"eng_sentence": "Were you ready?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Это было очень популярно?",
+		"eng_sentence": "Was it very popular?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Он был холост?",
+		"eng_sentence": "Was he single?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Это была игра?",
+		"eng_sentence": "Was it a game?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Ты был уверен?",
+		"eng_sentence": "Were you sure?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Это было на прошлой неделе?",
+		"eng_sentence": "Was it last week?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Он был твоим лучшим другом?",
+		"eng_sentence": "Was he your best friend?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Ты был действительно счастлив?",
+		"eng_sentence": "Were you really happy?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Они были в школе?",
+		"eng_sentence": "Were they at school?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Это было действительно интересно тебе?",
+		"eng_sentence": "Was it really interesting for you?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Ты был в университете?",
+		"eng_sentence": "Were you at university?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Она была замужем?",
+		"eng_sentence": "Was she married?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Это было действительно возможно?",
+		"eng_sentence": "Was it really possible?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Ты был очень занят в пятницу?",
+		"eng_sentence": "Were you very busy on Friday?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Это было дорого?",
+		"eng_sentence": "Was it expensive?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Они были очень хорошими учителями?",
+		"eng_sentence": "Were they very good teachers?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Это было интересно?",
+		"eng_sentence": "Was it interesting?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Ты был оптимистичен?",
+		"eng_sentence": "Were you optimistic?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Он был действительно зол?",
+		"eng_sentence": "Was he really angry?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Это было два века назад?",
+		"eng_sentence": "Was it to centuries ago?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Она была пессимистична?",
+		"eng_sentence": "Was she pessimistic?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Ты действительно был так оптимистичен?",
+		"eng_sentence": "Were you really so optimistic?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Это было действительно полезно для тебя?",
+		"eng_sentence": "Was it really useful for you?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Это было очень забавно?",
+		"eng_sentence": "Was it very funny?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Они были очень бедные?",
+		"eng_sentence": "Were they very poor?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я был прав?",
+		"eng_sentence": "Was I right?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Это было действительно итак?",
+		"eng_sentence": "Was it really so?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Он был очень занят в прошлый понедельник?",
+		"eng_sentence": "Was he very busy last Monday?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Он был слишком пессимистичен?",
+		"eng_sentence": "Was he too pessimistic?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это действительно было так сложно?",
+		"eng_sentence": "Was it really so difficult?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Она болела на прошлой неделе?",
+		"eng_sentence": "Was she ill last week?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это была здоровая еда?",
+		"eng_sentence": "Was it healthy food?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Это был неправильный ответ?",
+		"eng_sentence": "Was it the wrong answer?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Ты был рад этому?",
+		"eng_sentence": "Were you happy about it?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Он был в отпуске в прошлом месяце?",
+		"eng_sentence": "Was he on holiday last month?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Он был в аэропорту?",
+		"eng_sentence": "Was he at the airport?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Ты действительно был уставший?",
+		"eng_sentence": "Were you really tired?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Это было хорошо или плохо?",
+		"eng_sentence": "Was it good or bad?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Ты был в музее?",
+		"eng_sentence": "Were you in the museum?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Это было действительно так ужасно?",
+		"eng_sentence": "Was it really so terrible?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Это было дорого или нет?",
+		"eng_sentence": "Was it expensive or not?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Они были очень профессиональны?",
+		"eng_sentence": "Were they very professional?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Она действительно боялась этого?",
+		"eng_sentence": "Was she really afraid of it?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Это был правильный ответ?",
+		"eng_sentence": "Was it the correct answer?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Они часто бывали в том месте?",
+		"eng_sentence": "Were they often in that place?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Он был в ванной?",
+		"eng_sentence": "Was he in the bathroom?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Ты был в гостиной?",
+		"eng_sentence": "Were you in the living room?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Ты был на кухне?",
+		"eng_sentence": "Were you in the kitchen?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Он был в комнате?",
+		"eng_sentence": "Was he in the room?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Они были в своей комнате?",
+		"eng_sentence": "Were they in their room?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Она была на кухне?",
+		"eng_sentence": "Was she in the kitchen?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Он боялся?",
+		"eng_sentence": "Was he afraid?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Она действительно боялась?",
+		"eng_sentence": "Was she really afraid?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Они боялись?",
+		"eng_sentence": "Were they afraid?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Он был в гостиной?",
+		"eng_sentence": "Was he in the living room?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Ты был в театре?",
+		"eng_sentence": "Were you in the theatre?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Ты был в зоопарке?",
+		"eng_sentence": "Were you in the zoo?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он был в саду?",
+		"eng_sentence": "Was he in the garden?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Это была хорошая еда?",
+		"eng_sentence": "Was it good food?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Они были хорошими друзьями?",
+		"eng_sentence": "Were they good friends?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Ты был в отпуске на прошлой неделе?",
+		"eng_sentence": "Were you on holiday last week?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Они были в отпуске в прошлом году?",
+		"eng_sentence": "Were they on holiday last year?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Он был дома на прошлой неделе?",
+		"eng_sentence": "Was he at home last week?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Это был правильный ответ?",
+		"eng_sentence": "Was it the right answer?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Это был правильный вопрос?",
+		"eng_sentence": "Was it the right question?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Они были хорошими работниками?",
+		"eng_sentence": "Were they good workers?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Он был хорошим тренером?",
+		"eng_sentence": "Was he a good trainer?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Мы были хорошими учителями?",
+		"eng_sentence": "Were we good teachers?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Это было слишком легко для тебя?",
+		"eng_sentence": "Was it too easy for you?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Она была в театре?",
+		"eng_sentence": "Was she in the theatre?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Ты был рад своим результатом?",
+		"eng_sentence": "Were you happy about your result?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Она была в отпуске?",
+		"eng_sentence": "Was she on holiday?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Ты был уставшим?",
+		"eng_sentence": "Were you tired?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Вы часто были вместе?",
+		"eng_sentence": "Were you often together?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Это было дёшево или нет?",
+		"eng_sentence": "Was it cheap or not?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Она была в музее вчера?",
+		"eng_sentence": "Was she in the museum yesterday?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Ты был в саду?",
+		"eng_sentence": "Were you in the garden?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Это было рядом с этим местом?",
+		"eng_sentence": "Was it near this place?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Ты был готов к этому?",
+		"eng_sentence": "Were you ready for it?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Это было далеко отсюда?",
+		"eng_sentence": "Was it far from here?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Ты был в аэропорту?",
+		"eng_sentence": "Were you at the airport?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Это было эффективно или нет?",
+		"eng_sentence": "Was it effective or not?",
+		"lesson": "42",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Ты был в ванной?",
+		"eng_sentence": "Were you in the bathroom?",
+		"lesson": "42",
+		"difficulty": ""
+	}
+]
