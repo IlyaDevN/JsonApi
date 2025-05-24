@@ -1,0 +1,681 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Кто был твоим учителем?",
+		"eng_sentence": "Who was your teacher?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Где ты был вчера?",
+		"eng_sentence": "Where were you yesterday?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Где был твой учитель?",
+		"eng_sentence": "Where were your teacher?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Почему это было так необычно?",
+		"eng_sentence": "Why was it so unusual?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Как он был?",
+		"eng_sentence": "How was he?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Кто был твоим тренером?",
+		"eng_sentence": "Who was your trainer?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Где он был прошлой ночью?",
+		"eng_sentence": "Where was he last night?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Почему ты был там?",
+		"eng_sentence": "Why were you there?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Где это было?",
+		"eng_sentence": "Where was it?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Кто был прав?",
+		"eng_sentence": "Who was right?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Почему это было неправильно?",
+		"eng_sentence": "Why was it wrong?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Где ты был позавчера?",
+		"eng_sentence": "Where were you the day before yesterday?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Почему она была так расстроена?",
+		"eng_sentence": "Why was she so upset?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Почему ты был таким уставшим?",
+		"eng_sentence": "Why were you so tired?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Что было лучше?",
+		"eng_sentence": "What was better?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Когда вы были в Италии в последний раз?",
+		"eng_sentence": "When were you in Italy last time?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Почему это было так скучно?",
+		"eng_sentence": "Why was it so boring?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Когда ты был за границей в последний раз?",
+		"eng_sentence": "When were you abroad last time?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Когда ты был дома?",
+		"eng_sentence": "When were you at home?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Сколько это стоило?",
+		"eng_sentence": "How much was it? / How much did it cost?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Почему он был такой грустный?",
+		"eng_sentence": "Why was he so sad?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Когда ты был в этом городе в последний раз?",
+		"eng_sentence": "When were you in this city last time?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Где ты был в прошлом году?",
+		"eng_sentence": "Where were you last year?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Почему это было так дёшево?",
+		"eng_sentence": "Why was it so cheap?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Кто был с тобой?",
+		"eng_sentence": "Who was with you?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Они были хорошими студентами?",
+		"eng_sentence": "Were they good students?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Почему это было так важно?",
+		"eng_sentence": "Why was it so important?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Где он был вчера утром?",
+		"eng_sentence": "Where was he yesterday morning?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Как у неё были дела?",
+		"eng_sentence": "How was she?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Почему это было неправильно?",
+		"eng_sentence": "Why was it incorrect? / Why was it wrong?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Кто был неправ?",
+		"eng_sentence": "Who was wrong?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Что было так сложно для тебя?",
+		"eng_sentence": "What was so difficult for you?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Как это было?",
+		"eng_sentence": "How was it?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Что было так необычно для тебя?",
+		"eng_sentence": "What was so unusual for you?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Когда ты был болен?",
+		"eng_sentence": "When were you ill?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Почему это было так дорого?",
+		"eng_sentence": "Why was it so expensive?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Кто был с твоим братом?",
+		"eng_sentence": "Who was with your brother?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Почему ты был так счастлив?",
+		"eng_sentence": "Why were you so happy?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Когда ты был в Испании в последний раз?",
+		"eng_sentence": "When were you in Spain last time?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Почему он был так зол?",
+		"eng_sentence": "Why was he so angry?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Когда ты был там последний раз?",
+		"eng_sentence": "When were you there last time?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Как долго это было?",
+		"eng_sentence": "How long was it?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Сколько было времени?",
+		"eng_sentence": "What time was it?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Как далеко это было?",
+		"eng_sentence": "How far was it?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Какой ответ был правильным?",
+		"eng_sentence": "Which answer was correct?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Что было в углу?",
+		"eng_sentence": "What was in the corner?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Ты тоже был на вечеринке?",
+		"eng_sentence": "Were you also at the party?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Сколько ей было лет?",
+		"eng_sentence": "How old was she?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Когда она была во дворе?",
+		"eng_sentence": "When was she in the yard?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Что было в классе?",
+		"eng_sentence": "What was in the classroom?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Что было на письменном столе?",
+		"eng_sentence": "What was on the desk?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Она тоже была в том месте?",
+		"eng_sentence": "Was she also in that place?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Что было за коробкой?",
+		"eng_sentence": "What was behind the box?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Что было в том углу?",
+		"eng_sentence": "What was in that corner?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Сколько ему было лет?",
+		"eng_sentence": "How old was he?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Кто был в классе?",
+		"eng_sentence": "Who was in the classroom?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Как часто ты был там?",
+		"eng_sentence": "How often were you there?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Он тоже там был?",
+		"eng_sentence": "Was he also there?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Она тоже там была?",
+		"eng_sentence": "Was she also there?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Он был там вчера?",
+		"eng_sentence": "Was he there yesterday?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Когда ты был во дворе?",
+		"eng_sentence": "When were you in the yard?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Когда ты был в саду?",
+		"eng_sentence": "When were you in the garden?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Что было на столе?",
+		"eng_sentence": "What was on the table?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Кто был на столе?",
+		"eng_sentence": "Who was on the table?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Что было на стуле?",
+		"eng_sentence": "What was on the chair?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Какая у него была работа?",
+		"eng_sentence": "What was his job?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Какой была её работа?",
+		"eng_sentence": "What was her job?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Кто был его другом?",
+		"eng_sentence": "Who was his friend?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Чья идея была лучше?",
+		"eng_sentence": "Whose idea was better?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Чья идея лучшая?",
+		"eng_sentence": "Whose idea is the best?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Кто был в парке?",
+		"eng_sentence": "Who was in the park?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Кто был в доме?",
+		"eng_sentence": "Who was at home?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Что было на дереве?",
+		"eng_sentence": "What was on the tree?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Во сколько ты был там?",
+		"eng_sentence": "What time were you there?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Во сколько ты был здесь?",
+		"eng_sentence": "What time were you here?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Во сколько он был дома?",
+		"eng_sentence": "What time was he at home?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Чья книга была интереснее?",
+		"eng_sentence": "Whose book was more interesting?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Которая книга была там?",
+		"eng_sentence": "Which book was there?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Какой был её ответ?",
+		"eng_sentence": "What was her answer?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Какой ответ был правильным?",
+		"eng_sentence": "Which answer was right?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Какой вопрос был правильным?",
+		"eng_sentence": "What question was correct?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Какие ответы были неправильными?",
+		"eng_sentence": "Which answers were wrong?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Сколько тебе было лет?",
+		"eng_sentence": "How old were you?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Какой билет был дороже?",
+		"eng_sentence": "Which ticket was more expensive?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Кто был во дворе?",
+		"eng_sentence": "Who was in the yard?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Насколько это было трудно для тебя?",
+		"eng_sentence": "How difficult was it for you?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он был на вечеринке?",
+		"eng_sentence": "Was he at the party?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Что было в коробке?",
+		"eng_sentence": "What was in the box?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Насколько это было эффективно?",
+		"eng_sentence": "How effective was it?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Кто был за тем деревом?",
+		"eng_sentence": "Who was behind that tree?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Кто был в лесу?",
+		"eng_sentence": "Who was in the forest?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Что было на полу?",
+		"eng_sentence": "What was on the floor?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Кто был в саду?",
+		"eng_sentence": "Who was in the garden?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Ты был также с ними?",
+		"eng_sentence": "Were you also with them?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Что было за той коробкой?",
+		"eng_sentence": "What was behind that box?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Кто был за дверью?",
+		"eng_sentence": "Who was behind the door?",
+		"lesson": "43",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Насколько это было интересно?",
+		"eng_sentence": "How interesting was it?",
+		"lesson": "43",
+		"difficulty": ""
+	}
+]
