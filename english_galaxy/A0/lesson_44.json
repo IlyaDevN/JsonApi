@@ -1,0 +1,688 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Она выглядела старой или молодой?",
+		"eng_sentence": "Did she look old or young?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Она работала учителем?",
+		"eng_sentence": "Did she work as a teacher?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Это вовсе не было эффективно.",
+		"eng_sentence": "It wasn't effective at all.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Он не выглядел старым.",
+		"eng_sentence": "He didn't look old.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Это было эффективно?",
+		"eng_sentence": "Was it effective?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Они жили вместе?",
+		"eng_sentence": "Did they live together?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Я не был там в прошлом месяце.",
+		"eng_sentence": "I wasn't there last month.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Я учился там.",
+		"eng_sentence": "I studied there.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Он был студентом?",
+		"eng_sentence": "Was he a student?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Он учился в том месте",
+		"eng_sentence": "He studied in that place",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Это не было проблемой для нас.",
+		"eng_sentence": "It wasn't a problem for us.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Он учился там?",
+		"eng_sentence": "Did he study there?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Это было совсем не интересно.",
+		"eng_sentence": "It wasn't interesting at all.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Он был инженером.",
+		"eng_sentence": "He was an engineer.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Она выглядела очень молодой?",
+		"eng_sentence": "Did she look very young?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Ты был действительно так счастлив?",
+		"eng_sentence": "Were you really so happy?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Это казалось проблемой?",
+		"eng_sentence": "Did it seem a problem?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Он был очень стар.",
+		"eng_sentence": "He was very old.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Это было важно?",
+		"eng_sentence": "Was it important?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Ты был там прошлой ночью?",
+		"eng_sentence": "Were you there last night?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он выглядел очень старым.",
+		"eng_sentence": "He looked very old.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Он был очень молод?",
+		"eng_sentence": "Was he very young?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Меня это совсем не интересовало.",
+		"eng_sentence": "It didn't interest me at all.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Он не был таким старым.",
+		"eng_sentence": "He wasn't so old.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это не мотивировало его.",
+		"eng_sentence": "It didn't motivate him.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я был в том месте два дня назад.",
+		"eng_sentence": "I was in that place two days ago.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я не ходил туда в прошлом месяце.",
+		"eng_sentence": "I didn't go there last month.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Это было действительно странно.",
+		"eng_sentence": "It was really strange.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Ты был там вчера днём?",
+		"eng_sentence": "Were you there yesterday afternoon?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Она выглядела старой или молодой?",
+		"eng_sentence": "Did she look old or young?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Они были вместе?",
+		"eng_sentence": "Were they together?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Это не казалось проблемой.",
+		"eng_sentence": "It didn't seem a problem.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Ты чувствовал себя очень счастливым?",
+		"eng_sentence": "Did you feel very happy?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Он был молодым или старым?",
+		"eng_sentence": "Was he young or old?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Это не было мотивирующим.",
+		"eng_sentence": "It wasn't motivating.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он профессионально занимался бизнесом.",
+		"eng_sentence": "He did business professionally.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Ты работал в этом месте?",
+		"eng_sentence": "Did you work in this place?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Это совсем не мотивировало меня.",
+		"eng_sentence": "It didn't motivate me at all.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Он был зубным врачом?",
+		"eng_sentence": "Was he a dentist?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Это казалось важным?",
+		"eng_sentence": "Did it seem important?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Ты ходил туда прошлой ночью?",
+		"eng_sentence": "Did you go there last night?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Это казалось таким странным.",
+		"eng_sentence": "It seemed so strange.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это было проблемой для тебя?",
+		"eng_sentence": "Was it a problem for you?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Он не был менеджером.",
+		"eng_sentence": "He wasn't a manager.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Он не был согласен с этим.",
+		"eng_sentence": "He didn't agree with it.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Она работала учителем?",
+		"eng_sentence": "Did she work as a teacher?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я видел, что это было так эффективно.",
+		"eng_sentence": "I saw that it was so effective.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я знал, что это было правильное решение.",
+		"eng_sentence": "I knew that it was the right decision.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Она была одинока?",
+		"eng_sentence": "Was she lonely? / Was she alone?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Это был правильный ответ или нет?",
+		"eng_sentence": "Was it the right answer or not?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Ты устал очень быстро?",
+		"eng_sentence": "Did you get tired very quickly?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Он не работал менеджером.",
+		"eng_sentence": "He didn't work as a manager.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Это казалось таким эффективным.",
+		"eng_sentence": "It seemed so effective.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Они поженились?",
+		"eng_sentence": "Did they get married?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Она была учителем?",
+		"eng_sentence": "Was she a teacher?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Они поженились в прошлом году.",
+		"eng_sentence": "They got married last year.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Ты знал верный ответ?",
+		"eng_sentence": "Did you know the right answer?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Он чувствовал себя так одиноко?",
+		"eng_sentence": "Did he feel so lonely?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я знал, что это было невозможно.",
+		"eng_sentence": "I knew that it was impossible.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Она знала, это было невозможно.",
+		"eng_sentence": "She knew it was impossible.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Ты знал, что это было действительно невозможно.",
+		"eng_sentence": "You knew that it was really impossible.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я не устал.",
+		"eng_sentence": "I wasn't tired. / I'm not tired.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Ты действительно был уставшим.",
+		"eng_sentence": "You were really tired.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я не был очень уставшим.",
+		"eng_sentence": "I wasn't very tired.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Она работала секретарём?",
+		"eng_sentence": "Did she work as a secretary?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Она работала менеджером?",
+		"eng_sentence": "Did she work as a manager?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Ты работал учителем?",
+		"eng_sentence": "Did you work as a teacher?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Это кажется невозможным.",
+		"eng_sentence": "It seems impossible.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Это казалось невозможным.",
+		"eng_sentence": "It seemed impossible.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Она была не одна.",
+		"eng_sentence": "She wasn't alone.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я был не один.",
+		"eng_sentence": "I wasn't alone.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Он женат на ней.",
+		"eng_sentence": "He is married to her.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Он был женат на ней.",
+		"eng_sentence": "He was married to her.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Она вышла замуж.",
+		"eng_sentence": "She got married.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он женился.",
+		"eng_sentence": "He got married.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Ты быстро устал?",
+		"eng_sentence": "Were you tired quickly? / Did you get tired quickly?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Она очень быстро устала?",
+		"eng_sentence": "Was she tired quickly? / Did she get tired quickly?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Они были злыми?",
+		"eng_sentence": "Were they angry?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Он был зол?",
+		"eng_sentence": "Was he angry.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я действительно устал.",
+		"eng_sentence": "I got really tired. / I became really tired.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Они очень устали.",
+		"eng_sentence": "They got very tired.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Он согласился или нет?",
+		"eng_sentence": "Did he agree or not?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Ты согласился?",
+		"eng_sentence": "Did you agree?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я знаю, что они не были женаты.",
+		"eng_sentence": "I know that they weren't married.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Я не чувствовал себя одиноко.",
+		"eng_sentence": "I didn't feel lonely.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Она согласилась.",
+		"eng_sentence": "She agreed.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он чувствовал себя таким злым?",
+		"eng_sentence": "Did he feel so angry?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Это не казалось эффективным.",
+		"eng_sentence": "It didn't seem effective.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я не был одинок.",
+		"eng_sentence": "I wasn't lonely.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Он с ней не чувствовал себя счастливым.",
+		"eng_sentence": "He didn't feel happy with her.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Он не был зол.",
+		"eng_sentence": "He wasn't angry.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Они были женаты?",
+		"eng_sentence": "Were they married?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Она была замужем.",
+		"eng_sentence": "She was married.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я не устал.",
+		"eng_sentence": "I didn't get tired.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Это совсем не было эффективно.",
+		"eng_sentence": "It wasn't effective at all.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я был уставшим.",
+		"eng_sentence": "I was tired.",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Это казалось эффективным?",
+		"eng_sentence": "Did it seem effective?",
+		"lesson": "44",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я был уверен, что это был верный ответ.",
+		"eng_sentence": "I was sure that it was the right answer.",
+		"lesson": "44",
+		"difficulty": ""
+	}
+]
