@@ -64,8 +64,8 @@
 	},
 	{	
 		"id": 10,
-		"rus_sentence": "Он учился в том месте",
-		"eng_sentence": "He studied in that place",
+		"rus_sentence": "Он учился в том месте.",
+		"eng_sentence": "He studied in that place.",
 		"lesson": "44",
 		"difficulty": ""
 	},
@@ -548,7 +548,7 @@
 	{	
 		"id": 79,
 		"rus_sentence": "Он был зол?",
-		"eng_sentence": "Was he angry.",
+		"eng_sentence": "Was he angry?",
 		"lesson": "44",
 		"difficulty": ""
 	},
