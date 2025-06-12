@@ -1,0 +1,667 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Он действительно любит спорт.",
+		"eng_sentence": "He really loves sport.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Он любит петь.",
+		"eng_sentence": "He loves singing.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Она чувствует себя намного лучше.",
+		"eng_sentence": "She feels much better.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Он заплатил за себя.",
+		"eng_sentence": "He paid for himself.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Мне нужно послушать этот урок ещё раз.",
+		"eng_sentence": "I need to listen to this lesson one more time.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Наша встреча скоро начнётся.",
+		"eng_sentence": "Our meeting will start soon.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Я достигну этой цели.",
+		"eng_sentence": "I'll achieve this aim.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Давай пойдём туда прямо сейчас.",
+		"eng_sentence": "Let's go there right now.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Он предпочитает работать из дома.",
+		"eng_sentence": "He prefers to work from home.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Я проснулся очень рано.",
+		"eng_sentence": "I woke up very early.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Она часто слушает музыку.",
+		"eng_sentence": "She often listens to music.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я заплатил за себя.",
+		"eng_sentence": "I paid for myself.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Я нашёл свои ключи там.",
+		"eng_sentence": "I found my keys there.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Пошли!",
+		"eng_sentence": "Let's go!",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Он взял эти деньги.",
+		"eng_sentence": "He took this money.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Она заплатит за себя.",
+		"eng_sentence": "She'll pay for herself.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Эта встреча началась час назад.",
+		"eng_sentence": "This meeting started an hour ago.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Где ты это нашёл?",
+		"eng_sentence": "Where did you find it?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Это кажется таким странным.",
+		"eng_sentence": "It seems so strange.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Они любили друг друга.",
+		"eng_sentence": "They loved each other.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Когда ты прилетишь назад?",
+		"eng_sentence": "When will you fly back?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Тебе нужно заплатить за себя.",
+		"eng_sentence": "You need to pay for yourself.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Она любила его, и он любил её.",
+		"eng_sentence": "She loved him and he loved her.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Давай обсудим другую вещь!",
+		"eng_sentence": "Let's discuss another thing!",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Она взяла своего сына с собой.",
+		"eng_sentence": "She took her son with her.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Они производят игрушки.",
+		"eng_sentence": "They produce toys.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я послушал эту песню.",
+		"eng_sentence": "I listened to this song.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Она хочет учиться в другой стране.",
+		"eng_sentence": "She wants to study in another country.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Она чувствовала себя такой счастливой.",
+		"eng_sentence": "She felt so happy.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я люблю готовить.",
+		"eng_sentence": "I love cooking.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Давай поговорим об этом позже!",
+		"eng_sentence": "Let's talk about it later!",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Она любит танцевать.",
+		"eng_sentence": "She loves dancing.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я действительно люблю иностранные языки.",
+		"eng_sentence": "I really love foreign languages.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Когда ты обычно просыпаешься?",
+		"eng_sentence": "When do you usually wake up?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он любил её, и она любила его.",
+		"eng_sentence": "He loved her and she loved him.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Что они будут производить?",
+		"eng_sentence": "What will they produce?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Он действительно ненавидел это.",
+		"eng_sentence": "He really hated it.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Он так сильно любил её.",
+		"eng_sentence": "He loved her so much.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я послушаю этот подкаст ещё раз.",
+		"eng_sentence": "I'll listen to this podcast one more time.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я ненавижу эту музыку.",
+		"eng_sentence": "I hate this music.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Когда ты будешь гулять в парке следующий раз?",
+		"eng_sentence": "When will you go in the park next time?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Что он имеет в виду?",
+		"eng_sentence": "What does he mean?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Он хочет покинуть этот город.",
+		"eng_sentence": "He wants to leave this city.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я забыл запереть дверь.",
+		"eng_sentence": "I forgot to lock the door.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Что он хотел сказать?",
+		"eng_sentence": "What did he want to say?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Он полетел в Соединённые Штаты.",
+		"eng_sentence": "He flew to the United States.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Какие ошибки ты сделал?",
+		"eng_sentence": "What mistakes did you make?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Это означало две вещи.",
+		"eng_sentence": "It meant two things.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Она согласилась поехать туда вместе.",
+		"eng_sentence": "She agreed to go there together.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я знаю, что я достигну своей цели рано или поздно.",
+		"eng_sentence": "I know that I'll achieve my aim sooner or later.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Он предпочитает есть домашнюю еду.",
+		"eng_sentence": "He prefers to eat homemade food.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Что ты хочешь делать прямо сейчас?",
+		"eng_sentence": "What do you want to do right now?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Мы согласились сделать это снова.",
+		"eng_sentence": "We agreed to do it again.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я хочу полететь в Америку.",
+		"eng_sentence": "I want to fly to America.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я нашёл деньги на улице.",
+		"eng_sentence": "I found money on the street.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Он запер дверь.",
+		"eng_sentence": "He locked the door.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Он открыл дверь.",
+		"eng_sentence": "He opened the door.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я гулял в парке каждые выходные.",
+		"eng_sentence": "I walked in the park every weekend.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Она гуляет в парке каждый день.",
+		"eng_sentence": "She walks in the park every day.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Мы гуляем в парке каждое утро.",
+		"eng_sentence": "We walk in the park every morning.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Она не делает ошибок, потому что у неё достаточно практики.",
+		"eng_sentence": "She doesn't make mistakes because she has enough practice.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Они не делают ошибок, потому что у них достаточно практики.",
+		"eng_sentence": "They don't make mistakes because they have enough practice.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Он не делает ошибок, потому что у него достаточно практики.",
+		"eng_sentence": "He doesn't make mistakes because he has enough practice.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Ты будешь запирать дверь?",
+		"eng_sentence": "Will you lock the door?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Ты запрёшь эту дверь?",
+		"eng_sentence": "Will you lock this door?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Я думаю, он согласится сделать это.",
+		"eng_sentence": "I think he'll agree to do it.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Она думает, они согласятся сделать свою домашнюю работу.",
+		"eng_sentence": "She thinks they'll agree to do their homework.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я думаю, она не согласится сделать это.",
+		"eng_sentence": "I think she won't agree to do it.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я на это надеюсь.",
+		"eng_sentence": "I hope so.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Она на это надеется.",
+		"eng_sentence": "She hopes so.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я надеюсь, что это так.",
+		"eng_sentence": "I hope that it is so.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Она полетит в Лондон на следующей неделе.",
+		"eng_sentence": "She'll fly to London next week.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Он полетит в Москву в следующем месяце.",
+		"eng_sentence": "He'll fly to Moscow next month.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я полечу в Германию на следующей неделе.",
+		"eng_sentence": "I'll fly to Germany next week.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Она перепрыгнула через верёвку.",
+		"eng_sentence": "She jumped over the rope.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Она перепрыгнула через эту верёвку.",
+		"eng_sentence": "She jumped over this rope.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Она оставила его сумку дома.",
+		"eng_sentence": "She left his bag at home.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Она оставила мою сумку там.",
+		"eng_sentence": "She left my bag there.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Тот мужчина перепрыгнул через реку.",
+		"eng_sentence": "That man jumped over the river.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Те мужчины перепрыгнули через реку.",
+		"eng_sentence": "Those men jumped over the river.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Что ты предпочитаешь делать в свое свободное время?",
+		"eng_sentence": "What do you prefer to do in your free time?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я верю, что я достигну этой цели.",
+		"eng_sentence": "I believe that I'll achieve this aim.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Я надеялся, что это было действительно так.",
+		"eng_sentence": "I hoped that it was really so.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я предпочитаю горячий чай.",
+		"eng_sentence": "I prefer hot tea.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Он нашёл это на улице.",
+		"eng_sentence": "He found it in the street.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Какие товары они производили?",
+		"eng_sentence": "What goods did they produce?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он перепрыгнул через забор.",
+		"eng_sentence": "He jumped over the fence.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я надеюсь, что это может произойти скоро.",
+		"eng_sentence": "I hope that it can happen soon.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я думаю, я буду гулять в парке завтра.",
+		"eng_sentence": "I think I'll walk in the park tomorrow.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я хотел найти работу.",
+		"eng_sentence": "I wanted to find a job.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Он согласился подписать этот контракт.",
+		"eng_sentence": "He agreed to sign this contact.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Он оставил свою сумку там.",
+		"eng_sentence": "He left his bag there.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Когда ты покинешь эту страну?",
+		"eng_sentence": "When will you leave this country?",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Она не хотела покупать эту вещь в другом месте.",
+		"eng_sentence": "She didn't want to buy this thing in another place.",
+		"lesson": "45",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Она сделала ошибку.",
+		"eng_sentence": "She made a mistake.",
+		"lesson": "45",
+		"difficulty": ""
+	}
+]
