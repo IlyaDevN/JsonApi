@@ -282,7 +282,7 @@
 	{	
 		"id": 41,
 		"rus_sentence": "Когда ты будешь гулять в парке следующий раз?",
-		"eng_sentence": "When will you go in the park next time?",
+		"eng_sentence": "When will you walk in the park next time?",
 		"lesson": "45",
 		"difficulty": ""
 	},
@@ -632,7 +632,7 @@
 	{	
 		"id": 91,
 		"rus_sentence": "Он согласился подписать этот контракт.",
-		"eng_sentence": "He agreed to sign this contact.",
+		"eng_sentence": "He agreed to sign this contract.",
 		"lesson": "45",
 		"difficulty": ""
 	},
