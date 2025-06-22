@@ -1,0 +1,674 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я буду готов.",
+		"eng_sentence": "I'll be ready.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Он не будет курить.",
+		"eng_sentence": "He won't smoke.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я расскажу тебе одну историю.",
+		"eng_sentence": "I'll tell you one story.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Она часто посещает новые страны и города.",
+		"eng_sentence": "She often visits new countries and cities.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Это стоит намного меньше сейчас.",
+		"eng_sentence": "It costs much less now.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он не хотел курить.",
+		"eng_sentence": "He didn't want to smoke.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Давай поговорим о той вещи!",
+		"eng_sentence": "Let's talk about that thing!",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Когда вы будете готовы к этому?",
+		"eng_sentence": "When will you be ready for it?",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Иногда он говорит слишком много.",
+		"eng_sentence": "Sometimes he talks too much.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Мне нужно подумать об этом.",
+		"eng_sentence": "I need to think about it.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Наш учитель говорил очень громко.",
+		"eng_sentence": "Our teacher spoke very loudly.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Мы может поговорить об этом прямо сейчас.",
+		"eng_sentence": "We can talk about it right now.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Я подготовлюсь к своему последнему экзамену на следующей неделе.",
+		"eng_sentence": "I'll prepare for my final exam next week.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Тебе следует подумать об этом.",
+		"eng_sentence": "You should think about it.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Мы можем обсудить все.",
+		"eng_sentence": "We can discuss everything.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Подумай об этом!",
+		"eng_sentence": "Think about it!",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Носители языка говорят очень быстро.",
+		"eng_sentence": "Native speakers speak very fast.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я навещу её на следующей неделе.",
+		"eng_sentence": "I'll visit her next week.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Мне не понравился этот отель.",
+		"eng_sentence": "I didn't like this hotel.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Какое видео тебе нравится больше?",
+		"eng_sentence": "Which video do you like more?",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Его машина часто ломается.",
+		"eng_sentence": "His car often breaks down.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Он не курит.",
+		"eng_sentence": "He doesn't smoke.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Мне нужно подготовиться к этому экзамену.",
+		"eng_sentence": "I need to prepare for this exam.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Я встал за ней.",
+		"eng_sentence": "I stood behind her.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Ты можешь отправить мне это по электронной почте.",
+		"eng_sentence": "You can send me it by email.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Это стоит 50 евро.",
+		"eng_sentence": "It costs fifty euros.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я отправлю тебе сообщение.",
+		"eng_sentence": "I'll send you a message.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Тебе следует думать о своём будущем.",
+		"eng_sentence": "You should think about your future.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Как ты готовился к этому тесту?",
+		"eng_sentence": "How did you prepare for this test?",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Они прислали мне эту информацию.",
+		"eng_sentence": "They sent me this information.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Она встала.",
+		"eng_sentence": "She stood up.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я хочу сказать тебе одну вещь.",
+		"eng_sentence": "I want to tell you one thing.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Говори медленно, пожалуйста!",
+		"eng_sentence": "Speak slowly, please!",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Эта машина так часто ломается.",
+		"eng_sentence": "This car breaks down so often.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Что тебе больше всего нравилось?",
+		"eng_sentence": "What did you like most of all?",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я часто думал об этой вещи.",
+		"eng_sentence": "I often thought about this thing.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Она всё мне рассказала.",
+		"eng_sentence": "She told me everything.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Ты можешь встать сейчас!",
+		"eng_sentence": "You can stand up now!",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Они сломали окно.",
+		"eng_sentence": "They broke the window.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я очень легко выучил все те слова.",
+		"eng_sentence": "I learnt all those words very easily.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Ты можешь повернуть налево сейчас.",
+		"eng_sentence": "You can turn left now.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Я думаю, ему следует сделать это.",
+		"eng_sentence": "I think he should do it.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Поверните направо!",
+		"eng_sentence": "Turn right!",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Тебе нужно повернуть прямо сейчас.",
+		"eng_sentence": "You need to turn right now.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я тебе перезвоню.",
+		"eng_sentence": "I'll call you back.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Это зависит от меня.",
+		"eng_sentence": "It depends on me.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Он не может водить машину.",
+		"eng_sentence": "He can't drive a car.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Это скоро будет стоить более двух тысяч долларов.",
+		"eng_sentence": "It'll cost more than two thousand dollars soon.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Это зависело от разных факторов.",
+		"eng_sentence": "It depended on different factors.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я обычно отмечаю свой день рождения со своими друзьями.",
+		"eng_sentence": "I usually celebrate my birthday with my friends.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Она водила машину.",
+		"eng_sentence": "She drove a car.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Он делает домашнее задание после школы.",
+		"eng_sentence": "He does homework after school.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я встал, потому что я не хотел сидеть.",
+		"eng_sentence": "I stood up because I didn't want to sit.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я делаю домашнее задание днём.",
+		"eng_sentence": "I do homework in the afternoon.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Он поехал домой.",
+		"eng_sentence": "He drove home.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я уверен, это скоро будет стоить намного больше.",
+		"eng_sentence": "I'm sure it'll cost much more soon.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я уверен, что это скоро будет стоить больше.",
+		"eng_sentence": "I'm sure that it'll cost more soon.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я уверен, это будет стоить намного меньше завтра.",
+		"eng_sentence": "I'm sure it'll cost much less tomorrow.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Поверни налево сейчас!",
+		"eng_sentence": "Turn left now!",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Поверни назад!",
+		"eng_sentence": "Turn back!",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Где ты остановишься?",
+		"eng_sentence": "Where will you stay?",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Где они остановятся?",
+		"eng_sentence": "Where will they stay?.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Когда ты остановишься там?",
+		"eng_sentence": "When will you stay there?",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Ему нравится водить.",
+		"eng_sentence": "He likes driving.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Ей нравится водить.",
+		"eng_sentence": "She likes driving.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Мне нравится водить.",
+		"eng_sentence": "I like driving.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я остановился недалеко от того места.",
+		"eng_sentence": "I stopped not far from that place.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я остановился далеко от этого места.",
+		"eng_sentence": "I stopped far from this place.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я остановился возле того места.",
+		"eng_sentence": "I stopped near that place.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Как ты обычно празднуешь свой день рождения?",
+		"eng_sentence": "How do you usually celebrate your birthday?",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Как она обычно празднует свой день рождения?",
+		"eng_sentence": "How does she usually celebrate her birthday?",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Где ты обычно празднуешь свой день рождения?",
+		"eng_sentence": "Where do you usually celebrate your birthday?",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Это будет зависеть от разных вещей.",
+		"eng_sentence": "It'll depend on different things.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Это будет зависеть от многих вещей.",
+		"eng_sentence": "It'll depend on many things.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Это будет зависеть от тебя.",
+		"eng_sentence": "It'll depend on you.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я знаю, что носители языка обычно говорят очень быстро.",
+		"eng_sentence": "I know that native speakers usually speak very fast.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Мы знаем, что носители языка часто говорят очень быстро.",
+		"eng_sentence": "We know that native speakers often speak very fast.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Когда ты будешь праздновать свой день рождения?",
+		"eng_sentence": "When will you celebrate your birthday?",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Где она будет праздновать свой день рождения?",
+		"eng_sentence": "Where will she celebrate her birthday?",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Он сказал это ещё один раз.",
+		"eng_sentence": "He said it one more time.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Они говорили это снова и снова.",
+		"eng_sentence": "They said it again and again.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я не был готов услышать это.",
+		"eng_sentence": "I wasn't ready to hear it.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Как долго ты будешь оставаться в этом отеле?",
+		"eng_sentence": "How long will you stay in this hotel?",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я не готов к этим изменениям.",
+		"eng_sentence": "I'm not ready for these changes.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Он хочет перестать курить.",
+		"eng_sentence": "He wants to stop smoking.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я думаю, ей следует сменить свою работу.",
+		"eng_sentence": "I think she should change her job.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Мы не были готовы узнать это.",
+		"eng_sentence": "We weren't ready to know it.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я сделаю эту вещь с большим удовольствием.",
+		"eng_sentence": "I'll do this thing with great pleasure.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Он перестал курить.",
+		"eng_sentence": "He stopped smoking.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Перезвони мне, пожалуйста!",
+		"eng_sentence": "Call me back, please!",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я не знаю, почему она это сказала.",
+		"eng_sentence": "I don't know why she said it.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Мы праздновали этот праздник вместе.",
+		"eng_sentence": "We celebrated this holiday together.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я хочу обсудить эту тему с вами.",
+		"eng_sentence": "I want to discuss this topic with you.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Мы остались в том месте.",
+		"eng_sentence": "We stayed in that place.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Те мужчины говорили очень тихо.",
+		"eng_sentence": "Those men spoke very quietly.",
+		"lesson": "46",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я посещал Испанию, когда я был ребенком.",
+		"eng_sentence": "I visited Spain when I was a child.",
+		"lesson": "46",
+		"difficulty": ""
+	}
+]
