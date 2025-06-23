@@ -162,7 +162,7 @@
 	},
 	{	
 		"id": 24,
-		"rus_sentence": "Я встал за ней.",
+		"rus_sentence": "Я встал позади неё.",
 		"eng_sentence": "I stood behind her.",
 		"lesson": "46",
 		"difficulty": ""
@@ -429,7 +429,7 @@
 	{	
 		"id": 62,
 		"rus_sentence": "Где они остановятся?",
-		"eng_sentence": "Where will they stay?.",
+		"eng_sentence": "Where will they stay?",
 		"lesson": "46",
 		"difficulty": ""
 	},
