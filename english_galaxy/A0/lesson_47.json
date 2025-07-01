@@ -1,0 +1,695 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я купил те брюки.",
+		"eng_sentence": "I bought those trousers.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я помню все.",
+		"eng_sentence": "I remember everything.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я купил эти джинсы.",
+		"eng_sentence": "I bought these jeans.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Это приносит ему слишком мало денег.",
+		"eng_sentence": "It brings him too little money.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Что он предложил тебе?",
+		"eng_sentence": "What did he offer you?",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я не помнил его имени.",
+		"eng_sentence": "I didn't remember his name.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Это действительно мотивировало тебя?",
+		"eng_sentence": "Did it really motivate you?",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Ты также можешь скачать это.",
+		"eng_sentence": "You can also download it.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Ты можешь сесть сейчас.",
+		"eng_sentence": "You can sit down now.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Он продал всё.",
+		"eng_sentence": "He sold everything.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Она побеждает каждый раз.",
+		"eng_sentence": "She wins every time.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Где ты скачиваешь эти программы?",
+		"eng_sentence": "Where do you download these programs?",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Он откроет коробку?",
+		"eng_sentence": "Will he open the box?",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Он контролировал эту компанию.",
+		"eng_sentence": "He controlled this company.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Тебе нужно контролировать всё.",
+		"eng_sentence": "You need to control everything.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Это действительно мотивирует их.",
+		"eng_sentence": "It really motivates them.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Ему нужно поспать чуть-чуть.",
+		"eng_sentence": "He needs to sleep a bit.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Садись!",
+		"eng_sentence": "Sit down!",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я часто вставал поздно.",
+		"eng_sentence": "I often got up late.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я открыл коробку.",
+		"eng_sentence": "I opened the box.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он убежал прочь.",
+		"eng_sentence": "He ran away.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Когда он обычно встаёт?",
+		"eng_sentence": "When does he usually get up?",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Мы открыли посылку.",
+		"eng_sentence": "We opened the parcel.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Я могу бежать быстрее.",
+		"eng_sentence": "I can run faster.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я хочу спать.",
+		"eng_sentence": "I want to sleep.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я окончил университет два года назад.",
+		"eng_sentence": "I graduated from university two years ago.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Они победят?",
+		"eng_sentence": "Will they win?",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Я скачал ту программу.",
+		"eng_sentence": "I downloaded that program.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Он не спал прошлой ночью.",
+		"eng_sentence": "He didn't sleep last night.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Ты закончишь это вовремя?",
+		"eng_sentence": "Will you finish it on time?",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Они контролируют этот процесс.",
+		"eng_sentence": "They control this process.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Ты споёшь эту песню?",
+		"eng_sentence": "Will you sing this song?",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Она продала свой старый дом.",
+		"eng_sentence": "She sold her old house.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Я купил тебе эту книгу.",
+		"eng_sentence": "I bought you this book.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Когда он вернется?",
+		"eng_sentence": "When will he return?",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он может убежать.",
+		"eng_sentence": "He can run away.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Когда ты откроешь эту посылку?",
+		"eng_sentence": "When will you open this parcel?",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Он каждый раз говорит эту вещь.",
+		"eng_sentence": "He says this thing every time.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я закончил эту работу вовремя.",
+		"eng_sentence": "I finished this work on time.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Мне завтра нужно встать очень рано.",
+		"eng_sentence": "I need to get up very early tomorrow.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я хотел бы выпить стакан сока.",
+		"eng_sentence": "I'd like to drink a glass of juice.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Он стал лучшим актёром.",
+		"eng_sentence": "He became the best actor.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я не думаю, что они победят.",
+		"eng_sentence": "I don't think that they'll win.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Мне кажется, эта песня станет очень популярной.",
+		"eng_sentence": "It seems to me this song will become very popular.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Он будет работать намного усерднее, потому что ему нужны эти деньги.",
+		"eng_sentence": "He'll work much harder because he needs this money.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Ты можешь положить эту коробку на землю.",
+		"eng_sentence": "You can put this box on the ground.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я забыл закрыть окно.",
+		"eng_sentence": "I forgot to close the window.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я постараюсь запомнить это.",
+		"eng_sentence": "I'll try to remember it.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Они хотели бы съесть пирог.",
+		"eng_sentence": "They'd like to eat a pie.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Когда она окончит университет?",
+		"eng_sentence": "When will she graduate from university?",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я видел, что это не работало.",
+		"eng_sentence": "I saw that it didn't work.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Она забыла закрыть дверь.",
+		"eng_sentence": "She forgot to close the door.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Мы могли бы сделать это сейчас.",
+		"eng_sentence": "We could do it now.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я не думаю, что это действительно работает.",
+		"eng_sentence": "I don't think that it really works.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я не забуду её доброту.",
+		"eng_sentence": "I won't forget her kindness.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Он мог бы понять всё очень легко.",
+		"eng_sentence": "He could understand everything very easily.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Они могли бы понять это очень легко.",
+		"eng_sentence": "They could understand it very easily.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Ты мог бы сделать всё очень легко.",
+		"eng_sentence": "You could do everything very easily.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я бы купил другую одежду.",
+		"eng_sentence": "I would buy other clothes.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я бы купил другую вещь.",
+		"eng_sentence": "I would buy another thing.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я хотел бы купить другую одежду.",
+		"eng_sentence": "I'd like to buy other clothes.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Она вчера резала рыбу.",
+		"eng_sentence": "She cut fish yesterday.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Она часто резала рыбу.",
+		"eng_sentence": "She often cut fish.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Он порезался.",
+		"eng_sentence": "He cut himself.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Он не подписал этот контракт.",
+		"eng_sentence": "He didn't sign this contract.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Она не подписала эти контракты.",
+		"eng_sentence": "She didn't sign these contracts.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я не подписал этот документ.",
+		"eng_sentence": "I didn't sign this document.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я мог бы прийти к тебе завтра.",
+		"eng_sentence": "I could come to you tomorrow.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он мог бы прийти ко мне завтра.",
+		"eng_sentence": "He could come to me tomorrow.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Они могли бы прийти к нам на следующей неделе.",
+		"eng_sentence": "They could come to us next week.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я думаю, я куплю это в следующем году.",
+		"eng_sentence": "I think I'll buy it next year.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Она думает, она купит это в следующем году.",
+		"eng_sentence": "She thinks she'll buy it next year.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Они думают, они купят это в следующем году.",
+		"eng_sentence": "They think they'll buy it next year.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Он обычно возвращается домой слишком поздно.",
+		"eng_sentence": "He usually returns home too late.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Она обычно возвращается домой слишком поздно.",
+		"eng_sentence": "She usually returns home too late.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я обычно возвращаюсь домой слишком поздно.",
+		"eng_sentence": "I usually return home too late.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я думаю, он предложит тебе что-то особенное.",
+		"eng_sentence": "I think he'll offer you something special.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я думаю, они предложат мне что-то.",
+		"eng_sentence": "I think they'll offer me something.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я думаю, она предложит тебе что-то особенное.",
+		"eng_sentence": "I think she'll offer you something special.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Она хотела бы съесть торт.",
+		"eng_sentence": "She'd like to eat a cake.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Она хотела бы съесть этот торт.",
+		"eng_sentence": "She'd like to eat this cake.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я не понимаю, почему он бегает так медленно.",
+		"eng_sentence": "I don't understand why he runs so slowly.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Они не понимают, почему он бегает так медленно.",
+		"eng_sentence": "They don't understand why he runs so slowly.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Он не понимает, почему он бегает так медленно.",
+		"eng_sentence": "He doesn't understand why he runs so slowly.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Она хотела бы купить другое платье.",
+		"eng_sentence": "She'd like to buy another dress.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Это не приносит людям счастье.",
+		"eng_sentence": "It doesn't bring people happiness.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он окончил тот университет.",
+		"eng_sentence": "He graduated from that university.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Тебе нужно подписать здесь.",
+		"eng_sentence": "You need to sign here.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Она хочет стать художником.",
+		"eng_sentence": "She wants to become an artist.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Ты подпишешь те документы?",
+		"eng_sentence": "Will you sign those documents?",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я думаю, это позже принесёт ему больше денег.",
+		"eng_sentence": "I think it'll bring him more money later.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Он хотел бы обсудить это с тобой.",
+		"eng_sentence": "He'd like to discuss it with you.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Он решил стать певцом.",
+		"eng_sentence": "He decided to become a singer.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Это принесло мне настоящее счастье.",
+		"eng_sentence": "It brought me real happiness.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я положу это здесь.",
+		"eng_sentence": "I'll put it here.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я не думаю, что он продаст это.",
+		"eng_sentence": "I don't think that he'll sell it.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я положил это на землю.",
+		"eng_sentence": "I put it on the ground.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Он порезался вчера.",
+		"eng_sentence": "He cut himself yesterday.",
+		"lesson": "47",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я спел свою любимую песню.",
+		"eng_sentence": "I sang my favourite song.",
+		"lesson": "47",
+		"difficulty": ""
+	}
+]
