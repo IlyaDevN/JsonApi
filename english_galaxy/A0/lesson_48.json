@@ -1,0 +1,709 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Это может изменить твою жизнь.",
+		"eng_sentence": "It can change your life.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Почему это происходит со мной?",
+		"eng_sentence": "Why does it happen to me?",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Одна авария произошла вчера.",
+		"eng_sentence": "One accident happened yesterday.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "У него не будет этого шанса.",
+		"eng_sentence": "He won't have this chance.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я действительно поверил ему.",
+		"eng_sentence": "I really believed him.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Она не пьет пиво.",
+		"eng_sentence": "She doesn't drink beer.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Как он преподавал английский?",
+		"eng_sentence": "How did he teach English?",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Они не хотели его убивать.",
+		"eng_sentence": "They didn't want to kill him.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Посмотри на эту фотографию!",
+		"eng_sentence": "Look at this photo!",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "У них так много вопросов.",
+		"eng_sentence": "They have so many questions.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Он рекомендовал несколько книг.",
+		"eng_sentence": "He recommended some books.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Мы продолжаем этот курс.",
+		"eng_sentence": "We continue this course.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Этот преступник не убивал их.",
+		"eng_sentence": "This criminal didn't kill them.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "У меня было мало свободного времени на это.",
+		"eng_sentence": "I had little free time for it.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Не потеряй это!",
+		"eng_sentence": "Don't lose it!",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Тебе нужно подумать об этом снова.",
+		"eng_sentence": "You need to think about it again.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Она профессионально преподаёт математику.",
+		"eng_sentence": "She teaches maths professionally.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Он может потерять это очень легко.",
+		"eng_sentence": "He can lose it very easily.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он преподаст нам урок.",
+		"eng_sentence": "He'll teach us a lesson.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Тот человек посмотрел на неё вдруг.",
+		"eng_sentence": "That man looked at her suddenly.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "У тебя будет шанс.",
+		"eng_sentence": "You'll have a chance.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Когда ты встретил её?",
+		"eng_sentence": "When did you meet her?",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я не пил алкоголь.",
+		"eng_sentence": "I didn't drink alcohol.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Она спела свою любимую песню.",
+		"eng_sentence": "She sang her favourite song.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Ты исправил все эти ошибки?",
+		"eng_sentence": "Did you correct all these mistakes?",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Где мы встретимся?",
+		"eng_sentence": "Where will we meet?",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Когда мы продолжим?",
+		"eng_sentence": "When will we continue?",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Наш учитель поправил меня.",
+		"eng_sentence": "Our teacher corrected me.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Я исправлю эту ошибку.",
+		"eng_sentence": "I'll correct this mistake.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Мы встретились в кафе.",
+		"eng_sentence": "We met in a cafe.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Они сравнили свои результаты.",
+		"eng_sentence": "They compared their results.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Эти вещи меняются очень быстро.",
+		"eng_sentence": "These things change very quickly.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Не переживай об этом так сильно!",
+		"eng_sentence": "Don't worry about it so much!",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Она так красиво поёт.",
+		"eng_sentence": "She sings so beautifully.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Она потеряла это в лесу.",
+		"eng_sentence": "She lost it in the forest.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я не рекомендую этот отель.",
+		"eng_sentence": "I don't recommend this hotel.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Не смейся!",
+		"eng_sentence": "Don't laugh!",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Это случилось с ним.",
+		"eng_sentence": "It happened to him.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Он рекомендовал этот сайт?",
+		"eng_sentence": "Did he recommend this website?",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Ему нужно продолжить.",
+		"eng_sentence": "He needs to continue.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "У тебя были какие-либо проблемы с этим?",
+		"eng_sentence": "Did you have any problems with it?",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Она сохранила этот секрет.",
+		"eng_sentence": "She kept this secret.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я думаю он изменит свою точку зрения позже.",
+		"eng_sentence": "I think he'll change his point of view later.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я понял, что это было слишком дорого.",
+		"eng_sentence": "I understood that it was too expensive.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я хочу подвинуть этот стол.",
+		"eng_sentence": "I want to move this table.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Он пьёт слишком много алкоголя, и это очень вредно для его здоровья.",
+		"eng_sentence": "He drinks too much alcohol and it's too bad for his health / it's too harmful to his health.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Он понял тот урок лучше меня.",
+		"eng_sentence": "He understood that lesson better than me.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Те мальчики смеялись над ней.",
+		"eng_sentence": "Those boys laughed at her.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Она не думает, что он сдержит своё обещание.",
+		"eng_sentence": "She doesn't think that he'll keep his promise.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я решил сделать это чуть позже.",
+		"eng_sentence": "I decided to do it a bit later.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Они двигаются очень быстро.",
+		"eng_sentence": "They move very quickly.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я не хочу переезжать в другую страну.",
+		"eng_sentence": "I don't want to move to another country.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Ты можешь сравнить эти два ресторана.",
+		"eng_sentence": "You can compare these two restaurants.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Мой друг переехал в США.",
+		"eng_sentence": "My friend moved to the U.S..",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Эта цена включает в себя эти услуги.",
+		"eng_sentence": "This price includes these services.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Мне нужно решить это сейчас.",
+		"eng_sentence": "I need to decide it now.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Ему нужно решить это сейчас.",
+		"eng_sentence": "He needs to decide it now.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Мне нужно сказать это завтра.",
+		"eng_sentence": "I need to say it tomorrow.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я не смеюсь над этим.",
+		"eng_sentence": "I don't laugh at it.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Мы не смеёмся над ним.",
+		"eng_sentence": "We don't laugh at him.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Она не смеётся.",
+		"eng_sentence": "She doesn't laugh.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я понимаю, что мне нужно намного больше денег, если я хочу купить это.",
+		"eng_sentence": "I understand that I need much more money if I want to buy it.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Он понимает, что ему нужно больше денег, если он хочет купить новую машину.",
+		"eng_sentence": "He understands that he needs more money if he wants to buy a new car.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я видел, что они жили так счастливо.",
+		"eng_sentence": "I saw that they lived so happily.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я понимаю, что мы живём так счастливо.",
+		"eng_sentence": "I understand that we live so happily.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Он видел, что они жили так счастливо.",
+		"eng_sentence": "He saw that they lived so happily.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Они скоро переедут в США.",
+		"eng_sentence": "They'll move to the USA soon.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Она скоро переедет в Англию.",
+		"eng_sentence": "She'll move to England soon.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он не переедет в эту страну.",
+		"eng_sentence": "He won't move to this country.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Он держит свои деньги в банке.",
+		"eng_sentence": "He keeps his money in a bank.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Она держит свои деньги дома.",
+		"eng_sentence": "She keeps her money at home.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Он не держит свои деньги в банке.",
+		"eng_sentence": "He doesn't keep his money in a bank.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Ты можешь сравнить эти цены.",
+		"eng_sentence": "You can compare these prices.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Мы можем сравнить эти товары.",
+		"eng_sentence": "We can compare these goods.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он может сравнить эти цены.",
+		"eng_sentence": "He can compare these prices.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Они включат это в счёт.",
+		"eng_sentence": "They'll include it in the bill.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Мы включим это в счёт.",
+		"eng_sentence": "We'll include it in the bill.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Он не включит это в твой счёт.",
+		"eng_sentence": "He won't include it in your bill.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Тебе нужно быть более осторожным, когда ты водишь.",
+		"eng_sentence": "You need to be more careful when you drive.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Нам нужно быть более осторожными, когда мы водим.",
+		"eng_sentence": "We need to be more careful when we drive.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Мне нужно быть более осторожным, когда я говорю.",
+		"eng_sentence": "I need to be more careful when I speak.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Он учит нас английскому, и мне это действительно нравится.",
+		"eng_sentence": "He teaches us English and I really like it.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Она учит нас испанскому, и мне это действительно нравится.",
+		"eng_sentence": "She teaches us Spanish and I really like it.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Ты учишь меня английскому, и мне это действительно нравится.",
+		"eng_sentence": "You teach me English and I really like it.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Они включат это в цену.",
+		"eng_sentence": "They'll include it in the price.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я хочу сравнить эти два приложения.",
+		"eng_sentence": "I want to compare these two apps.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Ему нужно быть более осторожным.",
+		"eng_sentence": "He needs to be more careful.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Мы решили остаться дома.",
+		"eng_sentence": "We decided to stay at home.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я действительно верю, что это возможно.",
+		"eng_sentence": "I really believe that it's possible.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Та цена включает в себя ужин и завтрак.",
+		"eng_sentence": "That price includes dinner and breakfast.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Она понимает это лучше, чем я.",
+		"eng_sentence": "She understands it better than me.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Не смейся над ним!",
+		"eng_sentence": "Don't laugh at him!",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Она изменила своё решение в конце.",
+		"eng_sentence": "She changed her decision in the end.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Она хочет учиться в Соединённых Штатах.",
+		"eng_sentence": "She wants to study in the U.S..",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Ты жил в США?",
+		"eng_sentence": "Did you live in the U.S.?",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Он хочет жить в Соединённых Штатах?",
+		"eng_sentence": "Does he want to live in the United States?",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я посмотрел на экран.",
+		"eng_sentence": "I looked at the screen.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Она очень быстро двигается, когда танцует.",
+		"eng_sentence": "She moves very quickly when she dances.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Посмотри на экран!",
+		"eng_sentence": "Look at the screen!",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Она заплакала вдруг.",
+		"eng_sentence": "She cried suddenly.",
+		"lesson": "48",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Он зарабатывал очень мало.",
+		"eng_sentence": "He earned very little.",
+		"lesson": "48",
+		"difficulty": ""
+	}
+]
