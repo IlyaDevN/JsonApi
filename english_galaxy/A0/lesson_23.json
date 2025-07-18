@@ -23,7 +23,7 @@
 	{	
 		"id": 4,
 		"rus_sentence": "Она получает слишком мало денег.",
-		"eng_sentence": "She gets to little money.",
+		"eng_sentence": "She gets toо little money.",
 		"lesson": "23",
 		"difficulty": ""
 	},
@@ -240,7 +240,7 @@
 	{	
 		"id": 35,
 		"rus_sentence": "Она получает слишком мало денег.",
-		"eng_sentence": "She gets to little money.",
+		"eng_sentence": "She gets toо little money.",
 		"lesson": "23",
 		"difficulty": ""
 	},

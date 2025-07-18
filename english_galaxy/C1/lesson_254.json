@@ -72,7 +72,7 @@
 	{	
 		"id": 11,
 		"rus_sentence": "У меня едва хватило времени пролистать этот отчёт.",
-		"eng_sentence": "I hardly had time to flick trough this report.",
+		"eng_sentence": "I hardly had time to flick through this report.",
 		"lesson": "254",
 		"difficulty": ""
 	},
@@ -303,7 +303,7 @@
 	{	
 		"id": 44,
 		"rus_sentence": "Фирма теряет очень большие деньги и может закрыться.",
-		"eng_sentence": "The firm is losing very big money and may close down .",
+		"eng_sentence": "The firm is losing very big money and may close down.",
 		"lesson": "254",
 		"difficulty": ""
 	},
@@ -373,7 +373,7 @@
 	{	
 		"id": 54,
 		"rus_sentence": "Я решил пролистать каталог, пока я ждал.",
-		"eng_sentence": "I decided to flick though the catalogue while I was waiting.",
+		"eng_sentence": "I decided to flick through the catalogue while I was waiting.",
 		"lesson": "254",
 		"difficulty": ""
 	},
@@ -429,7 +429,7 @@
 	{	
 		"id": 62,
 		"rus_sentence": "Что касается моих спортивных предпочтений, я занимаюсь дзюдо.",
-		"eng_sentence": "As far as my sport preferences are concerned, I go in for judo.",
+		"eng_sentence": "As far as my sports preferences are concerned, I go in for judo.",
 		"lesson": "254",
 		"difficulty": ""
 	},
@@ -477,7 +477,7 @@
 	},
 	{	
 		"id": 69,
-		"rus_sentence": "Он также занимается тенисом.",
+		"rus_sentence": "Он также занимается теннисом.",
 		"eng_sentence": "He also goes in for tennis.",
 		"lesson": "254",
 		"difficulty": ""

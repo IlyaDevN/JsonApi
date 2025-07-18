@@ -205,7 +205,7 @@
 	{	
 		"id": 30,
 		"rus_sentence": "Как ты можешь объяснить пропажу денег?",
-		"eng_sentence": "How can you account for missing money?",
+		"eng_sentence": "How can you account for the missing money?",
 		"lesson": "252",
 		"difficulty": ""
 	},
@@ -639,7 +639,7 @@
 	{	
 		"id": 92,
 		"rus_sentence": "К чему это всё сводится, так это к необходимости более эффективного управления нашим временем.",
-		"eng_sentence": "What it all comes down to is necessity of managing our time more effectively.",
+		"eng_sentence": "What it all comes down to is the necessity of managing our time more effectively.",
 		"lesson": "252",
 		"difficulty": ""
 	},

@@ -99,7 +99,7 @@
 	},
 	{	
 		"id": 15,
-		"rus_sentence": "Мы можем обсудить все.",
+		"rus_sentence": "Мы можем обсудить всё.",
 		"eng_sentence": "We can discuss everything.",
 		"lesson": "46",
 		"difficulty": ""
@@ -666,7 +666,7 @@
 	},
 	{	
 		"id": 96,
-		"rus_sentence": "Я посещал Испанию, когда я был ребенком.",
+		"rus_sentence": "Я посещал Испанию, когда я был ребёнком.",
 		"eng_sentence": "I visited Spain when I was a child.",
 		"lesson": "46",
 		"difficulty": ""

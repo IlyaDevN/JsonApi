@@ -71,7 +71,7 @@
 	},
 	{	
 		"id": 11,
-		"rus_sentence": "Каждый из нас хочет сделать тоже самое.",
+		"rus_sentence": "Каждый из нас хочет сделать то же самое.",
 		"eng_sentence": "Each of us wants to do the same.",
 		"lesson": "158",
 		"difficulty": ""
@@ -625,7 +625,7 @@
 	{	
 		"id": 90,
 		"rus_sentence": "Она часто кричит на него без причины.",
-		"eng_sentence": "She often shout at him for no reason.",
+		"eng_sentence": "She often shouts at him for no reason.",
 		"lesson": "158",
 		"difficulty": ""
 	},

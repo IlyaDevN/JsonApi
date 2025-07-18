@@ -170,7 +170,7 @@
 	{	
 		"id": 25,
 		"rus_sentence": "Она прибыла в США.",
-		"eng_sentence": "She arrived in the U.S..",
+		"eng_sentence": "She arrived in the U.S.",
 		"lesson": "49",
 		"difficulty": ""
 	},
@@ -610,7 +610,7 @@
 	},
 	{	
 		"id": 88,
-		"rus_sentence": "Он умеет говорить по английски.",
+		"rus_sentence": "Он умеет говорить по-английски.",
 		"eng_sentence": "He can speak English.",
 		"lesson": "49",
 		"difficulty": ""
@@ -667,7 +667,7 @@
 	{	
 		"id": 96,
 		"rus_sentence": "Я думаю, я получу эту работу.",
-		"eng_sentence": "I think, I'll get this job.",
+		"eng_sentence": "I think I'll get this job.",
 		"lesson": "49",
 		"difficulty": ""
 	},

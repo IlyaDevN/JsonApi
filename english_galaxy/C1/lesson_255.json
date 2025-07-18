@@ -345,14 +345,14 @@
 	{	
 		"id": 50,
 		"rus_sentence": "Тебе не нужно было расходовать весь сахар, потому что ты мог бы налить только немного, и этого было бы достаточно.",
-		"eng_sentence": "You needn't have used up all the sugar because you have put just a little and it would have been enough.",
+		"eng_sentence": "You needn't have used up all the sugar because you could have put just a little and it would have been enough.",
 		"lesson": "255",
 		"difficulty": ""
 	},
 	{	
 		"id": 51,
 		"rus_sentence": "Очень жаль, что они лишены такого рода возможности.",
-		"eng_sentence": "It a real pity that they are deprived of this kind of opportunity.",
+		"eng_sentence": "It's a real pity that they are deprived of this kind of opportunity.",
 		"lesson": "255",
 		"difficulty": ""
 	},
@@ -373,7 +373,7 @@
 	{	
 		"id": 54,
 		"rus_sentence": "Он новый сотрудник, и наш босс просто хочет посмотреть, как он справляется.",
-		"eng_sentence": "He is a new employee and our boss just want to see how he measures up.",
+		"eng_sentence": "He is a new employee and our boss just wants to see how he measures up.",
 		"lesson": "255",
 		"difficulty": ""
 	},
@@ -478,7 +478,7 @@
 	{	
 		"id": 69,
 		"rus_sentence": "Я заглянул к своим родителям по дороге домой.",
-		"eng_sentence": "I looked in on my parents on the way home",
+		"eng_sentence": "I looked in on my parents on the way home.",
 		"lesson": "255",
 		"difficulty": ""
 	},
@@ -526,7 +526,7 @@
 	},
 	{	
 		"id": 76,
-		"rus_sentence": "Они продают эти товары по очень привлекательной цене.",
+		"rus_sentence": "Они распродают эти товары по очень привлекательной цене.",
 		"eng_sentence": "They sell out these goods at a very attractive price.",
 		"lesson": "255",
 		"difficulty": ""

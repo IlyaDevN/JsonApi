@@ -281,7 +281,7 @@
 	},
 	{	
 		"id": 41,
-		"rus_sentence": "Мне все нравилось.",
+		"rus_sentence": "Мне всё нравилось.",
 		"eng_sentence": "I liked everything.",
 		"lesson": "30",
 		"difficulty": ""
@@ -289,7 +289,7 @@
 	{	
 		"id": 42,
 		"rus_sentence": "Она посетила Бразилию три месяца назад.",
-		"eng_sentence": "She visited Brasil three months ago.",
+		"eng_sentence": "She visited Brazil three months ago.",
 		"lesson": "30",
 		"difficulty": ""
 	},

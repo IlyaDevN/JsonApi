@@ -8,7 +8,7 @@
 	},
 	{	
 		"id": 2,
-		"rus_sentence": "Она держится надежды что он вернется.",
+		"rus_sentence": "Она держится надежды, что он вернется.",
 		"eng_sentence": "She clings to the hope that he will come back.",
 		"lesson": "251",
 		"difficulty": ""
@@ -695,7 +695,7 @@
 	{	
 		"id": 100,
 		"rus_sentence": "Тысячи рабочих были уволены в последние месяцы.",
-		"eng_sentence": "The thousands of workers have been laid off in recent months.",
+		"eng_sentence": "Thousands of workers have been laid off in recent months.",
 		"lesson": "251",
 		"difficulty": ""
 	},

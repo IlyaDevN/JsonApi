@@ -127,7 +127,7 @@
 	},
 	{	
 		"id": 19,
-		"rus_sentence": "Я съел все.",
+		"rus_sentence": "Я съел всё.",
 		"eng_sentence": "I ate everything.",
 		"lesson": "37",
 		"difficulty": ""
@@ -247,7 +247,7 @@
 	{	
 		"id": 36,
 		"rus_sentence": "Я спал слишком мало.",
-		"eng_sentence": "I slept to little.",
+		"eng_sentence": "I slept too little.",
 		"lesson": "37",
 		"difficulty": ""
 	},

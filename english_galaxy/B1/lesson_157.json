@@ -380,7 +380,7 @@
 	{	
 		"id": 55,
 		"rus_sentence": "На самом деле, это довольно сложный экзамен.",
-		"eng_sentence": "In fact, it's a quite a difficult exam.",
+		"eng_sentence": "In fact, it's quite a difficult exam.",
 		"lesson": "157",
 		"difficulty": ""
 	},
@@ -646,7 +646,7 @@
 	{	
 		"id": 93,
 		"rus_sentence": "Что ты думаешь о жизни в пригороде?",
-		"eng_sentence": "What do you think about living in the suburbs.",
+		"eng_sentence": "What do you think about living in the suburbs?",
 		"lesson": "157",
 		"difficulty": ""
 	},

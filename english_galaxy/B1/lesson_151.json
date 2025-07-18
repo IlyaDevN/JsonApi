@@ -163,7 +163,7 @@
 	{	
 		"id": 24,
 		"rus_sentence": "Её обвинили во лжи.",
-		"eng_sentence": "She was accused of lying .",
+		"eng_sentence": "She was accused of lying.",
 		"lesson": "151",
 		"difficulty": ""
 	},
@@ -464,7 +464,7 @@
 	{	
 		"id": 67,
 		"rus_sentence": "Я вижу, что твоя точка зрения похожа на мою.",
-		"eng_sentence": "I see that your pont of view is similar to mine.",
+		"eng_sentence": "I see that your point of view is similar to mine.",
 		"lesson": "151",
 		"difficulty": ""
 	},
@@ -569,7 +569,7 @@
 	{	
 		"id": 82,
 		"rus_sentence": "Я очень быстро привык к этой погоде.",
-		"eng_sentence": "Я got used to this weather very quickly.",
+		"eng_sentence": "I got used to this weather very quickly.",
 		"lesson": "151",
 		"difficulty": ""
 	},

@@ -16,7 +16,7 @@
 	{	
 		"id": 3,
 		"rus_sentence": "Мне нужно остаться там на время.",
-		"eng_sentence": "I need to stay there for a wile.",
+		"eng_sentence": "I need to stay there for a while.",
 		"lesson": "156",
 		"difficulty": ""
 	},
@@ -240,7 +240,7 @@
 	{	
 		"id": 35,
 		"rus_sentence": "Что у нас будет на обед?",
-		"eng_sentence": "What will we have for launch?",
+		"eng_sentence": "What will we have for lunch?",
 		"lesson": "156",
 		"difficulty": ""
 	},
@@ -288,15 +288,15 @@
 	},
 	{	
 		"id": 42,
-		"rus_sentence": "Давай немного отдохнём.",
-		"eng_sentence": "Let's have a break a bit.",
+		"rus_sentence": "Давай немного отдохнём!",
+		"eng_sentence": "Let's have a break a bit!",
 		"lesson": "156",
 		"difficulty": ""
 	},
 	{	
 		"id": 43,
 		"rus_sentence": "Кстати, ты ещё не видел этого?",
-		"eng_sentence": "By the way, haven't you seen at yet?",
+		"eng_sentence": "By the way, haven't you seen it yet?",
 		"lesson": "156",
 		"difficulty": ""
 	},
@@ -394,7 +394,7 @@
 	{	
 		"id": 57,
 		"rus_sentence": "Я хочу иметь комнату с видом на море.",
-		"eng_sentence": "I want to have a room with the view of the sea.",
+		"eng_sentence": "I want to have a room with a view of the sea.",
 		"lesson": "156",
 		"difficulty": ""
 	},

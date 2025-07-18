@@ -513,7 +513,7 @@
 	{	
 		"id": 74,
 		"rus_sentence": "Она всё ещё восстанавливается после операции.",
-		"eng_sentence": "She's steel recovering from the operation.",
+		"eng_sentence": "She's still recovering from the operation.",
 		"lesson": "155",
 		"difficulty": ""
 	},
@@ -555,7 +555,7 @@
 	{	
 		"id": 80,
 		"rus_sentence": "Он часто ссылается на эти цитаты.",
-		"eng_sentence": "He often refers to this quotes.",
+		"eng_sentence": "He often refers to these quotes.",
 		"lesson": "155",
 		"difficulty": ""
 	},

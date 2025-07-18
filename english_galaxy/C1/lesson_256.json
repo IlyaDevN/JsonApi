@@ -9,7 +9,7 @@
 	{	
 		"id": 2,
 		"rus_sentence": "К сожалению, в конечном итоге они развелись.",
-		"eng_sentence": "Unfortunately, the ended up getting divorced.",
+		"eng_sentence": "Unfortunately, they ended up getting divorced.",
 		"lesson": "256",
 		"difficulty": ""
 	},
@@ -197,7 +197,7 @@
 	},
 	{	
 		"id": 29,
-		"rus_sentence": "Еще два аргумента были выдвинуты адвокатом.",
+		"rus_sentence": "Ещё два аргумента были выдвинуты адвокатом.",
 		"eng_sentence": "Two more arguments were brought forward by the lawyer.",
 		"lesson": "256",
 		"difficulty": ""
@@ -359,7 +359,7 @@
 	{	
 		"id": 52,
 		"rus_sentence": "Студентам раздали некоторые материалы для чтения.",
-		"eng_sentence": "The student were handed out some reading materials.",
+		"eng_sentence": "The students were handed out some reading materials.",
 		"lesson": "256",
 		"difficulty": ""
 	},
@@ -534,7 +534,7 @@
 	{	
 		"id": 77,
 		"rus_sentence": "Он нарезал морковь и положил её в кастрюлю.",
-		"eng_sentence": "He cut up the carrots and put it in the pot.",
+		"eng_sentence": "He cut up the carrot and put it in the pot.",
 		"lesson": "256",
 		"difficulty": ""
 	},

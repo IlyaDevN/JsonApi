@@ -205,7 +205,7 @@
 	{	
 		"id": 30,
 		"rus_sentence": "Она подала заявление на визу.",
-		"eng_sentence": "She applied for visa.",
+		"eng_sentence": "She applied for a visa.",
 		"lesson": "154",
 		"difficulty": ""
 	},
@@ -233,7 +233,7 @@
 	{	
 		"id": 34,
 		"rus_sentence": "Он ещё не заплатил за это.",
-		"eng_sentence": "He hasn't payed for it yet.",
+		"eng_sentence": "He hasn't paid for it yet.",
 		"lesson": "154",
 		"difficulty": ""
 	},
@@ -261,7 +261,7 @@
 	{	
 		"id": 38,
 		"rus_sentence": "Я работаю над новым проектом (сейчас).",
-		"eng_sentence": "I'm working on a new project",
+		"eng_sentence": "I'm working on a new project.",
 		"lesson": "154",
 		"difficulty": ""
 	},
@@ -471,7 +471,7 @@
 	{	
 		"id": 68,
 		"rus_sentence": "Он подал заявку на визу.",
-		"eng_sentence": "He applied for visa.",
+		"eng_sentence": "He applied for a visa.",
 		"lesson": "154",
 		"difficulty": ""
 	},

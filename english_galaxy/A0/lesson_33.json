@@ -177,7 +177,7 @@
 	{	
 		"id": 26,
 		"rus_sentence": "Почему ты купил этот свитер?",
-		"eng_sentence": "Why did you by this sweater?",
+		"eng_sentence": "Why did you buy this sweater?",
 		"lesson": "33",
 		"difficulty": ""
 	},
@@ -422,7 +422,7 @@
 	{	
 		"id": 61,
 		"rus_sentence": "Как регулярно она тренировалась?",
-		"eng_sentence": "How regular did she train?",
+		"eng_sentence": "How regularly did she train?",
 		"lesson": "33",
 		"difficulty": ""
 	},

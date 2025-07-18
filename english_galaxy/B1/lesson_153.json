@@ -289,7 +289,7 @@
 	{	
 		"id": 42,
 		"rus_sentence": "Мне это стало ясно.",
-		"eng_sentence": "It became clear to me .",
+		"eng_sentence": "It became clear to me.",
 		"lesson": "153",
 		"difficulty": ""
 	},
@@ -338,7 +338,7 @@
 	{	
 		"id": 49,
 		"rus_sentence": "Он так рад такому результату.",
-		"eng_sentence": "He's so happy about such a results.",
+		"eng_sentence": "He's so happy about such a result.",
 		"lesson": "153",
 		"difficulty": ""
 	},

@@ -464,7 +464,7 @@
 	{	
 		"id": 67,
 		"rus_sentence": "Тебе бы лучше ни на что и ни на кого не рассчитывать.",
-		"eng_sentence": "You'd better not to count on anything or anyone.",
+		"eng_sentence": "You'd better not count on anything or anyone.",
 		"lesson": "260",
 		"difficulty": ""
 	},
@@ -520,7 +520,7 @@
 	{	
 		"id": 75,
 		"rus_sentence": "Мне давно пора ложиться спать, потому что уже очень поздно.",
-		"eng_sentence": "It's hight time I turned in because it's very late.",
+		"eng_sentence": "It's high time I turned in because it's very late.",
 		"lesson": "260",
 		"difficulty": ""
 	},
@@ -597,7 +597,7 @@
 	{	
 		"id": 86,
 		"rus_sentence": "Я завел будильник прошлой ночью, но он почему то не зазвонил.",
-		"eng_sentence": "I set my alarm clock last night but id didn't go off for some reason.",
+		"eng_sentence": "I set my alarm clock last night but it didn't go off for some reason.",
 		"lesson": "260",
 		"difficulty": ""
 	},
@@ -681,7 +681,7 @@
 	{	
 		"id": 98,
 		"rus_sentence": "Стакан упал на пол и разбился на куски.",
-		"eng_sentence": "The glass fell to the floor and broke into peaces.",
+		"eng_sentence": "The glass fell to the floor and broke into pieces.",
 		"lesson": "260",
 		"difficulty": ""
 	},

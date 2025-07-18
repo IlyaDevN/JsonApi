@@ -429,7 +429,7 @@
 	{	
 		"id": 62,
 		"rus_sentence": "Я думаю, я последую этому совету.",
-		"eng_sentence": "I think, I'll follow this advice.",
+		"eng_sentence": "I think I'll follow this advice.",
 		"lesson": "25",
 		"difficulty": ""
 	},
@@ -743,7 +743,7 @@
 	},
 	{	
 		"id": 107,
-		"rus_sentence": "Я расскажу ей все.",
+		"rus_sentence": "Я расскажу ей всё.",
 		"eng_sentence": "I'll tell her everything.",
 		"lesson": "25",
 		"difficulty": ""

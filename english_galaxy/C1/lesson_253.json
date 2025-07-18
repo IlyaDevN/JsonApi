@@ -100,7 +100,7 @@
 	{	
 		"id": 15,
 		"rus_sentence": "Я столкнулся с разного рода проблемами.",
-		"eng_sentence": "I ran up against different kind of problems.",
+		"eng_sentence": "I ran up against different kinds of problems.",
 		"lesson": "253",
 		"difficulty": ""
 	},
@@ -380,7 +380,7 @@
 	{	
 		"id": 55,
 		"rus_sentence": "Достаточно удивительно, но он не смог донести это сообщение.",
-		"eng_sentence": "Surprisingly enough, but he couldn't get this message across.",
+		"eng_sentence": "Surprisingly enough, he couldn't get this message across.",
 		"lesson": "253",
 		"difficulty": ""
 	},
@@ -499,7 +499,7 @@
 	{	
 		"id": 72,
 		"rus_sentence": "Тебе бы лучше не останавливаться на прошлом.",
-		"eng_sentence": "You had better not to dwell on the past.",
+		"eng_sentence": "You had better not dwell on the past.",
 		"lesson": "253",
 		"difficulty": ""
 	},
@@ -541,7 +541,7 @@
 	{	
 		"id": 78,
 		"rus_sentence": "С ним не так легко иметь дело.",
-		"eng_sentence": "It's not so easy do deal with him.",
+		"eng_sentence": "It's not so easy to deal with him.",
 		"lesson": "253",
 		"difficulty": ""
 	},

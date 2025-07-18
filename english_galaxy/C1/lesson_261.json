@@ -240,7 +240,7 @@
 	{	
 		"id": 35,
 		"rus_sentence": "Следи за такого рода ошибками, когда говоришь по-английски!",
-		"eng_sentence": "Look out for these kind of mistakes when speaking English!",
+		"eng_sentence": "Look out for these kinds of mistakes when speaking English!",
 		"lesson": "261",
 		"difficulty": ""
 	},
@@ -282,7 +282,7 @@
 	{	
 		"id": 41,
 		"rus_sentence": "Они не могли сильно поднять цены, потому что они боялись потерять своих покупателей.",
-		"eng_sentence": "They couldn't put up the prices greatly because they were afraid of loosing their customers.",
+		"eng_sentence": "They couldn't put up the prices greatly because they were afraid of losing their customers.",
 		"lesson": "261",
 		"difficulty": ""
 	},
@@ -555,7 +555,7 @@
 	{	
 		"id": 80,
 		"rus_sentence": "Он был слишком застенчив, чтобы пригласить ту девушку на свидание.",
-		"eng_sentence": "He was to shy to ask that girl out.",
+		"eng_sentence": "He was too shy to ask that girl out.",
 		"lesson": "261",
 		"difficulty": ""
 	},
@@ -652,7 +652,7 @@
 	},
 	{	
 		"id": 94,
-		"rus_sentence": "Он пытался собрать воедино, все что уже произошло.",
+		"rus_sentence": "Он пытался собрать воедино все, что уже произошло.",
 		"eng_sentence": "He was trying to piece together everything that had already happened.",
 		"lesson": "261",
 		"difficulty": ""
