@@ -1,0 +1,695 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я часто жду его.",
+		"eng_sentence": "I often wait for him.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я посмотрю тот видеоурок завтра.",
+		"eng_sentence": "I'll watch that video lesson tomorrow.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я предпочитаю тренироваться очень интенсивно.",
+		"eng_sentence": "I prefer to train very intensively.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Они не объясняют этого.",
+		"eng_sentence": "They don't explain it.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я покажу тебе эту вещь.",
+		"eng_sentence": "I'll show you this thing.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Ты будешь ждать этого?",
+		"eng_sentence": "Will you wait for it?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Я напишу ему письмо.",
+		"eng_sentence": "I'll write him a letter.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Я могу пойти туда с тобой.",
+		"eng_sentence": "I can go there with you.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я написал сообщение.",
+		"eng_sentence": "I wrote a message.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Следуй за мной!",
+		"eng_sentence": "Follow me!",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Два яблока упали с дерева.",
+		"eng_sentence": "Two apples fell from a tree.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Она хочет танцевать сейчас.",
+		"eng_sentence": "She wants to dance now.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Мне нужно тренироваться намного больше.",
+		"eng_sentence": "I need to train much more.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Он построил дом.",
+		"eng_sentence": "He built a house.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Это может упасть.",
+		"eng_sentence": "It can fall.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я могу забыть это очень легко.",
+		"eng_sentence": "I can forget it very easily.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Он часто улыбается.",
+		"eng_sentence": "He often smiles.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я могу всё объяснить.",
+		"eng_sentence": "I can explain everything.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он дал мне этот совет.",
+		"eng_sentence": "He gave me this advice.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я в основном пользовался тем словарём.",
+		"eng_sentence": "I mostly used that dictionary.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Как ты тренировался?",
+		"eng_sentence": "How did you train?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Давай пойдём в другое место!",
+		"eng_sentence": "Let's go to another place!",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я хочу посмотреть этот фильм.",
+		"eng_sentence": "I want to watch this movie.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Она танцевала профессионально.",
+		"eng_sentence": "She danced professionally.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Она часто пользуется этим сервисом.",
+		"eng_sentence": "She often uses this service.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я смотрел это видео прошлой ночью.",
+		"eng_sentence": "I watched this video last night.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Он пошёл в цирк.",
+		"eng_sentence": "He went to the circus.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Ей нужно идти домой.",
+		"eng_sentence": "She needs to go home.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Ты можешь улыбнуться.",
+		"eng_sentence": "You can smile.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Что ты выберешь?",
+		"eng_sentence": "What will you choose?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Он в основном показывает хорошие результаты.",
+		"eng_sentence": "He mostly shows good results.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Она всегда готовила очень вкусную еду.",
+		"eng_sentence": "She always cooked very tasty food.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я часто пользуюсь этим словарём.",
+		"eng_sentence": "I often use this dictionary.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Она не хотела ждать этого.",
+		"eng_sentence": "She didn't want to wait for it.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Ты дашь ему эти деньги?",
+		"eng_sentence": "Will you give him this money?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Мы скоро пойдём на пикник.",
+		"eng_sentence": "We'll go on a picnic soon.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Давай пойдём туда вместе!",
+		"eng_sentence": "Let's go there together!",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Я всё забыл.",
+		"eng_sentence": "I forgot everything.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Этот мальчик упал внезапно.",
+		"eng_sentence": "This boy fell suddenly.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Как она готовит?",
+		"eng_sentence": "How does she cook?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Она не может понять это.",
+		"eng_sentence": "She can't understand it.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Этот урок продлится сорок минут.",
+		"eng_sentence": "This lesson will last (for) forty minutes.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я не могу объяснить эту вещь.",
+		"eng_sentence": "I can't explain this thing.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Ты можешь использовать мой сотовый телефон, если тебе это нужно.",
+		"eng_sentence": "You can use my cell phone (mobile phone) if you need it.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Как долго это длилось?",
+		"eng_sentence": "How long did it last?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Наш урок длился очень долго.",
+		"eng_sentence": "Our lesson lasted very long.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Мы могли говорить по телефону часами.",
+		"eng_sentence": "We could talk on the phone for hours.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я правильно это написал?",
+		"eng_sentence": "Did I write it correctly?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я не мог понять эту речь.",
+		"eng_sentence": "I couldn't understand this speech.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Он не умеет говорить по-английски.",
+		"eng_sentence": "He can't speak English.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я могу дать тебе одну очень важную рекомендацию.",
+		"eng_sentence": "I can give you one very important recommendation.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Этот видеоблогер показал это в своём видео.",
+		"eng_sentence": "This video blogger showed it in his video.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Когда они поженятся?",
+		"eng_sentence": "When will they get married?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Они показали это по телевизору.",
+		"eng_sentence": "They showed it on TV.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Время проходило так медленно.",
+		"eng_sentence": "Time passed so slowly.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я мог учить английский часами.",
+		"eng_sentence": "I could learn English for hours.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я мог учить русский часами.",
+		"eng_sentence": "I could learn Russian for hours.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Она могла учить английские слова очень быстро.",
+		"eng_sentence": "She could learn English words very fast.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я помню, что наш учитель объяснил это.",
+		"eng_sentence": "I remember that our teacher explained it.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Он помнит, что его учитель не объяснил это.",
+		"eng_sentence": "He remembers that his teacher didn't explain it.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я правильно это сказал?",
+		"eng_sentence": "Did I say it correctly?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Tы нашёл это легко?",
+		"eng_sentence": "Did you find it easily?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Я делаю это правильно?",
+		"eng_sentence": "Do I do it correctly?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Он не может объяснить это.",
+		"eng_sentence": "He can't explain it.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я не могу объяснить это.",
+		"eng_sentence": "I can't explain it.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Он может объяснить эти вещи очень легко.",
+		"eng_sentence": "He can explain these things very easily.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Она выбрала первый ответ.",
+		"eng_sentence": "She chose the first answer.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Он выбрал второй ответ.",
+		"eng_sentence": "He chose the second answer.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я выбрал третий ответ.",
+		"eng_sentence": "I chose the third answer.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Ты будешь танцевать или нет?",
+		"eng_sentence": "Will you dance or not?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Она будет петь или нет?",
+		"eng_sentence": "Will she sing or not?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Они строят очень модный дом.",
+		"eng_sentence": "They build a very fashionable house.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Они не строят очень модные дома.",
+		"eng_sentence": "They don't build very fashionable houses.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Он строит очень модные дома.",
+		"eng_sentence": "He builds very fashionable houses.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я выбрал второй ответ.",
+		"eng_sentence": "I chose the second answer.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Ты сказал это правильно.",
+		"eng_sentence": "You said it correctly.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я мог купить тот дом, но я этого не сделал.",
+		"eng_sentence": "I could buy that house but I didn't do it.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Он мог купить тот дом но он этого не сделал.",
+		"eng_sentence": "He could buy that house but he didn't do it.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я мог купить этот дом, но я этого не сделал.",
+		"eng_sentence": "I could buy this house but I didn't do it.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я не думаю, что цена упадёт.",
+		"eng_sentence": "I don't think that the price will fall.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Я не думаю, что эти цены упадут.",
+		"eng_sentence": "I don't think that these prices will fall.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я не думаю, что эта цена упадет.",
+		"eng_sentence": "I don't think that this price will fall.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Время проходит очень быстро.",
+		"eng_sentence": "Time passes very quickly.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Он говорит, что они построят этот мост в следующем году.",
+		"eng_sentence": "He says that they'll build this bridge next year.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Они хотят пожениться.",
+		"eng_sentence": "They want to get married.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Он женился на ней в прошлом году.",
+		"eng_sentence": "He married her last year.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Как она танцевала?",
+		"eng_sentence": "How did she dance?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Она готовит вкусную еду.",
+		"eng_sentence": "She cooks delicious (tasty) food.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я постараюсь сдать этот экзамен.",
+		"eng_sentence": "I'll try to pass this exam.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Тот урок длился час.",
+		"eng_sentence": "That lesson lasted an hour.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я не могу выбрать между этими двумя вещами.",
+		"eng_sentence": "I can't choose between these two things.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я думаю, я последую твоему совету.",
+		"eng_sentence": "I think I'll follow your advice.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Просто следуй за мной!",
+		"eng_sentence": "Just follow me!",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Ты написал всё правильно.",
+		"eng_sentence": "You wrote everything correctly.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Что ты будешь готовить на ужин?",
+		"eng_sentence": "What will you cook for dinner?",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Она улыбнулась мне.",
+		"eng_sentence": "She smiled at me.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я часто пишу по-английски.",
+		"eng_sentence": "I often write in English.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я пытался понять это.",
+		"eng_sentence": "I tried to understand it.",
+		"lesson": "50",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я плавал в море вчера.",
+		"eng_sentence": "I swam in the sea yesterday.",
+		"lesson": "50",
+		"difficulty": ""
+	}
+]
