@@ -107,7 +107,7 @@
 	{	
 		"id": 16,
 		"rus_sentence": "Она в порядке.",
-		"eng_sentence": "She's OK. / She's all right",
+		"eng_sentence": "She's OK. / She's all right.",
 		"lesson": "14",
 		"difficulty": ""
 	},
@@ -338,7 +338,7 @@
 	{	
 		"id": 49,
 		"rus_sentence": "Я думаю, это хорошо.",
-		"eng_sentence": "I think, it's good.",
+		"eng_sentence": "I think it's good.",
 		"lesson": "14",
 		"difficulty": ""
 	},
@@ -359,7 +359,7 @@
 	{	
 		"id": 52,
 		"rus_sentence": "Я думаю, это очень хорошо.",
-		"eng_sentence": "I think, it's very good.",
+		"eng_sentence": "I think it's very good.",
 		"lesson": "14",
 		"difficulty": ""
 	},
@@ -422,7 +422,7 @@
 	{	
 		"id": 61,
 		"rus_sentence": "Я думаю, это возможно.",
-		"eng_sentence": "I think, it's possible.",
+		"eng_sentence": "I think it's possible.",
 		"lesson": "14",
 		"difficulty": ""
 	},

@@ -540,7 +540,7 @@
 	},
 	{	
 		"id": 78,
-		"rus_sentence": "Он мог купить тот дом но он этого не сделал.",
+		"rus_sentence": "Он мог купить тот дом, но он этого не сделал.",
 		"eng_sentence": "He could buy that house but he didn't do it.",
 		"lesson": "50",
 		"difficulty": ""

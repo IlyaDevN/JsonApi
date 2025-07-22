@@ -92,7 +92,7 @@
 	},
 	{	
 		"id": 14,
-		"rus_sentence": "У нее нет детей.",
+		"rus_sentence": "У неё нет детей.",
 		"eng_sentence": "She doesn't have children.",
 		"lesson": "7",
 		"difficulty": ""
@@ -687,7 +687,7 @@
 	},
 	{	
 		"id": 99,
-		"rus_sentence": "У нее нет кошки.",
+		"rus_sentence": "У неё нет кошки.",
 		"eng_sentence": "She doesn't have a cat.",
 		"lesson": "7",
 		"difficulty": ""
@@ -701,7 +701,7 @@
 	},
 	{	
 		"id": 101,
-		"rus_sentence": "Я не хочу беспокоится об этом.",
+		"rus_sentence": "Я не хочу беспокоиться об этом.",
 		"eng_sentence": "I don't want to worry about it.",
 		"lesson": "7",
 		"difficulty": ""

@@ -239,7 +239,7 @@
 	},
 	{	
 		"id": 35,
-		"rus_sentence": "Я могу говорить по английски.",
+		"rus_sentence": "Я могу говорить по-английски.",
 		"eng_sentence": "I can speak English.",
 		"lesson": "1",
 		"difficulty": ""
@@ -260,14 +260,14 @@
 	},
 	{	
 		"id": 38,
-		"rus_sentence": "Ты говоришь по английски очень хорошо.",
+		"rus_sentence": "Ты говоришь по-английски очень хорошо.",
 		"eng_sentence": "You speak English very well.",
 		"lesson": "1",
 		"difficulty": ""
 	},
 	{	
 		"id": 39,
-		"rus_sentence": "Я говорю по русски.",
+		"rus_sentence": "Я говорю по-русски.",
 		"eng_sentence": "I speak Russian.",
 		"lesson": "1",
 		"difficulty": ""

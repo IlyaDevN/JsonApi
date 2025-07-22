@@ -92,7 +92,7 @@
 	},
 	{	
 		"id": 14,
-		"rus_sentence": "У него есть ребенок.",
+		"rus_sentence": "У него есть ребёнок.",
 		"eng_sentence": "He has a child.",
 		"lesson": "4",
 		"difficulty": ""
@@ -162,7 +162,7 @@
 	},
 	{	
 		"id": 24,
-		"rus_sentence": "У них есть ребенок.",
+		"rus_sentence": "У них есть ребёнок.",
 		"eng_sentence": "They have a child.",
 		"lesson": "4",
 		"difficulty": ""
@@ -701,7 +701,7 @@
 	},
 	{	
 		"id": 101,
-		"rus_sentence": "Мне нравится мороженное.",
+		"rus_sentence": "Мне нравится мороженое.",
 		"eng_sentence": "I like ice cream.",
 		"lesson": "4",
 		"difficulty": ""

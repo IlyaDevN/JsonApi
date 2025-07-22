@@ -211,7 +211,7 @@
 	},
 	{	
 		"id": 31,
-		"rus_sentence": "Он не преподает английский.",
+		"rus_sentence": "Он не преподаёт английский.",
 		"eng_sentence": "He doesn't teach English.",
 		"lesson": "8",
 		"difficulty": ""
@@ -344,7 +344,7 @@
 	},
 	{	
 		"id": 50,
-		"rus_sentence": "Она говорит по английски с ошибками.",
+		"rus_sentence": "Она говорит по-английски с ошибками.",
 		"eng_sentence": "She speaks English with mistakes.",
 		"lesson": "8",
 		"difficulty": ""

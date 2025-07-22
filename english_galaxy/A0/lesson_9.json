@@ -142,7 +142,7 @@
 	{	
 		"id": 21,
 		"rus_sentence": "Ты видишь это?",
-		"eng_sentence": "Do  you see it?",
+		"eng_sentence": "Do you see it?",
 		"lesson": "9",
 		"difficulty": ""
 	},
@@ -512,7 +512,7 @@
 	},
 	{	
 		"id": 74,
-		"rus_sentence": "Ты хочешь поехать в Соединённые  штаты?",
+		"rus_sentence": "Ты хочешь поехать в Соединённые Штаты?",
 		"eng_sentence": "Do you want to go to the United States?",
 		"lesson": "9",
 		"difficulty": ""
@@ -582,14 +582,14 @@
 	},
 	{	
 		"id": 84,
-		"rus_sentence": "Ты хочешь жить в Соединённых штатах?",
+		"rus_sentence": "Ты хочешь жить в Соединённых Штатах?",
 		"eng_sentence": "Do you want to live in the United States?",
 		"lesson": "9",
 		"difficulty": ""
 	},
 	{	
 		"id": 85,
-		"rus_sentence": "Ты хочешь жить в Соединённом королевстве?",
+		"rus_sentence": "Ты хочешь жить в Соединённом Королевстве?",
 		"eng_sentence": "Do you want to live in the United Kingdom?",
 		"lesson": "9",
 		"difficulty": ""

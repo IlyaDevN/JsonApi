@@ -163,14 +163,14 @@
 	{	
 		"id": 24,
 		"rus_sentence": "Я хочу сказать тебе, что это не мотивирует меня.",
-		"eng_sentence": "I want  to tell you that it doesn't motivate me.",
+		"eng_sentence": "I want to tell you that it doesn't motivate me.",
 		"lesson": "21",
 		"difficulty": ""
 	},
 	{	
 		"id": 25,
 		"rus_sentence": "Закрой окно, пожалуйста!",
-		"eng_sentence": "Close the window, please! / Please, close the window",
+		"eng_sentence": "Close the window, please! / Please close the window",
 		"lesson": "21",
 		"difficulty": ""
 	},

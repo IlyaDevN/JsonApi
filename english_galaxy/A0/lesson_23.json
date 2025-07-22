@@ -23,7 +23,7 @@
 	{	
 		"id": 4,
 		"rus_sentence": "Она получает слишком мало денег.",
-		"eng_sentence": "She gets toо little money.",
+		"eng_sentence": "She gets too little money.",
 		"lesson": "23",
 		"difficulty": ""
 	},
@@ -71,7 +71,7 @@
 	},
 	{	
 		"id": 11,
-		"rus_sentence": "Он есть слишком много.",
+		"rus_sentence": "Он ест слишком много.",
 		"eng_sentence": "He eats too much.",
 		"lesson": "23",
 		"difficulty": ""
@@ -240,7 +240,7 @@
 	{	
 		"id": 35,
 		"rus_sentence": "Она получает слишком мало денег.",
-		"eng_sentence": "She gets toо little money.",
+		"eng_sentence": "She gets too little money.",
 		"lesson": "23",
 		"difficulty": ""
 	},

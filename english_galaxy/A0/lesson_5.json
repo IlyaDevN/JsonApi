@@ -666,7 +666,7 @@
 	},
 	{	
 		"id": 96,
-		"rus_sentence": "Я хочу учить Английский здесь.",
+		"rus_sentence": "Я хочу учить английский здесь.",
 		"eng_sentence": "I want to learn English here.",
 		"lesson": "5",
 		"difficulty": ""
@@ -736,7 +736,7 @@
 	},
 	{	
 		"id": 106,
-		"rus_sentence": "Я хочу читать книги на Английском.",
+		"rus_sentence": "Я хочу читать книги на английском.",
 		"eng_sentence": "I want to read books in English.",
 		"lesson": "5",
 		"difficulty": ""

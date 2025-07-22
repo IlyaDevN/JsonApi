@@ -170,7 +170,7 @@
 	{	
 		"id": 25,
 		"rus_sentence": "Это не важно.",
-		"eng_sentence": "It isn't important. / It's unimportant",
+		"eng_sentence": "It isn't important. / It's unimportant.",
 		"lesson": "15",
 		"difficulty": ""
 	},
@@ -275,7 +275,7 @@
 	{	
 		"id": 40,
 		"rus_sentence": "Она не счастлива.",
-		"eng_sentence": "She isn't happy. / She is unhappy",
+		"eng_sentence": "She isn't happy. / She is unhappy.",
 		"lesson": "15",
 		"difficulty": ""
 	},
@@ -345,7 +345,7 @@
 	{	
 		"id": 50,
 		"rus_sentence": "Я знаю, они не правы.",
-		"eng_sentence": "I know they aren't write. / I know they are wrong",
+		"eng_sentence": "I know they aren't right. / I know they are wrong.",
 		"lesson": "15",
 		"difficulty": ""
 	},
@@ -359,7 +359,7 @@
 	{	
 		"id": 52,
 		"rus_sentence": "Это неправильно.",
-		"eng_sentence": "It isn't right / correct. / It's wrong / incorrect",
+		"eng_sentence": "It isn't right (correct). / It's wrong (incorrect).",
 		"lesson": "15",
 		"difficulty": ""
 	},
@@ -387,7 +387,7 @@
 	{	
 		"id": 56,
 		"rus_sentence": "Я думаю, это не реально.",
-		"eng_sentence": "I think it isn't real. / I think it's unreal",
+		"eng_sentence": "I think it isn't real. / I think it's unreal.",
 		"lesson": "15",
 		"difficulty": ""
 	},
@@ -569,7 +569,7 @@
 	{	
 		"id": 82,
 		"rus_sentence": "Это не эффективно.",
-		"eng_sentence": "It isn't effective. / It's ineffective",
+		"eng_sentence": "It isn't effective. / It's ineffective.",
 		"lesson": "15",
 		"difficulty": ""
 	},
