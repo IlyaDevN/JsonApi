@@ -1,0 +1,744 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я живу в другом городе.",
+		"eng_sentence": "I live in another city.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Он действительно хочет говорить по-русски.",
+		"eng_sentence": "He really wants to speak Russian.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я обожаю читать книги вечером.",
+		"eng_sentence": "I enjoy reading books in the evening.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Она обожает играть в теннис.",
+		"eng_sentence": "She enjoys playing tennis.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Мне нравится есть здоровую пищу.",
+		"eng_sentence": "I like eating healthy food.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Ему нравится читать книги на английском.",
+		"eng_sentence": "He likes reading books in English.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Мне действительно нравится кататься на велосипеде.",
+		"eng_sentence": "I really like cycling.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Ты говоришь по-английски прекрасно.",
+		"eng_sentence": "You speak English perfectly.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Это звучит отлично.",
+		"eng_sentence": "It sounds great.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Он платит за это.",
+		"eng_sentence": "He pays for it.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Это стоит два миллиона фунтов.",
+		"eng_sentence": "It costs two million pounds.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я могу сделать это в начале.",
+		"eng_sentence": "I can do it in the beginning.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Ты слишком много работаешь.",
+		"eng_sentence": "You work too much.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Она тоже так думает.",
+		"eng_sentence": "She thinks so, too.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Он тоже так думает.",
+		"eng_sentence": "He also thinks so.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я предпочитаю делать это в своё свободное время.",
+		"eng_sentence": "I prefer to do it in my free time.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Ты показываешь отличные результаты.",
+		"eng_sentence": "You show excellent results.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Ей нравятся иностранные языки.",
+		"eng_sentence": "She likes foreign languages.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он прекрасно понимает это.",
+		"eng_sentence": "He perfectly understands it.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "У меня отличные результаты.",
+		"eng_sentence": "I have excellent results.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он много знает.",
+		"eng_sentence": "He knows a lot.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Это стоит пять тысяч евро.",
+		"eng_sentence": "It costs five thousand euros.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Мы учимся в одной группе.",
+		"eng_sentence": "We study in one group.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Мы действительно ценим твою помощь.",
+		"eng_sentence": "We really appreciate your help.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это нам очень помогает.",
+		"eng_sentence": "It helps us a lot.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я тебя прекрасно понимаю.",
+		"eng_sentence": "I perfectly understand you.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "У нее блестящие результаты.",
+		"eng_sentence": "She has brilliant results.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Он часто говорит эти вещи.",
+		"eng_sentence": "He often says these things.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Ей действительно нравится кататься на велосипеде.",
+		"eng_sentence": "She really likes cycling.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я обожаю английский.",
+		"eng_sentence": "I enjoy English.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Она предпочитает горячий чай.",
+		"eng_sentence": "She prefers hot tea.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Ему действительно нравится плавать.",
+		"eng_sentence": "He really likes swimming.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Она живёт в другой области.",
+		"eng_sentence": "She lives in another area.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Мы видим музей.",
+		"eng_sentence": "We see a museum.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Я хочу свободно говорить по-английски.",
+		"eng_sentence": "I want to speak English fluently.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он учится и работает.",
+		"eng_sentence": "He studies and works.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Эта вещь стоит двести долларов.",
+		"eng_sentence": "This thing costs two hundred dollars.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Мне действительно нравится этот язык.",
+		"eng_sentence": "I really like this language.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я действительно обожаю спорт.",
+		"eng_sentence": "I really enjoy sport.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Мне нужно больше опыта.",
+		"eng_sentence": "I need more experience.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Он показывает блестящие результаты.",
+		"eng_sentence": "He shows brilliant results.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Я действительно ценю твою помощь.",
+		"eng_sentence": "I really appreciate your help.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я стараюсь делать это каждый день.",
+		"eng_sentence": "I try to do it every day.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Она живёт в квартире.",
+		"eng_sentence": "She lives in an apartment.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Мы живём в доме.",
+		"eng_sentence": "We live in a house.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Она профессионально преподает английский.",
+		"eng_sentence": "She teaches English professionally.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я прекрасно понимаю как это работает.",
+		"eng_sentence": "I perfectly understand how it works.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Она часто слушает музыку, когда занимается другими делами.",
+		"eng_sentence": "She often listens to music when she does other things.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Мне нужен опыт работы в начале.",
+		"eng_sentence": "I need work experience in the beginning.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я чувствую, что мне прежде всего нужно улучшить своё аудирование и речь.",
+		"eng_sentence": "I feel that I need to improve my listening and speaking first of all.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я действительно хочу понимать носителей языка.",
+		"eng_sentence": "I really want to understand native speakers.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я прекрасно понимаю твою точку зрения.",
+		"eng_sentence": "I perfectly understand your point of view.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Мне кажется, у тебя отличные результаты.",
+		"eng_sentence": "It seems to me you have excellent results.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я действительно хочу говорить по-английски как носитель языка.",
+		"eng_sentence": "I really want to speak English like a native speaker.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Она работает врачом.",
+		"eng_sentence": "She works as a doctor.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Она хочет улучшить свой словарный запас в первую очередь.",
+		"eng_sentence": "She wants to improve her vocabulary first of all.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Ей очень нравится бегать трусцой.",
+		"eng_sentence": "She really likes jogging.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я работаю менеджером.",
+		"eng_sentence": "I work as a manager.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я вижу, ты часто ездишь за границу.",
+		"eng_sentence": "I see you often go abroad.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я хочу поехать в Соединённые Штаты в следующем году.",
+		"eng_sentence": "I want to go to the United States next year.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Он работает учителем.",
+		"eng_sentence": "He works as a teacher.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Она обожает плавать.",
+		"eng_sentence": "She enjoys swimming.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Я люблю бегать трусцой.",
+		"eng_sentence": "I like jogging.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я действительно обожаю плавать.",
+		"eng_sentence": "I really enjoy swimming.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Он говорит по-английски без акцента.",
+		"eng_sentence": "He speaks English without an accent.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Я говорю по-немецки без акцента.",
+		"eng_sentence": "I speak German without an accent.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Она говорит по-русски с акцентом.",
+		"eng_sentence": "She speaks Russian with an accent.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Мне кажется, это действительно стоит много.",
+		"eng_sentence": "It seems to me it really costs a lot.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Ей кажется, это действительно стоит много.",
+		"eng_sentence": "It seems to her it really costs a lot.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Мне кажется, что это действительно стоит много.",
+		"eng_sentence": "It seems to me that it really costs a lot.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Она понимает носителей языка лишь немного.",
+		"eng_sentence": "She understands native speakers only a little.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Он понимает носителей языка лишь немного.",
+		"eng_sentence": "He understands native speakers only a little.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Они понимают носителей языка лишь немного.",
+		"eng_sentence": "They understand native speakers only a little.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Мне нужен некоторый опыт работы в первую очередь.",
+		"eng_sentence": "I need some work experience first of all.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Ей нужен некоторый опыт работы в первую очередь.",
+		"eng_sentence": "She needs some work experience first of all.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Тебе нужен некоторый опыт работы в первую очередь.",
+		"eng_sentence": "You need some work experience first of all.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Он работает секретарём.",
+		"eng_sentence": "He works as a secretary.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я работаю учителем.",
+		"eng_sentence": "I work as a teacher.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Она работает менеджером.",
+		"eng_sentence": "She works as a manager.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я вижу, у тебя есть идея.",
+		"eng_sentence": "I see you have an idea.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Я вижу, у неё есть идея.",
+		"eng_sentence": "I see she has an idea.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я вижу, у них есть идея.",
+		"eng_sentence": "I see they have an idea.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Я думаю, что это звучит великолепно.",
+		"eng_sentence": "I think that it sounds great.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Она думает, что это звучит великолепно.",
+		"eng_sentence": "She thinks that it sounds great.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Я думаю, что это выглядит великолепно.",
+		"eng_sentence": "I think that it looks great.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Он много путешествует.",
+		"eng_sentence": "He travels a lot.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Она много путешествует.",
+		"eng_sentence": "She travels a lot.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я много путешествую.",
+		"eng_sentence": "I travel a lot.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Это случается время от времени.",
+		"eng_sentence": "It happens from time to time.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Эта вещь случается время от времени.",
+		"eng_sentence": "This thing happens from time to time.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Это иногда случается.",
+		"eng_sentence": "It sometimes happens.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Он ходит в бассейн.",
+		"eng_sentence": "He goes to the swimming pool.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я вижу, что она говорит по-английски без акцента.",
+		"eng_sentence": "I see that she speaks English without an accent.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я действительно хочу говорить по-английски как носитель.",
+		"eng_sentence": "I really want to speak English like a native.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Он работает в другом отделе.",
+		"eng_sentence": "He works in another department.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Ей очень нравится классическая музыка.",
+		"eng_sentence": "She really likes classical music.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я вижу, ему действительно нравится эта идея.",
+		"eng_sentence": "I see he really likes this idea.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я занимаюсь плаванием дважды в неделю.",
+		"eng_sentence": "I go swimming twice a week. / I go swimming two times a week.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Она работает продавцом магазина.",
+		"eng_sentence": "She works as a shop assistant.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Он часто летает в Англию.",
+		"eng_sentence": "He often flies to England.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я только немного понимаю носителей языка, но я работаю над этим.",
+		"eng_sentence": "I understand native speakers only a bit but I work on it.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Я хочу улучшить свою грамматику.",
+		"eng_sentence": "I want to improve my grammar.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Я занимаюсь плаванием два или три раза в неделю.",
+		"eng_sentence": "I go swimming two or three times a week.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "Она часто летает в Соединённые Штаты.",
+		"eng_sentence": "She often flies to the United States.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": "Она прекрасно понимает нашу точку зрения.",
+		"eng_sentence": "She perfectly understands our point of view.",
+		"lesson": "51",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": "Он часто бегает трусцой.",
+		"eng_sentence": "He often goes jogging.",
+		"lesson": "51",
+		"difficulty": ""
+	}
+]
