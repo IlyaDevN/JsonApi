@@ -184,7 +184,7 @@
 	{	
 		"id": 27,
 		"rus_sentence": "Я всегда мог рассчитывать на поддержку моих друзей.",
-		"eng_sentence": "I have always been able to count on my friend's support.",
+		"eng_sentence": "I have always been able to count on my friends' support.",
 		"lesson": "260",
 		"difficulty": ""
 	},
@@ -296,7 +296,7 @@
 	{	
 		"id": 43,
 		"rus_sentence": "Как сообщалось, местные жители были отрезаны от внешнего мира.",
-		"eng_sentence": "As it was reported, the local people had been cut off from the outside world .",
+		"eng_sentence": "As it was reported, the local people had been cut off from the outside world.",
 		"lesson": "260",
 		"difficulty": ""
 	},
@@ -596,7 +596,7 @@
 	},
 	{	
 		"id": 86,
-		"rus_sentence": "Я завел будильник прошлой ночью, но он почему то не зазвонил.",
+		"rus_sentence": "Я завел будильник прошлой ночью, но он почему-то не зазвонил.",
 		"eng_sentence": "I set my alarm clock last night but it didn't go off for some reason.",
 		"lesson": "260",
 		"difficulty": ""
