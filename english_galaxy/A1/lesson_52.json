@@ -1,0 +1,765 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "У меня большая семья.",
+		"eng_sentence": "I have a big family.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "У него старый дом.",
+		"eng_sentence": "He has an old house.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "У него короткие волосы.",
+		"eng_sentence": "He has short hair.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "У них есть большие деньги.",
+		"eng_sentence": "They have big money.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "У нас богатые друзья.",
+		"eng_sentence": "We have rich friends.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Им нравятся большие машины.",
+		"eng_sentence": "They like big cars.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "У неё очень интересная работа.",
+		"eng_sentence": "She has a very interesting job.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Я знаю одно странное место.",
+		"eng_sentence": "I know one strange place.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я купил одну книгу.",
+		"eng_sentence": "I bought one book.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Мне действительно нравится тёплая погода.",
+		"eng_sentence": "I really like warm weather.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "У меня хороший результат.",
+		"eng_sentence": "I have a good result.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "У тебя высокий уровень.",
+		"eng_sentence": "You have a high level.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Он использует простой метод.",
+		"eng_sentence": "He uses a simple method.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "У меня очень большая мотивация.",
+		"eng_sentence": "I have very big motivation.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "У неё длинные светлые волосы.",
+		"eng_sentence": "She has long blonde hair.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "У него большая семья.",
+		"eng_sentence": "He has a large family.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Мы видим современное здание.",
+		"eng_sentence": "We see a modern building.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "У них старая машина.",
+		"eng_sentence": "They have an old car.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "У него финансовые проблемы.",
+		"eng_sentence": "He has financial problems.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Она хочет горячий чай.",
+		"eng_sentence": "She wants hot tea.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "У него синяя машина.",
+		"eng_sentence": "He has a blue car.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "У меня новый компьютер.",
+		"eng_sentence": "I have a new computer.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "У меня есть синяя ручка.",
+		"eng_sentence": "I have a blue pen.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "У него плохой результат.",
+		"eng_sentence": "He has a bad result.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "У тебя блестящий результат.",
+		"eng_sentence": "You have a brilliant result.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "У него короткие волосы.",
+		"eng_sentence": "He has short hair.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я вижу реальный прогресс.",
+		"eng_sentence": "I see real progress.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "У него есть другая идея.",
+		"eng_sentence": "He has another idea.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "У него странный вопрос.",
+		"eng_sentence": "He has a strange question.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Он смотрит бесплатные видео уроки.",
+		"eng_sentence": "He watches free video lessons.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Ей нравится зелёный свет.",
+		"eng_sentence": "She likes green color.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "У него богатые родители.",
+		"eng_sentence": "He has rich parents.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "У неё длинные волосы.",
+		"eng_sentence": "She has long hair.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Она живёт в маленьком городке.",
+		"eng_sentence": "She lives in a small town.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Я вижу одну маленькую ошибку.",
+		"eng_sentence": "I see one small mistake.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "У него низкий уровень.",
+		"eng_sentence": "He has a low level.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я смотрю бесплатные уроки английского.",
+		"eng_sentence": "I watch free English lessons.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "У него короткие чёрные волосы.",
+		"eng_sentence": "He has short black hair.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Они используют простое устройство.",
+		"eng_sentence": "They use a simple device.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Ей больше нравится холодная погода.",
+		"eng_sentence": "She likes cold weather more.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "У неё есть малыш.",
+		"eng_sentence": "She has a baby.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Он видит некоторые ошибки.",
+		"eng_sentence": "He sees some mistakes.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Он видит реальный прогресс.",
+		"eng_sentence": "He sees real progress.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "У тебя интересный вопрос.",
+		"eng_sentence": "You have an interesting question.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "У него один ребёнок.",
+		"eng_sentence": "He has one child.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Ему нужна горячая вода.",
+		"eng_sentence": "He needs hot water.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я живу в большом городе.",
+		"eng_sentence": "I live in a big city.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "У неё есть чёрный карандаш.",
+		"eng_sentence": "She has a black pencil.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Она всегда старается покупать свежую еду.",
+		"eng_sentence": "She always tries to buy fresh food.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "У него очень умный сын.",
+		"eng_sentence": "He has a very smart son. / He has a very clever son.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Он хочет иметь средний уровень для начала.",
+		"eng_sentence": "He wants to have an intermediate level for a start.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "У них очень низкий уровень.",
+		"eng_sentence": "They have a very low level.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Она смотрит бесплатные видео уроки.",
+		"eng_sentence": "She watches free video lessons.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я знаю, что у него старый компьютер.",
+		"eng_sentence": "I know that he has an old computer.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Она хочет общаться с другими людьми, которые живут за границей.",
+		"eng_sentence": "She wants to communicate with other people who live abroad.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Конечно, я хочу иметь продвинутый уровень английского языка.",
+		"eng_sentence": "Of course, I want to have an advanced level in English / of English.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Он хочет общаться с другими людьми, которые могут говорить по-английски.",
+		"eng_sentence": "He wants to communicate with other people who can speak English.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "У него очень высокий уровень.",
+		"eng_sentence": "He has a very high level.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "У них есть один очень интересный план.",
+		"eng_sentence": "They have one very interesting plan.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я вижу очень красивое место.",
+		"eng_sentence": "I see a very beautiful place.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "У него очень старый компьютер.",
+		"eng_sentence": "He has a very old computer.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "У неё очень красивая дочь.",
+		"eng_sentence": "She has a very beautiful daughter.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Я хочу общаться с разными людьми, которые говорят по-английски.",
+		"eng_sentence": "I want to communicate with different people who speak English.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Это часто случается в нашем современном обществе.",
+		"eng_sentence": "It often happens in our modern society.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я чувствую, что это оказывает очень положительный эффект на моё здоровье.",
+		"eng_sentence": "I feel that it has a very positive effect on my health.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Она чувствует, что это оказывает действительно положительный эффект на его здоровье.",
+		"eng_sentence": "She feels that it has a really positive effect on his health.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Они чувствуют, что это оказывает очень положительный эффект на их здоровье.",
+		"eng_sentence": "They feel that it has a very positive effect on their health.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "У меня очень интересная работа.",
+		"eng_sentence": "I have a very interesting job.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "У меня действительно интересная работа.",
+		"eng_sentence": "I have a really interesting job.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "У него очень интересная работа.",
+		"eng_sentence": "He has a very interesting job.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я вижу, что у меня отличный результат.",
+		"eng_sentence": "I see that I have an excellent result.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Она видит, что у неё отличный результат.",
+		"eng_sentence": "She sees that she has an excellent result.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Они видят, что у меня отличные результаты.",
+		"eng_sentence": "They see that I have excellent results.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "У него большая мотивация.",
+		"eng_sentence": "He has big motivation.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "У неё большая мотивация.",
+		"eng_sentence": "She has big motivation.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "У меня большая мотивация.",
+		"eng_sentence": "I have big motivation.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Он использует два очень интересных устройства.",
+		"eng_sentence": "He uses two very interesting devices.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я использую одно очень интересное устройство.",
+		"eng_sentence": "I use one very interesting device.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Они используют некоторые очень интересные устройства.",
+		"eng_sentence": "They use some very interesting devices.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Это оказывает очень положительное влияние на его здоровье.",
+		"eng_sentence": "It has a very positive effect on his health.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Это оказывает действительно положительный эффект на твоё здоровье.",
+		"eng_sentence": "It has a really positive effect on your health.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Это оказывает очень положительный эффект на моё здоровье.",
+		"eng_sentence": "It has a very positive effect on my health.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "У неё очень сильный акцент.",
+		"eng_sentence": "She has a very strong accent.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "У него очень сильный акцент.",
+		"eng_sentence": "He has a very strong accent.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "У него действительно сильный акцент.",
+		"eng_sentence": "He has a really strong accent.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "У меня очень прибыльный бизнес.",
+		"eng_sentence": "I have a very profitable business.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "У него очень прибыльный бизнес.",
+		"eng_sentence": "He has a very profitable business.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "У них очень прибыльный бизнес.",
+		"eng_sentence": "They have a very profitable business.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я всегда стараюсь покупать свежие фрукты и овощи.",
+		"eng_sentence": "I always try to buy fresh fruit and vegetables.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я всегда покупаю свежие фрукты и овощи.",
+		"eng_sentence": "I always buy fresh fruit and vegetables.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я обычно стараюсь покупать свежие фрукты и овощи.",
+		"eng_sentence": "I usually try to buy fresh fruit and vegetables.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "У тебя очень хорошая машина.",
+		"eng_sentence": "You have a very good car.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "У тебя очень плохая машина.",
+		"eng_sentence": "You have a very bad car.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "У него очень хорошая машина.",
+		"eng_sentence": "He has a very good car.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Он живёт в очень маленьком городке.",
+		"eng_sentence": "He lives in a very small town.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Он хочет жить в другой стране.",
+		"eng_sentence": "He wants to live in another country.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я хочу иметь средний уровень для начала.",
+		"eng_sentence": "I want to have an intermediate level for a start.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "У неё красивый голос.",
+		"eng_sentence": "She has a beautiful voice.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я чувствую себя таким счастливым, потому что у меня очень хороший результат.",
+		"eng_sentence": "I feel so happy because I have a very good result.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "У неё очень красивая улыбка.",
+		"eng_sentence": "She has a very beautiful smile.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Это иногда происходит в нашем современном обществе.",
+		"eng_sentence": "It sometimes happens in our modern society.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Я хочу общаться с другими людьми, которые живут в других странах.",
+		"eng_sentence": "I want to communicate with other people who live in other countries.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Мы видим одно очень красивое здание.",
+		"eng_sentence": "We see one very beautiful building.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "У меня отличный результат.",
+		"eng_sentence": "I have an excellent result.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": "Я хочу иметь продвинутый уровень английского языка.",
+		"eng_sentence": "I want to have an advanced level in English.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": "Мы учим основные правила в начале.",
+		"eng_sentence": "We learn basic rules in the beginning.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": "Она чувствует себя такой счастливой, потому что у неё блестящий результат.",
+		"eng_sentence": "She feels so happy because she has a brilliant result.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 108,
+		"rus_sentence": "У неё очень приятная улыбка.",
+		"eng_sentence": "She has a very pleasant smile.",
+		"lesson": "52",
+		"difficulty": ""
+	},
+	{	
+		"id": 109,
+		"rus_sentence": "Они используют очень простой метод.",
+		"eng_sentence": "They use a very simple method.",
+		"lesson": "52",
+		"difficulty": ""
+	}
+]
