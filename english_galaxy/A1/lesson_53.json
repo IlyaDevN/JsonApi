@@ -1,0 +1,751 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Он умный мальчик.",
+		"eng_sentence": "He's a smart boy.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Она красивая девушка.",
+		"eng_sentence": "She's a beautiful girl.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Это холодная вода.",
+		"eng_sentence": "It's cold water.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Это горячий кофе.",
+		"eng_sentence": "It's hot coffee.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Они гостеприимные люди.",
+		"eng_sentence": "They're hospitable people.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Вы хорошие друзья.",
+		"eng_sentence": "You're good friends.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Он очень богатый человек.",
+		"eng_sentence": "He's a very rich person.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Она умная девушка.",
+		"eng_sentence": "She's a smart girl.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Это долгий процесс.",
+		"eng_sentence": "It's a long process.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Это наше лучшее достижение.",
+		"eng_sentence": "It's our best achievement.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Они очень профессиональные работники.",
+		"eng_sentence": "They're very professional workers.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Это лучший выбор.",
+		"eng_sentence": "It's the best choice.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Это большая ошибка.",
+		"eng_sentence": "It's a big mistake.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Это смешное видео.",
+		"eng_sentence": "It's a funny video.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Я абсолютно уверен.",
+		"eng_sentence": "I'm absolutely sure.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Это высокая цена.",
+		"eng_sentence": "It's a high price.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Ты такой умный.",
+		"eng_sentence": "You're so smart.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Это маленькая ошибка.",
+		"eng_sentence": "It's a small mistake.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Они партнёры.",
+		"eng_sentence": "They're partners.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Он прав.",
+		"eng_sentence": "He's right.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Это интересный факт.",
+		"eng_sentence": "It's an interesting fact.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Он очень дружелюбный.",
+		"eng_sentence": "He's very friendly.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Они очень гостеприимные.",
+		"eng_sentence": "They're very hospitable.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Это мой лучший результат.",
+		"eng_sentence": "It's my best result.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Они женаты.",
+		"eng_sentence": "They're married.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Это слишком дорого для него.",
+		"eng_sentence": "It's too expensive for him.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Она профессиональный учитель.",
+		"eng_sentence": "She's a professional teacher.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Это бесплатный курс.",
+		"eng_sentence": "It's a free course.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Они очень молоды.",
+		"eng_sentence": "They're very young.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Это большие деньги.",
+		"eng_sentence": "It's big money.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Он умный парень.",
+		"eng_sentence": "He's a smart guy.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я думаю, что это лучший результат.",
+		"eng_sentence": "I think that it's the best result.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Это интересное предложение.",
+		"eng_sentence": "It's an interesting offer.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Мы друзья.",
+		"eng_sentence": "We're friends.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Мне кажется, что это лучшее решение.",
+		"eng_sentence": "It seems to me that it's the best decision.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Это очень большие деньги.",
+		"eng_sentence": "It's very big money.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Это маленький город.",
+		"eng_sentence": "It's a small town.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Я в парке.",
+		"eng_sentence": "I'm in the park.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Это так хорошо.",
+		"eng_sentence": "It's so good.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Это дорогой отель.",
+		"eng_sentence": "It's an expensive hotel.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это важная вещь.",
+		"eng_sentence": "It's an important thing.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Это бесплатный урок.",
+		"eng_sentence": "It's a free lesson.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это дешёвый отель.",
+		"eng_sentence": "It's a cheap hotel.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Это скучная книга.",
+		"eng_sentence": "It's a boring book.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Это его лучшее достижение.",
+		"eng_sentence": "It's his best achievement.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Ты такой щедрый.",
+		"eng_sentence": "You're so generous.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Это интересная идея.",
+		"eng_sentence": "It's an interesting idea.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Это очень важная деталь.",
+		"eng_sentence": "It's a very important detail.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я думаю, это очень скучная книга.",
+		"eng_sentence": "I think it's a very boring book.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Это очень богатая компания.",
+		"eng_sentence": "It's a very rich company.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Это потрясающий результат.",
+		"eng_sentence": "It's an amazing result.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Ты очень хороший человек.",
+		"eng_sentence": "You're a very good person.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я прекрасно понимаю, что это уникальная возможность.",
+		"eng_sentence": "I perfectly understand that it's a unique opportunity.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я чувствую, что она настоящий эксперт в этой области.",
+		"eng_sentence": "I feel that she's a real expert in this area.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Он очень профессиональный учитель.",
+		"eng_sentence": "He's a very professional teacher.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я прекрасно осознаю, что это очень важное решение.",
+		"eng_sentence": "I perfectly realise that it's a very important decision.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Это настоящее достижение для меня.",
+		"eng_sentence": "It's a real achievement for me.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Это очень дорогой отель.",
+		"eng_sentence": "It's a very expensive hotel.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Она очень красивая девушка.",
+		"eng_sentence": "She's a very beautiful girl.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "У него очень большой дом.",
+		"eng_sentence": "He has a very large house.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Это очень хороший вопрос.",
+		"eng_sentence": "It's a very good question.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Это важное событие в моей жизни.",
+		"eng_sentence": "It's an important event in my life.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Он очень позитивный человек.",
+		"eng_sentence": "He's a very positive person.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Они очень позитивные люди.",
+		"eng_sentence": "They're very positive people.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Она очень позитивный человек.",
+		"eng_sentence": "She's a very positive person.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Это важное событие.",
+		"eng_sentence": "It's an important event.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Это очень важное событие.",
+		"eng_sentence": "It's a very important event.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Это самое важное событие.",
+		"eng_sentence": "It's the most important event.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "У неё потрясающий голос.",
+		"eng_sentence": "She has an amazing voice.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "У них потрясающие голоса.",
+		"eng_sentence": "They have amazing voices.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "У него потрясающий голос.",
+		"eng_sentence": "He has an amazing voice.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Он очень ленивый студент.",
+		"eng_sentence": "He's a very lazy student.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Она очень ленивая студентка.",
+		"eng_sentence": "She's a very lazy student.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Они очень ленивые студенты.",
+		"eng_sentence": "They're very lazy students.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Это бесплатный курс английского языка.",
+		"eng_sentence": "It's a free English course.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Это хороший курс английского языка.",
+		"eng_sentence": "It's a good English course.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Это бесплатный урок английского.",
+		"eng_sentence": "It's a free English lesson.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Это уникальная возможность.",
+		"eng_sentence": "It's a unique opportunity.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Это действительно уникальная возможность.",
+		"eng_sentence": "It's a really unique opportunity.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Это прекрасная возможность.",
+		"eng_sentence": "It's a great opportunity.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Я думаю, это очень интересный факт.",
+		"eng_sentence": "I think it's a very interesting fact.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я думаю, что это очень интересный факт.",
+		"eng_sentence": "I think that it's a very interesting fact.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Она думает, это очень интересный факт.",
+		"eng_sentence": "She thinks it's a very interesting fact.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я прекрасно осознаю, что это уникальный шанс.",
+		"eng_sentence": "I perfectly realise that it's a unique chance.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Она прекрасно осознаёт, что это уникальный шанс.",
+		"eng_sentence": "She perfectly realises that it's a unique chance.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я прекрасно осознаю, что это лучший шанс.",
+		"eng_sentence": "I perfectly realise that it's the best chance.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он очень щедрый человек.",
+		"eng_sentence": "He's a very generous person.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Ты очень щедрый человек.",
+		"eng_sentence": "You're a very generous person.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Она очень щедрый человек.",
+		"eng_sentence": "She's a very generous person.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Это распространённая ошибка.",
+		"eng_sentence": "It's a common mistake.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Это действительно распространённая ошибка.",
+		"eng_sentence": "It's a really common mistake.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Это самая распространённая ошибка.",
+		"eng_sentence": "It's the most common mistake.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Это важная деталь.",
+		"eng_sentence": "It's an important detail.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Это очень высокая цена.",
+		"eng_sentence": "It's a very high price.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я думаю, это реальное достижение для нас.",
+		"eng_sentence": "I think it's a real achievement for us.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Это очень важная вещь.",
+		"eng_sentence": "It's a very important thing.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Она очень добрый человек.",
+		"eng_sentence": "She's a very kind person.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Мне кажется, что это плохая идея.",
+		"eng_sentence": "It seems to me that it's a bad idea.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Это очень смешное видео.",
+		"eng_sentence": "It's a very funny video.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Он очень сильный мужчина.",
+		"eng_sentence": "He's a very strong man.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Это очень распространённая ошибка.",
+		"eng_sentence": "It's a very common mistake.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Это очень большое число.",
+		"eng_sentence": "It's a very large number.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Он очень добр к нам.",
+		"eng_sentence": "He's very kind to us.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "Он настоящий эксперт в этой области.",
+		"eng_sentence": "He's a real expert in this area.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": "Ты очень добр ко мне.",
+		"eng_sentence": "You're very kind to me.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": "Это уникальный шанс.",
+		"eng_sentence": "It's a unique chance.",
+		"lesson": "53",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": "Это удивительная вещь.",
+		"eng_sentence": "It's an amazing thing.",
+		"lesson": "53",
+		"difficulty": ""
+	}
+]
