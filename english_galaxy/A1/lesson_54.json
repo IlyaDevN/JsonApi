@@ -1,0 +1,737 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Они работают в другом месте.",
+		"eng_sentence": "They work in another place.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Он думает о своей семье.",
+		"eng_sentence": "He thinks about his family.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я счастлив быть здесь.",
+		"eng_sentence": "I'm happy to be here.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Они из разных стран.",
+		"eng_sentence": "They're from different countries.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Он очень стар.",
+		"eng_sentence": "He's very old.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Она из Лондона.",
+		"eng_sentence": "She's from London.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Это очень популярная песня.",
+		"eng_sentence": "It's a very popular song.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Она боится их.",
+		"eng_sentence": "She's afraid of them.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Это проблема для них.",
+		"eng_sentence": "It's a problem for them.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "У тебя хорошая работа.",
+		"eng_sentence": "You have a good job.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Это новый компьютер.",
+		"eng_sentence": "It's a new computer.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Они в разных странах.",
+		"eng_sentence": "They're in different countries.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Мне нужен новый компьютер.",
+		"eng_sentence": "I need a new computer.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Он боится этого.",
+		"eng_sentence": "He's afraid of it.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Это действительно так.",
+		"eng_sentence": "It's really so.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "У него одна проблема.",
+		"eng_sentence": "He has one problem.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Она родом из Лос-Анджелеса.",
+		"eng_sentence": "She comes from Los Angeles.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Это интересует меня.",
+		"eng_sentence": "It interests me.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Они чувствуют себя такими счастливыми.",
+		"eng_sentence": "They feel so happy.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Мы думаем так.",
+		"eng_sentence": "We think so.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он согласен с этим утверждением.",
+		"eng_sentence": "He agrees with this statement.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Они очень счастливы.",
+		"eng_sentence": "They're very happy.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Он работает в другом месте.",
+		"eng_sentence": "He works in another place.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Она такая уставшая.",
+		"eng_sentence": "She's so tired.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это новое платье для нее.",
+		"eng_sentence": "It's a new dress for her.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Я здесь в данный момент.",
+		"eng_sentence": "I'm here at the moment.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Это кажется фантастическим.",
+		"eng_sentence": "It seems fantastic.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Она хочет новое платье.",
+		"eng_sentence": "She wants a new dress.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Мы согласны с тобой.",
+		"eng_sentence": "We agree with you.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Она очень молодая.",
+		"eng_sentence": "She's very young.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Это выглядит очень эффективно.",
+		"eng_sentence": "It looks very effective.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Он чувствует себя таким уставшим.",
+		"eng_sentence": "He feels so tired. / He's so tired.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Он думает иначе.",
+		"eng_sentence": "He thinks differently.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Он родом из Нью-Йорка.",
+		"eng_sentence": "He comes from New York.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Это хорошая работа.",
+		"eng_sentence": "It's a good job.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Она выглядит очень молодо.",
+		"eng_sentence": "She looks very young.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я согласен с этим утверждением.",
+		"eng_sentence": "I agree with this statement.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Это фантастически.",
+		"eng_sentence": "It's fantastic.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Она живет в прекрасном месте.",
+		"eng_sentence": "She lives in a lovely place.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Он из Соединённых Штатов.",
+		"eng_sentence": "He's from the United States.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это прекрасное место.",
+		"eng_sentence": "It's a lovely place.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Они живут в очень большом доме.",
+		"eng_sentence": "They live in a very big house.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я очень устал.",
+		"eng_sentence": "I'm very tired.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Это маленький дом.",
+		"eng_sentence": "It's a small house.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Это интересно мне.",
+		"eng_sentence": "It's interesting for me.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Это чрезвычайно важная вещь.",
+		"eng_sentence": "It's an extremely important thing.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Это большой успех.",
+		"eng_sentence": "It's a big success.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Он выглядит шокированным.",
+		"eng_sentence": "He looks shocked.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Это кажется лучшим решением этой проблемы.",
+		"eng_sentence": "It seems the best solution to this problem / task.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Ты выглядишь очень удивлённым.",
+		"eng_sentence": "You look very surprised.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Наши учителя часто говорят, что это типичная ошибка для изучающих английский язык.",
+		"eng_sentence": "Our teachers often say that it's a typical mistake for English learners.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "У них очень интересные обычаи и традиции.",
+		"eng_sentence": "They have very interesting customs and traditions.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Это лучшее решение этой проблемы.",
+		"eng_sentence": "It's the best solution to this problem.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Это кажется лучшим решением.",
+		"eng_sentence": "It seems the best decision.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я так удивлён.",
+		"eng_sentence": "I'm so surprised.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я думаю, это огромный успех.",
+		"eng_sentence": "I think it's a huge success.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Они часто лежат на пляже.",
+		"eng_sentence": "They often lie on the beach.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Это также мне очень интересно.",
+		"eng_sentence": "It's also very interesting for me.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "У меня есть уникальная возможность выучить английский здесь.",
+		"eng_sentence": "I have a unique opportunity to learn English here.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Это чрезвычайно важная деталь.",
+		"eng_sentence": "It's an extremely important detail.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Это типичная ошибка изучающих английский язык.",
+		"eng_sentence": "It's a typical mistake of / for / among English learners.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Это самая типичная ошибка изучающих английский язык.",
+		"eng_sentence": "It's the most typical mistake of English learners.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Это самая распространённая ошибка изучающих английский язык.",
+		"eng_sentence": "It's the most common mistake of English learners.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я уверен, что это огромный успех.",
+		"eng_sentence": "I'm sure that it's a huge success.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Это действительно огромный успех.",
+		"eng_sentence": "It's a really huge success.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Это действительно большой успех.",
+		"eng_sentence": "It's a really big success.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Это кажется очень необычным выбором.",
+		"eng_sentence": "It seems a very unusual choice.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Это кажется очень типичным выбором.",
+		"eng_sentence": "It seems a very typical choice.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Это кажется очень хорошим выбором.",
+		"eng_sentence": "It seems a very good choice.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Я действительно шокирован.",
+		"eng_sentence": "I'm really shocked.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Она действительно шокирована.",
+		"eng_sentence": "She's really shocked.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Мы действительно шокированы.",
+		"eng_sentence": "We're really shocked.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Это официальный документ.",
+		"eng_sentence": "It's an official document.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Это новый документ.",
+		"eng_sentence": "It's a new document.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Это важный документ.",
+		"eng_sentence": "It's an important document.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Это кажется уникальной возможностью.",
+		"eng_sentence": "It seems a unique opportunity.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Это кажется уникальным шансом.",
+		"eng_sentence": "It seems a unique chance.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Это кажется отличной возможностью.",
+		"eng_sentence": "It seems a great opportunity.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Это чрезвычайно важно.",
+		"eng_sentence": "It's extremely important.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Это действительно важно.",
+		"eng_sentence": "It's really important.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Это очень важно.",
+		"eng_sentence": "It's very important.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Это уникальная возможность.",
+		"eng_sentence": "It's a unique opportunity.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Это хорошая возможность.",
+		"eng_sentence": "It's a good opportunity.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Это действительно большая возможность.",
+		"eng_sentence": "It's a really big opportunity.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Я так счастлив, что у меня есть эта уникальная возможность.",
+		"eng_sentence": "I'm so happy that I have this unique opportunity.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Она так счастлива, что у неё есть эта уникальная возможность.",
+		"eng_sentence": "She's so happy that she has this unique opportunity.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Они так счастливы, что у них есть эта уникальная возможность.",
+		"eng_sentence": "They're so happy that they have this unique opportunity.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я думаю, это большой успех.",
+		"eng_sentence": "I think it's a big success.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Мы думаем, это большой успех.",
+		"eng_sentence": "We think it's a big success.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Она думает, это большой успех.",
+		"eng_sentence": "She thinks it's a big success.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Это кажется таким важным.",
+		"eng_sentence": "It seems so important.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Ты выглядишь таким удивлённым.",
+		"eng_sentence": "You look so surprised.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Это очень необычный выбор.",
+		"eng_sentence": "It's a very unusual choice.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Это лежит на крыше.",
+		"eng_sentence": "It lies on the roof.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Это на крыше.",
+		"eng_sentence": "It's on the roof.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я думаю, это пустая трата времени.",
+		"eng_sentence": "I think it's a waste of time.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Это кажется пустой тратой времени для меня.",
+		"eng_sentence": "It seems a waste of time for me.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я думаю, это действительно ужасно.",
+		"eng_sentence": "I think it's really terrible.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Это пустая трата времени.",
+		"eng_sentence": "It's a waste of time.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Я чрезвычайно устал.",
+		"eng_sentence": "I'm extremely tired.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Мне нужно найти решение этой проблемы.",
+		"eng_sentence": "I need to find a solution to this problem.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Он говорит, что это чрезвычайно важно для всех нас.",
+		"eng_sentence": "He says that it's extremely important for all of us.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Мы можем видеть это в официальном документе.",
+		"eng_sentence": "We can see it in the official document.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "Они на пляже.",
+		"eng_sentence": "They're on the beach.",
+		"lesson": "54",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": "Это очень интересная традиция.",
+		"eng_sentence": "It's a very interesting tradition.",
+		"lesson": "54",
+		"difficulty": ""
+	}
+]
