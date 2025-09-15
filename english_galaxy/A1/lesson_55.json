@@ -1,0 +1,709 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Моим друзьям нравится эта идея.",
+		"eng_sentence": "My friends like this idea.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Та игра кажется такой интересной.",
+		"eng_sentence": "That game seems so interesting.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Эти мужчины выглядят очень слабыми.",
+		"eng_sentence": "These men look very weak.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Эти идеи выглядят такими интересными.",
+		"eng_sentence": "These ideas look so interesting.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Твой результат выглядит очень хорошо.",
+		"eng_sentence": "Your result looks very good.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "У его брата есть девушка.",
+		"eng_sentence": "His brother has a girlfriend.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Эта вещь очень сильно мотивирует меня.",
+		"eng_sentence": "This thing motivates me greatly / a lot.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Моим родителям действительно нравится эта идея.",
+		"eng_sentence": "My parents really like this idea.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Этот билет стоит больше.",
+		"eng_sentence": "This ticket costs more.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Этот студент учится лучше.",
+		"eng_sentence": "This student studies better.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Моему брату нравится эта музыка тоже.",
+		"eng_sentence": "My brother likes this music, too.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Те билеты стоят меньше.",
+		"eng_sentence": "Those tickets cost less.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Моя сестра работает ветеринаром.",
+		"eng_sentence": "My sister works as a vet.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Наш учитель часто говорит это.",
+		"eng_sentence": "Our teacher often says it.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "У его сестры есть парень.",
+		"eng_sentence": "His sister has a boyfriend.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Мои друзья согласны со мной.",
+		"eng_sentence": "My friends agree with me.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Эта идея кажется очень интересной.",
+		"eng_sentence": "This idea seems very interesting.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Этот год кажется нам очень сложным.",
+		"eng_sentence": "This year seems very difficult for us.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "У нашего учителя много студентов.",
+		"eng_sentence": "Our teacher has many students.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Тот студент показывает лучшие результаты.",
+		"eng_sentence": "That student shows better results.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Эти вещи так сильно мотивируют меня.",
+		"eng_sentence": "These things motivate me so much / a lot / greatly.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "У этого мальчика очень богатые родители.",
+		"eng_sentence": "This boy has very rich parents.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Моя мама работает врачом.",
+		"eng_sentence": "My mother works as a doctor.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Эти вещи кажутся действительно важными.",
+		"eng_sentence": "These things seem really important.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Моей сестре тоже нравится эта песня.",
+		"eng_sentence": "My sister also likes this song.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Эта работа кажется такой сложной.",
+		"eng_sentence": "This work seems so difficult.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Эта женщина выглядит такой красивой.",
+		"eng_sentence": "This woman looks so beautiful.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Мой брат работает фрилансером.",
+		"eng_sentence": "My brother works as a freelancer.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "У этого мальчика много вопросов.",
+		"eng_sentence": "This boy has many questions.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Мои друзья часто говорят мне эти вещи.",
+		"eng_sentence": "My friends often tell me these things.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Эта игра кажется такой скучной.",
+		"eng_sentence": "This game seems so boring.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Этот курс действительно помогает мне.",
+		"eng_sentence": "This course really helps me.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Эти женщины выглядят так красиво.",
+		"eng_sentence": "These women look so beautiful.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Наша жизнь кажется очень короткой.",
+		"eng_sentence": "Our life seems very short.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Этот парень работает с ними.",
+		"eng_sentence": "This guy works with them.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Тот путь кажется короче.",
+		"eng_sentence": "That way seems shorter.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Эта вещь стоит слишком много.",
+		"eng_sentence": "This thing costs too much.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Мой отец работает менеджером по продажам.",
+		"eng_sentence": "My father works as a sales manager.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Этот мужчина выглядит очень сильным.",
+		"eng_sentence": "This man looks very strong.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "У этого доктора много пациентов.",
+		"eng_sentence": "This doctor has many patients.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Мой друг поддерживает меня.",
+		"eng_sentence": "My friend supports me.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "У этой девочки очень бедные родители.",
+		"eng_sentence": "This girl has very poor parents.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я хочу сказать тебе, что эта речь очень сильно вдохновляет меня.",
+		"eng_sentence": "I want to tell you that this speech inspires me greatly.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Мой начальник хочет купить новую машину.",
+		"eng_sentence": "My boss wants to buy a new car.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Студенты часто копируют эти ошибки.",
+		"eng_sentence": "Students often copy these mistakes.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Этот магазин принимает кредитные карты тоже.",
+		"eng_sentence": "This store takes credit cards, too.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я вижу, что время проходит очень быстро.",
+		"eng_sentence": "I see that time passes very quickly.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Эта коробка лежит на полу.",
+		"eng_sentence": "This box lies on the floor.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "У моих родителей другое мнение.",
+		"eng_sentence": "My parents have another opinion.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Его сестра танцует профессионально.",
+		"eng_sentence": "His sister dances professionally.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Этот подросток часто перебивает других людей.",
+		"eng_sentence": "This teenager often interrupts other people.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Тот проект приносит им слишком мало денег.",
+		"eng_sentence": "That project brings them too little money.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Моя мама выходит в отпуск несколько раз в год.",
+		"eng_sentence": "My mother goes on holiday several times a year.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Этот проект приносит ему большие деньги.",
+		"eng_sentence": "This project brings him big money.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Тот мальчик всегда перебивает других.",
+		"eng_sentence": "That boy always interrupts others.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я вижу, что этот метод действительно работает.",
+		"eng_sentence": "I see that this method really works.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Этот человек пытается найти новую работу.",
+		"eng_sentence": "This person tries to find a new job.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Девочка часто перебивает других.",
+		"eng_sentence": "The girl often interrupts others.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Девочка часто перебивает других людей.",
+		"eng_sentence": "The girl often interrupts other people.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Её дочь часто перебивала других.",
+		"eng_sentence": "Her daughter often interrupted others.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Картина висит на стене.",
+		"eng_sentence": "The picture hangs on the wall.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Две картины висят на стене.",
+		"eng_sentence": "Two pictures hang on the wall.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Некоторые картины висят на стене.",
+		"eng_sentence": "Some pictures hang on the wall.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я вижу, что время действительно летит.",
+		"eng_sentence": "I see that time really flies.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Она видит, что время действительно летит.",
+		"eng_sentence": "She sees that time really flies.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Они видят, что время летит.",
+		"eng_sentence": "They see that time flies.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Этот магазин принимает кредитные карты.",
+		"eng_sentence": "This shop takes credit cards.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Эти магазины принимают кредитные карты.",
+		"eng_sentence": "These shops take credit cards.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Этот интернет-магазин принимает кредитные карты.",
+		"eng_sentence": "This online store takes credit cards.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Мой друг пытается водить очень осторожно.",
+		"eng_sentence": "My friend tries to drive very carefully.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Мой друг всегда водит очень осторожно.",
+		"eng_sentence": "My friend always drives very carefully.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Мои друзья стараются водить очень осторожно.",
+		"eng_sentence": "My friends try to drive very carefully.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Слово означает другую вещь.",
+		"eng_sentence": "The word means another thing.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Эти слова означают другие вещи.",
+		"eng_sentence": "These words mean other things.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Это слово означает другую вещь.",
+		"eng_sentence": "This word means another thins.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Такие вещи часто случаются.",
+		"eng_sentence": "Such things often happen.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Эта вещь часто случается.",
+		"eng_sentence": "This thing often happens.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Мой младший брат думает так.",
+		"eng_sentence": "My younger brother thinks so.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Мои братья думают так.",
+		"eng_sentence": "My brothers think so.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Мой старший брат думает так.",
+		"eng_sentence": "My elder brother thinks so.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Этот интернет-магазин работает 24 часа в сутки.",
+		"eng_sentence": "This online store works twenty four hours a day.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Тот интернет-магазин работает 24 часа в сутки.",
+		"eng_sentence": "That online store works twenty four hours a day.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Этот магазин работает 24 часа в сутки.",
+		"eng_sentence": "This shop works twenty four hours a day.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Много людей делают это.",
+		"eng_sentence": "Lots of people do it.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Некоторые люди делают это.",
+		"eng_sentence": "Some people do it.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Много людей делают это.",
+		"eng_sentence": "Many people do it.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "У моей старшей сестры другое мнение.",
+		"eng_sentence": "My elder sister has another opinion.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "У этой компании очень большие проблемы.",
+		"eng_sentence": "This company has very big problems.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я хочу сказать, что эта речь так сильно вдохновляет меня.",
+		"eng_sentence": "I want to say that this speech inspires me so much.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Этих денег кажется достаточно.",
+		"eng_sentence": "This money seems enough.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Много людей пытаются сделать это.",
+		"eng_sentence": "Lots of people try to do it.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Эта фраза означает следующее.",
+		"eng_sentence": "This phrase means the following.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Эта новость кажется такой интересной.",
+		"eng_sentence": "This news seems so interesting.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Мой отец обычно ездит в отпуск дважды в год.",
+		"eng_sentence": "My father usually goes on holiday twice a year / two times a year.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Тот плакат висит на стене.",
+		"eng_sentence": "That poster hangs on the wall.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Этот пример действительно вдохновляет меня.",
+		"eng_sentence": "This example really inspires me.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Эта речь действительно вдохновляет меня.",
+		"eng_sentence": "This speech really inspires me.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Тот магазин также принимает кредитные карты.",
+		"eng_sentence": "That shop also takes credit cards.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Эти часы стоят триста долларов.",
+		"eng_sentence": "This watch costs three hundred dollars.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Моей старшей сестре действительно нравятся эти туфли.",
+		"eng_sentence": "My elder sister really likes these shoes.",
+		"lesson": "55",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Такие вещи иногда случаются.",
+		"eng_sentence": "Such things sometimes happen.",
+		"lesson": "55",
+		"difficulty": ""
+	}
+]
