@@ -1,0 +1,716 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Этот дом очень дорогой.",
+		"eng_sentence": "This house is very expensive.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Эти документы действительно полезны.",
+		"eng_sentence": "These documents are really useful.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "У этого костюма хорошая цена.",
+		"eng_sentence": "This suit has a good price.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Это очень модный костюм.",
+		"eng_sentence": "It's a very fashionable suit.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Мои друзья действительно шокированы.",
+		"eng_sentence": "My friends are really shocked.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Эта еда очень дорогая.",
+		"eng_sentence": "This food is very expensive.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Вся эта одежда по распродаже.",
+		"eng_sentence": "All these clothes are on sale.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Эти билеты очень дорогие.",
+		"eng_sentence": "These tickets are very expensive.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Тот мальчик очень расстроен.",
+		"eng_sentence": "That boy is very upset.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Его брат ходит в колледж.",
+		"eng_sentence": "His brother goes to college.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Этот дом очень старый.",
+		"eng_sentence": "This house is very old.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Эта одежда слишком формальная.",
+		"eng_sentence": "These clothes are too formal.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Её муж бухгалтер.",
+		"eng_sentence": "Her husband is an accountant.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Этот отель слишком дорогой.",
+		"eng_sentence": "This hotel is too expensive.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Эта женщина медсестра.",
+		"eng_sentence": "This woman is a nurse.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Этот мальчик очень сильный.",
+		"eng_sentence": "This boy is very strong.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Эти лекции такие скучные.",
+		"eng_sentence": "These lectures are so boring.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "У тебя блестящая идея.",
+		"eng_sentence": "You have a brilliant idea.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Этот комментарий такой длинный.",
+		"eng_sentence": "This comment is so long.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Эти мужчины очень разочарованы.",
+		"eng_sentence": "These men are very disappointed.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Этот ресурс чрезвычайно полезен.",
+		"eng_sentence": "This resource is extremely useful.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Это повседневное платье.",
+		"eng_sentence": "It's a casual dress.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Эта куртка по распродаже.",
+		"eng_sentence": "This jacket is on sale.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Его жена действительно удивлена.",
+		"eng_sentence": "His wife is really surprised.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Все эти материалы чрезвычайно полезны.",
+		"eng_sentence": "All these materials are extremely useful.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Этот курс очень эффективен.",
+		"eng_sentence": "This course is very effective.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Этот мужчина очень разочарован.",
+		"eng_sentence": "This man is very disappointed.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Это платье слишком неформальное.",
+		"eng_sentence": "This dress is too informal.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Твой дом такой красивый.",
+		"eng_sentence": "Your house is so beautiful.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Эти женщины коллеги.",
+		"eng_sentence": "These women are colleagues.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Этот эпизод очень интересный.",
+		"eng_sentence": "This episode is very interesting.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Те студенты очень трудолюбивы.",
+		"eng_sentence": "Those students are very hard-working.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Это место такое красивое.",
+		"eng_sentence": "This place is so beautiful.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Этот певец очень знаменитый.",
+		"eng_sentence": "This singer is very famous.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Эти комментарии такие смешные.",
+		"eng_sentence": "These comments are so funny.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Эта девочка очень грустная.",
+		"eng_sentence": "This girl is very sad.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Эти студенты очень ленивые.",
+		"eng_sentence": "These students are very lazy.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Эта лампа такая яркая.",
+		"eng_sentence": "This lamp is so bright.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Его хобби - это езда на велосипеде, дайвинг и катание на лыжах.",
+		"eng_sentence": "His hobbies are cycling, diving and skiing.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Эта вещь слишком дорогая для них.",
+		"eng_sentence": "This thing is too expensive for them.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Моей сестре пятнадцать.",
+		"eng_sentence": "My sister is fifteen.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Его уровень очень низкий.",
+		"eng_sentence": "His level is very low.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Эти воры сейчас в тюрьме.",
+		"eng_sentence": "These thieves are in prison now.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я думаю, этот мальчик настоящий гений.",
+		"eng_sentence": "I think this boy is a real genius.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Моё главное хобби - это изучение иностранных языков.",
+		"eng_sentence": "My main hobby is learning foreign languages.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Моя мама на кухне сейчас.",
+		"eng_sentence": "My mother is in the kitchen now.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я вижу, что это приложение чрезвычайно полезно для изучающих английский язык, потому что оно действительно помогает.",
+		"eng_sentence": "I see that this application is extremely useful for English learners because it really helps.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Плавание - моё хобби.",
+		"eng_sentence": "Swimming is my hobby.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Эти выражения являются новыми для нас.",
+		"eng_sentence": "These expressions are new for us.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "У твоего друга хорошее чувство юмора.",
+		"eng_sentence": "Your friend has a good sense of humour.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Мои коллеги всегда помогают мне, когда мне нужно это.",
+		"eng_sentence": "My colleagues always help me when I need it.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Этот вор в тюрьме.",
+		"eng_sentence": "This thief is in prison.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Эти результаты отличные.",
+		"eng_sentence": "These results are excellent.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Эта еда дорогая, но она очень хорошая.",
+		"eng_sentence": "This food is expensive but it's very good.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "У моих коллег хорошее чувство юмора.",
+		"eng_sentence": "My colleagues have a good sense of humour.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Эта коробка действительно тяжелая.",
+		"eng_sentence": "This box is really heavy.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Эти видео уроки чрезвычайно полезны.",
+		"eng_sentence": "These video lessons are extremely useful.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Моё полотенце в ванной.",
+		"eng_sentence": "My towel is in the bathroom.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Моя чашка на кухне.",
+		"eng_sentence": "My cup is in the kitchen.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Моя чашка на столе.",
+		"eng_sentence": "My cup is on the table.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я думаю, английский лёгкий.",
+		"eng_sentence": "I think English is easy.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Они думают английский лёгкий.",
+		"eng_sentence": "They think English is easy.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Она думает, что английский лёгкий.",
+		"eng_sentence": "She thinks that English is easy.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Я согласен, что деньги очень важны.",
+		"eng_sentence": "I agree that money is very important.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я знаю, что деньги очень важны.",
+		"eng_sentence": "I know that money is very important.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Она согласна, что деньги очень важны.",
+		"eng_sentence": "She agrees that money is very important.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Мои хобби - готовка, бег трусцой и путешествия.",
+		"eng_sentence": "My hobbies are cooking, jogging and travelling.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Её хобби - плавание и чтение.",
+		"eng_sentence": "Her hobbies are swimming and reading.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Его хобби - готовка.",
+		"eng_sentence": "His hobby is cooking.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Английский также интересен ей.",
+		"eng_sentence": "English is also interesting for her.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Это также интересно мне.",
+		"eng_sentence": "It's also interesting for me.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Английский также очень важен для нас.",
+		"eng_sentence": "English is also very important for us.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Изучение английского - моё хобби.",
+		"eng_sentence": "Learning English is my hobby.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Изучение английского языка и готовка - мои хобби.",
+		"eng_sentence": "Learning English and cooking are my hobbies.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Моё хобби - изучение английского.",
+		"eng_sentence": "My hobby is learning English.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Эти выражения являются новыми для меня.",
+		"eng_sentence": "These expressions are new for me.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Многие выражения являются новыми для меня.",
+		"eng_sentence": "Many expressions are new for me.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "То выражение является новым для меня.",
+		"eng_sentence": "That expression is new for me.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Эта еда хороша на вкус.",
+		"eng_sentence": "This food has a good taste.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Эти яблоки хороши на вкус.",
+		"eng_sentence": "These apples have a good taste.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Этот апельсин очень хорош на вкус.",
+		"eng_sentence": "This orange has a very good taste.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я часто слышу, что испанский язык также лёгкий.",
+		"eng_sentence": "I often hear that Spanish is also easy.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Она часто слышит, что испанский язык действительно лёгкий.",
+		"eng_sentence": "She often hears that Spanish is really easy.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Они часто слышат, что английский также лёгкий.",
+		"eng_sentence": "They often hear that English is also easy.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Мои хобби - плавание, теннис и английский язык.",
+		"eng_sentence": "My hobbies are swimming, tennis and English.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Мои хобби - теннис и английский язык.",
+		"eng_sentence": "My hobbies are tennis and English.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Моё хобби - это футбол.",
+		"eng_sentence": "My hobby is football.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Люди обычно говорят, что китайский очень сложный.",
+		"eng_sentence": "People usually say that Chinese is very difficult.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Эта игрушка в спальне.",
+		"eng_sentence": "This toy is in the bedroom.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Некоторые люди говорят, что деньги - это всё, но я так не думаю.",
+		"eng_sentence": "Some people say that money is everything but I don't think so.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Моё хобби - изучение иностранных языков.",
+		"eng_sentence": "My hobby is learning foreign languages.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я думаю, что время - это больше чем деньги.",
+		"eng_sentence": "I think that time is more than money.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Эта цена очень высокая.",
+		"eng_sentence": "This price is very high.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Это выражение новое для меня.",
+		"eng_sentence": "This expression is new for me.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Английский язык - моё основное хобби.",
+		"eng_sentence": "English is my main hobby.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Моё хобби - это рисование, шахматы и иностранные языки.",
+		"eng_sentence": "My hobbies are drawing, chess and foreign languages.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Мой отец в гостиной.",
+		"eng_sentence": "My father is in the living room.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Этот мальчик гений.",
+		"eng_sentence": "This boy is a genius.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Эта компания очень большая и мы все видим её успех.",
+		"eng_sentence": "This company is very big and we all see its success.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Вся эта информация чрезвычайно полезна для меня.",
+		"eng_sentence": "All this information is extremely useful for me.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я думаю, мой друг прав.",
+		"eng_sentence": "I think my friend is right.",
+		"lesson": "56",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Её основное хобби - садоводство.",
+		"eng_sentence": "Her main hobby is gardening.",
+		"lesson": "56",
+		"difficulty": ""
+	}
+]
