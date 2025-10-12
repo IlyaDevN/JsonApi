@@ -1,0 +1,709 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Ребенок дома.",
+		"eng_sentence": "The child is at home.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Вода в этой бутылке.",
+		"eng_sentence": "The water is in this bottle.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Эта девушка моя подруга.",
+		"eng_sentence": "This girl is my friend.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Много людей приходят сюда каждый день.",
+		"eng_sentence": "Many people come here every day.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Еда свежая.",
+		"eng_sentence": "The food is fresh.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Игра такая скучная.",
+		"eng_sentence": "The game is so boring.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Книга очень тонкая.",
+		"eng_sentence": "The book is very thin.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Это солнечный день.",
+		"eng_sentence": "It's a sunny day.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Комната слишком маленькая.",
+		"eng_sentence": "The room is too small.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "День такой солнечный.",
+		"eng_sentence": "The day is so sunny.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Это маленькая комната.",
+		"eng_sentence": "It's a small room.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Экзамен слишком сложный.",
+		"eng_sentence": "The exam is too difficult.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Это тонкая книга.",
+		"eng_sentence": "It's a thin book.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Это скучная игра.",
+		"eng_sentence": "It's a boring game.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Мужчина толстый.",
+		"eng_sentence": "The man is fat.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Это очень сложная ситуация.",
+		"eng_sentence": "It's a very difficult situation.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Идеи очень интересные.",
+		"eng_sentence": "The ideas are very interesting.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Студент очень амбициозен.",
+		"eng_sentence": "The student is very ambitious.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Результаты блестящие.",
+		"eng_sentence": "The results are brilliant.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Ситуация очень сложная.",
+		"eng_sentence": "The situation is very difficult.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Женщина очень стройная.",
+		"eng_sentence": "The woman is very slim.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Тест очень простой.",
+		"eng_sentence": "The test is very simple.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Путь слишком длинный.",
+		"eng_sentence": "The way is too long.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Это блестящий результат.",
+		"eng_sentence": "It's a brilliant result.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Вопросы очень хорошие.",
+		"eng_sentence": "The questions are very good.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Студенты очень амбициозны.",
+		"eng_sentence": "The students are very ambitious.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Урок чрезвычайно полезен.",
+		"eng_sentence": "The lesson is extremely useful.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Она очень стройная девушка.",
+		"eng_sentence": "She's a very slim girl.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Шутка очень смешная.",
+		"eng_sentence": "The joke is very funny.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Программа действительно скучная.",
+		"eng_sentence": "The program is really boring.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Видео такие скучные.",
+		"eng_sentence": "The videos are so boring.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Мужчины очень толстые.",
+		"eng_sentence": "The men are very fat.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Это очень интересная идея.",
+		"eng_sentence": "It's a very interesting idea.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Уроки очень полезны.",
+		"eng_sentence": "The lessons are very useful.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Место такое красивое.",
+		"eng_sentence": "The place is so beautiful.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Результат отличный.",
+		"eng_sentence": "The result is excellent.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Ребёнок в школе.",
+		"eng_sentence": "The child is at school.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Еда очень вкусная.",
+		"eng_sentence": "The food is tasty.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Это дождливый день.",
+		"eng_sentence": "It's a rainy day.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Путь очень короткий.",
+		"eng_sentence": "The way is very short.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "День дождливый.",
+		"eng_sentence": "The day is rainy.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Видео такое неинформативное.",
+		"eng_sentence": "The video is so uninformative.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это очень простой тест.",
+		"eng_sentence": "It's a very simple test.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Цена слишком высокая.",
+		"eng_sentence": "The price is too high.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Это очень красивая церковь.",
+		"eng_sentence": "It's a very beautiful church.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Женщины очень стройные.",
+		"eng_sentence": "The women are very slim.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я думаю, что настоящее счастье намного больше, чем просто деньги.",
+		"eng_sentence": "I think that real happiness is much more than just money.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Он очень амбициозный студент.",
+		"eng_sentence": "He's a very ambitious student.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "У тебя блестящие идеи как всегда.",
+		"eng_sentence": "You have brilliant ideas as usual.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Многие люди говорят, что здоровье важнее денег.",
+		"eng_sentence": "Many people say that health is more important than money.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Он очень опытный учитель.",
+		"eng_sentence": "He's a very experienced teacher.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Дорога пустая.",
+		"eng_sentence": "The road is empty.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я вижу, ты полон энтузиазма.",
+		"eng_sentence": "I see you're full of enthusiasm.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Это очень узкая улица.",
+		"eng_sentence": "It's a very narrow street.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Дети в кровати.",
+		"eng_sentence": "The children are in bed.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Земля круглая.",
+		"eng_sentence": "The Earth is round.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Еда восхитительная.",
+		"eng_sentence": "The food is delicious.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Она очень опытный врач.",
+		"eng_sentence": "She's a very experienced doctor.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Церковь очень красивая.",
+		"eng_sentence": "The church is very beautiful.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Малыш в кровати.",
+		"eng_sentence": "The baby is in bed.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Малыш лежит в кровати.",
+		"eng_sentence": "The baby lies in bed.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Этот малыш в кровати.",
+		"eng_sentence": "This baby is in bed.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Стакан пустой.",
+		"eng_sentence": "The glass is empty.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Мой стакан пустой.",
+		"eng_sentence": "My glass is empty.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Этот стакан пустой.",
+		"eng_sentence": "This glass is empty.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Я вижу, что ты очень опытный.",
+		"eng_sentence": "I see that you're very experienced.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я вижу, что они очень опытные.",
+		"eng_sentence": "I see that they're very experienced.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я знаю, что она очень опытная.",
+		"eng_sentence": "I know that she is very experienced.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Это неинформативное видео.",
+		"eng_sentence": "It's an uninformative video.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Это информативное видео.",
+		"eng_sentence": "It's an informative video.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Это неинформативный урок.",
+		"eng_sentence": "It's an uninformative lesson.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Это пустая бутылка.",
+		"eng_sentence": "It's an empty bottle.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Это пустой стакан.",
+		"eng_sentence": "It's an empty glass.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Это полная бутылка.",
+		"eng_sentence": "It's a full bottle.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Счастье - больше, чем деньги.",
+		"eng_sentence": "Happiness is more than money.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Счастье - это действительно больше, чем деньги.",
+		"eng_sentence": "Happiness is really more than money.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Работа полна ошибок.",
+		"eng_sentence": "The work is full of mistakes.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Эта работа полна ошибок.",
+		"eng_sentence": "This work is full of mistakes.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Эти документы полны ошибок.",
+		"eng_sentence": "These documents are full of mistakes.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Те дети в кровати.",
+		"eng_sentence": "Those children are in bed.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Он очень профессиональный врач.",
+		"eng_sentence": "He's a very professional doctor.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Они очень профессиональные врачи.",
+		"eng_sentence": "They're very professional doctors.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Он очень хороший врач.",
+		"eng_sentence": "He's a very good doctor.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Любовь - это прекрасное чувство.",
+		"eng_sentence": "Love is a wonderful feeling.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Любовь - это хорошее чувство.",
+		"eng_sentence": "Love is a good feeling.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Любовь - это действительно прекрасное чувство.",
+		"eng_sentence": "Love is a really wonderful feeling.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Полиция там.",
+		"eng_sentence": "The police are there.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Дети дома.",
+		"eng_sentence": "The children are at home.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Деньги - больше чем бумага.",
+		"eng_sentence": "Money is more than paper.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Это широкая улица.",
+		"eng_sentence": "It's a wide street.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я знаю, что компьютеры очень старые.",
+		"eng_sentence": "I know that the computers are very old.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Дорога полна машин.",
+		"eng_sentence": "The road is full of cars.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Улица очень узкая.",
+		"eng_sentence": "The street is very narrow.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Текст сложный для понимания.",
+		"eng_sentence": "The text is difficult for understanding.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Это чрезвычайно полезный урок.",
+		"eng_sentence": "It's an extremely useful lesson.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Ответ очевиден.",
+		"eng_sentence": "The answer is obvious.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я полон энергии.",
+		"eng_sentence": "I'm full of energy.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Это старая машина.",
+		"eng_sentence": "It's an old car.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Эта улица очень широкая.",
+		"eng_sentence": "This street is very wide.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Они очень опытные работники.",
+		"eng_sentence": "They're very experienced workers.",
+		"lesson": "57",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Полиция здесь.",
+		"eng_sentence": "The police are here.",
+		"lesson": "57",
+		"difficulty": ""
+	}
+]
