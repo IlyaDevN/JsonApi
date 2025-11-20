@@ -1,0 +1,737 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Он не понимает её.",
+		"eng_sentence": "He doesn't understand her.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я совсем не пью алкоголь.",
+		"eng_sentence": "I don't drink alcohol at all.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я не на работе сейчас.",
+		"eng_sentence": "I'm not at work now.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Они не больны.",
+		"eng_sentence": "They aren't sick.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Он не студент.",
+		"eng_sentence": "He isn't a student.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он не нервничает.",
+		"eng_sentence": "He doesn't feel nervous. / He isn't nervous.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Это дешевое ожерелье.",
+		"eng_sentence": "It's a cheap necklace.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Они не чувствуют себя плохо.",
+		"eng_sentence": "They don't feel bad.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Это не дорогие часы.",
+		"eng_sentence": "It isn't an expensive watch.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Они не учатся за границей.",
+		"eng_sentence": "They don't study abroad.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Он не работает переводчиком.",
+		"eng_sentence": "He doesn't work as a translator.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Это не важная вещь.",
+		"eng_sentence": "It isn't an important thing.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Он не болен.",
+		"eng_sentence": "He isn't sick.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Это не очень легкая задача для меня.",
+		"eng_sentence": "It isn't a very easy task for me.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Это не важная вещь.",
+		"eng_sentence": "It's an unimportant thing.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Это не главная задача.",
+		"eng_sentence": "It isn't the main task.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Он не хирург.",
+		"eng_sentence": "He isn't a surgeon.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Это не очень хорошая клиника.",
+		"eng_sentence": "It isn't a very good clinic.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он не работает дизайнером.",
+		"eng_sentence": "He doesn't work as a designer.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Мне это совсем не интересно.",
+		"eng_sentence": "It isn't interesting for me at all.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он не инженер.",
+		"eng_sentence": "He isn't an engineer.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Это не кажется очень хорошей клиникой.",
+		"eng_sentence": "It doesn't seem a very good clinic.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Они не больны.",
+		"eng_sentence": "They aren't ill.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Это не кажется неэффективным.",
+		"eng_sentence": "It doesn't seem ineffective.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Они не за границей сейчас.",
+		"eng_sentence": "They aren't abroad now.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Он не работает инженером.",
+		"eng_sentence": "He doesn't work as an engineer.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Это не плохая клиника.",
+		"eng_sentence": "It isn't a bad clinic.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Он не переводчик.",
+		"eng_sentence": "He isn't a translator.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Он не нервный.",
+		"eng_sentence": "He doesn't feel nervous. / He isn't nervous.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Это не серьёзная болезнь.",
+		"eng_sentence": "It isn't a serious illness.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Это не выглядит дешево.",
+		"eng_sentence": "It doesn't look cheap.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Он не дизайнер.",
+		"eng_sentence": "He isn't a designer.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Он не уверен насчёт этого.",
+		"eng_sentence": "He isn't sure about it.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Это не сложное упражнение.",
+		"eng_sentence": "It isn't a difficult exercise.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Это не выглядит таким сложным.",
+		"eng_sentence": "It doesn't look so difficult.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он не работает хирургом в той больнице.",
+		"eng_sentence": "He doesn't work as a surgeon in that hospital.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я не так уверен.",
+		"eng_sentence": "I'm not so sure. / I'm not really sure.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Это совсем меня не интересует.",
+		"eng_sentence": "It doesn't interest me at all.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Это не выглядит таким дорогим.",
+		"eng_sentence": "It doesn't look so expensive.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Это не сложная задача.",
+		"eng_sentence": "It isn't a difficult task.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я так не чувствую.",
+		"eng_sentence": "I don't feel so. / I don't feel that way.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Это не дорогое ожерелье.",
+		"eng_sentence": "It isn't an expensive necklace.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это совсем не эффективно.",
+		"eng_sentence": "It isn't effective at all.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Это не кажется хорошей клиникой.",
+		"eng_sentence": "It doesn't seem a good clinic.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Это не наша главная задача.",
+		"eng_sentence": "It isn't our main task.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Она не хочет там учиться, потому что это не так дёшево.",
+		"eng_sentence": "She doesn't want to study there because it isn't so cheap.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я чувствую, что у меня иногда недостаточно уверенности, когда я говорю по-английски, но я работаю над этим.",
+		"eng_sentence": "I feel that sometimes I don't have enough confidence when I speak English but I work on it.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Это действительно странно, что он не сожалеет об этом.",
+		"eng_sentence": "It's really strange that he isn't sorry about it / he doesn't feel sorry about it.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Он не хочет делать те упражнения, потому что он думает, что они совсем не эффективны.",
+		"eng_sentence": "He doesn't want to do those exercises because he thinks that they aren't effective at all.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Она говорит, что они не хотят извиняться за это.",
+		"eng_sentence": "She says that they don't want to apologise for it.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Он не понимает, что он не прав.",
+		"eng_sentence": "He doesn't understand that he isn't right.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Он не пьет алкоголь, потому что знает, что это не хорошо для его здоровья.",
+		"eng_sentence": "He doesn't drink alcohol because he knows that it isn't good for his health.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я думаю, это не плохое приложение.",
+		"eng_sentence": "I think it isn't a bad app.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Он не в бассейне сейчас.",
+		"eng_sentence": "He isn't in the swimming pool now.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я думаю, это не лучшая клиника в области.",
+		"eng_sentence": "I think it isn't the best clinic in the area.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Он не хочет там жить, потому что это очень скучное место.",
+		"eng_sentence": "He doesn't want to live there because it's a very boring place.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Он не профессиональный тренер.",
+		"eng_sentence": "He isn't a professional trainer.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Это не большое достижение для него.",
+		"eng_sentence": "It isn't a big achievement for him.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я не знаю, что делать с этим.",
+		"eng_sentence": "I don't know what to do with it.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я не понимаю, почему это не бесплатно.",
+		"eng_sentence": "I don't understand why it isn't free.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Он не чувствует себя достаточно уверенно, когда он говорит по-английски.",
+		"eng_sentence": "He doesn't feel confident enough when he speaks English.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я не чувствую себя достаточно уверенно, когда я говорю по-английски.",
+		"eng_sentence": "I don't feel confident enough when I speak English.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Она не чувствует себя достаточно уверенно, когда она говорит по-английски.",
+		"eng_sentence": "She doesn't feel confident enough when she speaks English.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Она не знает, как добраться до этого места.",
+		"eng_sentence": "She doesn't know how to get to this place.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я знаю, как добраться до этого места.",
+		"eng_sentence": "I know how to get to this place.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Он не знает, как добраться до того места.",
+		"eng_sentence": "He doesn't know how to get to that place.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Конечно, они не рекомендуют этот отель, потому что он действительно плохой.",
+		"eng_sentence": "Of course, they don't recommend this hotel because it's really bad.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Конечно, я не рекомендую этот отель, потому что он такой плохой.",
+		"eng_sentence": "Of course, I don't recommend this hotel because it's so bad.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Она рекомендует тот отель, потому что он действительно хороший.",
+		"eng_sentence": "She recommends that hotel because it's really good.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Он не чувствует себя финансово независимым.",
+		"eng_sentence": "He doesn't feel financially independent.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Она не чувствует себя финансово независимой.",
+		"eng_sentence": "She doesn't feel financially independent.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Я не чувствую себя финансово независимым.",
+		"eng_sentence": "I don't feel financially independent.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Он не знает, куда идти.",
+		"eng_sentence": "He doesn't know where to go.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я не знаю, куда идти.",
+		"eng_sentence": "I don't know where to go.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Она не знает, куда идти.",
+		"eng_sentence": "She doesn't know where to go.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я не чувствую себя достаточно уверенно.",
+		"eng_sentence": "I don't feel confident enough.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Они не чувствуют себя достаточно уверенно.",
+		"eng_sentence": "They don't feel confident enough.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Она не чувствует себя достаточно уверенно.",
+		"eng_sentence": "She doesn't feel confident enough.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Это не высокая зарплата.",
+		"eng_sentence": "It isn't a high salary.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Это высокая зарплата.",
+		"eng_sentence": "It's a high salary.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Это не большая зарплата.",
+		"eng_sentence": "It isn't a big salary.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я знаю, что это не низкая зарплата.",
+		"eng_sentence": "I know that it isn't a low salary.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Я знаю, что моя зарплата низкая.",
+		"eng_sentence": "I know that my salary is low.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Она знает, что это не высокая зарплата.",
+		"eng_sentence": "She knows that it isn't a high salary.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Я не хочу читать эту книгу, потому что она такая скучная.",
+		"eng_sentence": "I don't want to read this book because it's so boring.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я не хочу читать ту книгу, потому что она такая скучная.",
+		"eng_sentence": "I don't want to read that book because it's so boring.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я не хочу читать этот журнал, потому что он такой скучный.",
+		"eng_sentence": "I don't want to read this magazine because it's so boring.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Его работа не такая хорошо оплачиваемая.",
+		"eng_sentence": "His job isn't so well-paid.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Моя работа не такая хорошо оплачиваемая.",
+		"eng_sentence": "My job isn't so well-paid.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Её работа хорошо оплачиваемая.",
+		"eng_sentence": "Her job is well-paid.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я не хочу останавливаться, поэтому я делаю больше упражнений, чтобы чувствовать себя более уверенным.",
+		"eng_sentence": "I don't want to stop so I do more exercises to feel more confident.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "У него не хорошо оплачиваемая работа.",
+		"eng_sentence": "He doesn't have a well-paid job.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Он говорит, что он так не думает.",
+		"eng_sentence": "He says that he doesn't think so.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Он финансово независим.",
+		"eng_sentence": "He is financially independent.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Она не ходит в бассейн.",
+		"eng_sentence": "She doesn't go to the swimming pool.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я знаю, что это не так популярно среди американцев.",
+		"eng_sentence": "I know that it isn't so popular among Americans.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "У него не высокая зарплата.",
+		"eng_sentence": "He doesn't have a high salary.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я не знаю, как туда добраться.",
+		"eng_sentence": "I don't know how to get there.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Это вовсе не проблема для меня.",
+		"eng_sentence": "It isn't a problem for me at all.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Они не чувствуют себя независимыми.",
+		"eng_sentence": "They don't feel independent.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Она не делает те упражнения, потому что они так неэффективны для неё.",
+		"eng_sentence": "She doesn't do those exercises because they're so ineffective for her.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Я не курю, потому что знаю, это не хорошо для моего здоровья.",
+		"eng_sentence": "I don't smoke because I know it isn't good for my health.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Он не хочет извиниться за это.",
+		"eng_sentence": "He doesn't want to apologise for it.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "Я не знаю, почему это не так.",
+		"eng_sentence": "I don't know why it isn't so.",
+		"lesson": "60",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": "Он не сожалеет об этом.",
+		"eng_sentence": "He doesn't feel sorry about it. / He isn't sorry about it.",
+		"lesson": "60",
+		"difficulty": ""
+	}
+]
