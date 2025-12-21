@@ -1,0 +1,716 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Отель не такой дорогой.",
+		"eng_sentence": "The hotel isn't so expensive.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Эти налоги не такие большие.",
+		"eng_sentence": "These taxes aren't so big.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Эти правила не такие сложные.",
+		"eng_sentence": "These rules aren't so difficult.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Эта информация не такая важная.",
+		"eng_sentence": "This information isn't so important.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Компьютер не такой мощный.",
+		"eng_sentence": "The computer isn't so powerful.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Учитель не старый.",
+		"eng_sentence": "The teacher isn't old.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Моя мама не дома.",
+		"eng_sentence": "My mother isn't at home.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Правило не такое простое.",
+		"eng_sentence": "The rule isn't so simple.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Наш директор в данный момент не свободен.",
+		"eng_sentence": "Our director isn't free at the moment.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Проблема не такая большая.",
+		"eng_sentence": "The problem isn't so big.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Эти выражения для нас не новые.",
+		"eng_sentence": "These expressions aren't new for us.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Окно не закрыто.",
+		"eng_sentence": "The window isn't closed.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Их поддержка не так велика.",
+		"eng_sentence": "Their support isn't so big.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Программа не скучная.",
+		"eng_sentence": "The program isn't boring.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Это сообщество сейчас не такое большое.",
+		"eng_sentence": "This community isn't so big now.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Отель не такой дорогой.",
+		"eng_sentence": "The hotel isn't so expensive.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Это изображение не такое большое.",
+		"eng_sentence": "This image isn't so big.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Это сочинение неплохое.",
+		"eng_sentence": "This composition isn't bad.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Мальчики не в одной группе.",
+		"eng_sentence": "The boys aren't in the same group.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Его эссе не такое плохое.",
+		"eng_sentence": "His essay isn't so bad.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Это слово не новое для меня.",
+		"eng_sentence": "This word isn't new for me.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Ребёнок не снаружи.",
+		"eng_sentence": "The child isn't outside.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Дом не маленький.",
+		"eng_sentence": "The house isn't small.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "День не ветреный.",
+		"eng_sentence": "The day isn't windy.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Его сочинение не такое плохое.",
+		"eng_sentence": "His composition isn't so bad.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Эта вещь не такая важная.",
+		"eng_sentence": "This thing isn't so important.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "День не такой солнечный.",
+		"eng_sentence": "The day isn't so sunny.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Эта организация неизвестная.",
+		"eng_sentence": "This organization isn't famous.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Эта идея не новая.",
+		"eng_sentence": "This idea isn't new.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Дни не дождливые.",
+		"eng_sentence": "The days aren't rainy.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Цена не такая высокая.",
+		"eng_sentence": "The price isn't so high.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Эта работа ей не интересна.",
+		"eng_sentence": "This job isn't interesting for her.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Стол не круглый.",
+		"eng_sentence": "The table isn't round.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Той практики недостаточно.",
+		"eng_sentence": "That practice isn't enough.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Мой друг не уверен.",
+		"eng_sentence": "My friend isn't sure.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Дети не дома.",
+		"eng_sentence": "The children aren't at home.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Её дом не такой маленький.",
+		"eng_sentence": "Her house isn't so small.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Погода не такая плохая.",
+		"eng_sentence": "The weather isn't so bad.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Его бизнес не прибыльный.",
+		"eng_sentence": "His business isn't profitable.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Этой информации недостаточно.",
+		"eng_sentence": "This information isn't enough.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Дверь не открыта.",
+		"eng_sentence": "The door isn't open.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Это предложение работы не так интересно для меня.",
+		"eng_sentence": "This job offer isn't so interesting for me.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Мужчина недостаточно сильный.",
+		"eng_sentence": "The man isn't strong enough.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я знаю, что многие люди говорят, что время - это деньги, но я думаю, что время - это намного больше, чем деньги, потому что мы не можем вернуть его назад.",
+		"eng_sentence": "I know that many people say that time is money but I think that time is much more than money because we can't turn it back.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Сообщество не очень большое в настоящее время.",
+		"eng_sentence": "The community isn't very big at present.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Качество этих продуктов недостаточно хорошее.",
+		"eng_sentence": "The quality of these products isn't good enough.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "То качество недостаточно хорошее.",
+		"eng_sentence": "That quality isn't good enough.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я думаю, что твой друг не прав.",
+		"eng_sentence": "I think that your friend isn't right.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Эти условия не идеальные.",
+		"eng_sentence": "These conditions aren't perfect.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Химия ей не так интересна.",
+		"eng_sentence": "Chemistry isn't so interesting for her.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Их образ недостаточно хорош.",
+		"eng_sentence": "Their image isn't good enough.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Этот бизнесмен не успешный в настоящее время.",
+		"eng_sentence": "This businessman isn't successful at present.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Мальчик не высокий.",
+		"eng_sentence": "The boy isn't tall.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Эта пара джинсов не такая дешёвая.",
+		"eng_sentence": "This pair of jeans isn't so cheap.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Модель не новая.",
+		"eng_sentence": "The model isn't new.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Здание не такое высокое.",
+		"eng_sentence": "The building isn't so high.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Их репутация неплохая.",
+		"eng_sentence": "Their reputation isn't bad.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я думаю, что немецкий не такой лёгкий.",
+		"eng_sentence": "I think that German isn't so easy.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Она думает, что английский не такой лёгкий.",
+		"eng_sentence": "She thinks that English isn't so easy.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я думаю, что этот тест не такой лёгкий.",
+		"eng_sentence": "I think that this test isn't so easy.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Этот налог не такой маленький.",
+		"eng_sentence": "This tax isn't so little.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Налоги не такие маленькие.",
+		"eng_sentence": "The taxes aren't so little.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Тот налог не такой большой.",
+		"eng_sentence": "That tax isn't so big.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Те брюки не модные.",
+		"eng_sentence": "Those trousers aren't fashionable.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Эта одежда не модная.",
+		"eng_sentence": "These clothes aren't fashionable.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Мои брюки не модные.",
+		"eng_sentence": "My trousers aren't fashionable.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Курение не хорошо для здоровья.",
+		"eng_sentence": "Smoking isn't good for health.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Курение плохо для здоровья.",
+		"eng_sentence": "Smoking is bad for health.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Употребление алкоголя не хорошо для твоего здоровья.",
+		"eng_sentence": "Drinking alcohol isn't good for your health.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Яблоки не свежие.",
+		"eng_sentence": "The apples aren't fresh.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Твои яблоки не свежие.",
+		"eng_sentence": "Your apples aren't fresh.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Эти яблоки не свежие.",
+		"eng_sentence": "These apples aren't fresh.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Девочка не высокая.",
+		"eng_sentence": "The girl isn't tall.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Эти девочки не высокие.",
+		"eng_sentence": "These girls aren't tall.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Девочка не очень высокая.",
+		"eng_sentence": "The girl isn't very tall.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Тот метод недостаточно хороший.",
+		"eng_sentence": "That method isn't good enough.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Те методы недостаточно хорошие.",
+		"eng_sentence": "Those methods aren't good enough.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Тот метод не такой хороший.",
+		"eng_sentence": "That method isn't so good.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Еда не вкусная.",
+		"eng_sentence": "The food isn't tasty.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Эти продукты не вкусные.",
+		"eng_sentence": "These products aren't tasty.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Еда не очень вкусная.",
+		"eng_sentence": "The food isn't very tasty.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "История не его любимый предмет.",
+		"eng_sentence": "History isn't his favourite subject.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "История не мой любимый предмет.",
+		"eng_sentence": "History isn't my favorite subject.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Математика и история не его любимые предметы.",
+		"eng_sentence": "Maths and history aren't his favourite subjects.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Их дочь не замужем.",
+		"eng_sentence": "Their daughter isn't married.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Их дочери не замужем.",
+		"eng_sentence": "Their daughters aren't married.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Их дочь замужем.",
+		"eng_sentence": "Their daughter is married.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Экономика этой страны достаточно сильная.",
+		"eng_sentence": "The economy of this country is strong enough.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я вижу, что дверь не закрыта.",
+		"eng_sentence": "I see that the door isn't closed.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Размер этих ботинок слишком маленький.",
+		"eng_sentence": "The size of these shoes is too small.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Эти джинсы не дорогие.",
+		"eng_sentence": "These jeans aren't expensive.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я думаю, что английский язык не такой сложный.",
+		"eng_sentence": "I think that English isn't so difficult.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Размер тех джинсов слишком большой.",
+		"eng_sentence": "The size of those jeans is too big.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Тот курс не достаточно эффективный.",
+		"eng_sentence": "That course isn't effective enough.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я думаю, что деньги это не все.",
+		"eng_sentence": "I think that money isn't everything.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Рыба не свежая.",
+		"eng_sentence": "The fish isn't fresh.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Этот певец не так популярен в настоящее время.",
+		"eng_sentence": "This singer isn't so popular at the present time.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Качество тех уроков недостаточно хорошее.",
+		"eng_sentence": "The quality of those lessons isn't good enough.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я думаю, что те условия не идеальны.",
+		"eng_sentence": "I think that those conditions aren't perfect.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Эти налоги не такие большие.",
+		"eng_sentence": "These taxes aren't so big.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Эта песня не популярна в настоящее время.",
+		"eng_sentence": "This song isn't popular at the present time.",
+		"lesson": "62",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Математика не её любимый предмет.",
+		"eng_sentence": "Maths isn't her favourite subject.",
+		"lesson": "62",
+		"difficulty": ""
+	}
+]
