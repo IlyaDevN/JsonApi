@@ -1,0 +1,716 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Ты пьешь кофе утром?",
+		"eng_sentence": "Do you drink coffee in the morning?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Она живёт в большом городе?",
+		"eng_sentence": "Does she live in a big city?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Он изучает французский в университете?",
+		"eng_sentence": "Does he study French at university?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Он курит или нет?",
+		"eng_sentence": "Does he smoke or not?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Он пытается найти здесь эту информацию?",
+		"eng_sentence": "Does he try to find this information here?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он часто это говорит?",
+		"eng_sentence": "Does he often say it?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Ты живешь в большом доме?",
+		"eng_sentence": "Do you live in a big house?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Он плавает лучше?",
+		"eng_sentence": "Does he swim better?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Ты живёшь отдельно?",
+		"eng_sentence": "Do you live separately?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Тебе нравится эта программа?",
+		"eng_sentence": "Do you like this program?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Это действительно помогает ему?",
+		"eng_sentence": "Does it really help him?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Он тоже так думает?",
+		"eng_sentence": "Does he think so, too?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "У тебя много родственников?",
+		"eng_sentence": "Do you have many relatives?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Она живет в маленьком городке?",
+		"eng_sentence": "Does she live in a small town?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Это приносит людям счастье?",
+		"eng_sentence": "Does it bring people happiness?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Она хочет жить одна?",
+		"eng_sentence": "Does she want to live alone?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Он верит в Бога?",
+		"eng_sentence": "Does he believe in God?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Он чувствует себя больным?",
+		"eng_sentence": "Does he feel ill?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Ей нравится этот сериал?",
+		"eng_sentence": "Does she like this TV series?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Он часто говорит тебе эту вещь?",
+		"eng_sentence": "Does he often tell you this thing?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Ты находишь эту идею интересной?",
+		"eng_sentence": "Do you find this idea interesting?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Они живут отдельно?",
+		"eng_sentence": "Do they live separately?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Она хочет учиться в другом месте?",
+		"eng_sentence": "Does she want to study in another place?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Ты хочешь жить один?",
+		"eng_sentence": "Do you want to live alone?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Ты находишь этот тест очень легким?",
+		"eng_sentence": "Do you find this test very easy?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Тебе нравится плавание?",
+		"eng_sentence": "Do you like swimming?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Ты живешь в новом здании?",
+		"eng_sentence": "Do you live in a new building?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "У него стабильный доход?",
+		"eng_sentence": "Does he have a stable income?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Ты знаешь этого парня?",
+		"eng_sentence": "Do you know this guy?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Ты куришь?",
+		"eng_sentence": "Do you smoke?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "У тебя есть стабильный доход?",
+		"eng_sentence": "Do you have a stable income?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Ты живешь в большом городе?",
+		"eng_sentence": "Do you live in a big city?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Ты ищешь это онлайн?",
+		"eng_sentence": "Do you look for it online?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Она тоже так думает?",
+		"eng_sentence": "Does she also think so?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Ты хочешь жить в другом месте?",
+		"eng_sentence": "Do you want to live in another place?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "У тебя большой дом?",
+		"eng_sentence": "Do you have a big house?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Она живет в старом здании?",
+		"eng_sentence": "Does she live in an old building?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Ты смотришь бесплатные уроки английского онлайн?",
+		"eng_sentence": "Do you watch free English lessons online?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "У тебя есть какое-либо свободное время?",
+		"eng_sentence": "Do you have any free time?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Она изучает английский в школе?",
+		"eng_sentence": "Does she study English at school?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Ты ищешь эту информацию онлайн?",
+		"eng_sentence": "Do you look for this information online?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Тебе нравится этот сериал?",
+		"eng_sentence": "Do you like this TV series?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это принадлежит ему?",
+		"eng_sentence": "Does it belong to him?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Это развивает наши профессиональные навыки?",
+		"eng_sentence": "Does it develop our professional skills?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Он работает музыкантом?",
+		"eng_sentence": "Does he work as a musician?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Он ведёт здоровый образ жизни?",
+		"eng_sentence": "Does he lead a healthy lifestyle?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Ты понимаешь, почему он это делает?",
+		"eng_sentence": "Do you understand why he does it?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Ты зависишь от своих родителей финансово?",
+		"eng_sentence": "Do you depend on your parents financially?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Это развивает наше воображение?",
+		"eng_sentence": "Does it develop our imagination?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Ты изучаешь английский самостоятельно?",
+		"eng_sentence": "Do you learn English by yourself?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Ты хочешь быть учёным?",
+		"eng_sentence": "Do you want to be a scientist?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Это развивает эти навыки?",
+		"eng_sentence": "Does it develop these skills?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Ты знаешь, что я учу английский самостоятельно?",
+		"eng_sentence": "Do you know that I learn English by myself / on my own?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Он работает программистом?",
+		"eng_sentence": "Does he work as a programmer?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Ты действительно понимаешь, почему это стоит так много?",
+		"eng_sentence": "Do you really understand why it costs so much?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "У тебя такой же вопрос?",
+		"eng_sentence": "Do you have the same question?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Ты пытаешься решить эту проблему?",
+		"eng_sentence": "Do you try to solve this problem?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Ты знаешь, что я учу английский самостоятельно?",
+		"eng_sentence": "Do you know that I learn English by myself / on my own?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Ты знаешь, что она учит английский самостоятельно?",
+		"eng_sentence": "Do you know that she learns English by herself / on her own?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Она знает, что он изучает английский самостоятельно?",
+		"eng_sentence": "Does she know that he learns English by himself / on his own?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Она платит за своё образование?",
+		"eng_sentence": "Does she pay for her education?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Ты платишь за своё образование?",
+		"eng_sentence": "Do you pay for your education?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Он платит за своё образование?",
+		"eng_sentence": "Does he pay for his education?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Ты хочешь путешествовать по миру?",
+		"eng_sentence": "Do you want to travel around the world?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Твой брат хочет путешествовать по миру?",
+		"eng_sentence": "Does your brother want to travel around the world?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Она хочет путешествовать по стране?",
+		"eng_sentence": "Does she want to travel around the country?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Он работает инструктором?",
+		"eng_sentence": "Does he work as an instructor?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Ты работаешь инструктором?",
+		"eng_sentence": "Do you work as an instructor?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он работает тренером?",
+		"eng_sentence": "Does he work as a trainer?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Это зависит от тебя?",
+		"eng_sentence": "Does it depend on you?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Это зависит от меня?",
+		"eng_sentence": "Does it depend on me?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Ты зависишь от него?",
+		"eng_sentence": "Do you depend on him?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Ты делаешь это самостоятельно?",
+		"eng_sentence": "Do you do it by yourself / on your own?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Она делает это самостоятельно?",
+		"eng_sentence": "Does she do it by herself / on her own?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он делает это самостоятельно?",
+		"eng_sentence": "Does he do it by himself / on his own?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "У него такие же результаты?",
+		"eng_sentence": "Does he have the same results?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "У тебя такие же результаты?",
+		"eng_sentence": "Do you have the same results?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "У нас разные результаты?",
+		"eng_sentence": "Do we have different results?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Ты часто делаешь ошибки, когда говоришь на иностранном языке?",
+		"eng_sentence": "Do you often make mistakes when you speak a foreign language?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Он часто делает ошибки, когда говорит на иностранном языке?",
+		"eng_sentence": "Does he often make mistakes when he speaks a foreign language?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Я часто делаю ошибки, когда говорю по-английски?",
+		"eng_sentence": "Do I often make mistakes when I speak English?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Ты знаешь, как ответить на этот вопрос?",
+		"eng_sentence": "Do you know how to answer this question?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Она знает, как ответить на этот вопрос?",
+		"eng_sentence": "Does she know how to answer this question?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Ты знаешь, как ответить на мой вопрос?",
+		"eng_sentence": "Do you know how to answer my question?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Он часто делает ошибки, когда говорит по-английски?",
+		"eng_sentence": "Does he often make mistakes when he speaks English?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Ты часто делаешь ошибки, когда говоришь по-английски?",
+		"eng_sentence": "Do you often make mistakes when you speak English?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Она часто делает ошибки, когда она говорит по-испански?",
+		"eng_sentence": "Does she often make mistakes when she speaks Spanish?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Он финансово зависит от своих родителей?",
+		"eng_sentence": "Does he depend on his parents financially?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Он работает фитнес инструктором?",
+		"eng_sentence": "Does he work as a fitness instructor?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Это принадлежит тебе?",
+		"eng_sentence": "Does it belong to you?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "У него в настоящее время есть какие-либо вопросы?",
+		"eng_sentence": "Does he have any questions at present?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Ты работаешь фитнес тренером?",
+		"eng_sentence": "Do you work as a fitness trainer?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Ты изучаешь английский самостоятельно?",
+		"eng_sentence": "Do you learn English on your own?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Ты стараешься вести здоровый образ жизни?",
+		"eng_sentence": "Do you try to lead a healthy lifestyle?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Ты делаешь это самостоятельно?",
+		"eng_sentence": "Do you do it by yourself / on your own?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Это зависит от нас?",
+		"eng_sentence": "Does it depend on us?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Ты знаешь, как решить эту проблему?",
+		"eng_sentence": "Do you know how to solve this problem?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Она хочет быть специалистом по маркетингу?",
+		"eng_sentence": "Does she want to be a marketing specialist?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "У тебя есть какие-либо вопросы в данный момент?",
+		"eng_sentence": "Do you have any questions at the moment?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Ему нужно сделать это срочно?",
+		"eng_sentence": "Does he need to do it urgently?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Ты работаешь персональным тренером?",
+		"eng_sentence": "Do you work as a personal trainer?",
+		"lesson": "63",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Он хочет быть президентом?",
+		"eng_sentence": "Does he want to be a president?",
+		"lesson": "63",
+		"difficulty": ""
+	}
+]
