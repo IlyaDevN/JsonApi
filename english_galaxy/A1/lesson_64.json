@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я хороший специалист?",
+		"eng_sentence": "Am I a good specialist?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Они хорошие студенты?",
+		"eng_sentence": "Are they good students?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Это традиционная еда?",
+		"eng_sentence": "Is it traditional food?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Это дешёвая вещь?",
+		"eng_sentence": "Is it a cheap thing?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Это официальный документ?",
+		"eng_sentence": "Is it an official document?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Это шумное место?",
+		"eng_sentence": "Is it a noisy place?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Это традиционный метод?",
+		"eng_sentence": "Is it a traditional method?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Ты сейчас в Америке?",
+		"eng_sentence": "Are you in America now?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Он из Бразилии?",
+		"eng_sentence": "Is he from Brazil?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Они сёстры?",
+		"eng_sentence": "Are they sisters?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Он твой двоюродный брат?",
+		"eng_sentence": "Is he your cousin?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Это лучший ресторан в этой области?",
+		"eng_sentence": "Is it the best restaurant in this area?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Он британец?",
+		"eng_sentence": "Is he British?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Это голубая ручка?",
+		"eng_sentence": "Is it a blue pen?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Они американцы?",
+		"eng_sentence": "Are they Americans?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Это его родной язык?",
+		"eng_sentence": "Is it his mother tongue?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Они хорошие специалисты?",
+		"eng_sentence": "Are they good specialists?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Это старое здание?",
+		"eng_sentence": "Is it an old building?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Ты действительно серьёзно?",
+		"eng_sentence": "Are you really serious?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Это твоё любимое блюдо?",
+		"eng_sentence": "Is it your favourite dish?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Это важная вещь?",
+		"eng_sentence": "Is it an important thing?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Он хороший специалист?",
+		"eng_sentence": "Is he a good specialist?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Это бесплатно или нет?",
+		"eng_sentence": "Is it free or not?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Они высокие мальчики?",
+		"eng_sentence": "Are they tall boys?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это хороший результат для тебя?",
+		"eng_sentence": "Is it a good result for you?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Это высокий уровень?",
+		"eng_sentence": "Is it a high level?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Он твой любимый певец?",
+		"eng_sentence": "Is he your favourite singer?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Это твой родной язык?",
+		"eng_sentence": "Is it your mother tongue?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Это длинная история?",
+		"eng_sentence": "Is it a long story?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Он твой брат?",
+		"eng_sentence": "Is he your brother?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Это хорошая идея?",
+		"eng_sentence": "Is it a good idea?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Ты из Испании?",
+		"eng_sentence": "Are you from Spain?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Он холост?",
+		"eng_sentence": "Is he single?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Это тихое место?",
+		"eng_sentence": "Is it a quiet place?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Они братья?",
+		"eng_sentence": "Are they brothers?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Это твой любимый фильм?",
+		"eng_sentence": "Is it your favourite movie?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Он испанец?",
+		"eng_sentence": "Is he Spanish?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Это другой пример?",
+		"eng_sentence": "Is it a different example?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Это тяжёлая коробка?",
+		"eng_sentence": "Is it a heavy box?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Ты офлайн сейчас?",
+		"eng_sentence": "Are you offline now?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Они твои двоюродные братья?",
+		"eng_sentence": "Are they your cousins?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Ты онлайн сейчас?",
+		"eng_sentence": "Are you online now?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это чёрный карандаш?",
+		"eng_sentence": "Is it a black pencil?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Это неважная вещь?",
+		"eng_sentence": "Is it an unimportant thing?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Ты интересуешься иностранными языками?",
+		"eng_sentence": "Are you interested in foreign languages?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Ты действительно шокирован?",
+		"eng_sentence": "Are you really shocked?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Это для тебя большое достижение?",
+		"eng_sentence": "Is it a big achievement for you?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Ты действительно уверен в этом?",
+		"eng_sentence": "Are you really sure about it?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Это далеко или близко?",
+		"eng_sentence": "Is it far or near?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Ты действительно удивлён?",
+		"eng_sentence": "Are you really surprised?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Это недорогие часы?",
+		"eng_sentence": "Is it an inexpensive watch?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Ты гордишься своими достижениями?",
+		"eng_sentence": "Are you proud of your achievements?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Это действительно необходимо сделать завтра?",
+		"eng_sentence": "Is it really necessary to do it tomorrow?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Он действительно устал от этого?",
+		"eng_sentence": "Is he really tired of it?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Это полезное приложение?",
+		"eng_sentence": "Is it a useful application?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Они рядом с этим местом?",
+		"eng_sentence": "Are they near this place?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Это необходимо сделать?",
+		"eng_sentence": "Is it necessary to do it?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Это рядом с тем местом?",
+		"eng_sentence": "Is it near that place?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Ты действительно устал?",
+		"eng_sentence": "Are you really tired?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Ты устал?",
+		"eng_sentence": "Are you tired?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Он действительно устал?",
+		"eng_sentence": "Is he really tired?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Это слева?",
+		"eng_sentence": "Is it on the left?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Это справа?",
+		"eng_sentence": "Is it on the right?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Это с левой стороны стола?",
+		"eng_sentence": "Is it on the left side of the table?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Они заинтересованы в этом проекте?",
+		"eng_sentence": "Are they interested in this project?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Он заинтересован в этом проекте?",
+		"eng_sentence": "Is he interested in this project?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Ты заинтересован в этой работе?",
+		"eng_sentence": "Are you interested in this job?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Это неверно?",
+		"eng_sentence": "Is it incorrect? / Is it wrong?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Этот ответ неверный?",
+		"eng_sentence": "Is this answer incorrect?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Это действительно верно?",
+		"eng_sentence": "Is it really correct? / Is it really right?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Он носитель английского языка?",
+		"eng_sentence": "Is he a native speaker of English?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Они носители английского языка?",
+		"eng_sentence": "Are they native speakers of English?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Ты носитель английского языка?",
+		"eng_sentence": "Are you a native speaker of English?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Это верно или нет?",
+		"eng_sentence": "Is it correct or not?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Это верно?",
+		"eng_sentence": "Is it correct?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Он очень осторожный водитель?",
+		"eng_sentence": "Is he a very careful driver?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Ты осторожный водитель?",
+		"eng_sentence": "Are you a careful driver?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Они очень осторожные водители?",
+		"eng_sentence": "Are they very careful drivers?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Это полезная вещь?",
+		"eng_sentence": "Is it a useful thing?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Это хорошая вещь?",
+		"eng_sentence": "Is it a good thing?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Он гордится этим успехом?",
+		"eng_sentence": "Is he proud of this success?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Ты гордишься своим успехом?",
+		"eng_sentence": "Are you proud of your success?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Ты гордишься своей матерью?",
+		"eng_sentence": "Are you proud of your mother?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Ты также заинтересован в этом?",
+		"eng_sentence": "Are you also interested in it?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Они также заинтересованы в этом?",
+		"eng_sentence": "Are they also interested in it?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Она также заинтересована в этом?",
+		"eng_sentence": "Is she also interested in it?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он женат на ней?",
+		"eng_sentence": "Is he married to her?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Она интересуется музыкой?",
+		"eng_sentence": "Is she interested in music?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Ты действительно удивлён слышать это?",
+		"eng_sentence": "Are you really surprised to hear it?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Она замужем за ним?",
+		"eng_sentence": "Is she married to him?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Это очень дорогая вещь?",
+		"eng_sentence": "Is it a very expensive thing?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Она носитель английского языка?",
+		"eng_sentence": "Is she a native speaker of English?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Это необходимый шаг?",
+		"eng_sentence": "Is it a necessary step?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Ты гордишься своими результатами?",
+		"eng_sentence": "Are you proud of your results?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Она действительно устала от этой рутины?",
+		"eng_sentence": "Is she really tired of this routine?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Это важное правило или нет?",
+		"eng_sentence": "Is it an important rule or not?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Он гордится своими достижениями?",
+		"eng_sentence": "Is he proud of his achievements?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Это недорогая вещь?",
+		"eng_sentence": "Is it an inexpensive thing?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Это действительно необходимо?",
+		"eng_sentence": "Is it really necessary?",
+		"lesson": "64",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Это полезное устройство?",
+		"eng_sentence": "Is it a useful device?",
+		"lesson": "64",
+		"difficulty": ""
+	}
+]
