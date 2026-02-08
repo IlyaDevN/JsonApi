@@ -1,0 +1,723 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "У тебя плохой результат?",
+		"eng_sentence": "Do you have a bad result?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Он уважает наши традиции?",
+		"eng_sentence": "Does he respect our traditions?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я твой друг?",
+		"eng_sentence": "Am I your friend?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Они очень ленивые студенты?",
+		"eng_sentence": "Are they very lazy students?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Это более дорогой отель?",
+		"eng_sentence": "Is it a more expensive hotel?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Это дорогой билет?",
+		"eng_sentence": "Is it an expensive ticket?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Тебе также это очень интересно?",
+		"eng_sentence": "Is it also very interesting for you?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Ты менеджер?",
+		"eng_sentence": "Are you a manager?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "У него есть маленькая сумка?",
+		"eng_sentence": "Does he have a small bag?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Он трудолюбивый студент?",
+		"eng_sentence": "Is he a hard-working student?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Они живут счастливо вместе?",
+		"eng_sentence": "Do they live happily together?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Он популярный блогер?",
+		"eng_sentence": "Is he a popular blogger?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Они слишком мало занимаются?",
+		"eng_sentence": "Do they study too little?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Это общественная проблема?",
+		"eng_sentence": "Is it a social problem?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Она профессиональная певица?",
+		"eng_sentence": "Is she a professional singer?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Это так дорого?",
+		"eng_sentence": "Is it so expensive?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Ты смотришь этого видеоблогера?",
+		"eng_sentence": "Do you watch this video blogger?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Он ведёт себя очень странно?",
+		"eng_sentence": "Does he behave very strangely?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он странный человек?",
+		"eng_sentence": "Is he a strange person?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Она профессионально поёт?",
+		"eng_sentence": "Does she sing professionally?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Это действительно дешевле?",
+		"eng_sentence": "Is it really cheaper?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Это много стоит?",
+		"eng_sentence": "Does it cost a lot?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Она хороший танцор?",
+		"eng_sentence": "Is she a good dancer?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Это уникальная возможность?",
+		"eng_sentence": "Is it a unique opportunity?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это тоже очень важно?",
+		"eng_sentence": "Is it also very important?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Это уникальный шанс для нас?",
+		"eng_sentence": "Is it a unique chance for us?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Тебе нравятся такого рода шутки?",
+		"eng_sentence": "Do you like this kinds of jokes?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Эти билеты дешёвые?",
+		"eng_sentence": "Are these tickets cheap?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Это удобный диван?",
+		"eng_sentence": "Is it a comfortable sofa?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Ты тоже очень удивлён?",
+		"eng_sentence": "Are you also very surprised?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Они учатся в разных группах?",
+		"eng_sentence": "Do they study in different groups?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Ты уважаешь этого человека?",
+		"eng_sentence": "Do you respect this person?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Они очень ленивые студенты?",
+		"eng_sentence": "Are they very lazy students?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Ты часто опаздываешь?",
+		"eng_sentence": "Are you often late?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Это правильный ответ?",
+		"eng_sentence": "Is it the right answer?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он очень усердно учится?",
+		"eng_sentence": "Does he study very hard? / Does he study very intensively?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Это комфортная кровать?",
+		"eng_sentence": "Is it a comfortable bed?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Она очень хорошо танцует?",
+		"eng_sentence": "Does she dance very well?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Они мало стоят?",
+		"eng_sentence": "Do they cost little?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Вы в одной группе?",
+		"eng_sentence": "Are you in one group?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Ты уважаешь такого рода людей?",
+		"eng_sentence": "Do you respect these kinds of people?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Это хороший супермаркет?",
+		"eng_sentence": "Is it a good supermarket?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это экономический кризис?",
+		"eng_sentence": "Is it an economic crisis?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "У него лучше результат?",
+		"eng_sentence": "Does he have a better result?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Ты работаешь менеджером?",
+		"eng_sentence": "Do you work as a manager?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Ты согласен, что это очень важно?",
+		"eng_sentence": "Do you agree that it's very important?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Она зарабатывает достаточно денег, чтобы купить дом?",
+		"eng_sentence": "Does she earn enough money to buy a house?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Это бесплатная версия?",
+		"eng_sentence": "Is it a free version?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "У тебя есть более стабильный доход?",
+		"eng_sentence": "Do you have a more stable income?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Ты специально это делаешь?",
+		"eng_sentence": "Do you do it on purpose?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "У тебя есть премиум аккаунт?",
+		"eng_sentence": "Do you have a premium account?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Это более дорогой отель?",
+		"eng_sentence": "Is it a more expensive hotel?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Ты понимаешь, почему это происходит с нами?",
+		"eng_sentence": "Do you understand why it happens to us?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Это более важная вещь?",
+		"eng_sentence": "Is it a more important thing?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Ты показываешь более хороший результат?",
+		"eng_sentence": "Do you show a better result?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "У него более дорогая машина?",
+		"eng_sentence": "Does he have a more expensive car?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "У тебя последняя модель?",
+		"eng_sentence": "Do you have the latest model?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Это более хорошая машина?",
+		"eng_sentence": "Is it a better car?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Ты думаешь, это уникальная возможность?",
+		"eng_sentence": "Do you think it's a unique opportunity?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "У тебя есть премиум версия?",
+		"eng_sentence": "Do you have a premium version?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Он делает это нарочно?",
+		"eng_sentence": "Does he do it on purpose?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Они делают это нарочно?",
+		"eng_sentence": "Do they do it on purpose?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Она твоя младшая сестра?",
+		"eng_sentence": "Is she your younger sister?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Он твой младший брат?",
+		"eng_sentence": "Is he your younger brother?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Он её старший брат?",
+		"eng_sentence": "Is he her elder brother? / Is he her older brother?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Это худший результат?",
+		"eng_sentence": "Is it the worst result?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Это лучший результат?",
+		"eng_sentence": "Is it the best result?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Это более плохой результат?",
+		"eng_sentence": "Is it a worse result?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Ты обычно останавливаешься в более дешёвом отеле?",
+		"eng_sentence": "Do you usually stay in a cheaper hotel?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Он обычно останавливается в самом дорогом отеле?",
+		"eng_sentence": "Does he usually stay in the most expensive hotel?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Они часто останавливаются в более дорогом отеле?",
+		"eng_sentence": "Do they often stay in a more expensive hotel?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Это более дешёвый отель?",
+		"eng_sentence": "Is it a cheaper hotel?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Это самый дешёвый отель?",
+		"eng_sentence": "Is it the cheapest hotel?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "У него хуже результат?",
+		"eng_sentence": "Does he have a worse result?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "У тебя хуже результат?",
+		"eng_sentence": "Do you have a worse result?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "У неё худший результат?",
+		"eng_sentence": "Does she have the worst result?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Ты вегетарианец?",
+		"eng_sentence": "Are you a vegetarian?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Они вегетарианцы?",
+		"eng_sentence": "Are they vegetarians?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Она вегетарианка?",
+		"eng_sentence": "Is she a vegetarian?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Он понимает, почему это происходит с ними?",
+		"eng_sentence": "Does he understand why it happens to them?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Ты понимаешь, почему это происходит с тобой?",
+		"eng_sentence": "Do you understand why it happens to you?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Она понимает, почему это происходит с ней?",
+		"eng_sentence": "Does she understand why it happens to her?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Это последняя модель?",
+		"eng_sentence": "Is it the latest model?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Это новая модель?",
+		"eng_sentence": "Is it a new model?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Это лучшая модель?",
+		"eng_sentence": "Is it the best model?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Это бесплатная программа?",
+		"eng_sentence": "Is it a free program?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Это дешёвая программа?",
+		"eng_sentence": "Is it a cheap program?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Это новая программа?",
+		"eng_sentence": "Is it a new program?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Ты используешь премиум аккаунт?",
+		"eng_sentence": "Do you use a premium account?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Они специально все портят?",
+		"eng_sentence": "Do they spoil everything on purpose?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Ты тоже видишь, что время действительно летит?",
+		"eng_sentence": "Do you also see that time really flies?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "У него лучше знания?",
+		"eng_sentence": "Does he have better knowledge?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Он вегетарианец?",
+		"eng_sentence": "Is he a vegetarian?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Ты думаешь, это большой успех?",
+		"eng_sentence": "Do you think it's a big success?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "У неё лучше машина?",
+		"eng_sentence": "Does she have a better car?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "У них хуже результаты?",
+		"eng_sentence": "Do they have worse results?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Он всегда все портит?",
+		"eng_sentence": "Does he always spoil everything?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "У него достаточно денег, чтобы купить квартиру?",
+		"eng_sentence": "Does he have enough money to buy an apartment?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Эта еда быстро портится?",
+		"eng_sentence": "Does this food spoil fast?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Она твоя старшая сестра?",
+		"eng_sentence": "Is she your elder sister?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Он уважает эти традиции?",
+		"eng_sentence": "Does he respect these traditions?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Они портят еду?",
+		"eng_sentence": "Do they spoil food?",
+		"lesson": "65",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Ты используешь бесплатную версию?",
+		"eng_sentence": "Do you use a free version?",
+		"lesson": "65",
+		"difficulty": ""
+	}
+]
