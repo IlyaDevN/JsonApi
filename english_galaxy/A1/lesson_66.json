@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Много людей посещают эту страну?",
+		"eng_sentence": "Do many people visit this country?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Твой друг верит тебе?",
+		"eng_sentence": "Does your friend believe you?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Твоё образование помогает тебе?",
+		"eng_sentence": "Does your education help you?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Дети часто остаются дома?",
+		"eng_sentence": "Do the children often stay at home?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Твой учитель проверяет твою домашнюю работу?",
+		"eng_sentence": "Does your teacher check your homework?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Твой брат занимается плаванием дважды в неделю?",
+		"eng_sentence": "Does your brother go swimming twice a week?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Твои друзья верят тебе?",
+		"eng_sentence": "Do your friends believe you?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Эта вещь действительно тебя так сильно интересует?",
+		"eng_sentence": "Does this thing interest you so much?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Дети в этой группе показывают очень хорошие результаты?",
+		"eng_sentence": "Do the children in this group show very good results?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Много людей выбирают этот отель?",
+		"eng_sentence": "Do many people choose this hotel?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Образование играет важную роль в нашей жизни?",
+		"eng_sentence": "Does education play an important role in our life?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Её дочь ходит в колледж?",
+		"eng_sentence": "Does her daughter go to college?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Много людей читают книги?",
+		"eng_sentence": "Do many people read books?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Эти вещи тебя интересуют?",
+		"eng_sentence": "Do these things interest you?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Твой учитель дает тебе слишком много домашней работы?",
+		"eng_sentence": "Does your teacher give you too much homework?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Твои родители это понимают?",
+		"eng_sentence": "Do your parents understand it?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Твой друг это знает?",
+		"eng_sentence": "Does your friend know it?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Твой друг ходит в университет?",
+		"eng_sentence": "Does your friend go to university?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Кейт понимает этот урок?",
+		"eng_sentence": "Does Kate understand this lesson?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Много людей посещают эту страну?",
+		"eng_sentence": "Do many people visit this country?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Тебя интересует музыка?",
+		"eng_sentence": "Does music interest you?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Полиция контролирует это?",
+		"eng_sentence": "Do the police control it?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Твоему другу нравится футбол?",
+		"eng_sentence": "Does your friend like football?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Эти билеты стоят меньше?",
+		"eng_sentence": "Do these tickets cost less?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Его родители верят ему?",
+		"eng_sentence": "Do his parents believe him?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Ник часто играет в компьютерные игры?",
+		"eng_sentence": "Does Nick often play computer games?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "То приложение кажется очень полезным?",
+		"eng_sentence": "Does that application seem very useful?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Его сын работает или учится?",
+		"eng_sentence": "Does his son work or study?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Тот курс кажется хуже?",
+		"eng_sentence": "Does that course seem worse?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Приложение действительно помогает?",
+		"eng_sentence": "Does the application really help?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Эти вещи кажутся очень важными?",
+		"eng_sentence": "Do these things seem very important?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Этот курс кажется лучше?",
+		"eng_sentence": "Does this course seem better?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Твои родители работают?",
+		"eng_sentence": "Do your parents work?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Твой босс приходит на работу каждый день?",
+		"eng_sentence": "Does your boss come to work every day?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Твой брат всегда так рано встаёт?",
+		"eng_sentence": "Does your brother always get up so early?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Полиция всё контролирует?",
+		"eng_sentence": "Do the police control everything?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Ребёнок кажется очень талантливым?",
+		"eng_sentence": "Does the child seem very talented?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Эта вещь интересует его?",
+		"eng_sentence": "Does this thing interest him?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Курс кажется эффективным?",
+		"eng_sentence": "Does the course seem effective?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Эта история кажется очень смешной?",
+		"eng_sentence": "Does the story seem very funny?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Твоя сестра ходит в колледж?",
+		"eng_sentence": "Does your sister go to college?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Это интересует тебя?",
+		"eng_sentence": "Does it interest you?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Тот университет предоставляет отличные условия для обучения?",
+		"eng_sentence": "Does that university provide excellent conditions for education?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Этот мужчина работает водителем такси?",
+		"eng_sentence": "Does this man work as a taxi driver?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Эта школа предоставляет очень хорошие условия?",
+		"eng_sentence": "Does this school provide very good conditions?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Твой учитель указывает на твои ошибки?",
+		"eng_sentence": "Does your teacher point out your mistakes?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Твой знакомый работает инструктором по фитнесу?",
+		"eng_sentence": "Does your acquaintance work as a fitness instructor?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Большинство иммигрантов адаптируются к этим условиям?",
+		"eng_sentence": "Do most immigrants adapt to these conditions?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Твой лучший друг разделяет твою точку зрения?",
+		"eng_sentence": "Does your best friend share your point of view?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Этот мужчина страдает от депрессии?",
+		"eng_sentence": "Does this man suffer from depression?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Ты думаешь, что деньги играют очень важную роль в нашей жизни?",
+		"eng_sentence": "Do you think that money plays a very important role in our life?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Много людей страдают от депрессии?",
+		"eng_sentence": "Do many people suffer from depression?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "То сообщество растёт очень медленно?",
+		"eng_sentence": "Does that community grow very slowly?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Твоим одноклассникам нравятся объяснения твоего учителя?",
+		"eng_sentence": "Do your classmates like your teacher's explanations?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Твоя мама работает бухгалтером?",
+		"eng_sentence": "Does your mother work as an accountant?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "У этой фирмы очень плохие продажи?",
+		"eng_sentence": "Does this firm have very bad sales?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Твой друг работает экономистом?",
+		"eng_sentence": "Does your friend work as an economist?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Эта компания испытывает очень серьёзные трудности?",
+		"eng_sentence": "Does this company experience very serious difficulties?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Эти компании испытывают очень серьёзные трудности?",
+		"eng_sentence": "Do these companies experience very serious difficulties?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "У этой компании очень серьёзные проблемы?",
+		"eng_sentence": "Does this company have very serious problems?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Его брат работает журналистом?",
+		"eng_sentence": "Does his brother work as a journalist?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Твоя сестра работает тренером?",
+		"eng_sentence": "Does your sister work as a trainer?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Ты работаешь учителем?",
+		"eng_sentence": "Do you work as a teacher?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Эти иммигранты живут в Соединённых Штатах?",
+		"eng_sentence": "Do these immigrants live in the United States?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Этот иммигрант живёт в Соединённых Штатах?",
+		"eng_sentence": "Does this immigrant live in the United States?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Эти иммигранты живут в Америке?",
+		"eng_sentence": "Do these immigrants live in America?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Деньги интересуют его?",
+		"eng_sentence": "Does money interest him?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Эти деньги интересуют его?",
+		"eng_sentence": "Does this money interest him?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Эти новости интересуют его?",
+		"eng_sentence": "Does this news interest him?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Студенты часто копируют ошибки других студентов?",
+		"eng_sentence": "Do the students often copy other students' mistakes?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Этот студент копирует ошибки другого студента?",
+		"eng_sentence": "Does this student copy another student's mistakes?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Студенты обычно копируют ошибки других студентов?",
+		"eng_sentence": "Do students usually copy other students' mistakes?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Эти мужчины чувствуют себя подавленными?",
+		"eng_sentence": "Do these men feel depressed?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Эти люди чувствуют себя подавленными?",
+		"eng_sentence": "Do these people feel depressed?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Этот мужчина чувствует себя подавленным?",
+		"eng_sentence": "Does this man feel depressed?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Деньги делают людей счастливыми?",
+		"eng_sentence": "Does money make people happy?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Деньги делают людей счастливее?",
+		"eng_sentence": "Does money make people happier?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Деньги делают тебя счастливым?",
+		"eng_sentence": "Does money make you happy?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Твой отец работает архитектором?",
+		"eng_sentence": "Does your father work as an architect?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Твой брат работает инженером?",
+		"eng_sentence": "Does your brother work as an engineer?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Ты работаешь менеджером?",
+		"eng_sentence": "Do you work as a manager?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Тот человек чувствует себя подавленным?",
+		"eng_sentence": "Does that person feel depressed?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Эта проблема кажется неважной?",
+		"eng_sentence": "Does this problem seem unimportant?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Те проблемы кажутся неважными?",
+		"eng_sentence": "Do those problems seem unimportant?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Твои друзья разделяют твоё мнение?",
+		"eng_sentence": "Do your friends share your opinion?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Эти новости часто шокируют людей?",
+		"eng_sentence": "Does this news often shock people?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Твоим одногруппникам нравятся уроки этого учителя?",
+		"eng_sentence": "Do your groupmates like this teacher's lessons?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Это сообщество растёт очень быстро?",
+		"eng_sentence": "Does this community grow very quickly?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Один из твоих друзей работает музыкантом?",
+		"eng_sentence": "Does one of your friends work as a musician?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Этих знаний кажется достаточно?",
+		"eng_sentence": "Does this knowledge seem enough?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Твой знакомый работает программистом?",
+		"eng_sentence": "Does your acquaintance work as a programmer?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Учитель указывает на ошибки других студентов?",
+		"eng_sentence": "Does the teacher point out other students' mistakes?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Эта женщина чувствует себя очень удивлённой?",
+		"eng_sentence": "Does this woman feel very surprised?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Твой учитель указывает на твои ошибки?",
+		"eng_sentence": "Does your teacher point out your mistakes?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Твоему другу нравится идея твоего брата?",
+		"eng_sentence": "Does your friend like your brother's idea?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Этот пример действительно вдохновляет тебя?",
+		"eng_sentence": "Does this example really inspire you?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Деньги играют очень важную роль?",
+		"eng_sentence": "Does money play a very important role?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Твой знакомый рекомендует это?",
+		"eng_sentence": "Does your acquaintance recommend it?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Эти женщины чувствуют себя очень удивлённо?",
+		"eng_sentence": "Do these women feel very surprised?",
+		"lesson": "66",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Эти женщины очень удивлены?",
+		"eng_sentence": "Are these women very surprised?",
+		"lesson": "66",
+		"difficulty": ""
+	}
+]
