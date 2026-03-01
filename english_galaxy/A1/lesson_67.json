@@ -1,0 +1,688 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Твоя сестра школьница?",
+		"eng_sentence": "Is your sister a schoolgirl?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Дети дома?",
+		"eng_sentence": "Are the kids at home?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Эта вещь действительно важна для тебя?",
+		"eng_sentence": "Is this thing really important for you?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Эти два мальчика в одной и той же группе?",
+		"eng_sentence": "Are these two boys in the same group?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Билеты слишком дорогие?",
+		"eng_sentence": "Are the tickets too expensive?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Этой информации более чем достаточно?",
+		"eng_sentence": "Is this information more than enough?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "История - твой любимый предмет?",
+		"eng_sentence": "Is history your favourite subject?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Твой брат школьник?",
+		"eng_sentence": "Is your brother a schoolboy?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Твои родственники очень далеко?",
+		"eng_sentence": "Are your relatives very far?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Фильм очень скучный?",
+		"eng_sentence": "Is the movie very boring?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Цена очень низкая?",
+		"eng_sentence": "Is the price very low?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Тот проект успешный?",
+		"eng_sentence": "Is that project successful?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Эта помощь важна для тебя?",
+		"eng_sentence": "Is this help important for you?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Курс действительно эффективный?",
+		"eng_sentence": "Is the course really effective?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Проблема очень серьёзная?",
+		"eng_sentence": "Is the problem very serious?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Это хороший знак для нас?",
+		"eng_sentence": "Is it a good sign for us?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Тот мужчина болен?",
+		"eng_sentence": "Is that man ill?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Твоя сестра школьница?",
+		"eng_sentence": "Is your sister a schoolgirl?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Этот ребёнок очень талантливый?",
+		"eng_sentence": "Is this kid very talented?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Этот путь довольно короткий?",
+		"eng_sentence": "Is this way quite short?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Та песня очень красивая?",
+		"eng_sentence": "Is that song very beautiful?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Это дорожный знак?",
+		"eng_sentence": "Is it a road sign?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Это место очень далеко?",
+		"eng_sentence": "Is this place very far?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Твой компьютер новый?",
+		"eng_sentence": "Is your computer new?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "История очень интересная?",
+		"eng_sentence": "Is the story very interesting?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Книга интересная?",
+		"eng_sentence": "Is the book interesting?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Твой начальник против этого решения?",
+		"eng_sentence": "Is your boss against this decision?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Этот уровень действительно высокий?",
+		"eng_sentence": "Is this level really high?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Компьютер старый?",
+		"eng_sentence": "Is the computer old?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Уроки бесплатные?",
+		"eng_sentence": "Are the lessons free?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Твои родители счастливы?",
+		"eng_sentence": "Are your parents happy?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Учитель прав?",
+		"eng_sentence": "Is the teacher right?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Здание очень высокое?",
+		"eng_sentence": "Is the building very high?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Эта вещь действительно не важная?",
+		"eng_sentence": "Is this thing really unimportant?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Школа хорошая?",
+		"eng_sentence": "Is the school good?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Отель слишком дорогой?",
+		"eng_sentence": "Is the hotel too expensive?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Цена очень высокая?",
+		"eng_sentence": "Is the price very high?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Урок бесплатный?",
+		"eng_sentence": "Is the lesson free?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Эта машина надёжная?",
+		"eng_sentence": "Is this car reliable?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Мальчики в этой группе очень ленивые?",
+		"eng_sentence": "Are the boys in this group very lazy?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Этот метод действительно эффективный?",
+		"eng_sentence": "Is this method really effective?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Дверь открыта?",
+		"eng_sentence": "Is the door open?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Эти изменения очень неожиданные для них?",
+		"eng_sentence": "Are these changes very unexpected for them?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Дом просторный для твоей семьи?",
+		"eng_sentence": "Is the house spacious for your family?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Образование бесплатное в твоей стране?",
+		"eng_sentence": "Is education free in your country?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Этих денег действительно достаточно?",
+		"eng_sentence": "Is this money really enough?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Эти оценки очень хороши для вас?",
+		"eng_sentence": "Are these marks very good for you?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Те люди также заинтересованы в этом?",
+		"eng_sentence": "Are those people also interested in it?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Эти новости очень удивительны для тебя?",
+		"eng_sentence": "Is this news very surprising for you?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Та область переполнена туристами?",
+		"eng_sentence": "Is that area overcrowded with tourists?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Этого опыта достаточно?",
+		"eng_sentence": "Is this experience enough?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Второй урок тоже бесплатный?",
+		"eng_sentence": "Is the second lesson also free?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Эта оценка довольно высокая для тебя?",
+		"eng_sentence": "Is this mark quite high for you?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Полицейский в этом районе?",
+		"eng_sentence": "Is the policeman in this district?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Эти оценки очень высокие для него?",
+		"eng_sentence": "Are these grades very high for him?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Эта машина достаточно надёжная?",
+		"eng_sentence": "Is this car reliable enough?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Его голос очень мелодичный?",
+		"eng_sentence": "Is his voice very melodic?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Его родители в отъезде сейчас?",
+		"eng_sentence": "Are his parents away now?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Твои родители дома сейчас?",
+		"eng_sentence": "Are your parents at home now?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Твои родители в отъезде?",
+		"eng_sentence": "Are your parents away?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Этот город переполнен туристами?",
+		"eng_sentence": "Is this city overcrowded with tourists?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Эта область переполнена туристами?",
+		"eng_sentence": "Is this area overcrowded with tourists?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Это здание переполнено людьми?",
+		"eng_sentence": "Is this building overcrowded with people?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Это место часто переполнено?",
+		"eng_sentence": "Is this place often overcrowded?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Это место обычно переполнено?",
+		"eng_sentence": "Is this place usually overcrowded?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "То место часто переполнено?",
+		"eng_sentence": "Is that place often overcrowded?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Полицейский в этом районе?",
+		"eng_sentence": "Is the policeman in this district?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Полицейские в том районе?",
+		"eng_sentence": "Are the policemen in that district?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Это членство бесплатное?",
+		"eng_sentence": "Is this membership free?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Членство очень дорогое?",
+		"eng_sentence": "Is the membership very expensive?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "То членство дорогое?",
+		"eng_sentence": "Is that membership expensive?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Эти парни очень легкие в общении?",
+		"eng_sentence": "Are these guys very easy-going?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Этот парень очень легкий в общении?",
+		"eng_sentence": "Is this guy very easy-going?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Эти мужчины очень легкие в общении?",
+		"eng_sentence": "Are these men very easy-going?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Первый урок бесплатный?",
+		"eng_sentence": "Is the first lesson free?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Этот урок бесплатный?",
+		"eng_sentence": "Is this lesson free?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Второй урок интересный?",
+		"eng_sentence": "Is the second lesson interesting?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Стоимость жизни выше сейчас?",
+		"eng_sentence": "Is the cost of living higher now?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Стоимость жизни выше в наши дни?",
+		"eng_sentence": "Is the cost of living higher nowadays?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Стоимость жизни ниже сейчас?",
+		"eng_sentence": "Is the cost of living lower now?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Полиция рядом?",
+		"eng_sentence": "Are the police near?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Полиция там?",
+		"eng_sentence": "Are the police there?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Еда испорчена?",
+		"eng_sentence": "Is the food spoilt?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Твоя еда испорчена?",
+		"eng_sentence": "Is your food spoilt?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Та еда испорчена?",
+		"eng_sentence": "Is that food spoilt?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Те новости такие неожиданные для тебя?",
+		"eng_sentence": "Is that news so unexpected for you?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Дети внутри?",
+		"eng_sentence": "Are the kids inside?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Твой отец отсутствует?",
+		"eng_sentence": "Is your father out?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Дом достаточно просторный?",
+		"eng_sentence": "Is the house spacious enough?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Полиция в том месте?",
+		"eng_sentence": "Are the police in that place?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Стоимость жизни в наши дни намного выше?",
+		"eng_sentence": "Is the cost of living much higher nowadays?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Цена слишком высокая?",
+		"eng_sentence": "Is the price too high?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Дети снаружи?",
+		"eng_sentence": "Are the children outside?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Этих навыков достаточно для той работы?",
+		"eng_sentence": "Are these skills enough for that job?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Эта оценка очень низкая?",
+		"eng_sentence": "Is this grade very low?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Это членство совершенно бесплатно?",
+		"eng_sentence": "Is this membership absolutely free?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Этот человек также заинтересован в этом?",
+		"eng_sentence": "Is this person also interested in it?",
+		"lesson": "67",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Квартира достаточно просторная для тебя?",
+		"eng_sentence": "Is the apartment spacious enough for you?",
+		"lesson": "67",
+		"difficulty": ""
+	}
+]
