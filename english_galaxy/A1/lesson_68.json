@@ -1,0 +1,688 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Эти джинсы стоят 80 долларов?",
+		"eng_sentence": "Do these jeans cost eighty dollars?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Еда плохо пахнет?",
+		"eng_sentence": "Does the food smell bad?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Торт вкусный?",
+		"eng_sentence": "Is the cake tasty?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Твои родители правы?",
+		"eng_sentence": "Are your parents right?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Эта вещь действительно интересна тебе?",
+		"eng_sentence": "Is this thing really interesting for you?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Твои бабушка с дедушкой часто приходят к тебе?",
+		"eng_sentence": "Do your grandparents often come to you?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Этот певец очень популярен в Америке?",
+		"eng_sentence": "Is this singer very popular in America?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Те мальчики очень умные?",
+		"eng_sentence": "Are those boys very smart?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Твоя бабушка помогает тебе?",
+		"eng_sentence": "Does your grandmother help you?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Этот уровень слишком сложный для них?",
+		"eng_sentence": "Is this level too difficult for them?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Пациент чувствует себя лучше?",
+		"eng_sentence": "Does the patient feel better?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Этот текст кажется очень сложным?",
+		"eng_sentence": "Does this text seem very difficult?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Этот путь намного короче?",
+		"eng_sentence": "Is this way much shorter?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Та вещь интересует тебя?",
+		"eng_sentence": "Does that thing interest you?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Дети дома?",
+		"eng_sentence": "Are the kids at home?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Мальчик очень высокий для своего возраста?",
+		"eng_sentence": "Is the boy very tall for his age?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Гора очень высокая?",
+		"eng_sentence": "Is the mountain very high?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Компания очень богатая?",
+		"eng_sentence": "Is the company very rich?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Этой практики достаточно?",
+		"eng_sentence": "Is this practice enough?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Этому пациенту хуже?",
+		"eng_sentence": "Is this patient worse?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Торт вкусный?",
+		"eng_sentence": "Is the cake tasty?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Горы очень высокие?",
+		"eng_sentence": "Are the mountains very high?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Этот мальчик выглядит очень умным?",
+		"eng_sentence": "Does this boy look very smart?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Этот канал очень полезный?",
+		"eng_sentence": "Is this channel very useful?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Стол круглый?",
+		"eng_sentence": "Is the table round?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Билеты стоят больше?",
+		"eng_sentence": "Do the tickets cost more?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Этот уровень элементарный?",
+		"eng_sentence": "Is this level elementary?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Река очень красивая?",
+		"eng_sentence": "Is the river very beautiful?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Тест слишком лёгкий для тебя?",
+		"eng_sentence": "Is the test too easy for you?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Компания выглядит очень успешной?",
+		"eng_sentence": "Does the company look very successful?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Этой практики кажется достаточно?",
+		"eng_sentence": "Does this practice seem enough?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Этот музыкант очень талантливый?",
+		"eng_sentence": "Is this musician very talented?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Это средний уровень?",
+		"eng_sentence": "Is it an intermediate level?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Тот уровень средний?",
+		"eng_sentence": "Is that level intermediate?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Этот путь кажется гораздо короче?",
+		"eng_sentence": "Does this way seem much shorter?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Это элементарный уровень?",
+		"eng_sentence": "Is it an elementary level?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Еда очень вкусная?",
+		"eng_sentence": "Is the food very tasty?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Билет стоит больше?",
+		"eng_sentence": "Does the ticket cost more?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Эти мальчики кажутся очень талантливыми?",
+		"eng_sentence": "Do these boys seem very talented?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Тебе подходит время нашей встречи?",
+		"eng_sentence": "Does the time of our meeting suit you?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Твой друг чувствует себя достаточно уверенно, когда говорит на иностранном языке?",
+		"eng_sentence": "Does your friend feel confident enough when he speaks a foreign language?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Этот дом стоит свыше двух миллионов долларов?",
+		"eng_sentence": "Does this house cost over two million dollars?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Твоя жена часто делает покупки?",
+		"eng_sentence": "Does your wife often do the shopping?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "То время для них удобно?",
+		"eng_sentence": "Is that time convenient for them?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Этот студент чувствует себя достаточно уверенно, когда говорит по-английски?",
+		"eng_sentence": "Does the student feel confident enough when he speaks English?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Эти новости действительно странные?",
+		"eng_sentence": "Is this news really strange?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Эта вещь зависит от меня?",
+		"eng_sentence": "Does this thing depend on me?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Твой друг уверен в этом?",
+		"eng_sentence": "Is your friend sure about it?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Этих знаний достаточно?",
+		"eng_sentence": "Is this knowledge enough?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Эта работа очень стрессовая?",
+		"eng_sentence": "Is this job very stressful?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "У мальчика действительно выдающиеся результаты?",
+		"eng_sentence": "Does the boy really have outstanding results?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Твои родители очень устали?",
+		"eng_sentence": "Are your parents very tired?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Мальчик чувствует себя очень уставшим?",
+		"eng_sentence": "Does the boy feel very tired?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Тест чрезвычайно сложный?",
+		"eng_sentence": "Is the test extremely difficult?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Твоя работа очень стрессовая?",
+		"eng_sentence": "Is your job very stressful?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Твоя работа очень тяжёлая?",
+		"eng_sentence": "Is your job very hard?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Их работа действительно стрессовая?",
+		"eng_sentence": "Is their job really stressful?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "У твоего друга стабильный доход?",
+		"eng_sentence": "Does your friend have a stable income?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "У твоих друзей стабильный доход?",
+		"eng_sentence": "Do your friends have a stable income?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "У тебя стабильный доход?",
+		"eng_sentence": "Do you have a stable income?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "У её мужа хорошо оплачиваемая работа?",
+		"eng_sentence": "Does her husband have a well-paid job?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "У них хорошая работа?",
+		"eng_sentence": "Do they have a good job?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "У твоей жены стрессовая работа?",
+		"eng_sentence": "Does your wife have a stressful job?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Еда хорошо пахнет?",
+		"eng_sentence": "Does the food smell good?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Моя еда хорошо пахнет?",
+		"eng_sentence": "Does my food smell good?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Эта еда хорошо пахнет?",
+		"eng_sentence": "Does this food smell good?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Это время удобно для тебя?",
+		"eng_sentence": "Is this time convenient for you?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Время удобно для него?",
+		"eng_sentence": "Is the time convenient for him?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Его друг действительно уверен в этом?",
+		"eng_sentence": "Is his friend really sure about it?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Ты действительно уверен в этом?",
+		"eng_sentence": "Are you really sure about it?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Его друзья действительно уверены в этом?",
+		"eng_sentence": "Are his friends really sure about it?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Этот певец поет очень красиво?",
+		"eng_sentence": "Does this singer sing very beautifully?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Эти певцы поют очень красиво?",
+		"eng_sentence": "Do these singers sing very beautifully?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Эти мужчины поют очень красиво?",
+		"eng_sentence": "Do these men sing very beautifully?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Этот урок длится дольше?",
+		"eng_sentence": "Does this lesson last longer?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Эта программа длится дольше?",
+		"eng_sentence": "Does this program last longer?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Эти уроки длятся дольше?",
+		"eng_sentence": "Do these lessons last longer?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Женщина беременна?",
+		"eng_sentence": "Is the woman pregnant?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Твоя жена беременна?",
+		"eng_sentence": "Is your wife pregnant?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Эта женщина беременна?",
+		"eng_sentence": "Is this woman pregnant?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Эта еда пахнет очень хорошо?",
+		"eng_sentence": "Does this food smell very good?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Еда пахнет очень плохо?",
+		"eng_sentence": "Does the food smell very bad?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Эти апельсины пахнут действительно хорошо?",
+		"eng_sentence": "Do these oranges smell really good?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Эта пара джинс стоит 60 долларов?",
+		"eng_sentence": "Does this pair of jeans cost 60 dollars?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Эти брюки стоят меньше денег?",
+		"eng_sentence": "Do these trousers cost less money?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Эта вещь - пустая трата времени?",
+		"eng_sentence": "Is this thing a waste of time?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Твоя жена часто ходит за покупками?",
+		"eng_sentence": "Does your wife often go shopping?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Эти новости звучат действительно странно?",
+		"eng_sentence": "Does this news sound really strange?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Эти вещи зависят от нас?",
+		"eng_sentence": "Do these things depend on us?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Те мальчики часто тратят время впустую?",
+		"eng_sentence": "Do those boys often waste time?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Эти джинсы подходят тебе?",
+		"eng_sentence": "Do these jeans suit you?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Стул удобен для тебя?",
+		"eng_sentence": "Is the chair comfortable for you?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Этот свитер подходит тебе?",
+		"eng_sentence": "Does this sweater suit you?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Эта пара брюк стоит 23 доллара?",
+		"eng_sentence": "Does this pair of trousers cost twenty three dollars?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Та женщина беременная?",
+		"eng_sentence": "Is that woman pregnant?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Девочка показывает выдающиеся результаты?",
+		"eng_sentence": "Does the girl show outstanding results?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Эти джинсы стоят 70 долларов?",
+		"eng_sentence": "Do these jeans cost seventy dollars?",
+		"lesson": "68",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Еда пахнет плохо?",
+		"eng_sentence": "Does the food smell bad?",
+		"lesson": "68",
+		"difficulty": ""
+	}
+]
