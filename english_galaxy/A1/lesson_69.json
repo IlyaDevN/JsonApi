@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Сколько у тебя вопросов?",
+		"eng_sentence": "How many questions do you have?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Почему он учит английский?",
+		"eng_sentence": "Why does he learn English?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Почему эти студенты счастливые?",
+		"eng_sentence": "Why are these students so happy?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Какой твой адрес?",
+		"eng_sentence": "What's your address?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Мой английский звучит намного лучше, чем раньше?",
+		"eng_sentence": "Does my English sound much better than before?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Сколько вопросов ты обычно задаёшь?",
+		"eng_sentence": "How many questions do you usually ask?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Как часто ты ходишь на пляж?",
+		"eng_sentence": "How often do you go to the beach?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Почему эта тема интересна тебе?",
+		"eng_sentence": "Why is this topic interesting for you?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Сколько лет твоим родителям?",
+		"eng_sentence": "How old are your parents?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Что означает это слово?",
+		"eng_sentence": "What does this word mean?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Сколько у тебя вопросов?",
+		"eng_sentence": "How many questions do you have?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Почему эта работа такая стрессовая для тебя?",
+		"eng_sentence": "Why is this job so stressful for you?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "В чем проблема?",
+		"eng_sentence": "What's the problem?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Почему эта вещь кажется такой важной?",
+		"eng_sentence": "Why does this thing seem so important?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Почему это неправильно?",
+		"eng_sentence": "Why is it incorrect / wrong?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Почему ты так много думаешь об этом?",
+		"eng_sentence": "Why do you think about it so much?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Где работают твои родители?",
+		"eng_sentence": "Where do your parents work?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Где работает твоя мама?",
+		"eng_sentence": "Where does your mother work?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Что означают эти слова?",
+		"eng_sentence": "What do these words mean?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Что дальше?",
+		"eng_sentence": "What's next?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Насколько это рискованно?",
+		"eng_sentence": "How risky is it?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Кто следующий?",
+		"eng_sentence": "Who's next?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Какой твой адрес?",
+		"eng_sentence": "What's your address?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Какая у твоего отца работа?",
+		"eng_sentence": "What's your father's job?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Какой его совет?",
+		"eng_sentence": "What's his advice?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Как часто он путешествует?",
+		"eng_sentence": "How often does he travel?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Аэропорт рядом?",
+		"eng_sentence": "Is the airport near?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Какой у неё адрес?",
+		"eng_sentence": "What's her address?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Какие их рекомендации?",
+		"eng_sentence": "What are their recommendations?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Сколько лет твоей маме?",
+		"eng_sentence": "How old is your mother?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Какая у твоей мамы работа?",
+		"eng_sentence": "What's your mother's job?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Насколько глубокое озеро?",
+		"eng_sentence": "How deep is the lake?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Почему тебе нравится этот отель?",
+		"eng_sentence": "Why do you like this hotel?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Что в посылке?",
+		"eng_sentence": "What's in the parcel?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Этот отель рядом с этим местом?",
+		"eng_sentence": "Is this hotel near this place?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Насколько опасно это?",
+		"eng_sentence": "How dangerous is it?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Насколько красивый этот город?",
+		"eng_sentence": "How beautiful is this city?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Насколько это важно для тебя?",
+		"eng_sentence": "How important is it for you?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Что означает это выражение?",
+		"eng_sentence": "What does this expression mean?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Почему это тебе так интересно?",
+		"eng_sentence": "Why is it so interesting for you?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Сколько лет твоему отцу?",
+		"eng_sentence": "How old is your father?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Где работает твой отец?",
+		"eng_sentence": "Where does your father work?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Мой английский намного лучше, чем раньше?",
+		"eng_sentence": "Is my English much better than before?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Что означает эта фраза?",
+		"eng_sentence": "What does this phrase mean?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Как зовут мальчика?",
+		"eng_sentence": "What's the boy's name?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Почему тебе нужно гораздо больше времени, чтобы полностью это закончить?",
+		"eng_sentence": "Why do you need much more time to finish it completely?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Почему тебе нужно сделать это как можно скорее?",
+		"eng_sentence": "Why do you need to do it as soon as possible?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Как ты следишь за своим здоровьем?",
+		"eng_sentence": "How do you look after your health?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Как долго он добирается до школы?",
+		"eng_sentence": "How long does it take him to get to school?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Почему он так заинтересован в этом проекте?",
+		"eng_sentence": "Why is he so interested in this project?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Почему ты предпочитаешь изучить английский язык сам?",
+		"eng_sentence": "Why do you prefer to learn English by yourself / on your own?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Сколько раз в неделю ты ходишь в бассейн?",
+		"eng_sentence": "How many times a week do you go to the swimming pool?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Почему он предпочитает изучать английский сам?",
+		"eng_sentence": "Why does he prefer to learn English by himself / on his own?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Сколько времени у неё занимает добраться до дома?",
+		"eng_sentence": "How long does it take her to get home?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Какие у девочки интересы?",
+		"eng_sentence": "What are the girl's interests?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Какой у тебя уровень английского?",
+		"eng_sentence": "What's your English level?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Как часто ты читаешь этот журнал?",
+		"eng_sentence": "How often do you read this magazine?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Что в коробке?",
+		"eng_sentence": "What's in the box?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Как зовут твоего друга?",
+		"eng_sentence": "What's your friend's name?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Как долго идёт урок?",
+		"eng_sentence": "How long is the lesson?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Как долго идёт фильм?",
+		"eng_sentence": "How long is the movie?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Как долго идут эти уроки?",
+		"eng_sentence": "How long are these lessons?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Как зовут девочек?",
+		"eng_sentence": "What are the girls' names?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Как зовут девочку?",
+		"eng_sentence": "What's the girl's name?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Как зовут женщину?",
+		"eng_sentence": "What's the woman's name?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Какие у мальчика хобби?",
+		"eng_sentence": "What are the boy's hobbies?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Какое у мальчика хобби?",
+		"eng_sentence": "What's the boy's hobby?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Какие у того мальчика хобби?",
+		"eng_sentence": "What are that boy's hobbies?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Как он обычно туда добирается?",
+		"eng_sentence": "How does he usually get there?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Как она обычно туда добирается?",
+		"eng_sentence": "How does she usually get there?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Когда ты обычно туда добираешься?",
+		"eng_sentence": "When do you usually get there?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Как долго идут уроки?",
+		"eng_sentence": "How long are the lessons?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Как долго идёт этот урок?",
+		"eng_sentence": "How long is this lesson?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Какой у него уровень английского?",
+		"eng_sentence": "What's his English level?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Какой у неё уровень английского?",
+		"eng_sentence": "What's her English level?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Как зовут эту девочку?",
+		"eng_sentence": "What's this girl's name?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Как ты добираешься до работы?",
+		"eng_sentence": "How do you get to work?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Как он добирается до работы?",
+		"eng_sentence": "How does he get to work?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Как ты добираешься до школы?",
+		"eng_sentence": "How do you get to school?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Как долго идут курсы?",
+		"eng_sentence": "How long are the courses?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Как долго идут эти курсы?",
+		"eng_sentence": "How long are these courses?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Как долго идёт этот курс?",
+		"eng_sentence": "How long is this course?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Как ты добираешься домой после работы?",
+		"eng_sentence": "How do you get home after work?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Как она добирается домой после работы?",
+		"eng_sentence": "How does she get home after work?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Как ты возвращаешься домой?",
+		"eng_sentence": "How do you get back home?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Сколько раз в неделю он ходит на работу?",
+		"eng_sentence": "How many times a week does he go to work?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Что в сумке?",
+		"eng_sentence": "What's in the bag?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Какие их потребности?",
+		"eng_sentence": "What are their needs?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Как долго ты добираешься до работы?",
+		"eng_sentence": "How long does it take you to get to work?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Почему он изучает английский самостоятельно?",
+		"eng_sentence": "Why does he learn English by himself / on his own?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Сколько раз в неделю ты ходишь в спортзал?",
+		"eng_sentence": "How many times a week do you go to the gym?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Как долго ты добираешься в университет?",
+		"eng_sentence": "How long does it take you to get to university?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Как часто ты бегаешь?",
+		"eng_sentence": "How often do you go jogging?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Почему ты предпочитаешь делать это самостоятельно?",
+		"eng_sentence": "Why do you prefer to do it by yourself / on your own?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Насколько дорогие эти часы?",
+		"eng_sentence": "How expensive is this watch?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Какой у тебя уровень?",
+		"eng_sentence": "What's your level?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Какие у мальчиков хобби?",
+		"eng_sentence": "What are the boys' hobbies?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Насколько это полезно?",
+		"eng_sentence": "How useful is it?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Насколько это эффективно?",
+		"eng_sentence": "How effective is it?",
+		"lesson": "69",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Как зовут мальчиков?",
+		"eng_sentence": "What are the boys' names?",
+		"lesson": "69",
+		"difficulty": ""
+	}
+]
