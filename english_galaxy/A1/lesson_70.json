@@ -1,0 +1,758 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Что шокирует?",
+		"eng_sentence": "What shocks you?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Кто поддерживает его?",
+		"eng_sentence": "Who supports him?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Что ты знаешь об этом?",
+		"eng_sentence": "What do you know about it?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Что он читает каждый день?",
+		"eng_sentence": "What does he read every day?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Кого ты поддерживаешь?",
+		"eng_sentence": "Who do you support?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Кого он больше любит?",
+		"eng_sentence": "Who does he love more?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Что это?",
+		"eng_sentence": "What is it?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Кто здесь?",
+		"eng_sentence": "Who is here?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Который твой дом?",
+		"eng_sentence": "Which is your house?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Что тебе больше помогает?",
+		"eng_sentence": "What helps you more?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Что беспокоит тебя?",
+		"eng_sentence": "What worries you?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Что его больше интересует?",
+		"eng_sentence": "What interests him more?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Кто тебе рассказывает эту вещь?",
+		"eng_sentence": "Who tells you this thing?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Что там такого шокирующего?",
+		"eng_sentence": "What is so shocking there?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Какие видео тебе нравятся больше?",
+		"eng_sentence": "What videos do you like more?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Что больше всего тебя пугает?",
+		"eng_sentence": "What frightens you most of all?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Что тебя больше мотивирует?",
+		"eng_sentence": "What motivates you more?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Кто ходит туда с тобой?",
+		"eng_sentence": "Who goes there with you?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Что кажется таким удивительным?",
+		"eng_sentence": "What seems so surprising?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Кто так думает?",
+		"eng_sentence": "Who thinks so?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Что действительно помогает тебе?",
+		"eng_sentence": "What really helps you?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Кто ему верит?",
+		"eng_sentence": "Who believes him?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Кто продаёт этот дом?",
+		"eng_sentence": "Who sells this house?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Что тебя пугает?",
+		"eng_sentence": "What frightens you?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Кто его поддерживает?",
+		"eng_sentence": "Who supports him?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Кому это нужно?",
+		"eng_sentence": "Who needs it?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Кому это нравится?",
+		"eng_sentence": "Who likes it?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Что тебя шокирует?",
+		"eng_sentence": "What shocks you?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Кто знает её?",
+		"eng_sentence": "Who knows her?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Кто знает?",
+		"eng_sentence": "Who knows?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Что работает лучше?",
+		"eng_sentence": "What works better?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Что он ест?",
+		"eng_sentence": "What does he eat?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Что ты понимаешь?",
+		"eng_sentence": "What do you understand?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Кому ты веришь?",
+		"eng_sentence": "Who do you believe?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Что тебя удивляет?",
+		"eng_sentence": "What surprises you?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Что так удивительно?",
+		"eng_sentence": "What's so surprising?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Что делает тебя счастливым?",
+		"eng_sentence": "What makes you happy?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Кто говорит это?",
+		"eng_sentence": "Who says it?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Кто ест больше?",
+		"eng_sentence": "Who eats more?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Что ты слышишь?",
+		"eng_sentence": "What do you hear?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Кто ещё знает это?",
+		"eng_sentence": "Who else knows it?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Что останавливает тебя?",
+		"eng_sentence": "What stops you?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Что интересует тебя?",
+		"eng_sentence": "What interests you?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Что здесь такого удивительного?",
+		"eng_sentence": "What is so surprising here?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Кого он поддерживает?",
+		"eng_sentence": "Who does he support?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Кто знает это?",
+		"eng_sentence": "Who knows it?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Какое место тебе больше нравится?",
+		"eng_sentence": "Which place do you like more?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Что кажется таким шокирующим?",
+		"eng_sentence": "What seems so shocking?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Чья одежда выглядит более модной?",
+		"eng_sentence": "Whose clothes look more fashionable?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Что обычно привлекает твоё внимание?",
+		"eng_sentence": "What usually attracts your attention?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Что зависит от тебя?",
+		"eng_sentence": "What depends on you?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Какая юбка выглядит более стильной?",
+		"eng_sentence": "Which skirt looks more stylish?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Чьё описание более точное?",
+		"eng_sentence": "Whose description is more accurate?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Кто обычно звонит тебе после работы?",
+		"eng_sentence": "Who usually calls you after work?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Что помогает тебе с твоим английским?",
+		"eng_sentence": "What helps you with your English?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Какое предложение выглядит более привлекательным?",
+		"eng_sentence": "Which offer looks more attractive?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Какой отель кажется лучше?",
+		"eng_sentence": "Which hotel seems better?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Чей велосипед дороже?",
+		"eng_sentence": "Whose bike is more expensive?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Какие вещи его интересуют?",
+		"eng_sentence": "What things interest him?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Что ты ожидаешь от него?",
+		"eng_sentence": "What do you expect from him?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Какое предложение более привлекательное?",
+		"eng_sentence": "Which offer is more attractive?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Что звучит лучше?",
+		"eng_sentence": "What sounds better?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Какое место кажется более красивым?",
+		"eng_sentence": "Which place seems more beautiful?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Кого ты посещаешь каждые выходные?",
+		"eng_sentence": "Who do you visit every weekend?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Что кажется дороже?",
+		"eng_sentence": "What seems more expensive?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Что кажется дешевле?",
+		"eng_sentence": "What seems cheaper?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Что кажется самым дорогим?",
+		"eng_sentence": "What seems the most expensive?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Какое описание выглядит более точным?",
+		"eng_sentence": "Which description looks more accurate?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Какое описание кажется более точным?",
+		"eng_sentence": "Which description seems more accurate?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Какие описания выглядят более точными?",
+		"eng_sentence": "Which descriptions look more accurate?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Что мотивирует тебя лучше?",
+		"eng_sentence": "What motivates you better?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Кто мотивирует тебя?",
+		"eng_sentence": "Who motivates you?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Кто мотивирует тебя лучше?",
+		"eng_sentence": "Who motivates you better?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Чей велосипед стоит больше?",
+		"eng_sentence": "Whose bike costs more?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Какой велосипед стоит дороже?",
+		"eng_sentence": "Which bike costs more?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Что делает людей счастливыми?",
+		"eng_sentence": "What makes people happy?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Что делает их счастливыми?",
+		"eng_sentence": "What makes them happy?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Кто делает тебя счастливым?",
+		"eng_sentence": "Who makes you happy?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Кому ты помогаешь с английским?",
+		"eng_sentence": "Who do you help with English?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Кому он помогает с английским?",
+		"eng_sentence": "Who does he help with English?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Кто помогает тебе с английским?",
+		"eng_sentence": "Who helps you with English?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Какая песня более популярна?",
+		"eng_sentence": "Which song is more popular?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Чья песня популярнее?",
+		"eng_sentence": "Whose song is more popular?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Какая песня самая популярная?",
+		"eng_sentence": "Which song is the most popular?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Кому ты обычно звонишь после работы?",
+		"eng_sentence": "Who do you usually call after work?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Кому он обычно звонит после работы?",
+		"eng_sentence": "Who does he usually call after work?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Кому ты обычно звонишь перед работой?",
+		"eng_sentence": "Who do you usually call before work?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Какое твоё окончательное решение?",
+		"eng_sentence": "What's your final decision?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Какое наше окончательное решение?",
+		"eng_sentence": "What's our final decision?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Какое верное решение?",
+		"eng_sentence": "What's the right decision?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Какое место привлекает тебя больше?",
+		"eng_sentence": "Which place attracts you more?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Какие места привлекают тебя больше?",
+		"eng_sentence": "Which places attract you more?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Какие вещи привлекают тебя больше?",
+		"eng_sentence": "Which things attract you more?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Какие уроки длятся дольше?",
+		"eng_sentence": "Which lessons last longer?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Кто посещает тебя каждые выходные?",
+		"eng_sentence": "Who visits you every weekend?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Кто понимает, что делать?",
+		"eng_sentence": "Who understands what to do?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Что выглядит более стильным?",
+		"eng_sentence": "What looks more stylish?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Чьи описания кажутся менее точными?",
+		"eng_sentence": "Whose descriptions seem less accurate?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Что кажется сложнее?",
+		"eng_sentence": "What seems more difficult?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Какой ответ правильный?",
+		"eng_sentence": "Which answer is correct?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Что такого привлекательного в этом месте?",
+		"eng_sentence": "What is so attractive in this place?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Что принадлежит ему?",
+		"eng_sentence": "What belongs to him?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Чья идея правильная?",
+		"eng_sentence": "Whose idea is right?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "Что привлекает внимание людей?",
+		"eng_sentence": "What attracts people's attention?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": "Какой ответ кажется правильным?",
+		"eng_sentence": "Which answer seems correct?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": "Что выглядит более модным?",
+		"eng_sentence": "What looks more fashionable?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": "Какое описание является более точным?",
+		"eng_sentence": "Which description is more accurate?",
+		"lesson": "70",
+		"difficulty": ""
+	},
+	{	
+		"id": 108,
+		"rus_sentence": "Какие вещи интересуют тебя?",
+		"eng_sentence": "What things interest you?",
+		"lesson": "70",
+		"difficulty": ""
+	}
+]
