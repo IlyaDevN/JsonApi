@@ -1,0 +1,744 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Она действительно обожает готовить.",
+		"eng_sentence": "She really enjoys cooking.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Он ненавидит ничего не делать.",
+		"eng_sentence": "He hates doing nothing.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я люблю готовить.",
+		"eng_sentence": "I love cooking.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Они увлекаются чтением.",
+		"eng_sentence": "They're keen on reading.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я обожаю делать такие упражнения.",
+		"eng_sentence": "I'm fond of doing such exercises.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Ему нравится играть в компьютерные игры.",
+		"eng_sentence": "He likes playing computer games.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Мне не нравится смотреть телевизор.",
+		"eng_sentence": "I don't like watching TV.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Мне нравится изучать иностранные языки.",
+		"eng_sentence": "I like learning foreign languages.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Мне нравится проводить время со своими друзьями.",
+		"eng_sentence": "I like spending time with my friends.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Мне нравится читать английские книги.",
+		"eng_sentence": "I like reading English books.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Моему другу не нравится делать покупки.",
+		"eng_sentence": "My friend doesn't like doing the shopping.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Я ненавижу ничего не делать, потому что это настоящая пустая трата времени, и мы не можем вернуть его назад.",
+		"eng_sentence": "I hate doing nothing because it's a real waste of time and we can't turn it back.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Моему дедушке нравится читать газеты и журналы.",
+		"eng_sentence": "My grandfather likes reading newspapers and magazines.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Моя бабушка обожает садоводство.",
+		"eng_sentence": "My grandmother enjoys gardening.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Я обожаю заниматься этим в своё свободное время.",
+		"eng_sentence": "I enjoy doing it in my spare time.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Мне нравится читать книги на английском.",
+		"eng_sentence": "I like reading books in English.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Я обожаю говорить по-английски.",
+		"eng_sentence": "I enjoy speaking English.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Ей нравится ходить по магазинам.",
+		"eng_sentence": "She likes going shopping.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Ему нравится читать о бизнесе.",
+		"eng_sentence": "He likes reading about business.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Мне нравится играть в настольный теннис.",
+		"eng_sentence": "I like playing table tennis.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Она действительно обожает готовить.",
+		"eng_sentence": "She really enjoys cooking.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Он обожает музыку.",
+		"eng_sentence": "He enjoys music.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Ему нравится заниматься дзюдо.",
+		"eng_sentence": "He likes doing judo.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Ему нравится играть в футбол.",
+		"eng_sentence": "He likes playing soccer.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Мне действительно нравится путешествовать.",
+		"eng_sentence": "I really like travelling.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Им нравится играть в футбол.",
+		"eng_sentence": "They like playing football.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Мне действительно нравится заниматься английским.",
+		"eng_sentence": "I really like learning English.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Ему очень нравится заниматься английским здесь.",
+		"eng_sentence": "He really likes learning English here.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Ему нравится заниматься каратэ.",
+		"eng_sentence": "He likes doing karate.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Мне нравится гулять в парке.",
+		"eng_sentence": "I like walking in the park.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Ей нравится читать в постели.",
+		"eng_sentence": "She likes reading in bed.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Он обожает делать такого рода вещи.",
+		"eng_sentence": "He enjoys doing this kind of things.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Он действительно обожает английский.",
+		"eng_sentence": "He really enjoys English.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Я действительно обожаю делать это.",
+		"eng_sentence": "I really enjoy doing it.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Мне нравится кататься на велосипеде.",
+		"eng_sentence": "I like riding a bike. / I like cycling.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Моей маме действительно нравится садоводство.",
+		"eng_sentence": "My mother really likes gardening.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я обожаю изучать английский.",
+		"eng_sentence": "I enjoy learning English.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Ему нравится играть в гольф.",
+		"eng_sentence": "He likes playing golf.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Мне нравится заниматься спортом.",
+		"eng_sentence": "I like doing sport.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Ей нравится играть на пианино.",
+		"eng_sentence": "She likes playing the piano.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Мне нравится играть в боулинг.",
+		"eng_sentence": "I like playing bowling.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Мне нравится ходить кататься на велосипеде с моими друзьями.",
+		"eng_sentence": "I like going cycling with my friends.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Ему нравится играть на гитаре.",
+		"eng_sentence": "He likes playing the guitar.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Мне действительно нравится спорт.",
+		"eng_sentence": "I really like sport.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Ей нравится играть на скрипке.",
+		"eng_sentence": "She likes playing the violin.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Ему нравится ничего не делать.",
+		"eng_sentence": "He likes doing nothing.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я действительно обожаю слушать этот подкаст.",
+		"eng_sentence": "I really enjoy listening to this podcast.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я увлекаюсь чтением.",
+		"eng_sentence": "I'm keen on reading.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я действительно обожаю говорить с тобой.",
+		"eng_sentence": "I really enjoy talking to you.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я действительно обожаю ходить плавать.",
+		"eng_sentence": "I really enjoy going swimming.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я особенно увлекаюсь изучением иностранных языков.",
+		"eng_sentence": "I'm particularly keen on learning foreign languages.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Ему действительно не нравится обсуждать такие вещи.",
+		"eng_sentence": "He doesn't really like discussing such things.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я обожаю заниматься спортом, потому что это очень хорошо для моего здоровья.",
+		"eng_sentence": "I enjoy doing sport because it's very good for my health.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я люблю делать те физические упражнения, потому что они очень хороши для моего тела.",
+		"eng_sentence": "I'm fond of doing those physical exercises because they're very good for my body.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я обожаю ходить кататься на велосипеде, потому что я могу потерять несколько калорий и дышать свежим воздухом в то же самое время.",
+		"eng_sentence": "I enjoy going cycling because I can lose some calories and breathe fresh air at the same time.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я люблю делать эти упражнения, потому что это делает меня сильнее.",
+		"eng_sentence": "I'm fond of doing these exercises because it makes me stronger.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Ей нравится помогать другим.",
+		"eng_sentence": "She likes helping others.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я люблю спорт.",
+		"eng_sentence": "I'm fond of sport.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Он обожает заниматься благотворительностью.",
+		"eng_sentence": "He enjoys doing charity.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Она увлекается музыкой.",
+		"eng_sentence": "She's keen on music.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я ненавижу говорить об этом.",
+		"eng_sentence": "I hate talking about it.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Ей действительно нравится ходить на пробежку.",
+		"eng_sentence": "She really likes going jogging.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Ей действительно нравится ходить по магазинам.",
+		"eng_sentence": "She really likes going shopping.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Мне нравится ходить на пробежку.",
+		"eng_sentence": "I really like going jogging.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я действительно обожаю этот подкаст.",
+		"eng_sentence": "I really enjoy this podcast.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Мне действительно нравится этот подкаст.",
+		"eng_sentence": "I really like this podcast.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я действительно обожаю эти подкасты.",
+		"eng_sentence": "I really enjoy these podcasts.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Она любит рисовать.",
+		"eng_sentence": "She's fond of drawing.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Она любит читать.",
+		"eng_sentence": "She's fond of reading.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Ей нравится рисовать.",
+		"eng_sentence": "She likes drawing.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я действительно обожаю работать с тобой.",
+		"eng_sentence": "I really enjoy working with you.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Он действительно обожает работать с тобой.",
+		"eng_sentence": "He really enjoys working with you.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Она действительно обожает жить с ними.",
+		"eng_sentence": "She really enjoys living with them.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я особенно увлекаюсь этим.",
+		"eng_sentence": "I'm particularly keen on it.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Она особенно увлекается этим.",
+		"eng_sentence": "She's particularly keen on it.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Она особенно увлекается музыкой.",
+		"eng_sentence": "She's particularly keen on music.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я действительно обожаю эти видео курсы.",
+		"eng_sentence": "I really enjoy these video courses.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Они действительно обожают эти видео курсы.",
+		"eng_sentence": "They really enjoy these video courses.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я действительно обожаю тот видео курс.",
+		"eng_sentence": "I really enjoy that video course.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Ей действительно нравится заниматься благотворительностью.",
+		"eng_sentence": "She really likes doing charity.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Мне нравится заниматься благотворительностью.",
+		"eng_sentence": "I like doing charity.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Она действительно ненавидит заниматься благотворительностью.",
+		"eng_sentence": "She really hates doing charity.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Мне не очень нравится это делать.",
+		"eng_sentence": "I don't really like doing it.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Ей не очень нравится это делать.",
+		"eng_sentence": "She doesn't really like doing it.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Мне совсем не нравится это делать.",
+		"eng_sentence": "I don't like doing it at all.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я обожаю читать, потому что это развивает мой ум.",
+		"eng_sentence": "I enjoy reading because it develops my mind.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я обожаю читать по-английски, потому что это развивает мой ум.",
+		"eng_sentence": "I enjoy reading in English because it develops my mind.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Она действительно обожает читать, потому что это развивает её ум.",
+		"eng_sentence": "She really enjoys reading because it develops her mind.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Он ненавидит обсуждать это.",
+		"eng_sentence": "He hates discussing it.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я ненавижу обсуждать это.",
+		"eng_sentence": "I hate discussing it.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Она ненавидит обсуждать это.",
+		"eng_sentence": "She hates discussing it.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я увлекаюсь изучением английского.",
+		"eng_sentence": "I'm keen on learning English.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Мне действительно не нравится говорить о таких вещах.",
+		"eng_sentence": "I don't really like talking about such things.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Он действительно обожает помогать другим людям.",
+		"eng_sentence": "He really enjoys helping other people.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я действительно обожаю плавать.",
+		"eng_sentence": "I really enjoy swimming.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я особенно увлекаюсь путешествиями.",
+		"eng_sentence": "I'm particularly keen on travelling.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я обожаю изучать английский, потому что это так интересно.",
+		"eng_sentence": "I enjoy learning English because it's so interesting.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я действительно люблю делать это.",
+		"eng_sentence": "I really love doing it.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Мне не нравится задавать слишком много вопросов.",
+		"eng_sentence": "I don't like asking too many questions.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Ей нравится слушать музыку.",
+		"eng_sentence": "She likes listening to music.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я действительно обожаю домашнюю еду.",
+		"eng_sentence": "I really enjoy homemade food.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Я обожаю проводить время с тобой.",
+		"eng_sentence": "I enjoy spending time with you.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Я ненавижу делать это.",
+		"eng_sentence": "I hate doing it.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "Я действительно обожаю кататься на велосипеде.",
+		"eng_sentence": "I really enjoy cycling.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": "Я люблю делать это.",
+		"eng_sentence": "I love doing it.",
+		"lesson": "71",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": "Я обожаю делать эти упражнения, потому что они чрезвычайно полезны.",
+		"eng_sentence": "I enjoy doing these exercises because they're extremely useful.",
+		"lesson": "71",
+		"difficulty": ""
+	}
+]
