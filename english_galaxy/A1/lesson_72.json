@@ -1,0 +1,695 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Давай посмотрим на это!",
+		"eng_sentence": "Let's look at it!",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Многие студенты оканчивают этот университет и находят хорошо оплачиваемую работу.",
+		"eng_sentence": "Many students graduate from this university and find a well-paid job.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я не рекомендую этот курорт тебе.",
+		"eng_sentence": "I don't recommend this resort to you.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Мои друзья говорят на двух иностранных языках.",
+		"eng_sentence": "My friends speak two foreign languages.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "На скольких иностранных языках ты говоришь?",
+		"eng_sentence": "How many foreign languages do you speak?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Тебе не нужно беспокоиться об этом.",
+		"eng_sentence": "You don't need to worry about it.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Как ты предпочитаешь изучать английский?",
+		"eng_sentence": "How do you prefer to learn English?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Когда ты хочешь навестить его?",
+		"eng_sentence": "When do you want to visit him?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Почему ты хочешь переехать в другую страну?",
+		"eng_sentence": "Why do you want to move to another country?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Я хочу окончить очень престижный университет.",
+		"eng_sentence": "I want to graduate from a very prestigious university.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я рекомендую эту книгу тебе.",
+		"eng_sentence": "I recommend this book to you.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Ей нужно покормить своего малыша.",
+		"eng_sentence": "She needs to feed her baby.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Как ты обычно празднуешь Новый год?",
+		"eng_sentence": "How do you usually celebrate New Year?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Она часто улыбается ему.",
+		"eng_sentence": "She often smiles at him.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Конечно, я понимаю, что все люди делают ошибки иногда, но мы учимся на них.",
+		"eng_sentence": "Of course, I understand that all people make mistakes sometimes but we learn from them.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Ты рекомендуешь это мне?",
+		"eng_sentence": "Do you recommend it to me?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Не останавливайся!",
+		"eng_sentence": "Don't stop!",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Ты умеешь кататься на велосипеде?",
+		"eng_sentence": "Can you ride a bike?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Не бросай эти бумаги!",
+		"eng_sentence": "Don't throw these papers!",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Он может провалить этот экзамен.",
+		"eng_sentence": "He can fail this exam.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Эта фабрика производит одежду.",
+		"eng_sentence": "This factory produces clothes.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Мне нравится гулять в парке.",
+		"eng_sentence": "I like walking in the park.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Уроки начинаются очень рано.",
+		"eng_sentence": "The lessons begin very early.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Он не пьет вино.",
+		"eng_sentence": "He doesn't drink wine.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я действительно обожаю английский.",
+		"eng_sentence": "I really enjoy English.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Ты можешь выбросить это.",
+		"eng_sentence": "You can throw it away.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Ты умеешь плавать?",
+		"eng_sentence": "Can you swim?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Я часто хожу на работу (пешком).",
+		"eng_sentence": "I often walk to work. / I often go to work on foot.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Он обычно следует моему совету.",
+		"eng_sentence": "He usually follows my advice.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Она действительно обожает читать.",
+		"eng_sentence": "She really enjoys reading.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Все может измениться скоро.",
+		"eng_sentence": "Everything can change soon.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я могу навестить тебя сегодня.",
+		"eng_sentence": "I can visit you today.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Она может провалить тот тест.",
+		"eng_sentence": "She can fail that test.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Как часто ты кормишь своего кота?",
+		"eng_sentence": "How often do you feed your cat?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он часто улыбается ей.",
+		"eng_sentence": "He often smiles at her.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Ты можешь помочь нам?",
+		"eng_sentence": "Can you help us?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Он хочет быть очень богатым.",
+		"eng_sentence": "He wants to be very rich.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Не спрашивай её об этом!",
+		"eng_sentence": "Don't ask her about it!",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я не хочу выбрасывать это.",
+		"eng_sentence": "I don't want to throw it away.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Ты умеешь кататься на велосипеде?",
+		"eng_sentence": "Can you ride a bike?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Он говорит, что они хотят пожениться в следующем месяце.",
+		"eng_sentence": "He says that they want to get married next month.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Он старается не обращать внимания на эту критику.",
+		"eng_sentence": "He tries not to pay attention to this criticism.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Твой учитель всегда указывает на твои ошибки?",
+		"eng_sentence": "Does your teacher always point out your mistakes?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я хочу достичь этой цели как можно скорее.",
+		"eng_sentence": "I want to achieve this aim as soon as possible.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я должен тратить больше времени на это, если я действительно хочу иметь гораздо лучшие результаты.",
+		"eng_sentence": "I must spend more time on it if I really want to have much better results.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Он получает немного денег, но он хочет заработать гораздо больше.",
+		"eng_sentence": "He gets some money but he wants to earn much more.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я знаю, что мне нужно контролировать себя.",
+		"eng_sentence": "I know that I need to control myself.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Мой друг хочет поехать в Соединённые Штаты в следующем году.",
+		"eng_sentence": "My friend wants to go to the United States next year.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я прекрасно осознаю, что могу найти работу получше.",
+		"eng_sentence": "I perfectly realise that I can find a better job.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Он хочет разрезать эту верёвку ножом.",
+		"eng_sentence": "He wants to cut this rope with a knife.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я думаю, что я могу выиграть в этом соревновании.",
+		"eng_sentence": "I think that I can win in this competition.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Он никогда не пьет алкоголь.",
+		"eng_sentence": "He never drinks alcohol.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я предпочитаю не думать об этом.",
+		"eng_sentence": "I prefer not to think about it.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Ты можешь повторить это предложение?",
+		"eng_sentence": "Can you repeat this sentence?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Он предпочитает не покупать это онлайн.",
+		"eng_sentence": "He prefers not to buy it online.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Как ты улучшаешь свои навыки аудирования?",
+		"eng_sentence": "How do you improve your listening skills?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Как ты улучшаешь свои разговорные навыки?",
+		"eng_sentence": "How do you improve your speaking skills?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Как он улучшает свои навыки?",
+		"eng_sentence": "How does he improve his skills?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я хочу улучшить свои разговорные навыки.",
+		"eng_sentence": "I want to improve my speaking skills.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Она хочет улучшить свои навыки аудирования.",
+		"eng_sentence": "She wants to improve her listening skills.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Мне нужно улучшить свои разговорные навыки.",
+		"eng_sentence": "I need to improve my speaking skills.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я следую рекомендациям моего тренера.",
+		"eng_sentence": "I follow my trainer's recommendations.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Я следую совету моего тренера.",
+		"eng_sentence": "I follow my trainer's advice.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Она следует рекомендациям своего тренера.",
+		"eng_sentence": "She follows her trainer's recommendations.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Многие люди хотят быть богатыми и здоровыми.",
+		"eng_sentence": "Many people want to be rich and healthy.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Большинство людей хотят быть богатыми и здоровыми.",
+		"eng_sentence": "Most people want to be rich and healthy.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Многие люди хотят быть богатыми и знаменитыми.",
+		"eng_sentence": "Many people want to be rich and famous.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Я обычно отмечаю свой день рождения в кругу семьи.",
+		"eng_sentence": "I usually celebrate my birthday in a family circle.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я всегда отмечаю свой день рождения в кругу семьи.",
+		"eng_sentence": "I always celebrate my birthday in a family circle.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Он часто отмечает свой день рождения в кругу семьи.",
+		"eng_sentence": "He often celebrates his birthday in a family circle.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Мне нужно встать сейчас.",
+		"eng_sentence": "I need to stand up now.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Мне нужно идти сейчас.",
+		"eng_sentence": "I need to go now.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Ей нужно вставать сейчас. (после сна)",
+		"eng_sentence": "She needs to get up now.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я знаю, что я забываю это очень легко.",
+		"eng_sentence": "I know that I forget it very easily.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Она знает, что она забывает это очень легко.",
+		"eng_sentence": "She knows that she forgets it very easily.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Ты знаешь, я забываю это очень легко.",
+		"eng_sentence": "You know, I forget it very easily.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Он следует рекомендациям своего тренера.",
+		"eng_sentence": "He follows his trainer's recommendations.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Ему нужно следовать рекомендациям своего тренера.",
+		"eng_sentence": "He needs to follow his trainer's recommendations.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я всегда следую рекомендациям своего тренера.",
+		"eng_sentence": "I always follow my trainer's recommendations.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я стараюсь не обращать внимания на это.",
+		"eng_sentence": "I try not to pay attention to it.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Я стараюсь не обращать внимания на эти вещи.",
+		"eng_sentence": "I try not to pay attention to these things.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Мне не нужно обращать внимания на это.",
+		"eng_sentence": "I don't need to pay attention to it.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Как твой учитель объясняет это?",
+		"eng_sentence": "How does your teacher explain it?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Как твой учитель объясняет этот предмет?",
+		"eng_sentence": "How does your teacher explain this subject?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Почему твой учитель объясняет это?",
+		"eng_sentence": "Why does your teacher explain it?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я прекрасно понимаю, что это может мне очень сильно помочь.",
+		"eng_sentence": "I perfectly understand that it can help me greatly.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Посмотри на результаты этого мальчика!",
+		"eng_sentence": "Look at this boy's results!",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Ты можешь разрезать это этими ножницами.",
+		"eng_sentence": "You can cut it with these scissors.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Мне кажется, что мы делаем правильную вещь.",
+		"eng_sentence": "It seems to me that we do the right thing.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Он никогда не говорит это.",
+		"eng_sentence": "He never says it.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я хочу задать тебе только пару вопросов.",
+		"eng_sentence": "I want to ask you just a couple of questions.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я стараюсь не тратить слишком много времени на это.",
+		"eng_sentence": "I try not to spend too much time on it.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я предпочитаю не переживать об этом.",
+		"eng_sentence": "I prefer not to worry about it.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Он часто указывает на мои ошибки.",
+		"eng_sentence": "He often points out my mistakes.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я стараюсь не делать этого.",
+		"eng_sentence": "I try not to do it.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Мы никогда не видим это.",
+		"eng_sentence": "We never see it.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я никогда не делаю это.",
+		"eng_sentence": "I never do it.",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Ты можешь повторить этот вопрос?",
+		"eng_sentence": "Can you repeat this question?",
+		"lesson": "72",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Вам это кажется действительно странным?",
+		"eng_sentence": "Does it seem really strange for you?",
+		"lesson": "72",
+		"difficulty": ""
+	}
+]
