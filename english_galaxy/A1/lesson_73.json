@@ -1,0 +1,709 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Во сколько он обычно заканчивает свою работу?",
+		"eng_sentence": "What time does he usually finish his work?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Мне нужно закончить этот проект как можно скорее.",
+		"eng_sentence": "I need to finish this project as soon as possible.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Тебе нужно повернуть налево сейчас.",
+		"eng_sentence": "You need to turn left now.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Я вижу очень красивую церковь перед этим зданием.",
+		"eng_sentence": "I see a very beautiful church in front of this building.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Ты можешь рассчитывать на мою помощь.",
+		"eng_sentence": "You can count on my help.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Курс начинается в 7 часов вечера.",
+		"eng_sentence": "The course starts at seven p.m.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Как я могу скачать эту программу?",
+		"eng_sentence": "How can I download this program?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Сколько денег ты тратишь на это?",
+		"eng_sentence": "How much money do you spend on it?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я хочу поделиться этой ссылкой со своими друзьями.",
+		"eng_sentence": "I want to share this link with my friends.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Я знаю, что она может скоро умереть.",
+		"eng_sentence": "I know that she can die soon.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я не хочу обещать этого.",
+		"eng_sentence": "I don't want to promise it.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Что означает этот знак?",
+		"eng_sentence": "What does this sign mean?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Уроки начинаются в 8 утра.",
+		"eng_sentence": "The lessons start at 8 a.m.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я знаю, что это не так легко сдать тот тест.",
+		"eng_sentence": "I know that it isn't so easy to pass that test.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Что ты видишь перед собой?",
+		"eng_sentence": "What do you see in front of you?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я не ем много.",
+		"eng_sentence": "I don't eat much.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Не клади это сюда!",
+		"eng_sentence": "Don't put it here!",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Как он себя чувствует?",
+		"eng_sentence": "How does he feel?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он может скоро умереть.",
+		"eng_sentence": "He can die soon.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Мы можем начать это прямо сейчас.",
+		"eng_sentence": "We can start it right now.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Что они продают?",
+		"eng_sentence": "What do they sell?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Не закрывай дверь!",
+		"eng_sentence": "Don't close the door!",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Где я могу скачать эти уроки?",
+		"eng_sentence": "Where can I download these lessons?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Ей нравится танцевать?",
+		"eng_sentence": "Does she like dancing?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Она предпочитает есть рыбу.",
+		"eng_sentence": "She prefers to eat fish.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Мы обычно встречаемся в этом месте.",
+		"eng_sentence": "We usually meet in this place.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я хочу скачать эту программу.",
+		"eng_sentence": "I want to download this program.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Ты можешь отправить мне письмо.",
+		"eng_sentence": "You can send me a letter.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Мальчик может упасть.",
+		"eng_sentence": "The boy can fall.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Это его совсем не интересует.",
+		"eng_sentence": "It doesn't interest him at all.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Я думаю, что ты спишь слишком мало.",
+		"eng_sentence": "I think that you sleep too little.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Как это может мне помочь?",
+		"eng_sentence": "How can it help me?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Ты делишься этими постами со своими друзьями?",
+		"eng_sentence": "Do you share these posts with your friends?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Как я могу скачать эти видео?",
+		"eng_sentence": "How can I download these videos?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Этот билет включает это.",
+		"eng_sentence": "This ticket includes it.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Ты всегда можешь рассчитывать на меня.",
+		"eng_sentence": "You can always count on me.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я знаю это довольно хорошо.",
+		"eng_sentence": "I know it pretty well.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Что означает это предложение?",
+		"eng_sentence": "What does this sentence mean?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Ты всегда можешь рассчитывать на мою поддержку.",
+		"eng_sentence": "You can always count on my support.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я не вижу никакой разницы.",
+		"eng_sentence": "I don't see any difference.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Я бы очень хотел поблагодарить тебя за всю твою помощь.",
+		"eng_sentence": "I'd really like to thank you for all your help.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Он пытается найти более хорошую работу, но безуспешно.",
+		"eng_sentence": "He tries to find a better job but unsuccessfully.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я стараюсь делать эти вещи в одно и то же время, и это не так просто.",
+		"eng_sentence": "I try to do these things at the same time and it isn't so easy.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я думаю, он есть слишком много, и это не очень хорошо для его здоровья.",
+		"eng_sentence": "I think he eats too much and it isn't very good for his health.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Какого рода проблемы он испытывает, когда изучает английский?",
+		"eng_sentence": "What kind of problems does he experience when he learns English?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Он не хочет обещать эту вещь, потому что он не уверен в этом.",
+		"eng_sentence": "He doesn't want to promise this thing because he isn't sure about it.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я перезвоню тебе через пару минут.",
+		"eng_sentence": "I'll ring you back in a couple of minutes.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Ты согласен, что только усердная работа может привести нас к успеху?",
+		"eng_sentence": "Do you agree that only hard work can lead us to real success?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Она носит очень тяжёлые сумки, и это очень плохо для её здоровья.",
+		"eng_sentence": "She carries very heavy bags and it's very bad for her health.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я хотел бы поблагодарить тебя за твою огромную поддержку.",
+		"eng_sentence": "I'd like to thank you for your huge support (great support / tremendous support).",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Ты согласен с ним или нет?",
+		"eng_sentence": "Do you agree with him or not?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я обычно ем это на завтрак.",
+		"eng_sentence": "I usually eat it for breakfast.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Она владеет этим домом.",
+		"eng_sentence": "She owns this house.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я не могу представить свою жизнь без спорта.",
+		"eng_sentence": "I can't imagine my life without sport.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Я стараюсь не тратить так много денег на это.",
+		"eng_sentence": "I try not to spend so much money on it.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я скоро тебе перезвоню.",
+		"eng_sentence": "I'll ring you back soon.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я перезвоню тебе позже.",
+		"eng_sentence": "I'll ring you back later.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Он скоро мне перезвонит.",
+		"eng_sentence": "He'll ring me back soon.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я чувствую, что что-то не так.",
+		"eng_sentence": "I feel that something is wrong.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я чувствую, что это неправильно.",
+		"eng_sentence": "I feel that it's wrong.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я знаю, что что-то не так.",
+		"eng_sentence": "I know that something is wrong.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Это может привести тебя к успеху.",
+		"eng_sentence": "It can lead you to success.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Это может привести нас к успеху.",
+		"eng_sentence": "It can lead us to success.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Это должно привести меня к успеху.",
+		"eng_sentence": "It must lead me to success.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Сколько стоит новая модель?",
+		"eng_sentence": "How much does a new model cost?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Сколько стоит эта модель?",
+		"eng_sentence": "How much does this model cost?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Сколько стоят эти модели?",
+		"eng_sentence": "How much do these models cost?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Он владеет этой квартирой.",
+		"eng_sentence": "He owns this apartment / flat.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Они владеют этими домами.",
+		"eng_sentence": "They own these houses.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Сколько стоит эта вещь?",
+		"eng_sentence": "How much does this thing cost?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Сколько стоит эта одежда?",
+		"eng_sentence": "How much do these clothes cost?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Сколько стоят эти вещи?",
+		"eng_sentence": "How much do these things cost?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Что ты обычно ешь на ужин?",
+		"eng_sentence": "What do you usually eat for dinner?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Что ты обычно покупаешь на ужин?",
+		"eng_sentence": "What do you usually buy for dinner?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Что он обычно ест на завтрак?",
+		"eng_sentence": "What does he usually eat for breakfast?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я хотел бы поблагодарить тебя за всё.",
+		"eng_sentence": "I'd like to thank you for everything.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я хотел бы поблагодарить его за всё.",
+		"eng_sentence": "I'd like to thank him for everything.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Он хотел бы поблагодарить меня за всё.",
+		"eng_sentence": "He'd like to thank me for everything.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Она говорит, что она знает это довольно хорошо.",
+		"eng_sentence": "She says that she knows it pretty well.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Они говорят, что они знают это довольно хорошо.",
+		"eng_sentence": "They say that they know it pretty well.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Он говорит, что он знает это так хорошо.",
+		"eng_sentence": "He says that he knows it so well.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Тебе нужно повернуть направо на перекрёстке.",
+		"eng_sentence": "You need to turn right at the crossroads.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Ты должен повернуть направо на перекрестке.",
+		"eng_sentence": "You must turn right at the crossroads.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Тебе следует повернуть налево на перекрестке.",
+		"eng_sentence": "You should turn left at the crossroads.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Мы можем протестировать наши знания здесь.",
+		"eng_sentence": "We can test our knowledge here.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я вовсе не испытываю каких-либо трудностей.",
+		"eng_sentence": "I don't experience any difficulties at all.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он перезвонит мне через минуту.",
+		"eng_sentence": "He'll ring me back in a minute.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Не так легко сдать этот экзамен.",
+		"eng_sentence": "It isn't so easy to pass this exam.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я действительно хотел бы поблагодарить тебя за твою помощь.",
+		"eng_sentence": "I'd really like to thank you for your help.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Кто владеет этой виллой?",
+		"eng_sentence": "Who owns this villa?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Не забудь повернуть налево на перекрестке.",
+		"eng_sentence": "Don't forget to turn left at the crossroads.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Усердная работа ведёт нас к успеху.",
+		"eng_sentence": "Hard work leads us to success.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я не могу сказать, что мне действительно нравится танцевать.",
+		"eng_sentence": "I can't say that I really like dancing.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Это может упасть со стола.",
+		"eng_sentence": "It can fall off the table.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я не думаю, что это действительно помогает мне.",
+		"eng_sentence": "I don't think that it really helps me.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Он часто носит очень тяжелые вещи.",
+		"eng_sentence": "He often carries very heavy things.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Сколько это может стоить?",
+		"eng_sentence": "How much can it cost?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я не могу представить свою жизнь без этого.",
+		"eng_sentence": "I can't imagine my life without it.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Что ты обычно ешь на обед?",
+		"eng_sentence": "What do you usually eat for lunch?",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Она очень хорошо преподаёт английский.",
+		"eng_sentence": "She teaches English very well.",
+		"lesson": "73",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Ты показываешь блестящие результаты.",
+		"eng_sentence": "You show brilliant results.",
+		"lesson": "73",
+		"difficulty": ""
+	}
+]
