@@ -302,7 +302,7 @@
 	},
 	{	
 		"id": 44,
-		"rus_sentence": "Я думаю, он есть слишком много, и это не очень хорошо для его здоровья.",
+		"rus_sentence": "Я думаю, он ест слишком много, и это не очень хорошо для его здоровья.",
 		"eng_sentence": "I think he eats too much and it isn't very good for his health.",
 		"lesson": "73",
 		"difficulty": ""
@@ -331,7 +331,7 @@
 	{	
 		"id": 48,
 		"rus_sentence": "Ты согласен, что только усердная работа может привести нас к успеху?",
-		"eng_sentence": "Do you agree that only hard work can lead us to real success?",
+		"eng_sentence": "Do you agree that only hard work can lead us to success?",
 		"lesson": "73",
 		"difficulty": ""
 	},
@@ -666,7 +666,7 @@
 	},
 	{	
 		"id": 96,
-		"rus_sentence": "Он часто носит очень тяжелые вещи.",
+		"rus_sentence": "Он часто носит очень тяжёлые вещи.",
 		"eng_sentence": "He often carries very heavy things.",
 		"lesson": "73",
 		"difficulty": ""
