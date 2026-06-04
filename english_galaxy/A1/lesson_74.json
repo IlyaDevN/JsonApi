@@ -1,0 +1,695 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Они всегда вовремя доставляют эти товары.",
+		"eng_sentence": "They always deliver these goods on time.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Позволь мне привести тебе ещё один пример!",
+		"eng_sentence": "Let me give you one more example!",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я бы принял это предложение на твоём месте.",
+		"eng_sentence": "I would take this offer in your place.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Это платье подходит тебе идеально.",
+		"eng_sentence": "This dress suits you perfectly.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Мне нужно проверить всё ещё один раз.",
+		"eng_sentence": "I need to check everything one more time.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он не может упустить эту уникальную возможность.",
+		"eng_sentence": "He can't miss this unique opportunity.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "В какие игры тебе нравится играть больше всего?",
+		"eng_sentence": "What games do you like playing most of all?",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Позволь мне добавить одну очень важную вещь!",
+		"eng_sentence": "Let me add one very important thing!",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Он хотел бы пригласить тебя в одно очень хорошее кафе.",
+		"eng_sentence": "He'd like to invite you to one very good cafe.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Эти туфли идеально тебе подходят.",
+		"eng_sentence": "These shoes suit you perfectly.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я хотел бы пригласить тебя в мой дом.",
+		"eng_sentence": "I'd like to invite you to my house.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Они доставляют эти товары по морю?",
+		"eng_sentence": "Do they deliver these goods by sea?",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Его машина ломается слишком часто.",
+		"eng_sentence": "His car breaks too often.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Он профессионально играет в футбол.",
+		"eng_sentence": "He plays football professionally.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Позволь мне привести тебе несколько примеров!",
+		"eng_sentence": "Let me give you some examples!",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Это звучит здорово.",
+		"eng_sentence": "That sounds great.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Заполни эту форму!",
+		"eng_sentence": "Fill in this form!",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я так сильно по тебе скучаю.",
+		"eng_sentence": "I miss you so much.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Позволь мне сказать это!",
+		"eng_sentence": "Let me say it!",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Он умеет плавать?",
+		"eng_sentence": "Can he swim?",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Это звучит идеально.",
+		"eng_sentence": "That sounds perfect.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я не могу упустить этот шанс.",
+		"eng_sentence": "I can't miss this chance.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я хотел бы добавить одну вещь.",
+		"eng_sentence": "I'd like to add one thing.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Это звучит так смешно.",
+		"eng_sentence": "That sounds so funny.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я бы сделал то же самое.",
+		"eng_sentence": "I would do the same.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Открой свои глаза!",
+		"eng_sentence": "Open your eyes!",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Он обычно бегает очень медленно.",
+		"eng_sentence": "He usually runs very slowly.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Позволь мне добавить ещё одну вещь!",
+		"eng_sentence": "Let me add one more thing!",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Я хочу плавать в море.",
+		"eng_sentence": "I want to swim in the sea.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Это звучит довольно хорошо.",
+		"eng_sentence": "That sounds quite good.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Он носит очень стильный ремень.",
+		"eng_sentence": "He wears a very stylish belt.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Твои родственники поддерживают тебя?",
+		"eng_sentence": "Do your relatives support you?",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Что действительно мотивирует его?",
+		"eng_sentence": "What really motivates him?",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Он часто летает в Америку.",
+		"eng_sentence": "He often flies to America.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Мне нужно заполнить эту форму.",
+		"eng_sentence": "I need to fill in this form.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я хотел бы пригласить тебя в ресторан.",
+		"eng_sentence": "I'd like to invite you to a restaurant.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Кто поддерживает тебя больше всего?",
+		"eng_sentence": "Who supports you most of all?",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Они доставляют эти продукты по воздуху.",
+		"eng_sentence": "They deliver these products by air.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Позволь мне сказать тебе кое-что!",
+		"eng_sentence": "Let me tell you something!",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Тебе нужно заполнить пробелы.",
+		"eng_sentence": "You need to fill in the gaps.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Он хочет заниматься бизнесом, потому что думает, что все бизнесмены зарабатывают очень большие деньги.",
+		"eng_sentence": "He wants to do business because he thinks that all businessmen make very big money.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Я хочу сказать, что это очень важно для всех нас.",
+		"eng_sentence": "I want to say that it's very important for all of us.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Когда ты слушаешь советы других людей, это не означает, что тебе нужно это сделать.",
+		"eng_sentence": "When you listen to other people's advice, it doesn't mean that you need to do it.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Они информируют меня, когда что-то действительно важно.",
+		"eng_sentence": "They inform me when something is really important.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Мне кажется, что ты можешь сравнить разные методы и выбрать то, что тебе больше подходит.",
+		"eng_sentence": "It seems to me that you can compare different methods and choose what suits you better.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Я чувствую, что мне нужно сравнить эти вещи и выбрать то, что я действительно хочу.",
+		"eng_sentence": "I feel that I need to compare these things and choose what I really want.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Вы можете сравнить эти два метода и выбрать то, что вам действительно нужно.",
+		"eng_sentence": "You can compare these two methods and choose what you really need.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Старайся не копировать ошибки других людей, и тебе также нужно знать, что гораздо лучше учиться на них.",
+		"eng_sentence": "Try not to copy other people's mistakes, and you also need to know that it's much better to learn from them.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Он тренируется интенсивнее, когда у него больше свободного времени для этого.",
+		"eng_sentence": "He trains more intensively when he has more free time for it.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Я думаю, что тебе нужно слушать голос своего сердца, когда ты не уверен в чём-то, и тебе нужно решить, что делать дальше.",
+		"eng_sentence": "I think that you need to listen to the voice of your heart when you aren't sure about something and you need to decide what to do next.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Я хотел бы плавать в океане.",
+		"eng_sentence": "I'd like to swim in the ocean.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Они не могут нарушить этот закон.",
+		"eng_sentence": "They can't break this law.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Он поёт как очень известный певец.",
+		"eng_sentence": "He sings like a very famous singer.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я думаю, лучше проверить это снова.",
+		"eng_sentence": "I think it's better to check it again.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Кто платит за все эти вещи?",
+		"eng_sentence": "Who pays for all these things?",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Один урок обычно длится сорок минут.",
+		"eng_sentence": "One lesson usually lasts for forty minutes.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Урок обычно длится пятьдесят минут.",
+		"eng_sentence": "The lesson usually lasts for fifty minutes.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Этот урок обычно длится два часа.",
+		"eng_sentence": "This lesson usually lasts for two hours.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Он занимается бизнесом и зарабатывает очень большие деньги.",
+		"eng_sentence": "He does business and makes very big money.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Он занимается бизнесом и зарабатывает много денег.",
+		"eng_sentence": "He does business and makes a lot of money.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Он занимается бизнесом, и он зарабатывает очень большие деньги.",
+		"eng_sentence": "He does business and he earns very big money.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Что действительно мотивирует тебя делать это?",
+		"eng_sentence": "What really motivates you to do it?",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Кто действительно мотивирует его делать это?",
+		"eng_sentence": "Who really motivates him to do it?",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Они информируют его, когда происходит что-то действительно срочное.",
+		"eng_sentence": "They inform him when something really urgent happens.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Они информируют меня, когда происходит что-то действительно срочное.",
+		"eng_sentence": "They inform me when something really urgent happens.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Мы не информируем её, когда ничего действительно срочного не происходит.",
+		"eng_sentence": "We don't inform her when nothing really urgent happens.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Компания хочет сократить некоторых рабочих.",
+		"eng_sentence": "The company wants to reduce some workers.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Компании нужно сократить некоторых рабочих.",
+		"eng_sentence": "The company needs to reduce some workers.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Компании следует сократить некоторых рабочих.",
+		"eng_sentence": "The company should reduce some workers.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Мой друг говорит, что он хочет построить очень большой дом.",
+		"eng_sentence": "My friend says that he wants to build a very big house.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Мой отец говорит, что он хочет построить большой дом.",
+		"eng_sentence": "My father says that he wants to build a big house.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Мои друзья говорят, что они хотят построить очень большой дом.",
+		"eng_sentence": "My friends say that they want to build a very big house.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Позволь мне высказать свою точку зрения!",
+		"eng_sentence": "Let me express my point of view!",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Давай обсудим это!",
+		"eng_sentence": "Let's discuss it!",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Позволь нам выразить нашу точку зрения!",
+		"eng_sentence": "Let us express our point of view!",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я хотел бы заказать это онлайн, потому что это действительно экономит моё время.",
+		"eng_sentence": "I'd like to order it online because it really saves my time.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я хотел бы купить это онлайн, потому что это действительно экономит моё время.",
+		"eng_sentence": "I'd like to buy it online because it really saves my time.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Она хотела бы заказать это сейчас, потому что это действительно экономит её время.",
+		"eng_sentence": "She'd like to order it now because it really saves her time.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Позволь мне сказать тебе, что я думаю обо всём этом.",
+		"eng_sentence": "Let me tell you what I think about all this.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Позволь мне сказать ему, что я думаю о них.",
+		"eng_sentence": "Let me tell him what I think about them.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Позволь мне сказать тебе, что я думаю об этом.",
+		"eng_sentence": "Let me tell you what I think about it.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я тебя прекрасно слышу, так что ты можешь продолжать.",
+		"eng_sentence": "I hear you perfectly, so you can continue.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Я тебя хорошо слышу, так что ты можешь продолжать.",
+		"eng_sentence": "I hear you well, so you can continue.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Она тебя прекрасно слышит, так что ты можешь продолжать.",
+		"eng_sentence": "She hears you perfectly, so you can continue.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Кто обычно моет посуду в твоей семье?",
+		"eng_sentence": "Who usually washes the dishes in your family?",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Он хочет прилечь, потому что чувствует себя чрезвычайно уставшим.",
+		"eng_sentence": "He wants to lie down because he feels extremely tired.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Позволь мне сказать, что я думаю обо всём этом.",
+		"eng_sentence": "Let me say what I think about all that.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Они не могут сократить расходы в настоящее время.",
+		"eng_sentence": "They can't reduce the costs at present.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я не знаю, как ответить на этот вопрос.",
+		"eng_sentence": "I don't know how to answer this question.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Одна лекция длится полтора часа.",
+		"eng_sentence": "One lecture lasts for one hour and a half.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Ты не можешь представить, сколько сообщений он каждый день получает.",
+		"eng_sentence": "You can't imagine how many messages he receives every day.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Сколько электронных писем ты ежедневно получаешь?",
+		"eng_sentence": "How many emails do you receive daily?",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Почему так много студентов копируют ошибки других студентов?",
+		"eng_sentence": "Why do so many students copy other students' mistakes?",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я могу бежать гораздо быстрее, если мне это нужно.",
+		"eng_sentence": "I can run much faster if I need it.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Я слышу это очень чётко.",
+		"eng_sentence": "I hear it very clearly.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я хотел бы выразить свою личную точку зрения.",
+		"eng_sentence": "I'd like to express my personal point of view.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Кто платит за это?",
+		"eng_sentence": "Who pays for it?",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Он обычно ездит на работу (на машине).",
+		"eng_sentence": "He usually drives to work.",
+		"lesson": "74",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Она поёт как настоящая звезда.",
+		"eng_sentence": "She sings like a real star.",
+		"lesson": "74",
+		"difficulty": ""
+	}
+]
