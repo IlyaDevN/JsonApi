@@ -1,0 +1,709 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я не хочу тратить впустую своё время, потому что оно действительно летит, и мне нужно сделать так много вещей в моей жизни.",
+		"eng_sentence": "I don't want to waste my time because it really flies and I need to do so many things in my life.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я хотел бы пожелать тебе крепкого здоровья, настоящего счастья, больших денег и успехов в жизни.",
+		"eng_sentence": "I'd like to wish you strong health, real happiness, big money and success in life.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Во сколько твоя жена обычно возвращается домой?",
+		"eng_sentence": "What time does your wife usually return home?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Я хочу достичь следующего уровня как можно скорее.",
+		"eng_sentence": "I want to reach the next level as soon as possible.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Моя мама выращивает фрукты и овощи в своём собственном саду.",
+		"eng_sentence": "My mother grows fruit and vegetables in her own garden.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Это может случиться с каждым.",
+		"eng_sentence": "It can happen to everyone.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Я пишу по-английски очень редко.",
+		"eng_sentence": "I write in English very seldom.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Ты веришь в любовь с первого взгляда?",
+		"eng_sentence": "Do you believe in love at first sight?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Я желаю тебе всего самого лучшего.",
+		"eng_sentence": "I wish you all the best.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Во сколько он обычно уходит из дома?",
+		"eng_sentence": "What time does he usually leave home?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Это упражнение развивает наш разум.",
+		"eng_sentence": "This exercise develops our mind.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Он не хочет одалживать деньги.",
+		"eng_sentence": "He doesn't want to lend money.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Ты можешь прийти ко мне сегодня.",
+		"eng_sentence": "You can come to me today.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я вижу, что они действительно любят друг друга.",
+		"eng_sentence": "I see that they really love each other.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Ты веришь в Бога?",
+		"eng_sentence": "Do you believe in God?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Ты можешь потрогать это.",
+		"eng_sentence": "You can touch it.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Не оставляй свою сумку здесь!",
+		"eng_sentence": "Don't leave your bag here!",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я тебя очень сильно люблю.",
+		"eng_sentence": "I love you very much.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я хочу принять это предложение.",
+		"eng_sentence": "I want to take this offer.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Просто верь мне!",
+		"eng_sentence": "Just believe me!",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Сядь, пожалуйста!",
+		"eng_sentence": "Sit down, please!",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Она никогда не говорит о своей личной жизни.",
+		"eng_sentence": "She never talks about her private life.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Мы можем продолжить наше обсуждение.",
+		"eng_sentence": "We can continue our discussion.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Кто готовит лучше?",
+		"eng_sentence": "Who cooks better?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Эти физические упражнения развивают наше тело.",
+		"eng_sentence": "These physical exercises develop our body.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Не подписывай этот контракт.",
+		"eng_sentence": "Don't sign this contract.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Почему они жалуются всё время?",
+		"eng_sentence": "Why do they complain all the time?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Не трогай это!",
+		"eng_sentence": "Don't touch it!",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Это предложение звучит очень интересно.",
+		"eng_sentence": "This offer sounds very interesting.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я полагаю, это может быть так.",
+		"eng_sentence": "I suppose it can be so.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Ты можешь подождать меня?",
+		"eng_sentence": "Can you wait for me?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Тебе нужно что-то выбрать.",
+		"eng_sentence": "You need to choose something.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я предпочитаю сидеть на мягком стуле.",
+		"eng_sentence": "I prefer to sit on a soft chair.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Это делает меня действительно счастливым.",
+		"eng_sentence": "It makes me really happy.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Ты можешь оставить здесь свои комментарии.",
+		"eng_sentence": "You can leave your comments here.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Давай продолжим наш разговор!",
+		"eng_sentence": "Let's continue our conversation!",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я желаю тебе удачи.",
+		"eng_sentence": "I wish you good luck.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Они не целуются на людях.",
+		"eng_sentence": "They don't kiss in public.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Почему он делает так много ошибок?",
+		"eng_sentence": "Why does he make so many mistakes?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я прежде всего хочу достичь среднего уровня.",
+		"eng_sentence": "I want to reach an intermediate level first of all.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Она говорит, что ей действительно нравится путешествовать, и она также часто добавляет, что это расширяет её кругозор.",
+		"eng_sentence": "She says that she likes travelling and she also often adds that it broadens her horizons.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Полиция должна остановить их, потому что они могут убивать невинных людей.",
+		"eng_sentence": "The police must stop them because they can kill innocent people.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я прекрасно понимаю, что мне нужно есть здоровую пищу, заниматься спортом и проводить больше времени на открытом воздухе.",
+		"eng_sentence": "I perfectly understand that I need to eat healthy food, do sports and spend more time outdoors.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Мне нужно гулять в парке чаще, потому что я могу дышать там свежим воздухом.",
+		"eng_sentence": "I need to walk in the park more often because I can breathe fresh air there.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Мы часто разговариваем по телефону и обсуждаем разные вещи, которые нас интересуют.",
+		"eng_sentence": "We often talk on the phone and discuss different things which interest us.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Если ты хочешь улучшить своё произношение, в первую очередь ты можешь записать свой голос и слушать его.",
+		"eng_sentence": "If you want to improve your pronunciation, first of all you can record your voice and listen to it.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Это не так легко учиться и работать одновременно.",
+		"eng_sentence": "It isn't so easy to study and work at the same time.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Ты согласен, что путешествия расширяют наш кругозор?",
+		"eng_sentence": "Do you agree that travelling broadens our horizons?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я полагаю, это единственно правильное решение этой проблемы.",
+		"eng_sentence": "I suppose it's the only right solution to this problem.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Это действительно ужасно, что они убивают невинных людей.",
+		"eng_sentence": "It's really terrible that they kill innocent people.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Это может случиться с каждым из нас.",
+		"eng_sentence": "It can happen to each of us.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я частично с тобой согласен.",
+		"eng_sentence": "I partly agree with you.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Так много людей живут в бедности.",
+		"eng_sentence": "So many people live in poverty.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Что он отказывается делать?",
+		"eng_sentence": "What does he refuse to do?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Она никогда не рассказывает мне эти вещи.",
+		"eng_sentence": "She never tells me these things.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Что происходит с ним?",
+		"eng_sentence": "What happens to him?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Что с ней произошло?",
+		"eng_sentence": "What happened to her?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Когда это произошло с тобой?",
+		"eng_sentence": "When did it happen to you?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я перезвоню тебе через минуту.",
+		"eng_sentence": "I'll call you back in a minute.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Я позвоню ему через минуту.",
+		"eng_sentence": "I'll call him in a minute.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Он перезвонит ей через минуту.",
+		"eng_sentence": "He'll call her back in a minute.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Не подписывай этот документ, не читая!",
+		"eng_sentence": "Don't sign this document without reading!",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Ты не можешь подписать этот документ, не читая!",
+		"eng_sentence": "You can't sign this document without reading!",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Не подписывай эти документы, не читая!",
+		"eng_sentence": "Don't sign these documents without reading!",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Мне нужно подумать об этом более тщательно.",
+		"eng_sentence": "I need to think about it more thoroughly.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Я хочу подумать об этом более тщательно.",
+		"eng_sentence": "I want to think about it more thoroughly.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Мне следует подумать об этом более тщательно.",
+		"eng_sentence": "I should think about it more thoroughly.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Кто действительно заботится об этом?",
+		"eng_sentence": "Who really cares about it?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Кто действительно заботится о тебе?",
+		"eng_sentence": "Who really cares about you?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Ты действительно заботишься об этом?",
+		"eng_sentence": "Do you really care about it?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я полагаю, мы на правильном пути.",
+		"eng_sentence": "I suppose we're on the right way.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Я полагаю, что они на правильном пути.",
+		"eng_sentence": "I suppose that they're on the right way.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Я думаю, что мы на правильном пути.",
+		"eng_sentence": "I think that we're on the right way.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Он отказывается брать эти деньги у меня.",
+		"eng_sentence": "He refuses to take this money from me.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Я отказываюсь брать у тебя эти деньги.",
+		"eng_sentence": "I refuse to take this money from you.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Он хочет взять у них эти деньги.",
+		"eng_sentence": "He wants to take this money from them.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Тебе нужно заботиться о своём здоровье.",
+		"eng_sentence": "You need to look after your health.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Ты должен заботиться о своём здоровье.",
+		"eng_sentence": "You must look after your health.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Ей нужно заботиться о своём здоровье.",
+		"eng_sentence": "She needs to look after her health.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я не хочу жаловаться на это.",
+		"eng_sentence": "I don't want to complain about it.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Она не хочет жаловаться на это.",
+		"eng_sentence": "She doesn't want to complain about it.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я хочу пожаловаться на это.",
+		"eng_sentence": "I want to complain about it.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Ты знаешь, что это всегда привлекает моё внимание.",
+		"eng_sentence": "You know that it always attracts my attention.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Она знает, что это всегда привлекает моё внимание.",
+		"eng_sentence": "She knows that it always attracts my attention.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Ты знаешь, что это всегда привлекает моё внимание.",
+		"eng_sentence": "You know that it always attracts my attention.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Это довольно сложно одновременно работать и учиться.",
+		"eng_sentence": "It's quite difficult to work and study at the same time.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я думаю, тебе следует более тщательно подумать об этом.",
+		"eng_sentence": "I think you should think about it more thoroughly.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я могу одолжить тебе эти деньги, если тебе это действительно нужно.",
+		"eng_sentence": "I can lend you this money if you really need it.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "К сожалению, у него недостаточно времени на это.",
+		"eng_sentence": "Unfortunately, he doesn't have enough time for it.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я перезвоню ему через пару минут.",
+		"eng_sentence": "I'll call him back in a couple of minutes.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Не подписывай тот контракт, не читая его!",
+		"eng_sentence": "Don't sign that contract without reading it!",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Что обычно привлекает внимание людей?",
+		"eng_sentence": "What usually attracts people's attention?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я думаю, что мы можем обсудить это чуть позже.",
+		"eng_sentence": "I think that we can discuss it a bit later.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я хочу сказать, что я тебя очень сильно люблю.",
+		"eng_sentence": "I want to say that I love you very much.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Кого действительно волнуют эти проблемы?",
+		"eng_sentence": "Who really cares about these problems?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Ты можешь сказать мне, что ты думаешь обо всём этом.",
+		"eng_sentence": "You can tell me what you think about all this.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Он никогда не говорит об этом.",
+		"eng_sentence": "He never talks about it.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Он записывает разные видео ради забавы.",
+		"eng_sentence": "He records different videos for fun.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Мне нужно обдумать это.",
+		"eng_sentence": "I need to think it over.",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Кого волнует?",
+		"eng_sentence": "Who cares?",
+		"lesson": "75",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Что они предлагают?",
+		"eng_sentence": "What do they offer?",
+		"lesson": "75",
+		"difficulty": ""
+	}
+]
