@@ -1,0 +1,709 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я ненавижу вставать очень рано.",
+		"eng_sentence": "I hate getting up very early.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Я надеюсь на лучшее, но ожидаю худшего.",
+		"eng_sentence": "I hope for the best but expect the worst.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Почему это тебя так сильно пугает?",
+		"eng_sentence": "Why does it frighten you so much?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Он хочет перепрыгнуть через забор.",
+		"eng_sentence": "He wants to jump over the fence.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я пытаюсь запомнить всё, но это не так просто.",
+		"eng_sentence": "I try to remember everything but it isn't so easy.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он может прибыть поздно, как всегда.",
+		"eng_sentence": "He can arrive late as always.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Кто обычно исправляет твои ошибки?",
+		"eng_sentence": "Who usually corrects your mistakes?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Она может прибыть поздно, как обычно.",
+		"eng_sentence": "She can arrive late as usual.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Где ты предпочитаешь работать?",
+		"eng_sentence": "Where do you prefer to work?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Ему нужно решить это сейчас.",
+		"eng_sentence": "He needs to decide it now.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Мне нужно найти эти ошибки и исправить их.",
+		"eng_sentence": "I need to find these mistakes and correct them.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Он хочет стать предпринимателем.",
+		"eng_sentence": "He wants to become an entrepreneur.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Вы не могли бы мне помочь, пожалуйста?",
+		"eng_sentence": "Could you help me, please?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я обычно смотрю эти видео несколько раз.",
+		"eng_sentence": "I usually watch these videos several times.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Я думаю, людям следует быть более вежливыми.",
+		"eng_sentence": "I think people should be more polite.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я действительно обожаю путешествовать, потому что это расширяет мой кругозор.",
+		"eng_sentence": "I really enjoy travelling because it broadens my horizons.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Она предпочитает оставаться дома.",
+		"eng_sentence": "She prefers to stay at home.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Вы не могли бы повторить это слово, пожалуйста?",
+		"eng_sentence": "Could you repeat this word, please?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я хочу присоединиться к тебе.",
+		"eng_sentence": "I want to join you.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Она хочет присоединиться к этому фитнес-клубу.",
+		"eng_sentence": "She wants to join this fitness club.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Он может прыгнуть намного выше.",
+		"eng_sentence": "He can jump much higher.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Он хочет прекратить пить алкоголь.",
+		"eng_sentence": "He wants to stop drinking alcohol.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я стараюсь надеяться на лучшее.",
+		"eng_sentence": "I try to hope for the best.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Я ожидаю, что это может произойти рано или поздно.",
+		"eng_sentence": "I expect that it can happen sooner or later.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Как ты обычно добираешься до работы?",
+		"eng_sentence": "How do you usually get to work?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Как ты обычно готовишься к своим экзаменам?",
+		"eng_sentence": "How do you usually prepare for your exams?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Пойдём домой!",
+		"eng_sentence": "Let's go home!",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Она действительно любит помогать другим людям.",
+		"eng_sentence": "She really loves helping other people.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Мой друг хочет прекратить курить.",
+		"eng_sentence": "My friend wants to stop smoking.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Этот бизнес приносит ему очень большие деньги.",
+		"eng_sentence": "This business brings him very big money.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "В какое время ты обычно приезжаешь домой?",
+		"eng_sentence": "What time do you usually arrive home?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Я хочу остаться дома и сделать некоторые упражнения.",
+		"eng_sentence": "I want to stay at home and do some exercises.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Я ненавижу такого рода музыку.",
+		"eng_sentence": "I hate this kind of music.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Вы не могли бы сказать это снова, пожалуйста?",
+		"eng_sentence": "Could you say it again, please?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Вы не могли бы повторить это, пожалуйста?",
+		"eng_sentence": "Could you repeat it, please?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я покупаю большинство вещей онлайн.",
+		"eng_sentence": "I buy most things online.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Ты хочешь перестать курить?",
+		"eng_sentence": "Do you want to stop smoking?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Ты можешь потерять все свои деньги там.",
+		"eng_sentence": "You can lose all your money there.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Тебе нужно решить это прямо сейчас?",
+		"eng_sentence": "Do you need to decide it right now?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Я надеюсь, что это не так в реальности.",
+		"eng_sentence": "I hope that it isn't so in reality.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Что тебе больше всего нравится делать в своё свободное время?",
+		"eng_sentence": "What do you like doing in your free time most of all?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Этот звук меня будит.",
+		"eng_sentence": "This sound wakes me up.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Конечно, я осознаю важность этих событий.",
+		"eng_sentence": "Certainly, I realise the importance of these events.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я не хочу быть неудачником в жизни, поэтому я стараюсь делать всё возможное, чтобы развить свои таланты и делать что-то полезное для других.",
+		"eng_sentence": "I don't want to be a loser in life so I try to do my best to develop my talents and do something useful for others.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Мой будильник обычно меня будит.",
+		"eng_sentence": "My alarm clock usually wakes me up.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Я думаю, что чтение развивает наше воображение, и это также тренирует нашу память.",
+		"eng_sentence": "I think that reading develops our imagination and it also trains our memory.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Не смейся над этим!",
+		"eng_sentence": "Don't laugh at it!",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я поддерживаю связь со своими старыми друзьями.",
+		"eng_sentence": "I keep in touch with my old friends.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Мне нужно подготовиться к этому тесту более тщательно.",
+		"eng_sentence": "I need to prepare for this test more thoroughly.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Мой знакомый не хочет становиться предпринимателем, потому что он думает, это очень рискованно.",
+		"eng_sentence": "My acquaintance doesn't want to become an entrepreneur because he thinks it's very risky.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Давай разделим это на три части!",
+		"eng_sentence": "Let's divide it into three parts!",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я хотел бы принять это предложение, потому что это звучит очень многообещающе.",
+		"eng_sentence": "I'd like to take this offer because it sounds very promising.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Каждый раз я пытаюсь не забыть сохранить этот документ.",
+		"eng_sentence": "Every time I try not to forget to save this document.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я предпочитаю не терять связь со своими старыми друзьями.",
+		"eng_sentence": "I prefer not to lose touch with my old friends.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Мы часто слышим, что курение чрезвычайно вредно для здоровья людей.",
+		"eng_sentence": "We often hear that smoking is extremely harmful for people's health.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Я думаю, тебе следует бросить курить.",
+		"eng_sentence": "I think you should stop smoking.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я думаю, ей следует бросить пить алкоголь.",
+		"eng_sentence": "I think she should stop drinking alcohol.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Ты думаешь, мне следует прекратить это делать?",
+		"eng_sentence": "Do you think I should stop doing it?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я стараюсь не смеяться над этим.",
+		"eng_sentence": "I try not to laugh at it.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Ты стараешься не смеяться над ним?",
+		"eng_sentence": "Do you try not to laugh at him?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Она не пыталась смеяться над этим.",
+		"eng_sentence": "She didn't try to laugh at it.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Что принадлежит ей?",
+		"eng_sentence": "What belongs to her?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Что принадлежит тебе?",
+		"eng_sentence": "What belongs to you?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Что принадлежало ему?",
+		"eng_sentence": "What belonged to him?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я действительно ненавижу впустую тратить время.",
+		"eng_sentence": "I really hate wasting time.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Она действительно ненавидела впустую тратить деньги.",
+		"eng_sentence": "She really hated wasting money.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Он действительно ненавидит впустую тратить время.",
+		"eng_sentence": "He really hates wasting time.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Она старается не плакать, но это очень трудно для неё.",
+		"eng_sentence": "She tries not to cry but it's too difficult for her.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Он старался не курить, но это было очень трудно для него.",
+		"eng_sentence": "He tried not to smoke but it was very difficult for him.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Она старается не смеяться, но это очень трудно для неё.",
+		"eng_sentence": "She tries not to laugh but it's very difficult for her.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Она плачет, когда чувствует боль.",
+		"eng_sentence": "She cries when she feels pain.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Он не плачет, когда чувствует боль.",
+		"eng_sentence": "He doesn't cry when he feels pain.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Она всегда плачет, когда чувствует боль.",
+		"eng_sentence": "She always cries when she feels pain.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Я знаю, что это зависит от меня.",
+		"eng_sentence": "I know that it depends on me.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он знает, что это зависит от него.",
+		"eng_sentence": "He knows that it depends on him.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Она знала, что это зависело от неё.",
+		"eng_sentence": "She knew that it depended on her.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я не могу принять это предложение.",
+		"eng_sentence": "I can't accept this offer.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Ты не мог принять тот документ.",
+		"eng_sentence": "You couldn't accept that document.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я могу принять это предложение.",
+		"eng_sentence": "I can accept this offer.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Многие люди говорят, что курение очень плохо для нашего здоровья.",
+		"eng_sentence": "Many people say that smoking is very bad for our health.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Многие люди думают, что употребление алкоголя очень вредно для нашего здоровья.",
+		"eng_sentence": "Many people think that drinking alcohol is very bad for our health.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Большинство людей знает, что курение очень вредно для нашего здоровья.",
+		"eng_sentence": "Most people know that smoking is very bad for our health.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Я не хочу проиграть, поэтому я тренируюсь очень интенсивно.",
+		"eng_sentence": "I don't want to lose so I train very intensively.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Он не хотел проигрывать, поэтому он очень усердно тренировался.",
+		"eng_sentence": "He didn't want to lose so he trained very hard.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Она не хочет проигрывать, поэтому она тренируется очень интенсивно.",
+		"eng_sentence": "She doesn't want to lose so she trains very intensively.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Я действительно люблю изучать английский.",
+		"eng_sentence": "I really love learning English.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Она прекрасно понимает, что это очень хороший курорт.",
+		"eng_sentence": "She perfectly understands that it's a very good resort.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Наш учитель обычно делит нас на несколько групп.",
+		"eng_sentence": "Our teacher usually divides us into several groups.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Её друг ненавидит делать покупки.",
+		"eng_sentence": "Her friend hates doing the shopping.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Не забудь сохранить последние изменения в этом документе!",
+		"eng_sentence": "Don't forget to save the latest changes in this document!",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Бесплатное онлайн-образование экономит мне время и деньги.",
+		"eng_sentence": "Free online education saves me time and money.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Ей нужно прекратить плакать.",
+		"eng_sentence": "She needs to stop crying.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я пользуюсь интернетом для работы и для удовольствия.",
+		"eng_sentence": "I use the Internet for work and for pleasure.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я понимаю, что моё будущее зависит от этого.",
+		"eng_sentence": "I understand that my future depends on it.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Он ненавидит ходить за покупками.",
+		"eng_sentence": "He hates going shopping.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Курение очень вредно для нашего здоровья.",
+		"eng_sentence": "Smoking is very harmful to our health.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Он предпочитает хранить свои деньги в банке.",
+		"eng_sentence": "He prefers to keep his money in a bank.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я прекрасно осознаю важность этого события.",
+		"eng_sentence": "I perfectly realise the importance of this event.",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Эта вещь принадлежит тебе?",
+		"eng_sentence": "Does this thing belong to you?",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Не смейся над другими!",
+		"eng_sentence": "Don't laugh at others!",
+		"lesson": "76",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Не забудь запереть дверь!",
+		"eng_sentence": "Don't forget to lock the door!",
+		"lesson": "76",
+		"difficulty": ""
+	}
+]
