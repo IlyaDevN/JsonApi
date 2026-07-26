@@ -1,0 +1,730 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Он будет готов скоро.",
+		"eng_sentence": "He will be ready soon.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Это произойдёт скоро.",
+		"eng_sentence": "It will happen soon.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Он придёт на вечеринку.",
+		"eng_sentence": "He'll come to the party.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Они купят мою машину.",
+		"eng_sentence": "They'll buy my car.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я всегда буду любить тебя.",
+		"eng_sentence": "I will always love you.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Будет очень скучно в конце.",
+		"eng_sentence": "It'll be very boring in the end.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Я встречу его в офисе завтра.",
+		"eng_sentence": "I'll meet him in the office tomorrow.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Она пойдёт за покупками сегодня.",
+		"eng_sentence": "She'll go shopping today.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Будет интересно только в начале.",
+		"eng_sentence": "It'll be interesting only in the beginning.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Скоро придёт зима.",
+		"eng_sentence": "Winter will come soon.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я думаю, он купит другую машину.",
+		"eng_sentence": "I think he'll buy another car.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Она прочтёт несколько статей по медицине.",
+		"eng_sentence": "She'll read some articles on medicine.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Я думаю, это будет очень интересно для тебя.",
+		"eng_sentence": "I think it'll be very interesting for you.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Я позвоню тебе чуть позже.",
+		"eng_sentence": "I'll call you a bit later.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Твой отец придёт домой через час.",
+		"eng_sentence": "Your father will come home in an hour.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Я куплю другую модель.",
+		"eng_sentence": "I'll buy another model.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Я понесу твою сумку.",
+		"eng_sentence": "I'll carry your bag.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я навещу тебя послезавтра.",
+		"eng_sentence": "I'll visit you the day after tomorrow.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я увижу моего друга на выходных.",
+		"eng_sentence": "I'll see my friend at the weekend.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Это случится рано или поздно.",
+		"eng_sentence": "It'll happen sooner or later.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Она пойдёт с ним в театр.",
+		"eng_sentence": "She'll go to the theatre with him.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Он скоро будет готов.",
+		"eng_sentence": "He'll be ready soon.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Он пойдёт на концерт вместе с ней.",
+		"eng_sentence": "He'll go to the concert with her.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Он придёт на вечеринку.",
+		"eng_sentence": "He'll come to the party.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Я буду слушать запись дважды.",
+		"eng_sentence": "I'll listen to the recording twice.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Они будут играть в футбол на стадионе.",
+		"eng_sentence": "They'll play football at the stadium.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я не думаю, что я куплю эту машину.",
+		"eng_sentence": "I don't think that I'll buy this car.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Я буду читать статьи на разные темы онлайн.",
+		"eng_sentence": "I'll read articles on different topics online.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Я буду изучать новый язык.",
+		"eng_sentence": "I'll learn a new language.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Ты увидишь его через минуту.",
+		"eng_sentence": "You'll see him in a minute.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Я куплю ей маленький подарок.",
+		"eng_sentence": "I'll buy her a small present.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Он пропустит матч.",
+		"eng_sentence": "He'll miss the match.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Это произойдёт через десять минут.",
+		"eng_sentence": "It'll happen in ten minutes.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Они прибудут вовремя.",
+		"eng_sentence": "They'll arrive on time.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Я пойду в магазин.",
+		"eng_sentence": "I'll go to the store.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Я позвоню ему немного позже.",
+		"eng_sentence": "I'll call him a bit later.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я останусь дома на выходных.",
+		"eng_sentence": "I'll stay at home at the weekend.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Он будет играть в футбол на том поле.",
+		"eng_sentence": "He'll play football in that field.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Я прочитаю несколько статей по бизнесу.",
+		"eng_sentence": "I'll read some articles on business.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "У меня будет отпуск на следующей неделе.",
+		"eng_sentence": "I'll have a holiday next week.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Лето скоро наступит.",
+		"eng_sentence": "Summer will come soon.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Твоя мама вернётся домой примерно через полчаса.",
+		"eng_sentence": "Your mother will come home in about half an hour.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Мой друг присоединится к нам с большим удовольствием.",
+		"eng_sentence": "My friend will join us with great pleasure.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я снова послушаю эту песню.",
+		"eng_sentence": "I'll listen to this song again.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Он ожидает, что купит планшет в конце месяца.",
+		"eng_sentence": "He expects that he'll buy a tablet at the end of the month.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Может быть, я останусь дома сегодня вечером.",
+		"eng_sentence": "Maybe I'll stay at home tonight.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я смогу избавиться от этой ошибки.",
+		"eng_sentence": "I'll be able to get rid of this mistake.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Я смогу это сделать.",
+		"eng_sentence": "I'll be able to do it.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я прибуду в Лондон в 6 часов вечера.",
+		"eng_sentence": "I'll arrive in London at 6 p.m.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Он обещает, что сделает это однажды.",
+		"eng_sentence": "He promises that he'll do it one day.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Может быть, это произойдёт однажды.",
+		"eng_sentence": "Maybe it'll happen one day.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я скоро закончу читать эту книгу.",
+		"eng_sentence": "I'll finish reading this book soon.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я думаю, они выиграют игру.",
+		"eng_sentence": "I think they'll win the game.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Солнце встанет через час.",
+		"eng_sentence": "The sun will go up in an hour.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Может быть, он скоро сделает новое открытие.",
+		"eng_sentence": "Maybe he'll make a new discovery soon.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Он думает, это будет незабываемая вечеринка.",
+		"eng_sentence": "He thinks it'll be an unforgettable party.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Солнце скоро сядет.",
+		"eng_sentence": "The sun will go down soon.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я полагаю, что я накоплю немного денег, чтобы купить новый компьютер в этом году.",
+		"eng_sentence": "I suppose that I'll save up some money to buy a new computer this year.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Может быть, они скоро сделают новые открытия.",
+		"eng_sentence": "Maybe they'll make new discoveries soon.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Может быть, это будет настоящая революция в образовании.",
+		"eng_sentence": "Maybe it'll be a real revolution in education.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я думаю, это будет настоящая революция в медицине.",
+		"eng_sentence": "I think it'll be a real revolution in medicine.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Это будет настоящая революция в образовании?",
+		"eng_sentence": "Will it be a real revolution in education?",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Она не думает, что он сможет купить это.",
+		"eng_sentence": "She doesn't think that he'll be able to buy it.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Он не знает, что она сможет купить ту вещь.",
+		"eng_sentence": "He doesn't know that she'll be able to buy that thing.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я не думаю, что смогу купить эту машину.",
+		"eng_sentence": "I don't think that I'll be able to buy this car.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Мы будем отмечать нашу годовщину завтра.",
+		"eng_sentence": "We'll celebrate our anniversary tomorrow.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Они будут отмечать свой юбилей через неделю.",
+		"eng_sentence": "They'll celebrate their anniversary in a week.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Мы не будем отмечать нашу годовщину в этом месяце.",
+		"eng_sentence": "We won't celebrate our anniversary this month.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я думаю, ты снова опоздаешь.",
+		"eng_sentence": "I think you'll be late again.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Я не думаю, что ты опоздаешь сегодня вечером.",
+		"eng_sentence": "I don't think that you'll be late tonight.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Он думает, он опоздает.",
+		"eng_sentence": "He thinks he'll be late.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Конечно, я смогу избавиться от этих глупых ошибок.",
+		"eng_sentence": "Of course, I'll be able to get rid of these silly mistakes.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Конечно, он сможет избавиться от этой глупой ошибки.",
+		"eng_sentence": "Of course, he'll be able to get rid of this silly mistake.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Ты думаешь, ты сможешь избавиться от этих глупых ошибок?",
+		"eng_sentence": "Do you think you'll be able to get rid of these silly mistakes?",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он думает, что он сможет заработать эти деньги.",
+		"eng_sentence": "He thinks that he'll be able to earn this money.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я думаю, что смогу заработать те деньги.",
+		"eng_sentence": "I think that I'll be able to earn that money.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Она уверена, что сможет заработать эти деньги.",
+		"eng_sentence": "She's sure that she'll be able to earn this money.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я прибуду в аэропорт в 8 утра.",
+		"eng_sentence": "I'll arrive at the airport at 8 a.m.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Он прибудет на станцию в 9 часов утра.",
+		"eng_sentence": "He'll arrive at the station at 9 a.m.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я не прибуду в аэропорт вовремя.",
+		"eng_sentence": "I won't arrive at the airport on time.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Она думает, что вечеринка будет чем-то незабываемым.",
+		"eng_sentence": "She thinks that the party will be something unforgettable.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я думаю, вечеринка будет чем-то незабываемым.",
+		"eng_sentence": "I think that the party will be something unforgettable.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Ты думаешь, вечеринка будет чем-то незабываемым?",
+		"eng_sentence": "Do you think that the party will be something unforgettable?",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я буду учиться очень усердно, чтобы сдать этот экзамен.",
+		"eng_sentence": "I'll study very hard to pass this exam.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Я буду учиться очень усердно, чтобы сдать этот тест.",
+		"eng_sentence": "I'll study very hard to pass this test.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Она будет учиться очень усердно, чтобы сдать свой тест.",
+		"eng_sentence": "She'll study very hard to pass her test.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Я знаю, что я смогу достичь своей цели.",
+		"eng_sentence": "I know that I'll be able to achieve my aim.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Он знает, что сможет добраться на работу вовремя.",
+		"eng_sentence": "He knows that he'll be able to get to work on time.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я знаю, что я смогу приехать домой рано.",
+		"eng_sentence": "I know that I'll be able to come home early.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Он скоро закончит делать свою домашнюю работу.",
+		"eng_sentence": "He'll finish doing his homework soon.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я думаю, я смогу сделать это.",
+		"eng_sentence": "I think I'll be able to do it.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Я знаю, что я смогу выучить английский.",
+		"eng_sentence": "I know that I'll be able to learn English.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я заплачу за билеты наличными.",
+		"eng_sentence": "I'll pay for the tickets in cash.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я постараюсь избавиться от этих ошибок.",
+		"eng_sentence": "I'll try to get rid of these mistakes.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Они будут отмечать их годовщину на следующей неделе.",
+		"eng_sentence": "They'll celebrate their anniversary next week.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Я постараюсь решить эту проблему как можно скорее.",
+		"eng_sentence": "I'll try to solve this problem as soon as possible.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я думаю, я куплю ноутбук в конце недели.",
+		"eng_sentence": "I think I'll buy a laptop at the end of the week.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я полагаю, я накоплю немного денег, чтобы купить это.",
+		"eng_sentence": "I suppose I'll save up some money to buy it.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я буду действительно счастлив помочь тебе.",
+		"eng_sentence": "I'll be really happy to help you.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Он оплатит билеты кредитной картой.",
+		"eng_sentence": "He'll pay for the tickets by credit card.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я буду стараться работать изо всех сил, чтобы заработать эти деньги.",
+		"eng_sentence": "I'll try to work very hard to earn this money.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Это будет очень скучная встреча, как обычно.",
+		"eng_sentence": "It'll be a very boring meeting as usual.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Солнце скоро взойдёт.",
+		"eng_sentence": "The sun will rise soon.",
+		"lesson": "77",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "Это будет очень скучная лекция, как всегда.",
+		"eng_sentence": "It'll be a very boring lecture as always.",
+		"lesson": "77",
+		"difficulty": ""
+	}
+]
