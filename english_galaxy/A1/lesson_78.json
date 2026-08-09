@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Я не буду смотреть этот фильм.",
+		"eng_sentence": "I won't watch this movie.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Он не будет жаловаться.",
+		"eng_sentence": "He won't complain.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Обсуждение не закончится через десять минут.",
+		"eng_sentence": "The discussion won't finish in ten minutes.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Полиция не закроет на это свои глаза.",
+		"eng_sentence": "The police won't close their eyes to it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Он не будет принимать участие в этом чемпионате.",
+		"eng_sentence": "He won't take part in this championship.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я не буду впустую тратить своё время на это.",
+		"eng_sentence": "I won't waste my time on it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Возможно, это не будет так легко для тебя.",
+		"eng_sentence": "Perhaps, it won't be so easy for you.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Игра не будет так интересна для тебя.",
+		"eng_sentence": "The game won't be so interesting for you.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Он не будет его больше ждать.",
+		"eng_sentence": "He won't wait for him any longer.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Она не будет слушать его совет.",
+		"eng_sentence": "She won't listen to his advice.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Я не буду участвовать в этом соревновании.",
+		"eng_sentence": "I won't take part in this competition.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Эта идея не будет новой для других.",
+		"eng_sentence": "This idea won't be new for others.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Мои друзья не пойдут туда со мной.",
+		"eng_sentence": "My friends won't go there with me.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Она не придёт на вечеринку.",
+		"eng_sentence": "She won't come to the party.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Конференция не начнётся немедленно.",
+		"eng_sentence": "The conference won't start immediately.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Она не пойдёт в театр завтра.",
+		"eng_sentence": "She won't go to the theatre tomorrow.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Лекция не продлится так долго.",
+		"eng_sentence": "The lecture won't last so long.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Я не буду на это реагировать.",
+		"eng_sentence": "I won't react to it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Это его не остановит.",
+		"eng_sentence": "It won't stop him.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Я думаю, он этого не скажет.",
+		"eng_sentence": "I think he won't say it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "День не будет дождливым.",
+		"eng_sentence": "The day won't be rainy.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Я не закрою дверь.",
+		"eng_sentence": "I won't close the door.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Дни не будут такими солнечными.",
+		"eng_sentence": "The days won't be so sunny.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Цена не будет ниже.",
+		"eng_sentence": "The price won't be lower.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Это не улучшит ситуацию.",
+		"eng_sentence": "It won't improve the situation.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Возможно, я не буду покупать новый компьютер на этой неделе.",
+		"eng_sentence": "Perhaps, I won't buy a new computer this week.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Моему другу не понравится эта идея.",
+		"eng_sentence": "My friend won't like this idea.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Они не поддержат эту инициативу.",
+		"eng_sentence": "They won't support this initiative.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Она не придёт к нам.",
+		"eng_sentence": "She won't come to us.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Уроки не будут длиться долго.",
+		"eng_sentence": "The lessons won't last long.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Ему не понадобится эта информация.",
+		"eng_sentence": "He won't need this information.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Мы не узнаем наши результаты немедленно.",
+		"eng_sentence": "We won't know our results immediately.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Мы не будем реагировать на это.",
+		"eng_sentence": "We won't react to it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Он не будет слушать её.",
+		"eng_sentence": "He won't listen to her.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Эта вещь не сильно тебе поможет.",
+		"eng_sentence": "This thing won't help you much.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он не купит машину в этом году.",
+		"eng_sentence": "He won't buy a car this year.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Она не примет участие в этом конкурсе.",
+		"eng_sentence": "She won't take part in this contest.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Я больше не буду этого делать.",
+		"eng_sentence": "I won't do it anymore.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Она больше не будет ждать этого.",
+		"eng_sentence": "She won't wait for it any longer.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Она не купит квартиру в этом месяце.",
+		"eng_sentence": "She won't buy an apartment this month.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это не будет интересно им.",
+		"eng_sentence": "It won't be interesting for them.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "У него не будет этой суммы денег завтра.",
+		"eng_sentence": "He won't have this sum of money tomorrow.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Она говорит, что не сможет прийти к нам сегодня вечером.",
+		"eng_sentence": "She says that she won't be able to come to us tonight.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Я постараюсь больше не делать этих ошибок.",
+		"eng_sentence": "I'll try not to make these mistakes any longer.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Никто не заплатит за это.",
+		"eng_sentence": "No one will pay for it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Мне кажется, что никто этого не сделает.",
+		"eng_sentence": "It seems to me that no one will do it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Он не выучит английский через месяц, потому что мы все знаем, что это невозможно.",
+		"eng_sentence": "He won't learn English in a month because we all know that it's impossible.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Это действительно странно, что он не будет ничего гарантировать нам.",
+		"eng_sentence": "It's really strange that he won't guarantee anything to us.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Он говорит, что они не смогут разрешить этот конфликт через пару дней.",
+		"eng_sentence": "He says that they won't be able to resolve this conflict in a couple of days.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Возможно, я скоро найду гораздо лучшую работу.",
+		"eng_sentence": "Perhaps, I'll find a much better job soon.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Она думает, что он не скажет нам эту вещь.",
+		"eng_sentence": "She thinks that he won't tell us this thing.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Я не буду обращать внимание на такие вещи.",
+		"eng_sentence": "I won't pay attention to such things.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я постараюсь не реагировать на те вещи.",
+		"eng_sentence": "I'll try not to react to those things.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Я думаю, мужчина не получит эту работу.",
+		"eng_sentence": "I think the man won't get this job.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Курс не будет длиться так долго.",
+		"eng_sentence": "The course won't last so long.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Он никогда не пойдёт туда снова.",
+		"eng_sentence": "He'll never go there again.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Я постараюсь не думать об этом больше.",
+		"eng_sentence": "I'll try not to think about it anymore.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Он думает, это не случится с нами.",
+		"eng_sentence": "He thinks it won't happen to us.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Я думаю, это не случится с тобой.",
+		"eng_sentence": "I think it won't happen to you.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Он думает, это случится с каждым.",
+		"eng_sentence": "He thinks it'll happen to everyone.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я постараюсь не повторять эти ошибки.",
+		"eng_sentence": "I'll try not to repeat these mistakes.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Я постараюсь не повторять их ошибок.",
+		"eng_sentence": "I'll try not to repeat their mistakes.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Он постарается не повторять мою ошибку.",
+		"eng_sentence": "He'll try not to repeat my mistake.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Они ничего не будут гарантировать.",
+		"eng_sentence": "They won't guarantee anything.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Они ничего нам не будут гарантировать.",
+		"eng_sentence": "They won't guarantee us anything.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Они будут гарантировать это.",
+		"eng_sentence": "They'll guarantee it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Он постарается больше не делать этого.",
+		"eng_sentence": "He'll try not to do it anymore.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Он постарается сделать это снова.",
+		"eng_sentence": "He'll try to do it again.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я постараюсь сделать это снова.",
+		"eng_sentence": "I'll try to do it again.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Я не решу эту проблему за день.",
+		"eng_sentence": "I won't solve this problem in a day.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Я не решу эту задачу за минуту.",
+		"eng_sentence": "I won't solve this task in a minute.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Я решу эту проблему за день.",
+		"eng_sentence": "I'll solve this problem in a day.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Никто не сможет понять это.",
+		"eng_sentence": "No one will be able to understand it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Никто не сможет его понять.",
+		"eng_sentence": "No one will be able to understand him.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Он не сможет этого понять.",
+		"eng_sentence": "He won't be able to understand it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я не буду обращать внимание на это.",
+		"eng_sentence": "I won't pay attention to it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Он думает, он не решит эту задачу так быстро.",
+		"eng_sentence": "He thinks he won't solve this task so quickly.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Он думает, он решит эту задачу очень быстро.",
+		"eng_sentence": "He thinks he'll solve this task very quickly.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Я думаю, я не решу эту задачу так быстро.",
+		"eng_sentence": "I think I won't solve this task so quickly.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Я надеюсь, это никогда не произойдёт снова.",
+		"eng_sentence": "I hope it'll never happen again.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Я знаю, это никогда не произойдёт.",
+		"eng_sentence": "I know it'll never happen.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Я надеюсь, это никогда не случится с тобой.",
+		"eng_sentence": "I hope it'll never happen to you.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Он не будет рад слышать это.",
+		"eng_sentence": "He won't be glad to hear it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Я буду рад узнать это.",
+		"eng_sentence": "I'll be glad to know it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Он будет рад услышать это.",
+		"eng_sentence": "He'll be glad to hear it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Они не разрешат этот конфликт так быстро.",
+		"eng_sentence": "They won't resolve this conflict so quickly.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Он говорит, он не будет жаловаться на эту вещь.",
+		"eng_sentence": "He says he won't complain about this thing.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Она не будет рада видеть его.",
+		"eng_sentence": "She won't be glad to see him.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Я постараюсь не обращать внимания на это.",
+		"eng_sentence": "I'll try not to pay attention to it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я полагаю, это не случится с нами снова.",
+		"eng_sentence": "I suppose it won't happen to us again.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Я не смогу прийти на вечеринку.",
+		"eng_sentence": "I won't be able to come to the party.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Нам кажется, он не откажется сделать это.",
+		"eng_sentence": "It seems to us he won't refuse to do it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Я думаю, мальчик не сможет сдать этот экзамен.",
+		"eng_sentence": "I think the boy won't be able to pass this exam.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Я боюсь, будет не так легко изменить это.",
+		"eng_sentence": "I'm afraid it won't be so easy to change it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Возможно, он не сможет сделать это так быстро.",
+		"eng_sentence": "Perhaps, he won't be able to do it so quickly.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Никто не догадается об этом.",
+		"eng_sentence": "No one will guess it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Он не согласится сделать это.",
+		"eng_sentence": "He won't agree to do it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Я никогда не забуду это.",
+		"eng_sentence": "I'll never forget it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Я не буду жаловаться на это.",
+		"eng_sentence": "I won't complain about it.",
+		"lesson": "78",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Никто не будет знать это.",
+		"eng_sentence": "No one will know it.",
+		"lesson": "78",
+		"difficulty": ""
+	}
+]
