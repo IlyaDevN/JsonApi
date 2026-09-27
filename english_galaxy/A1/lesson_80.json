@@ -1,0 +1,702 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Что ты увидишь там?",
+		"eng_sentence": "What will you see there?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Когда ты подтвердишь нашу встречу?",
+		"eng_sentence": "When will you confirm our meeting?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Почему он будет чувствовать себя там так неудобно?",
+		"eng_sentence": "Why will he feel so uncomfortable there?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Когда мы встретимся в аэропорту?",
+		"eng_sentence": "When will we meet at the airport?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Сколько продлится один урок английского?",
+		"eng_sentence": "How long will one English lesson last?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Когда начнётся встреча?",
+		"eng_sentence": "When will the meeting begin?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Когда она выйдет за него замуж?",
+		"eng_sentence": "When will she marry him?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Почему ты будешь чувствовать себя там очень неудобно?",
+		"eng_sentence": "Why will you feel very uncomfortable there?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Почему это случится с ними?",
+		"eng_sentence": "Why will it happen to them?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Где мы встретимся с ним?",
+		"eng_sentence": "Where will we meet him?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Когда она вернётся?",
+		"eng_sentence": "When will she come back?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Какой у тебя будет новый номер телефона?",
+		"eng_sentence": "What will your new phone number be?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Когда начнутся экзамены?",
+		"eng_sentence": "When will the exams start?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Где он будет завтра?",
+		"eng_sentence": "Where will he be tomorrow?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Когда ты придёшь на работу?",
+		"eng_sentence": "When will you come to work?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Когда ты уйдёшь из дома?",
+		"eng_sentence": "When will you leave home? / When will you go out?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Когда ты увидишь его в следующий раз?",
+		"eng_sentence": "When will you see him next time?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Когда начнётся конференция?",
+		"eng_sentence": "When will the conference begin?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Что ты там увидишь?",
+		"eng_sentence": "What will you see there?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Почему они будут жить отдельно?",
+		"eng_sentence": "Why will they live separately?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Когда ты подтвердишь нашу встречу?",
+		"eng_sentence": "When will you confirm our meeting?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Как ты будешь работать в этих условиях?",
+		"eng_sentence": "How will you work in these conditions?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Когда начнётся экзамен?",
+		"eng_sentence": "When will the exam start?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Когда вы поженитесь?",
+		"eng_sentence": "When will you get married?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Когда он окончит школу?",
+		"eng_sentence": "When will he finish school?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Как долго это будет?",
+		"eng_sentence": "How long will it be?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Какие города ты посетишь?",
+		"eng_sentence": "What cities will you visit?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Куда ты пойдёшь?",
+		"eng_sentence": "Where will you go?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Как долго ты будешь там?",
+		"eng_sentence": "How long will you be there?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Как ты будешь проводить своё свободное время?",
+		"eng_sentence": "How will you spend your free time?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Как часто ты будешь пользоваться этим приложением?",
+		"eng_sentence": "How often will you use this application?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Что ты будешь делать в этой ситуации?",
+		"eng_sentence": "What will you do in this situation?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Что ты скажешь своим родителям?",
+		"eng_sentence": "What will you tell your parents?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Сколько денег будет достаточно?",
+		"eng_sentence": "How much money will be enough?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Что ты будешь делать в этом случае?",
+		"eng_sentence": "What will you do in this case?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Кто тебя там увидит?",
+		"eng_sentence": "Who will see you there?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Когда ты пойдёшь спать?",
+		"eng_sentence": "When will you go to bed?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Во сколько ты мне перезвонишь?",
+		"eng_sentence": "What time will you call me back?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Сколько ты за это заплатишь?",
+		"eng_sentence": "How much will you pay for it?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Какой у него будет новый адрес?",
+		"eng_sentence": "What will his new address be?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Во сколько ты завтра встанешь?",
+		"eng_sentence": "What time will you get up tomorrow?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Когда он женится на ней?",
+		"eng_sentence": "When will he marry her?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Сколько будет стоить учиться в Соединённых Штатах?",
+		"eng_sentence": "How much will it cost to study in the United States?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Почему это будет лучшим решением этой проблемы?",
+		"eng_sentence": "Why will it be the best solution to this problem?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Сколько будет стоить арендовать такого рода машину?",
+		"eng_sentence": "How much will it be to rent this kind of car?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Какие упражнения ты будешь делать, чтобы увеличить свой словарный запас?",
+		"eng_sentence": "What exercises will you do to increase your vocabulary?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Почему это будет совершенно пустая трата времени?",
+		"eng_sentence": "Why will it be a complete waste of time?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Кого ты пригласишь на свой день рождения?",
+		"eng_sentence": "Who will you invite to your birthday party?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Где я смогу купить это?",
+		"eng_sentence": "Where will I be able to buy it?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Сколько будет стоить арендовать эту квартиру?",
+		"eng_sentence": "How much will it be to rent this apartment?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Когда это будет возможно сделать?",
+		"eng_sentence": "When will it be possible to do it?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Когда он разведётся?",
+		"eng_sentence": "When will he get divorced?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Сколько ты заплатишь за новую квартиру?",
+		"eng_sentence": "How much will you pay for a new apartment?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Какие упражнения ты будешь делать, чтобы улучшить свой английский?",
+		"eng_sentence": "What exercises will you do to improve your English?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Насколько полезным будет урок?",
+		"eng_sentence": "How useful will the lesson be?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Сколько будет стоить арендовать дом?",
+		"eng_sentence": "How much will it cost to rent a house?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Сколько денег мне нужно будет взять с собой?",
+		"eng_sentence": "How much money will I need to take with me?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Что ты будешь делать, чтобы улучшить своё произношение?",
+		"eng_sentence": "What will you do to improve your pronunciation?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Что ты будешь делать, чтобы улучшить свою речь?",
+		"eng_sentence": "What will you do to improve your speaking?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Когда она улучшит своё произношение?",
+		"eng_sentence": "When will she improve her pronunciation?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Когда закончится урок?",
+		"eng_sentence": "When will the lesson finish?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Когда эти уроки закончатся?",
+		"eng_sentence": "When will these lessons finish?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Когда начнётся урок?",
+		"eng_sentence": "When will the lesson start?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Когда ты сможешь это сделать?",
+		"eng_sentence": "When will you be able to do it?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Когда она сможет это сделать?",
+		"eng_sentence": "When will she be able to do it?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Когда они смогут это сделать?",
+		"eng_sentence": "When will they be able to do it?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Насколько эффективным будет курс?",
+		"eng_sentence": "How effective will the course be?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Насколько эффективными будут курсы?",
+		"eng_sentence": "How effective will the courses be?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Насколько эффективным будет тот курс?",
+		"eng_sentence": "How effective will that course be?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Сколько будет стоить учиться за границей?",
+		"eng_sentence": "How much will it cost to study abroad?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Сколько будет стоить поехать за границу?",
+		"eng_sentence": "How much will it cost to go abroad?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Когда он подтвердит время нашей встречи?",
+		"eng_sentence": "When will he confirm the time of our meeting?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Когда они подтвердят время этой встречи?",
+		"eng_sentence": "When will they confirm the time of this meeting?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Когда она подтвердит нашу встречу?",
+		"eng_sentence": "When will she confirm our meeting?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Насколько интересной будет книга?",
+		"eng_sentence": "How interesting will the book be?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Насколько дорогой будет эта книга?",
+		"eng_sentence": "How expensive will this book be?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Насколько интересным будет фильм?",
+		"eng_sentence": "How interesting will the movie be?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Что будет необходимо исправить?",
+		"eng_sentence": "What will be necessary to correct?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Что будет необходимо изменить?",
+		"eng_sentence": "What will be necessary to change?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Что будет необходимо улучшить?",
+		"eng_sentence": "What will be necessary to improve?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Какого рода книги ты будешь читать?",
+		"eng_sentence": "What kind of books will you read?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Какого рода книги ты будешь покупать?",
+		"eng_sentence": "What kind of books will you buy?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Какую книгу ты будешь читать?",
+		"eng_sentence": "What book will you read?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Во сколько закончатся занятия?",
+		"eng_sentence": "What time will the classes end?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Когда закончатся занятия?",
+		"eng_sentence": "When will the classes end?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Во сколько начнётся урок?",
+		"eng_sentence": "What time will the lesson start?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Когда ты окончишь этот университет?",
+		"eng_sentence": "When will you graduate from this university?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Сколько будет стоить жить в Соединённом Королевстве?",
+		"eng_sentence": "How much will it cost to live in the United Kingdom?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Кто сможет сделать это?",
+		"eng_sentence": "Who will be able to do it?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Сколько денег мне нужно будет потратить на это?",
+		"eng_sentence": "How much money will I need to spend on it?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Сколько гостей придут на вечеринку?",
+		"eng_sentence": "How many guests will come to the party?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Сколько он заплатит за новый дом?",
+		"eng_sentence": "How much will he pay for a new house?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Сколько будет стоить жить в этом городе?",
+		"eng_sentence": "How much will it cost to live in this city?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Во сколько закончится фильм?",
+		"eng_sentence": "What time will the movie end?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Какого рода фильмы ты будешь смотреть?",
+		"eng_sentence": "What kind of movies will you watch?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Когда ты подтвердишь дату нашей встречи?",
+		"eng_sentence": "When will you confirm the date of our meeting?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Сколько будет стоить арендовать этот автомобиль?",
+		"eng_sentence": "How much will it be to rent this car?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Что будет необходимо сделать?",
+		"eng_sentence": "What will be necessary to do?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Во сколько закончится занятие?",
+		"eng_sentence": "What time will the class end?",
+		"lesson": "80",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Почему они разведутся?",
+		"eng_sentence": "Why will they get divorced?",
+		"lesson": "80",
+		"difficulty": ""
+	}
+]
