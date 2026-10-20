@@ -1,0 +1,758 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Это была долгая история.",
+		"eng_sentence": "It was a long story.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Они были великими людьми.",
+		"eng_sentence": "They were great people.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Еда была очень вкусной.",
+		"eng_sentence": "The food was very tasty.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Многие люди были очень голодные.",
+		"eng_sentence": "Many people were very hungry.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Я играл в футбол.",
+		"eng_sentence": "I played football.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Он пошёл домой.",
+		"eng_sentence": "He went home.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Он жил в этом старом доме.",
+		"eng_sentence": "He lived in this old house.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Те меры привели к новым конфликтам.",
+		"eng_sentence": "Those measures led to new conflicts.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Это привело к новым протестам.",
+		"eng_sentence": "It led to new protests.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Это было очевидно для меня.",
+		"eng_sentence": "It was obvious for me.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Они были действительно шокированы.",
+		"eng_sentence": "They were really shocked.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "У меня был небольшой перерыв между уроками.",
+		"eng_sentence": "I had a short break between the lessons.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Это была очень популярная песня несколько лет назад.",
+		"eng_sentence": "It was a very popular song several years ago.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Тренировки были очень интенсивными.",
+		"eng_sentence": "The trainings were very intensive.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Та работа требовала большего опыта работы.",
+		"eng_sentence": "That job required more work experience.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Тяжёлая работа привела его к успеху.",
+		"eng_sentence": "Hard work led him to success.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Это было очень мудрое решение.",
+		"eng_sentence": "It was a very wise decision.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Она действительно боялась этого.",
+		"eng_sentence": "She was really afraid of it.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Я отдыхал вечером.",
+		"eng_sentence": "I had a rest in the evening. / I relaxed in the evening",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Еда была очень вкусной.",
+		"eng_sentence": "The food was very tasty.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Я написал короткое эссе.",
+		"eng_sentence": "I wrote a short essay.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Он написал сочинение.",
+		"eng_sentence": "He wrote a composition.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Тренировка была очень интенсивной.",
+		"eng_sentence": "The training was very intensive.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Это была долгая история.",
+		"eng_sentence": "It was a long story.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Забор был коричневый.",
+		"eng_sentence": "The fence was brown.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Это была правдивая история.",
+		"eng_sentence": "It was a true story.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Я положил это в свою сумку.",
+		"eng_sentence": "I put it in my bag.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Это было великое открытие.",
+		"eng_sentence": "It was a great discovery.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Её решение было очень мудрым.",
+		"eng_sentence": "Her decision was very wise.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Я был так удивлён.",
+		"eng_sentence": "I was so surprised.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Клиника была действительно хорошая.",
+		"eng_sentence": "The clinic was really good.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Еда была действительно восхитительной.",
+		"eng_sentence": "The food was really amazing.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Многие люди были очень голодные.",
+		"eng_sentence": "Many people were very hungry.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Мальчики были во дворе.",
+		"eng_sentence": "The boys were in the yard.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Он сделал великое открытие.",
+		"eng_sentence": "He made a great discovery.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Это была удивительная история.",
+		"eng_sentence": "It was an amazing story.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Качество было очень хорошее.",
+		"eng_sentence": "The quality was very good.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Еда была вкусная.",
+		"eng_sentence": "The food was delicious.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Кризис был очень серьёзный.",
+		"eng_sentence": "The crisis was very serious.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Это была настоящая революция в технике.",
+		"eng_sentence": "It was a real revolution in technology.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "У нас был короткий перерыв после урока.",
+		"eng_sentence": "We had a short break after the lesson.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Он сделал маленькую ошибку.",
+		"eng_sentence": "He made a small mistake.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Эта работа требовала больше навыков.",
+		"eng_sentence": "This job required more skills.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Эти меры привели к новым протестам.",
+		"eng_sentence": "These measures led to new protests.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Коттедж был слишком мал для их семьи.",
+		"eng_sentence": "The cottage was too small for their family.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Многие люди жили в очень плохих условиях.",
+		"eng_sentence": "Many people lived in very bad conditions.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Я сделал всё правильно.",
+		"eng_sentence": "I did everything correctly.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Мы согласились сделать это.",
+		"eng_sentence": "We agreed to do it.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Я могу сказать, что я чувствовал себя очень комфортно среди носителей языка.",
+		"eng_sentence": "I can say that I felt very comfortable among native speakers.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Эта работа требовала также большего опыта работы и профессиональных навыков.",
+		"eng_sentence": "This job required more work experience and professional skills as well.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Это было чрезвычайно сложное упражнение.",
+		"eng_sentence": "It was an extremely difficult exercise.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Для нас всё было очевидно.",
+		"eng_sentence": "Everything was obvious for us.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Я был полностью удовлетворён моими результатами.",
+		"eng_sentence": "I was fully satisfied with my results.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Его друг стал американским гражданином в прошлом году.",
+		"eng_sentence": "His friend became an American citizen last year.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Мой отец собирал монеты, когда он был молодым.",
+		"eng_sentence": "My father collected coins when he was young.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Те меры привели к новым конфликтам и протестам.",
+		"eng_sentence": "Those measures led to new conflicts and protests.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Мне удалось сдать этот экзамен.",
+		"eng_sentence": "I managed to pass this exam.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Я могу сказать, что я был полностью удовлетворён качеством этих уроков.",
+		"eng_sentence": "I can say that I was fully satisfied with the quality of these lessons.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Качество этих продуктов было очень хорошим.",
+		"eng_sentence": "The quality of these products was very good.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Мне удалось сдать тот тест.",
+		"eng_sentence": "I managed to pass that test.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Это была очень неприятная вещь.",
+		"eng_sentence": "It was a very unpleasant thing.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Он часто опаздывал и мне это не нравилось.",
+		"eng_sentence": "He was often late and I didn't like it.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Я хотел увидеть мир.",
+		"eng_sentence": "I wanted to see the world.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Всё было чрезвычайно сложно.",
+		"eng_sentence": "Everything was extremely difficult.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Эти экзамены были чрезвычайно сложными.",
+		"eng_sentence": "These exams were extremely difficult.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Всё было действительно сложно.",
+		"eng_sentence": "Everything was really difficult.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я знаю, что принял правильное решение.",
+		"eng_sentence": "I know that I made the right decision.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Она знает, что приняла правильное решение.",
+		"eng_sentence": "She knows that she made the right decision.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Я знаю, что он нашёл лучшее решение.",
+		"eng_sentence": "I know that he found the best solution.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Это был чрезвычайно полезный урок.",
+		"eng_sentence": "It was an extremely useful lesson.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Это был очень полезный урок.",
+		"eng_sentence": "It was a very useful lesson.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Это был очень полезный курс.",
+		"eng_sentence": "It was a very useful course.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Всё было так необычно.",
+		"eng_sentence": "Everything was so unusual.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Всё было так обычно.",
+		"eng_sentence": "Everything was so usual.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Всё было необычно.",
+		"eng_sentence": "Everything was unusual.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Я знаю, что мне действительно повезло.",
+		"eng_sentence": "I know that I was really lucky.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Я знаю, что мне очень повезло.",
+		"eng_sentence": "I know that I was very lucky.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Я знаю, что им очень повезло.",
+		"eng_sentence": "I know that they were very lucky.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Это был чрезвычайно длинный курс.",
+		"eng_sentence": "It was an extremely long course.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Это был чрезвычайно сложный курс.",
+		"eng_sentence": "It was an extremely difficult course.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Это был очень длинный курс.",
+		"eng_sentence": "It was a very long course.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Это было очень приятное чувство.",
+		"eng_sentence": "It was a very pleasant feeling.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Это очень приятное чувство.",
+		"eng_sentence": "It's a very pleasant feeling.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Это было очень хорошее чувство.",
+		"eng_sentence": "It was a very good feeling.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Коттедж был достаточно большим.",
+		"eng_sentence": "The cottage was big enough.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Дом был достаточно большим.",
+		"eng_sentence": "The house was big enough.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Это здание было достаточно большим.",
+		"eng_sentence": "This building was big enough.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Я не думаю, что я сделал большую ошибку.",
+		"eng_sentence": "I don't think that I made a big mistake.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Она не думает, что сделала большую ошибку.",
+		"eng_sentence": "She doesn't thing that she made a big mistake.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Я не думаю, что я сделал много ошибок.",
+		"eng_sentence": "I don't think that I made many mistakes.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Все люди в том городе были очень дружелюбные.",
+		"eng_sentence": "All the people in that city were very friendly.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Все люди в этом городе были очень дружелюбные.",
+		"eng_sentence": "All the people in this city were very friendly.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Многие люди в том городе были очень дружелюбные.",
+		"eng_sentence": "Many people in that city were very friendly.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Одно из этих мест действительно впечатлило меня.",
+		"eng_sentence": "One of these places really impressed me.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Комната была достаточно большая.",
+		"eng_sentence": "The room was big enough.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Это был чрезвычайно важный урок.",
+		"eng_sentence": "It was an extremely important lesson.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Один из моих друзей работал в банке.",
+		"eng_sentence": "One of my friends worked in a bank.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Он согласился сделать это в конце.",
+		"eng_sentence": "He agreed to do it in the end.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Люди в этом городе были очень дружелюбные.",
+		"eng_sentence": "The people in this city were very friendly.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Я старался не показывать это.",
+		"eng_sentence": "I tried not to show it.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я был полностью удовлетворён качеством этих продуктов.",
+		"eng_sentence": "I was fully satisfied with the quality of these products.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Я хотел общаться с иностранцами.",
+		"eng_sentence": "I wanted to communicate with the foreigners.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Мне удалось сделать всё вовремя.",
+		"eng_sentence": "I managed to do everything on time.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "Я часто опаздывал.",
+		"eng_sentence": "I was often late.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": "Я верил, что это была правда.",
+		"eng_sentence": "I believed that it was tru.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 106,
+		"rus_sentence": "Это было необходимо сделать.",
+		"eng_sentence": "It was necessary to do.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 107,
+		"rus_sentence": "Он стал американским гражданином.",
+		"eng_sentence": "He became an American citizen.",
+		"lesson": "81",
+		"difficulty": ""
+	},
+	{	
+		"id": 108,
+		"rus_sentence": "Вам действительно повезло.",
+		"eng_sentence": "You are really lucky.",
+		"lesson": "81",
+		"difficulty": ""
+	}
+]
