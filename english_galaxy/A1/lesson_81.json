@@ -65,7 +65,7 @@
 	{	
 		"id": 10,
 		"rus_sentence": "Это было очевидно для меня.",
-		"eng_sentence": "It was obvious for me.",
+		"eng_sentence": "It was obvious to me.",
 		"lesson": "81",
 		"difficulty": ""
 	},
@@ -128,7 +128,7 @@
 	{	
 		"id": 19,
 		"rus_sentence": "Я отдыхал вечером.",
-		"eng_sentence": "I had a rest in the evening. / I relaxed in the evening",
+		"eng_sentence": "I had a rest in the evening. / I relaxed in the evening.",
 		"lesson": "81",
 		"difficulty": ""
 	},
@@ -359,7 +359,7 @@
 	{	
 		"id": 52,
 		"rus_sentence": "Для нас всё было очевидно.",
-		"eng_sentence": "Everything was obvious for us.",
+		"eng_sentence": "Everything was obvious to us.",
 		"lesson": "81",
 		"difficulty": ""
 	},
@@ -428,7 +428,7 @@
 	},
 	{	
 		"id": 62,
-		"rus_sentence": "Он часто опаздывал и мне это не нравилось.",
+		"rus_sentence": "Он часто опаздывал, и мне это не нравилось.",
 		"eng_sentence": "He was often late and I didn't like it.",
 		"lesson": "81",
 		"difficulty": ""
@@ -618,7 +618,7 @@
 	{	
 		"id": 89,
 		"rus_sentence": "Она не думает, что сделала большую ошибку.",
-		"eng_sentence": "She doesn't thing that she made a big mistake.",
+		"eng_sentence": "She doesn't think that she made a big mistake.",
 		"lesson": "81",
 		"difficulty": ""
 	},
@@ -709,7 +709,7 @@
 	{	
 		"id": 102,
 		"rus_sentence": "Я хотел общаться с иностранцами.",
-		"eng_sentence": "I wanted to communicate with the foreigners.",
+		"eng_sentence": "I wanted to communicate with foreigners.",
 		"lesson": "81",
 		"difficulty": ""
 	},
@@ -730,7 +730,7 @@
 	{	
 		"id": 105,
 		"rus_sentence": "Я верил, что это была правда.",
-		"eng_sentence": "I believed that it was tru.",
+		"eng_sentence": "I believed that it was true.",
 		"lesson": "81",
 		"difficulty": ""
 	},
