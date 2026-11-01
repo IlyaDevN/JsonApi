@@ -1,0 +1,737 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Он не ел рис.",
+		"eng_sentence": "He didn't eat rice.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Мой брат не помог мне.",
+		"eng_sentence": "My brother didn't help me.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Я не был дома вчера.",
+		"eng_sentence": "I wasn't at home yesterday.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Они не были со мной в тот момент.",
+		"eng_sentence": "They weren't with me at that moment.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Этих денег было недостаточно.",
+		"eng_sentence": "This money wasn't enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Мальчики не были уставшими.",
+		"eng_sentence": "The boys weren't tired.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Посылка не была тяжёлой.",
+		"eng_sentence": "The parcel wasn't heavy.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Она не могла ответить на мой звонок.",
+		"eng_sentence": "She couldn't answer my call.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "Он не окончил университет.",
+		"eng_sentence": "He didn't graduate from university.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Я не был на работе вчера.",
+		"eng_sentence": "I wasn't at work yesterday.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Квартира была недостаточно светлой.",
+		"eng_sentence": "The apartment wasn't light enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Этих денег было недостаточно.",
+		"eng_sentence": "This money wasn't enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Она не хотела стать учителем.",
+		"eng_sentence": "She didn't want to become a teacher.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Мы не тратили впустую время.",
+		"eng_sentence": "We didn't waste time.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Они не пошли на пляж.",
+		"eng_sentence": "They didn't go to the beach.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Эта компания не принадлежала ему.",
+		"eng_sentence": "This company didn't belong to him.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Они не хотели переезжать в другую страну.",
+		"eng_sentence": "They didn't want to move to another country.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Это было совсем не дорого.",
+		"eng_sentence": "It wasn't expensive at all.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Он не жил в Соединённых Штатах.",
+		"eng_sentence": "He didn't live in the United States.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Её не было в университете.",
+		"eng_sentence": "She wasn't at university.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Мы не ходили на море вчера.",
+		"eng_sentence": "We didn't go to the sea yesterday.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Поездка была совсем не утомительной.",
+		"eng_sentence": "The trip wasn't tiring at all.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Я не хотел платить за всё.",
+		"eng_sentence": "I didn't want to pay for everything.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Того времени казалось не достаточно.",
+		"eng_sentence": "That time didn't seem enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Этой практики мне не было достаточно.",
+		"eng_sentence": "This practice wasn't enough for me.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Он не ел рис.",
+		"eng_sentence": "He didn't eat rice.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Это не имело значения.",
+		"eng_sentence": "It didn't matter.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Рис не был свежим.",
+		"eng_sentence": "The rice wasn't fresh.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "Стиль не был современным.",
+		"eng_sentence": "The style wasn't modern.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Билеты не были дешёвыми.",
+		"eng_sentence": "The tickets weren't cheap.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Эта вещь не имела значения.",
+		"eng_sentence": "This thing didn't matter.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Музыкант не был богатым.",
+		"eng_sentence": "The musician wasn't rich.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Ему не нужна была какая-либо помощь.",
+		"eng_sentence": "He didn't need any help.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Вирус не был опасным.",
+		"eng_sentence": "The virus wasn't dangerous.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Сумка не была пустой.",
+		"eng_sentence": "The bag wasn't empty.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Он не был на той вечеринке.",
+		"eng_sentence": "He wasn't at that party.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Я не пошёл на работу вчера.",
+		"eng_sentence": "I didn't go to work yesterday.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Ребёнок не закончил свою домашнюю работу.",
+		"eng_sentence": "The child didn't finish his homework.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Они не были на пляже.",
+		"eng_sentence": "They weren't at the beach.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "У меня совсем не было времени.",
+		"eng_sentence": "I didn't have time at all.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Он не пришёл на ту вечеринку.",
+		"eng_sentence": "He didn't come to that party.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Это не было важно для меня.",
+		"eng_sentence": "It wasn't important for me.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Я не платил за своё образование.",
+		"eng_sentence": "I didn't pay for my education.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Он не нашёл новую работу.",
+		"eng_sentence": "He didn't find a new job.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Я не был в Соединённых Штатах в прошлом году.",
+		"eng_sentence": "I wasn't in the United States last year.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Машина не была достаточно надёжной.",
+		"eng_sentence": "The car wasn't reliable enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Это не было так неожиданно для меня.",
+		"eng_sentence": "It wasn't so unexpected for me.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Мужчина не выглядел уставшим.",
+		"eng_sentence": "The man didn't look tired.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Качество было недостаточно хорошим.",
+		"eng_sentence": "The quality wasn't good enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Учитель не объяснил все правила.",
+		"eng_sentence": "The teacher didn't explain all the rules.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Это не привлекло внимание людей в начале.",
+		"eng_sentence": "It didn't attract people's attention in the beginning.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Компания не была удовлетворена качеством этих продуктов.",
+		"eng_sentence": "The company wasn't satisfied with the quality of these products.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "К сожалению, тех денег было недостаточно, чтобы купить квартиру.",
+		"eng_sentence": "Unfortunately, that money wasn't enough to buy an apartment.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Он не перевёл весь текст.",
+		"eng_sentence": "He didn't translate all the text.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Тех знаний было недостаточно для того, чтобы сдать экзамен.",
+		"eng_sentence": "That knowledge wasn't enough to pass the exam.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Урок не казался таким утомительным.",
+		"eng_sentence": "The lesson didn't seem so tiring.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Презентация не была достаточно красочной.",
+		"eng_sentence": "The presentation wasn't colorful enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Эта сумма денег не была достаточно большой.",
+		"eng_sentence": "This sum of money wasn't big enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Их ответ не был предсказуемым.",
+		"eng_sentence": "Their answer wasn't predictable.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Это не был неожиданный результат.",
+		"eng_sentence": "It wasn't an unexpected result.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Я не чувствовал себя уставшим.",
+		"eng_sentence": "I didn't feel tired.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Полиция не была на станции.",
+		"eng_sentence": "The police weren't at the station.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Полиция не была на этой станции.",
+		"eng_sentence": "The police weren't at this station.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Полиции не было там.",
+		"eng_sentence": "The police weren't there.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Я не прочёл книгу.",
+		"eng_sentence": "I didn't read the book.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Он не читал все эти книги.",
+		"eng_sentence": "He didn't read all these books.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Я не читал тот журнал.",
+		"eng_sentence": "I didn't read that magazine.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Полиция не прибыла туда.",
+		"eng_sentence": "The police didn't arrive there.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Полиция не прибыла туда вовремя.",
+		"eng_sentence": "The police didn't arrive there on time.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Полиция не прибыла туда вчера.",
+		"eng_sentence": "The police didn't arrive there yesterday.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Мальчик вовсе не был уставшим.",
+		"eng_sentence": "The boy wasn't tired at all.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Мальчики совсем не были уставшими.",
+		"eng_sentence": "The boys weren't tired at all.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Тот мальчик не был уставшим.",
+		"eng_sentence": "That boy wasn't tired.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Иллюстрации не были достаточно красочными.",
+		"eng_sentence": "The illustrations weren't colorful enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Эти иллюстрации были достаточно красочными.",
+		"eng_sentence": "These illustrations were colorful enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Иллюстрация не была красочной.",
+		"eng_sentence": "The illustration wasn't colorful.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Урок не был достаточно интересным.",
+		"eng_sentence": "The lesson wasn't interesting enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Его уроки не были интересными.",
+		"eng_sentence": "His lessons weren't interesting.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Уроки не были достаточно полезными.",
+		"eng_sentence": "The lessons weren't useful enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Было не сложно пройти этот тест.",
+		"eng_sentence": "It wasn't difficult to pass this test.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Было не легко сдать этот тест.",
+		"eng_sentence": "It wasn't easy to pass this test.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Было не так сложно сдать этот экзамен.",
+		"eng_sentence": "It wasn't so difficult to pass this exam.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Та новость вовсе не удивила меня.",
+		"eng_sentence": "That news didn't surprise me at all.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Та новость не удивила меня.",
+		"eng_sentence": "That news didn't surprise me.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Та новость вовсе не шокировала их.",
+		"eng_sentence": "That news didn't shock them at all.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Результат не был таким неожиданным для нас.",
+		"eng_sentence": "The result wasn't so unexpected for us.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Результаты не были такими неожиданными для меня.",
+		"eng_sentence": "The results weren't so unexpected for me.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Для него это не было так неожиданно.",
+		"eng_sentence": "It wasn't so unexpected for him.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Было не так легко сдать экзамен.",
+		"eng_sentence": "It wasn't so easy to pass the exam.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Ему было не так легко сдать этот экзамен.",
+		"eng_sentence": "It wasn't so easy for him to pass this exam.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Было не так легко сдать эти экзамены.",
+		"eng_sentence": "It wasn't so easy to pass these exams.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Результаты совсем не были предсказуемыми.",
+		"eng_sentence": "The results weren't predictable at all.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Описание не было достаточно точным.",
+		"eng_sentence": "The description wasn't accurate enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Этот результат не был таким предсказуемым.",
+		"eng_sentence": "This result wasn't so predictable.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Полиция не прибыла немедленно на станцию.",
+		"eng_sentence": "The police didn't arrive at the station immediately.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Перевод не был достаточно точным.",
+		"eng_sentence": "The translation wasn't accurate enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Я думаю, это не было пустой тратой времени.",
+		"eng_sentence": "I think it wasn't a waste of time.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "У меня не было этой возможности, когда я был ребёнком.",
+		"eng_sentence": "I didn't have this opportunity when I was a child.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Объяснения не были достаточно ясными.",
+		"eng_sentence": "The explanations weren't clear enough.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Объяснение не казалось таким простым.",
+		"eng_sentence": "The explanation didn't seem so simple.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Я не хотел смотреть весь фильм.",
+		"eng_sentence": "I didn't want to watch all the movie.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Эта новость не была столь удивительной.",
+		"eng_sentence": "This news wasn't so surprising.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 103,
+		"rus_sentence": "Мальчики не были уставшими.",
+		"eng_sentence": "The boys weren't tired.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 104,
+		"rus_sentence": "Тренировка была совсем не утомительной.",
+		"eng_sentence": "The training wasn't tiring at all.",
+		"lesson": "82",
+		"difficulty": ""
+	},
+	{	
+		"id": 105,
+		"rus_sentence": "Я не хотел тратить время впустую.",
+		"eng_sentence": "I didn't want to waste time.",
+		"lesson": "82",
+		"difficulty": ""
+	}
+]
