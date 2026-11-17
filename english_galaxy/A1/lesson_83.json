@@ -1,0 +1,716 @@
+[
+	{	
+		"id": 1,
+		"rus_sentence": "Он пришёл сюда очень быстро?",
+		"eng_sentence": "Did he come here very quickly?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 2,
+		"rus_sentence": "Ты работал в той компании?",
+		"eng_sentence": "Did you work in that company?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 3,
+		"rus_sentence": "Это был удивительный факт?",
+		"eng_sentence": "Was it a surprising fact?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 4,
+		"rus_sentence": "Они были дома?",
+		"eng_sentence": "Were they at home?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 5,
+		"rus_sentence": "Ты говорил с ней прошлой ночью?",
+		"eng_sentence": "Did you talk to her last night?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 6,
+		"rus_sentence": "Я всё правильно сказал?",
+		"eng_sentence": "Did I say everything correctly?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 7,
+		"rus_sentence": "Ты был в Соединённых Штатах в прошлом году?",
+		"eng_sentence": "Were you in the United States last year?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 8,
+		"rus_sentence": "Она делала работу по дому?",
+		"eng_sentence": "Did she do housework?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 9,
+		"rus_sentence": "У него были серьёзные финансовые проблемы?",
+		"eng_sentence": "Did he have serious financial problems?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 10,
+		"rus_sentence": "Вы ходили вместе гулять?",
+		"eng_sentence": "Did you go for a walk together?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 11,
+		"rus_sentence": "Это был важный фактор?",
+		"eng_sentence": "Was it an important factor?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 12,
+		"rus_sentence": "Тебе понравился фильм?",
+		"eng_sentence": "Did you like the movie?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 13,
+		"rus_sentence": "Ты покормил собаку?",
+		"eng_sentence": "Did you feed the dog?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 14,
+		"rus_sentence": "Их совет был полезен?",
+		"eng_sentence": "Was their advice useful?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 15,
+		"rus_sentence": "Дверь была закрыта?",
+		"eng_sentence": "Was the door closed?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 16,
+		"rus_sentence": "Ты посещал Англию в прошлом году?",
+		"eng_sentence": "Did you visit England last year?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 17,
+		"rus_sentence": "Ты установил эту программу?",
+		"eng_sentence": "Did you install this program?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 18,
+		"rus_sentence": "Тебе понравился отель?",
+		"eng_sentence": "Did you like the hotel?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 19,
+		"rus_sentence": "Уроки были бесплатными?",
+		"eng_sentence": "Were the lessons free?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 20,
+		"rus_sentence": "Ты обожал это видео?",
+		"eng_sentence": "Did you enjoy this video?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 21,
+		"rus_sentence": "Ты отменил эту встречу?",
+		"eng_sentence": "Did you cancel this meeting?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 22,
+		"rus_sentence": "Отель был достаточно хороший?",
+		"eng_sentence": "Was the hotel good enough?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 23,
+		"rus_sentence": "Фильм был действительно смешным?",
+		"eng_sentence": "Was the movie really funny?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 24,
+		"rus_sentence": "Ты сделал работу по дому?",
+		"eng_sentence": "Did you do housework?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 25,
+		"rus_sentence": "Тебе понравилась песня?",
+		"eng_sentence": "Did you like the song?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 26,
+		"rus_sentence": "Это был идеальный дом?",
+		"eng_sentence": "Was it an ideal house?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 27,
+		"rus_sentence": "Это был долгий разговор?",
+		"eng_sentence": "Was it a long conversation?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 28,
+		"rus_sentence": "Ты покормил кота?",
+		"eng_sentence": "Did you feed the cat?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 29,
+		"rus_sentence": "У него была вечеринка?",
+		"eng_sentence": "Did he have a party?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 30,
+		"rus_sentence": "Дверь была открыта?",
+		"eng_sentence": "Was the door open?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 31,
+		"rus_sentence": "Ты ходил плавать?",
+		"eng_sentence": "Did you go swimming?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 32,
+		"rus_sentence": "Ты был за границей в прошлом месяце?",
+		"eng_sentence": "Were you abroad last month?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 33,
+		"rus_sentence": "Тест был довольно лёгким?",
+		"eng_sentence": "Was the test quite easy?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 34,
+		"rus_sentence": "Он отменил урок?",
+		"eng_sentence": "Did he cancel the lesson?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 35,
+		"rus_sentence": "Ты что-нибудь купил?",
+		"eng_sentence": "Did you buy anything?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 36,
+		"rus_sentence": "Ты обожал этот урок?",
+		"eng_sentence": "Did you enjoy this lesson?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 37,
+		"rus_sentence": "Это был лёгкий тест?",
+		"eng_sentence": "Was it an easy test?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 38,
+		"rus_sentence": "Ты ездил в Соединённые Штаты в прошлом месяце?",
+		"eng_sentence": "Did you go to the United States last month?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 39,
+		"rus_sentence": "Тебе понравилось приложение?",
+		"eng_sentence": "Did you like the application?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 40,
+		"rus_sentence": "Ты ел в ресторане на прошлой неделе?",
+		"eng_sentence": "Did you eat at the restaurant last week?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 41,
+		"rus_sentence": "Это было важное решение?",
+		"eng_sentence": "Was it an important decision?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 42,
+		"rus_sentence": "Дети были дома?",
+		"eng_sentence": "Were the children at home?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 43,
+		"rus_sentence": "Это было действительно хорошее предложение?",
+		"eng_sentence": "Was it really a good offer?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 44,
+		"rus_sentence": "Ты с ним говорил?",
+		"eng_sentence": "Did you talk to him?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 45,
+		"rus_sentence": "Ты нашёл ответ на этот вопрос?",
+		"eng_sentence": "Did you find an answer to this question?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 46,
+		"rus_sentence": "Студенты были рады своим результатам?",
+		"eng_sentence": "Were the students happy about their results?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 47,
+		"rus_sentence": "Ты старался больше не думать об этом?",
+		"eng_sentence": "Did you try not to think about it anymore?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 48,
+		"rus_sentence": "Это для тебя действительно было привлекательное предложение?",
+		"eng_sentence": "Was it really an attractive offer for you?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 49,
+		"rus_sentence": "Ты зарезервировал эту комнату для меня?",
+		"eng_sentence": "Did you reserve this room for me?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 50,
+		"rus_sentence": "Она была действительно шокирована?",
+		"eng_sentence": "Was she really shocked?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 51,
+		"rus_sentence": "Ты был удовлетворён этим результатом?",
+		"eng_sentence": "Were you satisfied with this result?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 52,
+		"rus_sentence": "Ты заметил это в конце разговора?",
+		"eng_sentence": "Did you notice it at the end of the conversation?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 53,
+		"rus_sentence": "Это было привлекательное предложение для тебя?",
+		"eng_sentence": "Was it an attractive offer for you?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 54,
+		"rus_sentence": "Вы хорошо провели время вместе?",
+		"eng_sentence": "Did you have a good time together?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 55,
+		"rus_sentence": "Предложение было привлекательным для тебя?",
+		"eng_sentence": "Was the offer attractive for you?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 56,
+		"rus_sentence": "Ты обедал в ресторане?",
+		"eng_sentence": "Did you have lunch in a restaurant?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 57,
+		"rus_sentence": "Ты забронировал билеты?",
+		"eng_sentence": "Did you book the tickets?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 58,
+		"rus_sentence": "Ты зарезервировал эти места?",
+		"eng_sentence": "Did you reserve these seats?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 59,
+		"rus_sentence": "Ты родился в США?",
+		"eng_sentence": "Were you born in the U.S.?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 60,
+		"rus_sentence": "Ты зарезервировал столик?",
+		"eng_sentence": "Did you reserve a table?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 61,
+		"rus_sentence": "Ты зарезервировал тот столик?",
+		"eng_sentence": "Did you reserve that table?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 62,
+		"rus_sentence": "Он зарезервировал два столика?",
+		"eng_sentence": "Did he reserve two tables?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 63,
+		"rus_sentence": "Она родилась в Англии?",
+		"eng_sentence": "Was she born in England?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 64,
+		"rus_sentence": "Он родился в Англии?",
+		"eng_sentence": "Was he born in England?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 65,
+		"rus_sentence": "Ты родился в Соединённых Штатах?",
+		"eng_sentence": "Were you born in the United States?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 66,
+		"rus_sentence": "Он отдыхал вчера утром?",
+		"eng_sentence": "Did he have a rest yesterday morning?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 67,
+		"rus_sentence": "Он отдыхал на прошлой неделе?",
+		"eng_sentence": "Did he have a rest last week?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 68,
+		"rus_sentence": "Они отдыхали вчера?",
+		"eng_sentence": "Did they have a rest yesterday?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 69,
+		"rus_sentence": "Ты забронировал отель?",
+		"eng_sentence": "Did you book the hotel?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 70,
+		"rus_sentence": "Ты забронировал тот отель?",
+		"eng_sentence": "Did you book that hotel?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 71,
+		"rus_sentence": "Он забронировал билет?",
+		"eng_sentence": "Did he book the ticket?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 72,
+		"rus_sentence": "Ты понял это в конце?",
+		"eng_sentence": "Did you understand it in the end?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 73,
+		"rus_sentence": "Ты понял это в конце разговора?",
+		"eng_sentence": "Did you understand it at the end of the conversation?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 74,
+		"rus_sentence": "Ты сказал это в конце?",
+		"eng_sentence": "Did you say it in the end?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 75,
+		"rus_sentence": "Было действительно необходимо сделать это?",
+		"eng_sentence": "Was it really necessary to do it?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 76,
+		"rus_sentence": "Было необходимо сделать это?",
+		"eng_sentence": "Was it necessary to do it?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 77,
+		"rus_sentence": "Было важно сделать это?",
+		"eng_sentence": "Was it important to do it?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 78,
+		"rus_sentence": "Это случилось в конце фильма?",
+		"eng_sentence": "Did it happen at the end of the movie?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 79,
+		"rus_sentence": "Это случилось в конце концов?",
+		"eng_sentence": "Did it happen in the end?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 80,
+		"rus_sentence": "Это случилось в конце встречи?",
+		"eng_sentence": "Did it happen at the end of the meeting?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 81,
+		"rus_sentence": "Ты решил остаться дома?",
+		"eng_sentence": "Did you decide to stay at home?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 82,
+		"rus_sentence": "Ты решил остаться там?",
+		"eng_sentence": "Did you decide to stay there?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 83,
+		"rus_sentence": "Ты решил остаться на работе?",
+		"eng_sentence": "Did you decide to stay at work?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 84,
+		"rus_sentence": "Он пришёл в конце концов?",
+		"eng_sentence": "Did he come in the end?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 85,
+		"rus_sentence": "Это случилось в конце этой встречи?",
+		"eng_sentence": "Did it happen at the end of this meeting?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 86,
+		"rus_sentence": "Он родился в Соединённых Штатах?",
+		"eng_sentence": "Was he born in the United States?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 87,
+		"rus_sentence": "Она родилась в Соединённых Штатах?",
+		"eng_sentence": "Was she born in the United States?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 88,
+		"rus_sentence": "Ты самостоятельно забронировал ту квартиру?",
+		"eng_sentence": "Did you book that apartment by yourself?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 89,
+		"rus_sentence": "Он услышал это в конце конференции?",
+		"eng_sentence": "Did he hear it at the end of the conference?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 90,
+		"rus_sentence": "Он заранее зарезервировал столик?",
+		"eng_sentence": "Did he reserve a table in advance?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 91,
+		"rus_sentence": "Они отлично провели время вместе?",
+		"eng_sentence": "Did they have a great time together?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 92,
+		"rus_sentence": "Новости были действительно шокирующими?",
+		"eng_sentence": "Was the news really shocking?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 93,
+		"rus_sentence": "Ты заметил это в начале разговора?",
+		"eng_sentence": "Did you notice it at the beginning of the conversation?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 94,
+		"rus_sentence": "Ты заранее забронировал эту квартиру?",
+		"eng_sentence": "Did you book this apartment in advance?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 95,
+		"rus_sentence": "Ты знал это в начале?",
+		"eng_sentence": "Did you know it in the beginning?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 96,
+		"rus_sentence": "Ты решил не покупать это?",
+		"eng_sentence": "Did you decide not to buy it?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 97,
+		"rus_sentence": "Ты нашёл ответ на свой вопрос?",
+		"eng_sentence": "Did you find an answer to your question?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 98,
+		"rus_sentence": "Это был удивительный факт?",
+		"eng_sentence": "Was it a surprising fact?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 99,
+		"rus_sentence": "Он был действительно удивлён?",
+		"eng_sentence": "Was he really surprised?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 100,
+		"rus_sentence": "Это было действительно удивительно?",
+		"eng_sentence": "Was it really surprising?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 101,
+		"rus_sentence": "Ты забронировал рейс?",
+		"eng_sentence": "Did you book the flight?",
+		"lesson": "83",
+		"difficulty": ""
+	},
+	{	
+		"id": 102,
+		"rus_sentence": "Ты отдыхал?",
+		"eng_sentence": "Did you have a rest?",
+		"lesson": "83",
+		"difficulty": ""
+	}
+]
